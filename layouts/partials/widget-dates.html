@@ -1,0 +1,8 @@
+<div class="card">
+    <div class="card-content">
+        <h1 class="title is-5">Bouwjaar</h1>
+        {{ range (where .Site.RegularPages "Section" "post").GroupByDate "2006" }}
+            <a href="{{ "dates" | absURL }}/{{ .Key }}">{{ .Key }}</a> ({{ len .Pages }})<br>
+        {{ end }}
+    </div>
+</div>
