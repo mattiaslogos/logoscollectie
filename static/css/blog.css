@@ -1,0 +1,34 @@
+html,body {
+    font-family: 'Open Sans', sans-serif;
+    /*background: #F0F2F4;   */
+    
+    
+    /*background: #584848;*/
+    background: rgb(209, 215, 224);
+    }
+.hero-body {
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    }
+.mysocial { color: hsl(0, 0%, 100%);}
+.mysocial:hover { color: hsl(0, 0%, 71%) }
+
+img {
+	float: right;
+	margin-left: 30px;
+	margin-bottom: 20px;
+	width: 35%;
+}
+
+figure.floatleft {
+	max-width: 30%;
+	width: auto\9*0.3; /* ie8 */
+	height: auto;
+	float: left;
+}
+
+.clearfix {
+    overflow: auto;
+  }
+  
