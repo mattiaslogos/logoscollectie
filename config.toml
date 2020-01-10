@@ -1,0 +1,17 @@
+baseURL = "https://www.logosfoundation.org/logoscollectie"
+languageCode = "en-us"
+title = "Catalogus"
+theme = "jeff"
+[permalinks]
+    post = "/:year/:filename"
+
+[taxonomies]
+    tag = "tags"
+    date = "dates"
+	categorie = "categories"
+    alfabet = "alfabetisch"
+	
+author = "Logos Foundation"
+copyright = "Copyright © 2019-2020 Logos Foundation"
+canonifyurls = true
+paginate = 3
