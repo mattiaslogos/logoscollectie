@@ -37,6 +37,9 @@ H x B x L: 8 x 30 x 23
 **Classificatie**
 531.23
 
+**Inventarisnummer**
+LOGOS 83.
+
 #### Beschrijving van het instrument
 Dual synthelog combineert -zoals de naam het aangeeft- twee synthelogs, namelijk synthelog III en minisynthelog die beiden rond de chip #SN76477 zijn gebouwd. In de behuizing van plexiglas zijn ook de twee sequensers, de VCO-matrix (stuurspanning) en een R-matrix (weerstand) ingebouwd. Inzicht in de werking van chip is een groot voordeel bij het bespelen van het instrument.
 De patchpaper van dit instrument (zie bijlage) geeft een overzicht van de bediening en de mogelijkheden.

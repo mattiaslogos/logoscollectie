@@ -19,23 +19,26 @@ summary = "<a href='/logoscollectie/1976/dubbele_kraakdoos'><img src='/logoscoll
 ![alt text][afb1]
 [afb1]: /logoscollectie/img/Dubbele_Kraakdoos/Dubbele%20kraakdoos%20bovenkant-thumb.jpg "Dubbele kraakdoos"
 
-#### Collectie 
+**Collectie**
 Stichting Logos
 
-#### Titel
+**Titel**
 Kraakdoos
 
-#### Productie
+**Productie**
 Gebouwd door Godfried-Willem Raes te Gent
 
-#### Datering
+**Datering**
 1976
 
-#### Afmetingen
+**Afmetingen**
 H x B x L: 5,5 x 17,5 x 11,5 
 
-#### Classificatie
+**Classificatie**
 533.12
+
+**Inventarisnummer**
+LOGOS 76.03
 
 #### Beschrijving van het instrument
 De kraakdoos, een experimenteel elektronisch instrument, is gebouwd in een houten sigarenkistje (Balmoral Oxford) met een gescharnierd deksel en een koperen slotje. Eigenlijk bestaat dit instrument uit twee quasi identieke kraakdozen (enkel de IC verschilt (zie infra)) in dezelfde behuizing. Dit zien we bijvoorbeeld aan printplaat die op het deksel is gelijmd en waarop twee identieke schakelingen zijn ge-etst. Onderaan zie je twee keer zes aanraakpunten. Op het printje staat teken tweemaal “KRAAKDOOS, logos, Logos Electronics Labs” te lezen. Ook de ook de aansluitpunten van de speaker en de -9v en +9v staan telkens aangegeven. Door de bodem van het doosje zijn gaatjes geboord op de plaats waar binnenin de twee luidsprekertjes zijn gelijmd. Twee houten spietjes, die op de bodem van het doosje zijn bevestigd, zorgen er voor dat het geluid van de speakers niet wordt gedempt. 

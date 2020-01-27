@@ -11,13 +11,13 @@ categories = ["synthesizer"
 alfabetisch = ["S"
 ]
 menu = "main"
-summary = "<a href='/logoscollectie/1981/synthelog_81_keyboard'><img src='/logoscollectie/img/Synthelog_81_keyboard/Synthelog%2081%20keyboard%20bovenkant.jpg'></a><p>Met deze universele interface kunnen de verschillende synthelogs en de TRS zowel manuaal els met een sequencer van stuurspanning voorzien worden.</p>"
+summary = "<a href='/logoscollectie/1981/synthelog_81_keyboard'><img src='/logoscollectie/img/Synthelog_81_keyboard/Synthelog%2081%20keyboard%20bovenkant-thumb.jpg'></a><p>Met deze universele interface kunnen de verschillende synthelogs en de TRS zowel manuaal els met een sequencer van stuurspanning voorzien worden.</p>"
 +++
 
 # Synthelog 81 keyboard (1981)
 
 ![alt text][afb1]
-[afb1]: /logoscollectie/img/Synthelog_81_keyboard/Synthelog%2081%20keyboard%20bovenkant.jpg "Synthelog 81 keyboard"
+[afb1]: /logoscollectie/img/Synthelog_81_keyboard/Synthelog%2081%20keyboard%20bovenkant-thumb.jpg "Synthelog 81 keyboard"
 
 **Collectie**
 Stichting Logos
@@ -36,6 +36,9 @@ H x B x L: 9 x 22 x 14
 
 **Classificatie**
 532.2
+
+**Inventarisnummer**
+LOGOS 81.
 
 #### Beschrijving van het instrument
 Synthelog 81 keyboard is een universeel keyboard voor de synthelogfaminie, een reeks synthezizers die Raes op het einde van de jaren 70 en het begin van de jaren 80 bouwde. Synthelog 1, 2 en 3 kunnen in het bijzonder via de dinplug met bijhorende kabel worden gestuurd. Deze dinplug is tevens de voeding (5 Volt). De andere modellen kunnen via de meest rechtse van de vier mini-jack uitgangen en een patchkabel (mannelijke mini-jacks) stuurspanning ontvangen.

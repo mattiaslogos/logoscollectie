@@ -37,6 +37,9 @@ H x B x L: 6,5 x 25 x 64
 **Classificatie**
 321.332
 
+**Inventarisnummer**
+LOGOS 2014.01
+
 #### Beschrijving van het instrument
 De styro-mandoline is eigenlijk een bestaande banjoline waarvan het vel is verwijderd en vervangen door een dik rond stuk piepschuim. Op het piepschuim rust de brug.
 De mandoline is van het (budget)merk Artson.

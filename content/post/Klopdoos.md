@@ -21,23 +21,27 @@ summary = "<a href='/logoscollectie/1969/klopdoos'><img src='/logoscollectie/img
 ![alt text][afb1]
 [afb1]: /logoscollectie/img/Klopdoos/Klopdoos%20bovenkant-thumb.jpg "Klopdoos"
 
-#### Collectie
+**Collectie**
 Stichting Logos
 
-#### Titel
+**Titel**
 Knockbox
 
-#### Productie
+**Productie**
 Gebouwd door Godfried-Willem Raes te Gent 
 
-#### Datering
+**Datering**
 1969
 
-#### Afmetingen
+**Afmetingen**
 H x B x L: 4,1 x 20 x 20
 
-#### Classificatie
+**Classificatie**
 111.221
+
+**Inventarisnummer**
+LOGOS 69.02
+
 
 #### Beschrijving van het instrument
 Het massief grenen bovenblad (20 x 20) van de knockbox is 4 mm dik en op een houten kader gelijmd. De balkjes van het kader zijn 3,7 cm hoog en 1,5 cm breed. In één van de hoeken is een moving coil contactmicrofoon gelijmd. Deze drukmicrofoon is in feite een omgebouwd luidsprekertje van 65 ohm waarvan de conus is verwijderd om te vermijden dat het luidsprekertje als akoestische microfoon kan functioneren. Het spoeltje in de permanente magneet wordt op zijn plaats gehouden door de stoffen ophanging (suspension). Als er op bovenblad wordt geklopt beweegt het spoeltje door inertie en wordt er een signaal opgewekt. Twee fijne elektrische kabeltjes verbinden de pluspool en de minpool respectievelijk met de top en de ring van een vrouwelijke stereojack (6,3 mm). Het signaal is dus van nature symmetrisch en massavrij als deze gebalanceerd (symmetrisch) op een versterker wordt aangesloten. De knockbox kan eventueel ook asymmetrisch (ongebalanceerd) en dan niet massavrij worden versterkt. Het instrumentje kan met behulp van een schroefdraadaansluiting op een microfoonstatief worden geplaatst. De houten onderdelen zijn voorzien van een laagje vernis. 

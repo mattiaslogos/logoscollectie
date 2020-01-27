@@ -37,6 +37,9 @@ H x B x L: 27 x 140 x 48
 **Classificatie**
 513
 
+**Inventarisnummer**
+LOGOS 70.01
+
 #### Beschrijving van het instrument
 De basis van klavimonochord is een klavier dat uit een een voormalige buffetpiano is gezaagd. Hierop is een massieve houten plank gevezen.
 Aan de open achterzijde van het instrument zien we de rij houten cilinders die telkens met een ijzeren pin in het uiteinde van elke toets zijn bevestigd. Bij het indrukken van de toetsen bewegen deze  met vilt beklede cilinders naar omhoog. Zo wordt traditioneel gezien  het (hier ontbrekende) pianomechanisme in werking gezet. Over het vilt zijn ijzeren staafjes gekleefd. Zoals de tangenten van een clavichord slaan deze de snaar aan die boven de cilinders is gespannen.

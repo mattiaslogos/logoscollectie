@@ -31,12 +31,14 @@ Gebouwd door Godfried-Willem Raes te Gent
 **Datering**
 1984
 
-
 **Afmetingen**
 H x B x L: 4 x 11 x 19,5
 
 **Classificatie**
 541
+
+**Inventarisnummer**
+LOGOS 84.02
 
 #### Beschrijving van het instrument
 Logolog is gebouwd in een doorzichtige plastieken doos. In de doos zien we twee pcb’s van gelijke grote die met vier vijsjes evenwijdig aan elkaar zijn vast gemaakt. In het deksel zijn uitsparingen gezaagd voor de 9 momentschakelaars die op de bovenste pcb zijn gesoldeerd.

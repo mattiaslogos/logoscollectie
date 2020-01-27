@@ -11,13 +11,13 @@ categories = ["synthesizer"
 alfabetisch = ["S"
 ]
 menu = "main"
-summary = "<a href='/logoscollectie/1982/synthelog2'><img src='/logoscollectie/img/Synthelog2/Synthelog%202%20open%20bovenkant.jpg'></a><p>Synthelog 2 is de compacte (concertreis-)versie van de synthelog 1. De sequenzer heeft wel meer mogelijkheden en het aangebouwde keyboard werd achterwege gelaten.</p>"
+summary = "<a href='/logoscollectie/1982/synthelog2'><img src='/logoscollectie/img/Synthelog2/Synthelog%202%20open%20bovenkant-thumb.jpg'></a><p>Synthelog 2 is de compacte (concertreis-)versie van de synthelog 1. De sequenzer heeft wel meer mogelijkheden en het aangebouwde keyboard werd achterwege gelaten.</p>"
 +++
 
 # Synthelog 2 (1982)
 
 ![alt text][afb1]
-[afb1]: /logoscollectie/img/Synthelog2/Synthelog%202%20open%20bovenkant.jpg "Synthelog 2"
+[afb1]: /logoscollectie/img/Synthelog2/Synthelog%202%20open%20bovenkant-thumb.jpg "Synthelog 2"
 
 **Collectie**
 Stichting Logos
@@ -36,6 +36,9 @@ H x B x L: 12 x 16 x 26,5
 
 **Classificatie**
 531.23
+
+**Inventarisnummer**
+LOGOS 78.03
 
 #### Beschrijving van het instrument
 Synthelog 2 is gebouwd in een massief houten kistje met rubberen handvat en een gescharnierd deksel waarop “synthelog II”, “logos” en “electronics” staat geschreven. Achteraan zien we de connector voor de stroomkabel. Als we het deksel van het kistje open zien we het bedieningspaneel.

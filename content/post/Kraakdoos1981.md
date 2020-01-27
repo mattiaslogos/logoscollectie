@@ -23,23 +23,26 @@ summary = "<a href='/logoscollectie/1981/kraakdoos1981'><img src='/logoscollecti
 ![alt text][afb1]
 [afb1]: /logoscollectie/img/Kraakdoos1981/Kraakdoos%20bovenkant-thumb.jpg "Kraakdoos"
 
-#### Collectie 
+**Collectie** 
 Stichting Logos
 
-#### Titel
+**Titel**
 Kraakdoos
 
-#### Productie
+**Productie**
 Gebouwd door Godfried-Willem Raes te Gent
 
-#### Datering
+**Datering**
 1981
 
-#### Afmetingen
+**Afmetingen**
 H x B x L: 9 x 30 x 23
 
-#### Classificatie
+**Classificatie**
 533.11
+
+**Inventarisnummer**
+LOGOS 81.01
 
 #### Beschrijving van het instrument
 Deze kraakdoos, een experimenteel elektronisch instrument, is gebouwd in een houten kistje. Op een houten vierkanten frame (30 x 23 cm) van aan elkaar gevezen plankjes (1,5 cm dik en 7 cm breed) is een bodemplaat van vezelplaat gevezen (3,5 mm dik). Op één van de langste zijden is het woord “kraakdoos” gebrandmerkt. De bovenplaat van de kraakdoos bestaat uit een ge-etste printplaat (pcb van 9,5 x 30 cm) die oorspronkelijk voor een radio-ontvanger met buizen was bedoeld. Hierop zijn met soldeer 30 aanrakingspunten gesoldeerd. Het andere deel van de bovenplaat wordt bedekt met een multiplexplankje (4mm). Zowel de multiplex als de printplaat zijn in het houten frame gevezen. Rechts bovenaan dit plankje is de aan- en uitschakelaar gemonteerd en in het midden bovenaan staat het woord “logos” gebrandmerkt. Naast en onder de inscriptie zien we vier vijskopjes met rondeel waarmee de luidspreker (8 ohm) onder het plankje is gemonteerd. Deze luidspreker is afkomstig uit een oud televisietoestel van Phillips.

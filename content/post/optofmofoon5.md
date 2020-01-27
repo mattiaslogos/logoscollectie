@@ -20,23 +20,26 @@ summary = "<a href='/logoscollectie/1988/optofmofoon5'><img src='/logoscollectie
 ![alt text][afb1]
 [afb1]: /logoscollectie/img/Optofmofoon_V/Optofmofoon%20V%20bovenaanzicht-thumb.jpg "Optofmofoon V"
 
-#### Collectie 
+**Collectie** 
 Stichting Logos
 
-#### Titel
+**Titel**
 Optofmofoon V
 
-#### Productie
+**Productie**
 Gebouwd door Godfried-Willem Raes te Gent
 
-#### Datering
+**Datering**
 1988 
 
-#### Afmetingen
+**Afmetingen**
 H x B x L: 11,5 x 10,5 x 16,5
 
-#### Classificatie
+**Classificatie**
 531.21
+
+**Inventarisnummer**
+LOGOS 88.03
 
 #### Beschrijving van het instrument
 In de vier hoeken van Optofmofoon V vijn zowel naar onder als boven toe afstandsbussen van 3,5 cm gemonteerd. Deze die onder de pcb zijn gemonteerd, dienen als pootjes. Degene die op de pcb zijn gemonteerd zijn aan het frontpaneel in plexiglas vastgemaakt. Met de vier draaiknoppen op het frontpaneel kunnen we de vier potentiometers die onder de pcb zijn gemonteerd bedienen. De meest linkse potentiometer is tegelijkertijd ook de aan en uit schakelaar. Elke potentiometer met maakt deel uit van een soortgelijke schakeling met een 555 chip die onderling in cascade zijn geplaatst (FM-modulatie). Je vind het elektrische schema waarop de schakeling gebaseerd is in de bijlage. De luidsprekers uit de vorige ontwerpen van de optofmofoon zijn hier vervangen door buzzers die op de printplaat zelf zijn gesoldeerd. 

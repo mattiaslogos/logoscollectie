@@ -37,6 +37,9 @@ H x B x L: 7 x 14,5 x 8
 **Classificatie**
 532.2
 
+**Inventarisnummer**
+LOGOS 80.
+
 #### Beschrijving van het instrument
 Trigger interface is een instrument dat wordt gebruikt om reële klanken in stuurspanningen om te zetten om op die manier VCO’s en andere spanningsgestuurde modules aan te sturen.
 De interface zit in een metalen behuizing. Achteraan het apparaat wordt met een drie-pinnige din-plug de voeding aangesloten (dual power supply 12 Volt). Schuin boven de din-plug zien we een uitgang (5V). Deze kan gebruikt worden om een ander apparaat met een banaanplug van 5 Volt te voorzien. Daarnaast zien we op de achterzijde twee jack-ingangen. De ene (A-B) is een stereo-ingang (TRS) de andere (B) een mono-ingang (TS). Hierop worden de pick-ups of drukmicrofoons (piezo’s) aangesloten. De stereo-ingang kan ook mono gebruikt worden.

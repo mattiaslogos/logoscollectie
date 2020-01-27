@@ -37,6 +37,9 @@ Afhankelijk van de gebruikte boot
 **Classificatie**
 Categorie 6 of 424
 
+**Inventarisnummer**
+LOGOS 87.02
+
 #### Beschrijving van het instrument
 De klanksculptuur klankboot wordt op het water (vijver, rivier, meer,…) in de openbare ruimte gepresenteerd. Het project bestaat eigenlijk uit een geprepareerd bootje. Aan de zijkanten en achterkant van het bootje worden namelijk verschillend gestemde persluchtclaxons bevestigd die zich met hun paviljoen net onder de waterlijn bevinden. 
 Er zijn drie units van claxons, twee voor de zijkanten en één voor de achterkant. Elke unit is met een stroomkabel met de accu(‘s) van 12 V (oorspronkelijk scheepsaccu’s) verbonden.  

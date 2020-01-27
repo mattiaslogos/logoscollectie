@@ -22,23 +22,26 @@ summary = "<a href='/logoscollectie/1983/klavibikord'><img src='/logoscollectie/
 ![alt text][afb1]
 [afb1]: /logoscollectie/img/Klavibikord/Klavibikord-thumb.jpg "Klavibikord"
 
-#### Collectie 
+**Collectie** 
 Stichting Logos
 
-#### Titel
+**Titel**
 Klavibikord
 
-#### Productie
+**Productie**
 Gebouwd door Godfried-Willem Raes te Gent
 
-#### Datering
+**Datering**
 1983
 
-#### Afmetingen
+**Afmetingen**
 H x B x L: 13 x 19,5 x 44,5
 
-#### Classificatie
+**Classificatie**
 513
+
+**Inventarisnummer**
+LOGOS 72.05
 
 #### Beschrijving van het instrument
 Het klavibikord is gebouwd op een massief houten plank van 1,7 cm dik. Aan de twee korte zijden zijn twee houten spieën gelijmd waaraan het frontpaneel is bevestigd. Op het frontpaneel, waarop de naam van het instrument staat, zien we de aan- en uitschakelaar tussen vier horizontale schuifpotentiometers (2 links en 2 rechts). In de linker benedenhoek zien we de stereo-uitgang (vrouwelijke stereojack) van het instrument. De schakelaar boven de uitgang heeft geen functie meer.

@@ -19,23 +19,26 @@ summary = "<a href='/logoscollectie/1986/soundtracker2'><img src='/logoscollecti
 ![alt text][afb1]
 [afb1]: /logoscollectie/img/Soundtracker_II/Soundtracker%20II%20zijde1-thumb.jpg "Soundtracker 2"
 
-#### Collectie
+**Collectie**
 Stichting Logos
 
-#### Titel
+**Titel**
 Soundtracker 2
 
-#### Productie
+**Productie**
 Gebouwd door Godfried-Willem Raes te Gent
 
-#### Datering
+**Datering**
 1986
 
-#### Afmetingen
+**Afmetingen**
 H x B x L: 42 x 42 x 123
 
-#### Classificatie
+**Classificatie**
 523
+
+**Inventarisnummer**
+LOGOS 82.02
 
 #### Beschrijving van het instrument
 Sountracker 2 is gemaakt van een stuurwiel (diameter 42 cm) waarop in het midden haaks een metalen buis van 120 cm is gemonteerd. Op het einde van die buis zien we twee wielen. Het grotere ijzeren wiel (diameter 26 cm) met volle rubberen band dient om de sountracker te laten rijden, het kleinere volle wieltje (diameter 7 cm) dient om de magneet over te laten lopen alvorens die naar of in de grond gaat. Over de buis is een metalen vierkante koker geschoven en met verschillende bouten vast gezet. Op deze koker zijn de twee batterijen en de metalen behuizing van de schakelingen bevestigd. Aan de zijkant van de koker hangt het draaimechanisme (afkomstig van een bandopnemer) waarop een spoel kan worden geplaatst. Deze wordt licht geremd met een remband aan een veer. Vlak onder het stuur is met twee beugeltjes een shotgun microfoon op een houder geklikt.

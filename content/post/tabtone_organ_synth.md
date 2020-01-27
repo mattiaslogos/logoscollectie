@@ -20,23 +20,26 @@ summary = "<a href='/logoscollectie/1972/tabtone_organ_synth'><img src='/logosco
 ![alt text][afb1]
 [afb1]: /logoscollectie/img/Tab-tone_organ_synth/Tab-tone%20organ%20synth%20bovenzijde-thumb.jpg "Tab-tone organ synth"
 
-#### Collectie 
+**Collectie** 
 Stichting Logos
 
-#### Titel
+**Titel**
 Tab-tone organ synth
 
-#### Productie
+**Productie**
 Gebouwd door Godfried-Willem Raes te Gent
 
-#### Datering
+**Datering**
 1972
 
-#### Afmetingen
+**Afmetingen**
 H x B x L: 9 x 13 x 21,5
 
-#### Classificatie
+**Classificatie**
 531.23
+
+**Inventarisnummer**
+LOGOS 72.06
 
 #### Beschrijving van het instrument
 De tab-tone organ synth is gebouwd in een plastic behuizing met een metalen bovenplaat. Op de achterzijde staat “WERKGROEP LOGOS” te lezen.

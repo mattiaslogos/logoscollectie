@@ -23,23 +23,26 @@ summary = "<a href='/logoscollectie/1976/kraakdoos'><img src='/logoscollectie/im
 ![alt text][afb1]
 [afb1]: /logoscollectie/img/Kraakdoos1976/Kraakdoos%20bovenkant-thumb.jpg "Kraakdoos."
 
-#### Collectie 
+**Collectie** 
 Stichting Logos
 
-#### Titel
+**Titel**
 Kraakdoos
 
-#### Productie
+**Productie**
 Gebouwd door Godfried-Willem Raes te Gent
 
-#### Datering
+**Datering**
 1976
 
-#### Afmetingen
+**Afmetingen**
 H x B x L: 6,5 x 12,5 x 12,5
 
-#### Classificatie
+**Classificatie**
 533.11
+
+**Inventarisnummer**
+LOGOS 76.02
 
 #### Beschrijving van het instrument
 De kraakdoos, een experimenteel elektronisch instrument, is gebouwd rond een houten sigarenkistje (Balmoral Cardinal) met een gescharnierd deksel en een koperen slotje. In de rechterbovenhoek van het deksel zien we de aan- en uitschakelaar. Centraal op het deksel ligt de printplaat met zeven aanrakingspunten. Boven de aanraakpunten zien we de onderkant van de vast gesoldeerde componenten. Op het printje staat “KRAAKDOOS, logos, Logos Electronics Lab 1976. 2 rev. 02.2019” te lezen. Ook de ook de aansluitpunten van de speaker en de -9v en +9v staan aangegeven. Aan de achterzijde van het kistje zien we de uitgang, een vrouwelijke stereojack (TRS 6,3mm). Door de bodem van het doosje zijn gaatjes geboord op de plaats waar binnenin de speaker is gelijmd. Twee houten spietjes, die op de bodem van het doosje zijn gelijmd, zorgen er voor dat het geluid van de speaker niet wordt gedempt. Op de onderkant staat in potlood “Raes ‘76” geschreven.

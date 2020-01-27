@@ -37,6 +37,9 @@ H x B x L: 20 x 30 x 45
 **Classificatie**
 533.12
 
+**Inventarisnummer**
+LOGOS 75.09
+
 #### Beschrijving van het instrument
 De TRS is gebouwd in een metalen behuizing. Op het frontpaneel aan de zijkant zijn twee handvaten bevestigd. 
 TRS staat voor “Transfornational Regenrative Synthesiser”. Hij wordt volledig aangestuurd met een viool, het instrument waarvoor hij is ontworpen. Het geluid van het instrument wordt met een contactmicrofoon opgepikt en het signaal wordt naar de ingang (links onderaan op het frontpaneel) gestuurd. De verschillende modules van de synthesizer transformeren (transformational) en regenereren (regenrative) het signaal. Het transformeren van het geluidssignaal gebeurt door de tremolo, ringmodulartor, trapconvertor, de filter en de deler. Via de frequentieconvertor en de VCO (voltage control oscillator) wordt op basis van het geluidssignaal een nieuw audiosignaal of stuursignaal gegenereerd. Deze kunnen op zijn beurt door de andere modules worden getransformeerd. Rechts onderaan het frontpaneel van de synth vind je de twee doorverbonden uitgangen (vrouwelijke monojacks TS). Naast deze uitgangen en onder de knop van het mastervolume kan een pedaal voor de volumeregeling worden aangesloten. 

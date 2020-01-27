@@ -38,6 +38,9 @@ Hoorn (zonder kabel): H x B x L: 6 x 11 x 30
 **Classificatie**
 523
 
+**Inventarisnummer**
+LOGOS
+
 #### Beschrijving van het instrument
 Three Nuns is gebouwd voor de gelijknamige performance en bestaat uit twee identieke samplers die telkens met een kabel en een bakelieten telefoonhoorn verbonden zijn.   
 De 8-bit samplers zijn ingebouwd in een tabaksblik van Three Nuns. Via een vrouwelijke jackingang wordt de telefoonhoorn aangesloten. Deze fungeert eigenlijk enkel als microfoon. De din-plug naast is de uitgang die verbonden wordt met een mixtafel of versterker. De sampler is gebaseerd op een pcb met schakeling die ontworpen werd voor antwoordapparaten. Door het induwen van een klein knopje kan er een kort tekstje worden opgenomen. Bij het indrukken van het andere kleine knopje wordt deze opnieuw afgespeeld. 

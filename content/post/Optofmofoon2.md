@@ -19,23 +19,26 @@ summary = "<a href='/logoscollectie/1988/optofmofoon2'><img src='/logoscollectie
 ![alt text][afb1]
 [afb1]: /logoscollectie/img/Optofmofoon_II/Optofmofoon%20II%20bovenzijde-thumb.jpg "Optofmofoon II"
 
-#### Collectie 
+**Collectie** 
 Stichting Logos
 
-#### Titel
+**Titel**
 Optofmofoon II
 
-#### Productie
+**Productie**
 Gebouwd door Godfried-Willem Raes te Gent
 
-#### Datering
+**Datering**
 1988 
 
-#### Afmetingen
+**Afmetingen**
 H x B x L: 35 x 20 x 56
 
-#### Classificatie
+**Classificatie**
 531.21
+
+**Inventarisnummer**
+LOGOS 77.01 en 88.02 ?
 
 #### Beschrijving van het instrument
 Optofmofoon II is een eenvoudige synthesizer die gebouwd is voor muzikaal vormingswerk met kinderen. In een massief houten kader van 12 cm hoog is met vier houtschroeven een witte vezelplaat bevestigd. Op dit paneel zien we aan de smalle kant vier potentiometers. Onder elke potentiometer zien we telkens een gaatje waarover een latje plexiglas is gevezen. Vier witte pvc-buisje met dezelfde diameter van de gaatjes lopen naar de vier lichtgevoelige weerstanden die op de pcb onder het boven paneel zijn gesoldeerd. Met elke potentiometer en onderliggende lichtweerstand wordt de toonhoogte van de vier luidsprekers bepaald. Deze (8 Ohm) zijn onder de witte verticaal geplaatste     pvc-buizen gemonteerd. De verschillende buizen hebben een verschillende lengte en dus ook een verschillende resonantie frequentie. Elke luidspreker heeft zijn eigen toonhoogtebereik gelijklopend met de lengte van de buis. De meest linkse potentiometer is tegelijkertijd ook de aan en uit schakelaar. Elke potentiometer met onderliggende lichtweerstand maakt deel uit van een soortgelijke schakeling met een 555 chip die onderling in cascade zijn geplaatst (FM-modulatie). Je vind het elektrische schema in de bijlage.

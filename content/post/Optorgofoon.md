@@ -37,6 +37,9 @@ H x B x L: 15 x 54 x 12,5
 **Classificatie**
 531.2
 
+**Inventarisnummer**
+LOGOS 74.02
+
 #### Beschrijving van het instrument
 De optorgofoon is in een rechthoekige massief houten (1 cm dik) kist gebouwd. De ingefreesde zijkant met gleuf, waar de voedingsconnector (220V) zich bevindt, verraadt dat de kist ooit een fichebak was. Op de onderkant van het instrument is een inox plaat gevezen waarop een ronde inox stang (32 cm lang, 1,2 diameter) is vast gelast. Op deze manier kan het instrument op een statief worden geplaatst. 
 Aan de voorkant van het instrument is door het plexiglas de printplaat met de daarop gesoldeerde componenten zichtbaar. Op het plexiglas is een sticker met “LOGOS FOUNDATION” gekleefd. Op de achterkant van het instrument is een ijzeren grille gevezen. Als we deze grille verwijderen, zien we twee ronde gaten waarachter de speaker zich bevindt.

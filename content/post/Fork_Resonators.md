@@ -20,27 +20,30 @@ summary = "<a href='/logoscollectie/1974/fork_resonators'><img src='/logoscollec
 ![alt text][afb1]
 [afb1]: /logoscollectie/img/ForkResonators/Fork%20resonators%20met%20stokken-thumb.jpg "Fork Resonators"
 
-#### Collectie 
+**Collectie** 
 Stichting Logos
 
-#### Titel
+**Titel**
 Fork resonators
 
-#### Productie
+**Productie**
 Gebouwd door Godfried-Willem Raes te Gent
 
-#### Datering
+**Datering**
 1974
 
-#### Afmetingen
+**Afmetingen**
 Aluminium groot fork resonator: H x B x L: 3,5 x 3,5 x 60
 Aluminium middel fork resonator: H x B x L: 3,5 x 3,5 x 40
 Aluminium klein fork resonator: H x B x L: 3,5 x 3,5 x 30
 Staal kleinste fork resonator: H x B x L: 2,5 x 2,5 x 24,5
 Staal grootste fork resonator: H x B x L: 2,5 x 2,5 x 26
 
-#### Classificatie
+**Classificatie**
 111.231
+
+**Inventarisnummer**
+LOGOS 74.01
 
 #### Beschrijving van het instrument
 Deze 5 fork resonators zijn prototypes van verschillende sets die zijn verkocht. Er zijn drie open resonator in aluminium en twee gesloten resonators in staal.

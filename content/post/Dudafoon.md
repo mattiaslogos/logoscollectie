@@ -35,7 +35,10 @@ Gebouwd door Godfried-Willem Raes te Gent
 H x B x L: 210 x 52 x 110
 
 **Classificatie**
-Categorie 6? 511 en 513 en 521
+Categorie 6 (511 en 513 en 521)
+
+**Inventarisnummer**
+LOGOS 72.04
 
 #### Beschrijving van het instrument
 Het experimentele muziekinstrument Dudafoon is gebouwd in en rond een massief houten rode kist die los op een metalen kruisstatief is geplaatst. Op de niet geverfde bovenkant van de kist is aan de rechterkant een fietswiel op een vork geplaatst. De naam van het instrument gaat terug op de DAdaïst Marcel DUchamp die in één van zijn kunstwerken ook een fietswiel gebruikte. Twee metalen beugels die op de vork van het wiel zijn geklemd, houden telkens een pick-up vast. Deze zijn vlakbij de ijzeren spaken van het wiel gepositioneerd zodat de bewegingen in het magnetisch veld (bijvoorbeeld het draaiende wiel)worden opgepikt. Tussen twee van de spaken is ter hoogte van de hoogste pick-up een klein veertje gespannen. De pick-ups zijn via een spiraalsnoer met twee DIN-pluggen met de connectoren in het bovenblad verbonden. 

@@ -39,6 +39,9 @@ H x B x L: 7,5 x 10 x 54
 **Classificatie**
 513
 
+**Inventarisnummer**
+LOGOS 75.05
+
 #### Beschrijving van het instrument
 Het springboard is een experimenteel muziekinstrument waarbij twee veren van 38 cm met een magnetische pick-up worden versterkt. Deze twee veren, één met hoge spanning en één met lage spanning, zijn met drie ijzeren haakjes naast elkaar op het bovenblad van het instrumenten gespannen. De pick-up, een hoefijzermagneet met over elk been een spoel, is met epoxyhars in het bovenblad gegoten en bevindt zich onder de twee veren. Met de witte schakelaar links op het bovenblad wordt de ingebouwde versterkingsmechanisme aangezet. Onder de vier rijen gaatjes rechts in het bovenblad is een luidspreker (8 Ohm) gemonteerd. 
 Aan één van de lange zijkanten van het springboard zien we een potmeter waarmee het volume kan worden geregeld. Naast de potmeter zien we de uitgang (vrouwelijke jack TS). Deze is niet aangesloten.

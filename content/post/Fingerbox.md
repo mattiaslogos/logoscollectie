@@ -21,23 +21,26 @@ summary = "<a href='/logoscollectie/1983/fingerbox'><img src='/logoscollectie/im
 ![alt text][afb1]
 [afb1]: /logoscollectie/img/Fingerbox/Fingerbox-thumb.jpg "Fingerbox"
 
-#### Collectie 
+**Collectie** 
 Stichting Logos
 
-#### Titel
+**Titel**
 Fingerbox
 
-#### Productie
+**Productie**
 Gebouwd door Godfried-Willem Raes te Gent
 
-#### Datering
+**Datering**
 1983
 
-#### Afmetingen
+**Afmetingen**
 H x B x L: 7,5 x 15 x 32
 
-#### Classificatie
-Categotie 6: 511- 513 – 531.2 – 531.23 
+**Classificatie**
+Categorie 6: 511- 513 – 531.2 – 531.23 
+
+**Inventarisnummer**
+LOGOS 78.01
 
 #### Beschrijving van het instrument
 Fingerbox is en een experimenteel muziekinstrument dat in een massief houten kistje is gebouwd. Op het deksel dat met twee scharnieren openklapt staat “Logos fingerbox” en “G.-W. Raes”. Op de achterkant zien we vrouwelijke stereojack uitgang (STEREO OUT) en de rode en zwarte ingangen voor bananenstekkers om respectievelijk de  plus en de min van de voeding (12-15V) aan te sluiten.

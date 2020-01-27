@@ -19,23 +19,26 @@ summary = "<a href='/logoscollectie/1975/fingerboard3'><img src='/logoscollectie
 ![alt text][afb1]
 [afb1]: /logoscollectie/img/Fingerboard3/Fingerboard3%20bovenkant-thumb.jpg "Fingerboard 3"
 
-#### Collectie 
+**Collectie** 
 Stichting Logos
 
-#### Titel
+**Titel**
 Fingerboard
 
-#### Productie
+**Productie**
 Gebouwd door Godfried-Willem Raes te Gent
 
-#### Datering
+**Datering**
 1975
 
-#### Afmetingen
+**Afmetingen**
 H x B x L: 71,5 x 29,5 x 25,5
 
-#### Classificatie
-511 - 513
+**Classificatie**
+Categorie 6? 511,513
+
+**Inventarisnummer**
+LOGOS 75.10
 
 #### Beschrijving van het instrument
 Fingerboard 3, een experimenteel elektromechanisch instrument, is gebouwd op een vierkant kistje met een zijde van 25,5 cm en een hoogte van 7 cm. Op de voorzijde is een grote zwarte bakelieten schakelaar gemonteerd op de achterzijde zijn twee fijne houten latjes gevezen. Als deze naar buiten worden gedraaid, fungeren ze al pootjes. De bespeler kan het bovenblad van het instrument op die manier onder een gewenste hoek plaatsen. Zowel de drie gaatjes in de voor- en achterzijde van het kistje als de twee gevezen latjes verraden dat het kistje afkomstig is van een uitklapbare naaikist.

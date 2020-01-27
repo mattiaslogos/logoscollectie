@@ -19,26 +19,29 @@ summary = "<a href='/logoscollectie/1982/soundtracker1'><img src='/logoscollecti
 ![alt text][afb1]
 [afb1]: /logoscollectie/img/Soundtracker_I/Soundtracker%20I%20voorzijde-thumb.jpg "Soundtracker I"
 
-#### Collectie
+**Collectie**
 Stichting Logos
 
-#### Titel
+**Titel**
 Soundtracker 1
 
-#### Productie
+**Productie**
 Gebouwd door Godfried-Willem Raes te Gent
 
-#### Datering
+**Datering**
 1982
 
-#### Afmetingen
+**Afmetingen**
 Instrument:
 H x B x L: 90 x 45 x 13
 Spoel in kist:
 H x B x L: 61 x 61 x 4
 
-#### Classificatie
+**Classificatie**
 523
+
+**Inventarisnummer**
+LOGOS 82.01
 
 #### Beschrijving van het instrument
 Sountracker 1 werd gebouwd in en rond een houten met kunststof beklede kist (35 x 10 x 25). Aan twee metalen beugeltjes op de smalle zijkanten van de kist is een riem bevestigd zodat de soundtracker als een schoudertas kan gedragen worden. 

@@ -11,19 +11,20 @@ categories = ["synthesizer"
 alfabetisch = ["S"
 ]
 menu = "main"
-summary = "<a href='/logoscollectie/1979/synthelog1'><img src='/logoscollectie/img/Synthelog1/Synthelog%201%20open%20bovenkant.jpg'></a><p>Synthelog 1 is de eerst geborene uit de synthelog familie, een reeks synthesizers met de chip SN76477 in de hoofdrol.</p>"
+summary = "<a href='/logoscollectie/1979/synthelog1'><img src='/logoscollectie/img/Synthelog1/Synthelog%201%20open%20bovenkant-thumb.jpg'></a><p>Synthelog 1 is de eerst geborene uit de synthelog familie, een reeks synthesizers met de chip SN76477 in de hoofdrol.</p>"
 +++
 
 # Synthelog 1 (1979)
 
 ![alt text][afb1]
-[afb1]: /logoscollectie/img/Synthelog1/Synthelog%201%20open%20bovenkant.jpg "Synthelog 1"
+[afb1]: /logoscollectie/img/Synthelog1/Synthelog%201%20open%20bovenkant-thumb.jpg "Synthelog 1"
 
 **Collectie**
 Stichting Logos
 
 **Titel**
 Synthelog 1
+(synthelog IX op patchpapers)
 
 **Productie**
 Gebouwd door Godfried-Willem Raes te Gent
@@ -36,6 +37,9 @@ H x B x L: 27 x 12 x 30
 
 **Classificatie**
 531.23
+
+**Inventarisnummer**
+LOGOS 78.02
 
 #### Beschrijving van het instrument
 Synthelog 1 uit 1979 is de eerst geborene uit de synthelog-familie, een reeks synthesizers die Raes bouwde met de chip SN76477 (en later ook de SN94281) in de hoofdrol.

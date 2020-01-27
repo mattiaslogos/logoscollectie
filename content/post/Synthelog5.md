@@ -11,13 +11,13 @@ categories = ["synthesizer"
 alfabetisch = ["S"
 ]
 menu = "main"
-summary = "<a href='/logoscollectie/1983/synthelog5'><img src='/logoscollectie/img/Synthelog5/Synthelog%205%20bovenkant.jpg'></a><p>Synthelog 5 is het prototype van een reeks mini-synthelogs. Naast gewone schakelaars worden er C-pins, lichtweerstanden, en aanraakvlakken gebruikt om de verschillende modules te sturen.</p>"
+summary = "<a href='/logoscollectie/1983/synthelog5'><img src='/logoscollectie/img/Synthelog5/Synthelog%205%20bovenkant-thumb.jpg'></a><p>Synthelog 5 is het prototype van een reeks mini-synthelogs. Naast gewone schakelaars worden er C-pins, lichtweerstanden, en aanraakvlakken gebruikt om de verschillende modules te sturen.</p>"
 +++
 
 # Synthelog 5 (1983)
 
 ![alt text][afb1]
-[afb1]: /logoscollectie/img/Synthelog5/Synthelog%205%20bovenkant.jpg "Synthelog 5"
+[afb1]: /logoscollectie/img/Synthelog5/Synthelog%205%20bovenkant-thumb.jpg "Synthelog 5"
 
 **Collectie**
 Stichting Logos
@@ -36,6 +36,9 @@ H x B x L: 6 x 8 x 15
 
 **Classificatie**
 531.23
+
+**Inventarisnummer**
+LOGOS 79.03
 
 #### Beschrijving van het instrument
 Synthelog 5 is gebouwd in een massief houten kistje. De chip SN76477 is het kloppend hart van deze synthesizer. Inzicht in de werking van chip is een pluspunt bij het bespelen van het instrument.

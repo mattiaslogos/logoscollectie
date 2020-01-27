@@ -19,23 +19,26 @@ summary = "<a href='/logoscollectie/1970/blokgolfgenerator'><img src='/logoscoll
 [afb1]: /logoscollectie/img/Blokgolfgenerator/Blokgolfgenerator%20bovenkant-thumb.jpg "Blokgolfgenerator"
 
 
-#### Collectie
+**Collectie**
 Stichting Logos
 
-#### Titel
+**Titel**
 Blokgolfgenerator
 
-#### Productie
+**Productie**
 Gebouwd door Godfried-Willem Raes te Gent
 
-#### Datering
+**Datering**
 1970
 
-#### Afmetingen
+**Afmetingen**
 H x B x L: 9 x 21 x 16
 
-#### Classificatie
+**Classificatie**
 513
+
+**Inventarisnummer**
+LOGOS 70.05
 
 #### Beschrijving van het instrument
 De blokgolfgenerator is een monofone synthesizers waarmee een blokgolf kan worden opgewekt. Deze is gebouwd in een houten kistje met een schuine bovenplaat. Zowel de bovenplaat als de achterzijde zijn van plaataluminium. Op de bovenplaat van de generator staal vijf witte potentiometers, een tuimelschakelaar en drie drukschakelaars (of momentschakelaars). De potmeter met ingebouwde schakelaar links onderaan op de bovenplaat fungeert als volumeregeling en aan- en uitschakelaar.

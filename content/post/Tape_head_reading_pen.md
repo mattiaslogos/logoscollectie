@@ -20,26 +20,29 @@ summary = "<a href='/logoscollectie/1970/tape_head_reading'><img src='/logoscoll
 ![alt text][afb1]
 [afb1]: /logoscollectie/img/Tape_head_reading_pen/Tape%20head%20reading%20pen%20voorzijde-thumb.jpg "Tape head reading"
 
-#### Collectie 
+**Collectie** 
 Stichting Logos
 
-#### Titel
+**Titel**
 Tape head reading pen
 
-#### Productie
+**Productie**
 Gebouwd door Godfried-Willem Raes te Gent
 
-#### Datering
+**Datering**
 1970
 
-#### Afmetingen
+**Afmetingen**
 Pen
 H x B x L: 2 x 2 x 20
 Voorversterker
 H x B x L: 3,5 x 13,5 x 14
 
-#### Classificatie
+**Classificatie**
 523
+
+**Inventarisnummer**
+LOGOS 70.02
 
 #### Beschrijving van het instrument
 De pen bestaat uit een PVC-buis van 14 cm (doorsnede 1,5 cm)waaraan een vrouwelijke connector met schroefdraad is vastgelijmd. Het mannelijke deel van de connector dat op het vrouwelijke kan worden geschroefd, is verbonden met een snoer dat naar een stereojack (6,3mm) loopt. Op de kop van de pen bevind zich de stereo afspeelkop (tapehead). Deze is afkomstig van een oude bandopnemer. 

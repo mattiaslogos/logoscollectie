@@ -10,7 +10,7 @@ categories = ["elektro-akoestisch", "klanksculptuur"
 alfabetisch = ["T"
 ]
 menu = "main"
-summary = "<a href='/logoscollectie/1989/talkingflames'><img src='/logoscollectie/img/Talking_Flames/Talking%20Flames-thumb.jpg'></a><p>Talking Flames zijn twee identieke plasmaluidspreker die gebruikt worden als geluidssculptuur of in performances. De werking van het instrument gaat verder op de zingende boog van William Duddell, een fysicus uit de tweede helft van de 19de eeuw. Een geluidssignaal wordt gemodificeerd en door de vlammetjes in geluidsgolven omgezet. </p>"
+summary = "<a href='/logoscollectie/1989/talkingflames'><img src='/logoscollectie/img/Talking_Flames/Talking%20Flames-thumb.jpg'></a><p>Talking Flames zijn twee identieke plasmaluidspreker die gebruikt worden als geluidssculptuur of in performances. De werking van het instrument gaat verder op de zingende boog van William Duddell, een fysicus uit de tweede helft van de 19de eeuw. Een geluidssignaal wordt gemodificeerd en door de vlammetjes in geluidsgolven omgezet.</p>"
 +++
 
 # Talking Flames 1989
@@ -18,23 +18,26 @@ summary = "<a href='/logoscollectie/1989/talkingflames'><img src='/logoscollecti
 ![alt text][afb1]
 [afb1]: /logoscollectie/img/Talking_Flames/Talking%20Flames-thumb.jpg "Talking Flames"
 
-#### Collectie
+**Collectie**
 Stichting Logos
 
-#### Titel
+**Titel**
 Talking Flames 1989
 
-#### Productie
+**Productie**
 Gebouwd door Godfried-Willem Raes te Gent 
 
-#### Datering
+**Datering**
 1981 (eerste experimenten) – 1989 (eerste presentatie)
 
-#### Afmetingen
+**Afmetingen**
 H x B x L: 27 x 12 x 30
 
-#### Classificatie
-Digitale luidspreker (546)
+**Classificatie**
+546
+
+**Inventarisnummer**
+LOGOS 89.01
 
 #### Beschrijving van het instrument
 Talking Flames uit 1989 zijn twee identieke plasmaluidspreker die gebouwd werden door Godfried-Willem Raes. De werking van het instrument gaat verder op de zingende boog van William Duddell, een fysicus uit de tweede helft van de 19de eeuw. 

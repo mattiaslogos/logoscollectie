@@ -20,23 +20,26 @@ summary = "<a href='/logoscollectie/1974/duchamp_harp'><img src='/logoscollectie
 ![alt text][afb1]
 [afb1]: /logoscollectie/img/DuchampHarp/Duchamp%20Harp%20voorkant-thumb.jpg "Duchamp harp"
 
-#### Collectie 
+**Collectie **
 Stichting Logos
 
-#### Titel
+**Titel**
 Duchamp harp
 
-#### Productie
+**Productie**
 Gebouwd door Godfried-Willem Raes te Gent
 
-#### Datering
+**Datering**
 1974
 
-#### Afmetingen
+**Afmetingen**
 H x B x L: 109 x 20 x 69 
 
-#### Classificatie
+**Classificatie**
 511
+
+**Inventarisnummer**
+LOGOS 74.04
 
 #### Beschrijving van het instrument
 De Duchamps harp bestaat uit een fietswiel met rubberen buitenband (diameter 69 cm) dat met een zwarte ijzeren rechte voorvork (tevens van een fiets) op een houten krukje is bevestigd. Het krukje met ronde zitting (diameter 20 cm) is gemaakt van massief hout en heeft drie houten pootjes. De fietsvork is met een bout door het midden van de zitting aan het krukje vastgemaakt. Op de onderzijde van dit bevestigingspunt is met blauwe siliconen een piezoplaarje (diamter 3,5 cm) gekleefd. Tussen twee pootjes is de PCB met het  voorversterkertje met vier vijsjes bevestigd. Op die PCB zien we de vrouwelijke XLR uitgang (gebalanceerd, lijnniveau). In de bijlage vind u het schema van de schakeling.  
