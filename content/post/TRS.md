@@ -53,27 +53,27 @@ De TRS werd vooral bespeeld door Moniek Darge in de producties van de  Logos wer
 De TRS wordt ingeschakeld met de tuimelschakelaar rechts boven op het frontpaneel. De contactmicrofoon van de viool wordt op de ingang links onderaan op het fontpaneel aangesloten. De uitgang bevind zich rechts onderaan. Deze moet op een versterker of op een mengpaneel worden aangesloten.
 
 #### Inscripties
-Complex sound
-Tremolo
-Ring Trap
-Conv. 
-Filter
-Deler 
-VCO
-Uit 
-Aan
-Trem In
-Viool In (2x)
-I – U  F – U (2x)
-Viool  Ext-0VI
-PED. AUX . OUT
-U (9 x )
-In (5 x)
-VUF
-VUI
-VIN
-VI (3 x )
-Logos
+- Complex sound
+- Tremolo
+- Ring Trap
+- Conv. 
+- Filter
+- Deler 
+- VCO
+- Uit 
+- Aan
+- Trem In
+- Viool In (2x)
+- I – U  F – U (2x)
+- Viool  Ext-0VI
+- PED. AUX . OUT
+- U (9 x )
+- In (5 x)
+- VUF
+- VUI
+- VIN
+- VI (3 x )
+- Logos
 
 #### Staat van het instrument
 Niet in werkende staat. Er ontbreekt een PCB van de frequentieconvertor en er is geen stopcontact op het snoer van de voeding aangesloten. De voedingen, de tremolo- en VCO-module werken nog met zekerheid. 

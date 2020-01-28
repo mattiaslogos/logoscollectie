@@ -51,14 +51,14 @@ Deze ringmodulator werd zowel live als in de studio gebruikt.
 De voeding (15 Volt dual power supply) moet worden aangesloten. De pin-out vind je in de bijlage. 
 
 #### Inscripties
-Logos 
-Ringmodulator
-Willem II Cigars
-Willem II
-Wilde Havana
-100% Tabacco
-20 cigars made in holland
-B.V.  Willem II sigarenfabrieken Valkenswaard Holland
+- Logos 
+- Ringmodulator
+- Willem II Cigars
+- Willem II
+- Wilde Havana
+- 100% Tabacco
+- 20 cigars made in holland
+- B.V.  Willem II sigarenfabrieken Valkenswaard Holland
 
 #### Staat van het instrument
 In werkende staat.

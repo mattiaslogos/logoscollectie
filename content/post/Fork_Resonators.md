@@ -57,11 +57,11 @@ Fork resonators worden meestal gemaakt in sets met verschillende toonhoogtes (me
 
 
 #### Inscripties
-Aluminium groot fork resonator: 66
-Aluminium middel fork resonator: C#
-Aluminium klein fork resonator: geen
-Staal kleinste fork resonator: 73
-Staal grootste fork resonator: F# - G   E - F
+- Aluminium groot fork resonator: 66
+- Aluminium middel fork resonator: C#
+- Aluminium klein fork resonator: geen
+- Staal kleinste fork resonator: 73
+- Staal grootste fork resonator: F# - G   E - F
 
 #### Staat van het instrument
 Omdat de sleuven van deze prototypes niet altijd recht en in het midden zijn klinken deze prototypes niet steeds als één harmonische toon.

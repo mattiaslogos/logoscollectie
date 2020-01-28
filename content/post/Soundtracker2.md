@@ -53,17 +53,17 @@ Soundtracker 2 werd gebruikt voor de uitvoering van Soundtrack in 1986 te Leffin
 De power wordt ingeschakeld door de plug van de batterijen in de connector te steken. Ook de shotgunmicrofoon moet worden ingeplugd en ook de megafoons en de zender moeten elk op een uitgang worden aangesloten. De magneetband moet via de geleiders eerst over de opnamekop en vervolgens over de afspeelknoppen worden gelegd. Omdat de bespeler met het stuur in de handen de soundtracker op zijn wieltje voortduwt, wordt de magneetband van de spoel over de koppen afgerold. Het publiek hoorde het auditief resultaat door de megafoons of door FM-radio’s die overigens in de nabijheid van de zender geen andere posten zullen kunnen ontvangen (wat in feite illegaal is).  
 
 #### Inscripties
-Soundtracker 2
-Godfried Willem Raes
-Logos 
-Productien: Stichting Logos Kongostraat 35 B-9000 Gent, Belgium
-MIKE
-REC
-PB1
-PB2
-OUT1
-OUT2
-POW
+- Soundtracker 2
+- Godfried Willem Raes
+- Logos 
+- Productien: Stichting Logos Kongostraat 35 B-9000 Gent, Belgium
+- MIKE
+- REC
+- PB1
+- PB2
+- OUT1
+- OUT2
+- POW
 
 #### Staat van het instrument
 Onbekend (niet getest).

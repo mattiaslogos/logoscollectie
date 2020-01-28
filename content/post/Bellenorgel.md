@@ -55,10 +55,10 @@ In 1979 bracht Igloo een lp uit met opnames van bellenorgel (IGLOO 4).
 Het instrument wordt ingeschakeld door de stroomkabel in de voedingsconnector te steken. De snelheid van de klokken kan eventueel worden ingesteld met de betreffende potmeters, al is dit niet de bedoeling.
 
 #### Inscripties
-Danger de mort
-Caution High voltage
-Niet aanraken – levensgevaarlijk
-Me fecit – Godfried-Willem Raes
+- Danger de mort
+- Caution High voltage
+- Niet aanraken – levensgevaarlijk
+- Me fecit – Godfried-Willem Raes
 
 #### Staat van het instrument
 In werkende staat. 

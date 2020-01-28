@@ -50,14 +50,14 @@ Deze compressor werd vaak gebruikt in combinatie met ringmodulatoren.
 De voeding (15 Volt dual power supply) moet worden aangesloten. De pin-out vind je in de bijlage.
 
 #### Inscripties
-Knockbrack
-Virginia Mixture
-Mullingars
-Selected Quaslity Tabacco
-IN POWER OUT
-Diode kompressor
-Logos 1974
-Repaired 03.2019 G
+- Knockbrack
+- Virginia Mixture
+- Mullingars
+- Selected Quaslity Tabacco
+- IN POWER OUT
+- Diode kompressor
+- Logos 1974
+- Repaired 03.2019 G
 
 #### Staat van het instrument
 In werkende staat.

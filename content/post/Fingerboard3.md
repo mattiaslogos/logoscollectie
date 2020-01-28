@@ -56,8 +56,8 @@ De klankobjecten van het fingerboard worden -zoals de naam het zegt- vooral met 
 Door de schakelaar naar links (wijzerzin) te draaien zet je het instrument aan. De 9 volt blokbatterij loopt leeg als de schakelaar na het bespelen niet wordt uitgeschakeld. De bespeler kan met behulp van de pootjes achteraan de speelstand (hoek bovenblad) bepalen.
 
 #### Inscripties
-Fingerboard nr 3
-logos 1975 – Raes (1980 rev.)
+- Fingerboard nr 3
+- logos 1975 – Raes (1980 rev.)
 
 #### Staat van het instrument
 In werkende staat, Er ontbreken 2 veren en de klankstaaf die normaal gezien horizontaal in het houdertje wordt gemonteerd. 

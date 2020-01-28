@@ -54,18 +54,18 @@ Deze trigger interface werd onde andere gebruikt om de synthezisers van de synth
 Met een drie-pinnige din-plug wordt de voeding achteraan op het apparaat aangesloten. Met patchkabels worden de stuurspanningen naar de gewenste apparaten gestuurd.   
 
 #### Inscripties
-PIUCK-UPS
-A-B
-A 
-5V 
-12- 0 - -12
-SENSIT. (2x)
-A
-B
-a (2x)
-b (2x)
-5 (4x)
-15 (2x)
+- PIUCK-UPS
+- A-B
+- A 
+- 5V 
+- 12- 0 - -12
+- SENSIT. (2x)
+- A
+- B
+- a (2x)
+- b (2x)
+- 5 (4x)
+- 15 (2x)
 
 #### Staat van het instrument
 Niet getest

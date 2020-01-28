@@ -55,17 +55,19 @@ De interface moet worden gevoed met 5 Volt en verbonden worden met een printerpo
 
 #### Inscripties
 *Op beide interfaces:* 
-RAES 89
-+5
-S
-HEX
-C.89 E4
-254
-060
-A z mm
+- RAES 89
+- +5
+- S
+- HEX
+- C.89 E4
+- 254
+- 060
+- A z mm
 
 *Op An Ear for Violin staat aan de voedingsconector:* Viool
-*Op An Ear for Clarinet staat aan de voedingsconnectoren:* Klarinet
+
+*Op An Ear for Clarinet staat aan de voedingsconnectoren:* 
+Klarinet
 
 Op doos 
 

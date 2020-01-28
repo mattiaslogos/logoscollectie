@@ -54,12 +54,12 @@ Het keyboard werd gebruikt om synthesizers uit de synthelogfamilie aan te sturen
 Als het keyboard met een din-kabel met synthelog 1, 2 of 3 wordt verbonden is hij zowel de voeding als de stuurspanning naar de VCO aangesloten. Bij de andere synthelogs dient de din-aansluiting enkel voor de voeding (5 Volt). De stuurspanning wordt met een patchkabel (mannelijke mini-jacks) naar de betreffende VCO-ingang op de synthelog verbonden.      
 
 #### Inscripties
-SYNTHELOG 81 KEYBOARD
-Synthelog 81-KB3
-Ex U in 
-Ex clock in
-Clock uit 
-V uit
+- SYNTHELOG 81 KEYBOARD
+- Synthelog 81-KB3
+- Ex U in 
+- Ex clock in
+- Clock uit 
+- V uit
 
 #### Staat van het instrument
 Niet getest

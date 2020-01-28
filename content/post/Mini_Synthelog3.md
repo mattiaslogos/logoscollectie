@@ -1,7 +1,7 @@
 ﻿+++
 title = "Mini synthelog 3"
 description = ""
-tags = [ "Synthelog", "SN76477", "Lichtweerstand", "Kraakdoos", "Aanraakpunten", "Pin", "C-pin"
+tags = [ "Synthelog", "SN76477", "lichtweerstand", "kraakdoos", "aanraakpunten", "pin", "c-pin"
 ]
 date = "1983-01-01"
 dates = "1983"

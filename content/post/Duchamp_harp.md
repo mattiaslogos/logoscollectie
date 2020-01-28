@@ -52,6 +52,7 @@ Het instrument moet met een XLR-kabel mengpaneel met fantoomvoeding (48V) worden
  
 #### Inscripties
 Op de onderkant van het krukje in potlood: 249,-
+
 Op de rubberen band: Camel industries co.ltd, 28 x 1 3/8 x 1 5/8 
 
 #### Staat van het instrument

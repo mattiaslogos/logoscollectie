@@ -62,9 +62,9 @@ Daarnaast werd hij ook gebruikt in de Logos-studio, bijvoorbeeld voor de sonoris
 De voedingskabel wordt via de connector bovenaan op het bedieningspaneel met het net aangesloten. Opgelet plug eerst de kabel in het instrument en dan pas in het net. De spanning (220 volt) komt anders namelijk onafgeschermd op de twee connectoren van het snoer te staan. Met de twee schakelaars onder de connector wordt het instrument ingeschakeld. Via één van de twee uitgangen kan het instrument den gewenst op een externe versterker worden aangesloten.
 
 #### Inscripties
-Logos
-Synthelog
-Raes
+- Logos
+- Synthelog
+- Raes
 
 #### Staat van het instrument
 De sequensermodule is defect. Vermoedelijk is er een verbinding los gekomen.

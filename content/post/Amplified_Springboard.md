@@ -56,7 +56,9 @@ In tegenstelling van wat er op de onderkant van het instrument te lezen staat wo
 
 #### Inscripties
 arret marche (in dymo)
+
 Springboard Logos (in dymo)
+
 6 petits piles de 1,5 V (in potlood)
 
 #### Staat van het instrument

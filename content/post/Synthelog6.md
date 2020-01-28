@@ -50,20 +50,20 @@ Deze synhesizer werd vooral gebruikt in improvisaties. Er werden verschillende e
 Met de schakelaar rechts op het frontpaneel wordt het instrument aan gezet. 
 
 #### Inscripties
-0 1
-A B C 
-RUIS
-VCO1
-VCO2
-000 VCO1
-001 VCO2
-010 RUIS
-011 VCO1 / RUIS
-100 VCO2 RUIS
-101 VCO1+2 RUIS
-110 VCO1+2
-On off
-IN OUT
+- 0 1
+- A B C 
+- RUIS
+- VCO1
+- VCO2
+- 000 VCO1
+- 001 VCO2
+- 010 RUIS
+- 011 VCO1 / RUIS
+- 100 VCO2 RUIS
+- 101 VCO1+2 RUIS
+- 110 VCO1+2
+- On off
+- IN OUT
 
 #### Staat van het instrument
 Niet in werkende staat

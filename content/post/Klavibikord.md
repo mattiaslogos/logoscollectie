@@ -3,7 +3,7 @@ title = "Klavibikord"
 description = ""
 tags = [ 
 "pick-up",
-"Voorversterker",
+"voorversterker",
 "snaar",
 "toetsen", "clavichord"
 ]
@@ -60,13 +60,13 @@ Met de schakelaar wordt het instrument aangezet. De toetsen worden met de vinger
 Om de 9V blokbatterijen te vervangen moet de dekplaat onderaan worden verwijderd. Het instrument moet met een stereokabel (mannelijke jack TRS) op een versterker worden aangesloten.
 
 #### Inscripties
-Buiten
-Klavibikord
-Raes 
-Uit
-Aan
-Binnen
-Raes 1972
+- Buiten
+- Klavibikord
+- Raes 
+- Uit
+- Aan
+- Binnen
+- Raes 1972
 
 #### Staat van het instrument
 In werkende staat. Enkel de schuifpotentiometer rechts onderaan op het frontpaneel is stuk.

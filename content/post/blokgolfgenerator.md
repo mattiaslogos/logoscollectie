@@ -53,17 +53,17 @@ De blokgolfgenerator werd gebouwd voor het stuk Epitaium van Godfried-Willem rae
 Voor de het aansluiten van de voeding wordt een 5-polige vrouwelijke DIN-connector gebruikt. De pin-out vind je in de bijlage.
 
 #### Inscripties
-Blokgolfgenerator
-Vibr.
-Frekwensie
-Aan
-Uit
-Vol.
-Toon1 
-Toon2
-Toon3
-Godfried-Willem raes me fecit
-Gent 1970
+- Blokgolfgenerator
+- Vibr.
+- Frekwensie
+- Aan
+- Uit
+- Vol.
+- Toon1 
+- Toon2
+- Toon3
+- Godfried-Willem raes me fecit
+- Gent 1970
 
 
 #### Staat van het instrument

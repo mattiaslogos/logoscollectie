@@ -59,10 +59,10 @@ Deze kraakdoos werd specifiek voor vormingswerk gebouwd.
 Om het instrument te bespelen moet je gewoon de schakelaar aanzetten. Om de 9 volt blokbatterij te vervangen moet het achterpaneel van het instrument worden losgevezen. 
 
 #### Inscripties
-Aan 
-Uit
-Logos
-Kraakdoos
+- Aan 
+- Uit
+- Logos
+- Kraakdoos
 
 #### Staat van het instrument
 In werkende staat

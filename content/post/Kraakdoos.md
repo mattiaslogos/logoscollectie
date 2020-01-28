@@ -58,8 +58,9 @@ Om het instrument te bespelen moet de schakelaar worden aangenzet. De kraakdoos 
 
 #### Inscripties
 Op het doosje:
-Balmoral Cardinal
-Raes 76
+
+- Balmoral Cardinal
+- Raes 76
 
 #### Op het printje
 KRAAKDOOS

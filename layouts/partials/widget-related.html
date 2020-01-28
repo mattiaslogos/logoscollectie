@@ -1,4 +1,4 @@
-        {{ range first 1 (where (where .Site.Pages ".Params.tags" "intersect" .Params.tags) "Permalink" "!=" .Permalink) }}
+{{ range first 1 (where (where .Site.Pages ".Params.tags" "intersect" .Params.tags) "Permalink" "!=" .Permalink) }}
   {{ $.Scratch.Set "has_related" true }}
 {{ end }}
 
@@ -9,7 +9,10 @@
       {{ $num_to_show := .Site.Params.related_content_limit | default 7 }}
       {{ range first $num_to_show (where (where .Site.Pages ".Params.tags" "intersect" .Params.tags) "Permalink" "!=" .Permalink) }}
             <h1><a href="{{ .Permalink | absURL }}">{{ .Title }}</a></h1>
-            <time class="has-text-grey-light is-size-7">{{ .Date.Year }}</time>
+            <time class="has-text-grey-light is-size-7">{{ .Date.Year }}</time> - 
+            {{ range $gelijkaardigeTags := .Params.tags }}
+            <a class="smallTag" href="{{ "tags" | absURL }}/{{ $gelijkaardigeTags | urlize }}">{{ $gelijkaardigeTags }}</a>
+        {{ end }}
       {{ end }}
     </div>
 </div>

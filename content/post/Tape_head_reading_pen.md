@@ -2,7 +2,7 @@
 title = "Tape head reading pen"
 description = ""
 tags = [ 
-"magneetband+leeskop", "Voorversterker", 
+"magneetband+leeskop", "voorversterker", 
 ]
 date = "1970-01-01"
 dates = "1970"
@@ -34,8 +34,11 @@ Gebouwd door Godfried-Willem Raes te Gent
 
 **Afmetingen**
 Pen
+
 H x B x L: 2 x 2 x 20
+
 Voorversterker
+
 H x B x L: 3,5 x 13,5 x 14
 
 **Classificatie**
@@ -59,6 +62,7 @@ Voor de voeding moet een dual powersupply van zowel +15,-15 en massa als +9, -9 
 
 #### Inscripties
 Op de pen: geen
+
 Op de versterker: Leeskopversterker, daarnaast ook de originele opschriften van de sigarendoos
 
 #### Staat van het instrument

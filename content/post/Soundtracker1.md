@@ -63,13 +63,13 @@ Opbouw van het instrument/installatie
 De magneetband moet via de geleiders eerst over de opnamekop en vervolgens over de afspeelknop worden gelegd. De soundtracker moet worden aangezet. Omdat de bespeler zich voortbeweegt wordt de magneetband van de spoel over de koppen afgerold. De bespeler controleert het geluidssignaal met de koptelefoon. De microfoon wordt in de hand gehouden. 
 
 #### Inscripties
-Logos soundtracker 
-Soundtrack
-Record 
-Playback 
-Out line 
-Out kop
-Supply 12V 24V
+- Logos soundtracker 
+- Soundtrack
+- Record 
+- Playback 
+- Out line 
+- Out kop
+- Supply 12V 24V
 
 #### Staat van het instrument
 Onbekend (niet getest).

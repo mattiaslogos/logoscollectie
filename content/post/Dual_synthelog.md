@@ -58,32 +58,32 @@ Automatic sound environment nr 1 (zie bijlage)
 Met een stereokabel  of met twee monokabels wordt dual synthelog op een versterker of mengpaneel aangesloten. 
 
 #### Inscripties
-SYNTHE 1
-SYNTHE 2
-A.F. and L.S OUTPUT
-CLOCK 1
-CLOCK 2
-IN OUT 1 ON 2 GATE 9
-25 26 27 1 28 22 
-SEQ 1 out
-SEQ 2 out
-R
-C
-R MATRIX
-LFO NOICE EX IN TR 9
-VCO 
-LFO
-R5 R20
-Filter
-LFO G
-VCO CV 16
-PRESET VCO
-TIME 
-ATTACK 
-DECAY
-VCO-MATRIX
-R-MATRIX
-VOLUME
+- SYNTHE 1
+- SYNTHE 2
+- A.F. and L.S OUTPUT
+- CLOCK 1
+- CLOCK 2
+- IN OUT 1 ON 2 GATE 9
+- 25 26 27 1 28 22 
+- SEQ 1 out
+- SEQ 2 out
+- R
+- C
+- R MATRIX
+- LFO NOICE EX IN TR 9
+- VCO 
+- LFO
+- R5 R20
+- Filter
+- LFO G
+- VCO CV 16
+- PRESET VCO
+- TIME 
+- ATTACK 
+- DECAY
+- VCO-MATRIX
+- R-MATRIX
+- VOLUME
 
 #### Staat van het instrument
 Niet in werkende staat. 

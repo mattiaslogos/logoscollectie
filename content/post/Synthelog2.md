@@ -65,9 +65,9 @@ De stukken die voor Synthelog 1 zijn geschreven kunnen ook op synthelog 2 worden
 De voedingskabel wordt via de connector achteraan op het kistje met het net aangesloten. Met de tuimelschakelaar rechts onderaan wordt het instrument ingeschakeld. Via één van de twee uitgangen rechts bovenaan op het bedieningspaneel kan het instrument des gewenst op een externe versterker worden aangesloten.
 
 #### Inscripties
-Logos
-Electronics
-Synthelog II
+- Logos
+- Electronics
+- Synthelog II
 
 #### Staat van het instrument
 In werkende staat 

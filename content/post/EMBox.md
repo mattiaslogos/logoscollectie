@@ -52,11 +52,11 @@ De elektromagnetische doos is een experimenteel instrument waarmee de trillingen
 Het instrument moet met een kabel met een mannelijke monojack (TS 6,3 mm) via een lijningang (symmetrisch) op een versterker worden aangesloten. Opgepast, als de jack in de plug zit wordt de versterker gevoed. Om te vermijden dat de batterij leeg loopt moet de jack worden uitgetrokken als het instrument niet wordt bespeeld. 
 
 #### Inscripties
-Prototye  
-Handtekeing van Godfried-Willem Raes
-1000 wdg
-AWG 35 draad
-(Rdc = 1 Ohm/m)
+- Prototye  
+- Handtekeing van Godfried-Willem Raes
+- 1000 wdg
+- AWG 35 draad
+- (Rdc = 1 Ohm/m)
 
 #### Staat van het instrument
 In werkende staat

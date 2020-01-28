@@ -51,13 +51,13 @@ Er zijn verschillende versies van de Optofmofoon. Ze werden ontworpen voor Jeugd
 Niet van torpassing
 
 #### Inscripties
-Raes 
-Logos 
-5/1988
-Optofmofoon
-/5
-1/1
-Made in Belgium
+- Raes 
+- Logos 
+- 5/1988
+- Optofmofoon
+- /5
+- 1/1
+- Made in Belgium
 
 #### Staat van het instrument
 Het instrument is niet in werkende staat. Het lijkt er op dat het instrument nooit is afgewerkt. Zo ontbreken bijvoorbeeld de weerstanden en lichtweerstanden op hun voorziene plaats op de pcb en zijn er geen soldeerresten te zien. Er is ook geen transformator met stroomkabel voor de voeding op het printje gemonteerd. 

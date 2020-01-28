@@ -57,19 +57,19 @@ Deze synthesizer werd sporadisch gebruikt voor improvisaties en bij vormingswerg
 Het instrument wordt met de schakelaar in de rechter bovenhoek aangezet (on off). Met een stereokabel wordt hij op een versterker of mengpaneel aangesloten. 
 
 #### Inscripties
-1 0
-On off
-17 VCO
-23 O.S.
-12 EX
-8 AD
-6 RS 
-21 LFO
-Decay
-Ruis
-Lfo
-VCO
-9
+- 1 0
+- On off
+- 17 VCO
+- 23 O.S.
+- 12 EX
+- 8 AD
+- 6 RS 
+- 21 LFO
+- Decay
+- Ruis
+- Lfo
+- VCO
+- 9
 
 #### Staat van het instrument
 Niet in werkende staat. Het schuifplaatje waarmee het kistje onderaan werd afgedekt ontbreekt.

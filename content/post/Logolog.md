@@ -52,8 +52,8 @@ Logolog kan zowel manueel (met de knoppen) als via de seriële poort met een com
 /
 
 #### Inscripties
-LOGOLOG 1984
-LOGOLOG (in het Grieks)
+- LOGOLOG 1984
+- LOGOLOG (in het Grieks)
 
 #### Staat van het instrument
 Niet in werkende staat. 2 chip en vier knoppen van de momentschakelaars ontbreken. Er is geen voeding of aansluiting voor een voeding voorzien. Het instrument heeft verschillende loshangende draden.

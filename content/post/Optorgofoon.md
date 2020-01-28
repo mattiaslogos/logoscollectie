@@ -55,8 +55,8 @@ De optorgofoon was in de eerste plaats een audio-art installatie die op tentoons
 Door de stroomkabel (220 v) in de connector op het instrument te steken, wordt de optorgofoon ingeschakeld. Met de potentiometer onder de printplaat van de versterkerschakeling kan het gewenste volume worden ingesteld. Hiervoor moet het plexiglas en de printplaat worden los gevezen.
 
 #### Inscripties
-LOGOS FOUNDFATION
-EKO K-197 (op de printplaat)
+- LOGOS FOUNDFATION
+- EKO K-197 (op de printplaat)
 
 #### Staat van het instrument
 In werkende staat
