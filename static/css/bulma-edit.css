@@ -9735,7 +9735,7 @@ label.panel-block:hover {
 }
 
 .medewerkinglogo {
-	width="20%";
+	width:"20%";
 	float: none;
 	clear:both;
 	margin: 16px;
@@ -9743,6 +9743,5 @@ label.panel-block:hover {
 	height: auto;
 }
 
-}
 
 /*# sourceMappingURL=bulma.css.map */

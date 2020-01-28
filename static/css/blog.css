@@ -32,3 +32,16 @@ figure.floatleft {
     overflow: auto;
   }
   
+  .smallTag {
+    font-size: 0.75rem !important;
+    color: #7a7a7a !important;
+  }
+
+  .smallTag:hover, .smallTag:focus {
+    color: #363636 !important;
+  }
+
+  .copyleft {
+    display:inline-block;
+    transform: rotate(180deg);
+  }
