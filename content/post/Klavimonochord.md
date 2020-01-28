@@ -42,8 +42,11 @@ LOGOS 70.01
 
 #### Beschrijving van het instrument
 De basis van klavimonochord is een klavier dat uit een een voormalige buffetpiano is gezaagd. Hierop is een massieve houten plank gevezen.
+
 Aan de open achterzijde van het instrument zien we de rij houten cilinders die telkens met een ijzeren pin in het uiteinde van elke toets zijn bevestigd. Bij het indrukken van de toetsen bewegen deze  met vilt beklede cilinders naar omhoog. Zo wordt traditioneel gezien  het (hier ontbrekende) pianomechanisme in werking gezet. Over het vilt zijn ijzeren staafjes gekleefd. Zoals de tangenten van een clavichord slaan deze de snaar aan die boven de cilinders is gespannen.
+
 Een gleuf in beide zijkanten houdt de omwonden pianosnaar op zijn plaats. De snaar wordt aan beide uiteinden vastgehouden met een zitherpin, waarmee deze ook gestemd kan worden. Ze wordt versterkt met vier magnetische pick-ups: telkens op ongeveer 4 en 45 cm van elke zijkant.  
+
 Elke pick-up is verbonden met een mannelijke jack (TS, 6,3 cm). Deze worden op de vier kanalen van een klein mengpaneel geplugd dat het instrument wordt geplaatst. De bespeler kan op die manier de panning en het volume van elke pick-up -en dus ook de meerstemmigheid- apart regelen.  
 
 #### Speelwijze, repertoire en inzet in producties

@@ -40,7 +40,9 @@ H x B x L: 4 x 13 x 13,5
 
 #### Beschrijving van het instrument
 Deze ring modulator is ondergebracht in een sigarenblik met scharnierdeksel van het merk Willem II (Wilde Havana). Op de onderkant van het doosje staat met soldeer “logos”en in dymo “ringmodulator”geschreven.
+
 Daarboven zien we drie vrouwelijke cinch-ingangen en een 5-polige DIN-plug. De twee lingse cinch-connectoren zijn de twee ingangen van de ringmodulator, de rechter cinch-connector is de uitgang. Dit is ook duidelijk gemaakt met pijltjes die in de verf van het doosje zijn gekrast. Op De DIN-plug moet de voeding (15 Volt dual power-supply) worden aangesloten. De pin-out vind je in de bijlage.
+
 Als we het dekseltje openen zien we de met de hand getekende PCB. Deze is in twee hoeken met twee vijsjes aan de bodem van het doosje bevestigd. 
 
 

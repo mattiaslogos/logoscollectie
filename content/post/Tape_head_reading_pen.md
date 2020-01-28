@@ -49,15 +49,18 @@ LOGOS 70.02
 
 #### Beschrijving van het instrument
 De pen bestaat uit een PVC-buis van 14 cm (doorsnede 1,5 cm)waaraan een vrouwelijke connector met schroefdraad is vastgelijmd. Het mannelijke deel van de connector dat op het vrouwelijke kan worden geschroefd, is verbonden met een snoer dat naar een stereojack (6,3mm) loopt. Op de kop van de pen bevind zich de stereo afspeelkop (tapehead). Deze is afkomstig van een oude bandopnemer. 
+
 De versterker is gebouwd is een ijzeren sigarendoos (Willem II, Wilde Havana). Op de zijkant van jet doosje zien we een vrouwelijk stereojack (6,3 mm). Op de onderkant van het doosje zien we rechts de 5 polige DIN-plug voor het aansluiten van de voeding (pin-out in bijlage). In de rechter bovenhoek zien we twee vrouwelijke cinch-connectoren, de linker- en rechter uitgangen van de voorversterker. De derde vrouwelijke cinch-connector is niet aangesloten. Onder de connectoren staat met dymo “leeskopversterker” geschreven. 
 Als we het doosje open doen zien we de PCB van de voorversterker. Deze werd in 2019 vervangen. Zowel het oude als het nieuwe ontwerp van het schema is in de bijlage te vinden.  
 
 #### Speelwijze, repertoire en inzet in producties
 Dit instrument werd gebruikt voor het spelen van het stuk xxxxx dat gepubliceerd werd in Sources, music of the avant-garde uit  xxxx. Veel stukken van het vroegere Logos repertoire waren overigens afkomstig uit deze uitgaven. 
+
 Het stuk bestond er uit om op een gemagnetiseerd vel met de pen op zoek te gaan naar de geluiden die de componist had achter gelaten. 
 
 #### Opbouw van het instrument/installatie
 Om de klanken hoorbaar te maken moet de pen op de leeskopversterker (voorversterker) worden aangesloten om het versterkt signaal vervolgens naar een line-ingang van een mengpaneel of versterker te sturen. 
+
 Voor de voeding moet een dual powersupply van zowel +15,-15 en massa als +9, -9 en massa gebruikt worden, zoals verschillend op respectievelijk de PCB en het schema van de voorversterker uit 2019 vermeld (pinout zie bijlage).
 
 #### Inscripties

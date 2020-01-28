@@ -42,10 +42,14 @@ LOGOS 87.02
 
 #### Beschrijving van het instrument
 De klanksculptuur klankboot wordt op het water (vijver, rivier, meer,…) in de openbare ruimte gepresenteerd. Het project bestaat eigenlijk uit een geprepareerd bootje. Aan de zijkanten en achterkant van het bootje worden namelijk verschillend gestemde persluchtclaxons bevestigd die zich met hun paviljoen net onder de waterlijn bevinden. 
+
 Er zijn drie units van claxons, twee voor de zijkanten en één voor de achterkant. Elke unit is met een stroomkabel met de accu(‘s) van 12 V (oorspronkelijk scheepsaccu’s) verbonden.  
 Aan beide zijkanten word een unit van 10 claxons -gerangschikt van groot naar klein- op een metalen staaf van 1,5 meter bevestigd. De claxons zijn aangesloten op telkens vijf compressoren (1 tot 5 claxons per compressor) die op een houten plank (75 cm x 10 cm) zijn vastgemaakt. Op de planken staat “klankboot” geschreven en elke compressor wordt geschakeld met de relais die er naast is vastgemaakt. 
+
 Ook de unit van 12 claxons achteraan, die bevestigd zijn op een aluminium u-profiel (130 cm x 10 cm x 3,5 cm), worden door vijf met relais geschakelde compressoren aangeblazen. De relais en compressoren zijn op een trapeziumvormige plank bevestigd die met een beugel aan het aluminium profiel vast hangt. Op de plank is een metalen handvat vastgemaakt waarmee de paviljoenen van de claxons in en uit het water kunnen worden gehoffen. 
+
 De claxons worden bespeeld met een klavier met 24 momentschakelaars in een houten behuizing (15 x 20 x 6). Naar elke unit loopt een kabel met vijf aansluitingen, voor elke relais één. Door het indrukken van een toets schakel je de gewenste compressor in.  
+
 De claxons zijn bedoelt als reactiemotors (en sturing) van de boot. Toch is bij de uitvoering van het project naast een bespeler ook best een roeier aan boord.
 
 #### Speelwijze, repertoire en inzet in producties

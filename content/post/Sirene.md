@@ -42,10 +42,14 @@ LOGOS 1979.06
 #### Beschrijving van het instrument
 Sirene is een interactieve klanksculptuur gebouwd op een met massief houten balken gebouwde basisstructuur. Deze heeft vaste wielen vooraan en kleine zwenkwieltjes achteraan.
 De muziek wordt voortgebracht door 12 kleine sirenes die vooraan op de schuin rechtopstaande balken zijn gemonteerd. Zowel de toonhoogte als de luidsterkte van deze laagspanningssirenes is afhankelijk van het toerental van hun motortje (en dus de spanning) die elk afzonderlijk door een spanning gestuurde stroombron worden gevoed. Deze stroombronnen worden op hun beurt gevoed door twaalf digitaal-analoog omzetters die opgebouwd zijn uit schuifregisters en tellers en elk beschikken over aparte klok- en clear- ingangen. Deze schakelingen (omzetters en stroombronnen) zien we telkens aan de binnenkant van de balk naast de betreffende sirene (schakeling in scan bijlage).
+
 De digitale input van de omzetters is afgeleid van vier kloksignalen die afhankelijk zijn van de omgeving van de machine (vandaar de interactiviteit). Een eerste kloksignaal is afhankelijk van de bewegingen van de personen in de buurt van de machine. We zien de zender van deze interface bovenaan op de klanksculptuur. De ontvanger  is in een tabaksblik boven de voorste wielas gemonteerd. Een tweede kloksignaal is afhankelijk van de geluidsterkte van de omgeving en de machine zelf. Een de derde kloksignaal is afhankelijk van het stroomverbruik van de machine. Dat stroomverbruik kunnen we volgen op grote ampèremeter onder de sirenes. Een vierde kloksignaal kan manueel worden ingesteld. Deze vier kloksignalen worden verrekend door de printkaart die vlak boven de ampèremeter in de 24-pin connector kan worden geklikt. Vandaar worden de digitale signalen naar de digitaal-analoog omzetters geleid en op de reeds besproken wijze uiteindelijk in geluid omgezet.  We kunnen deze kaart zien als de partituur van de machine. Er kan dus desgewenst een andere kaart met een ander programma (andere herrekeningen van de kloksignalen) worden gemaakt en in de connector worden geklikt.
+
 Achteraan Sirene zien we de grote koelplaat van de voeding waarvan de transformatoren zicht onder de ampèremeter bevinden.
 Aan de rechterkant van de as van de voorwielen is een elektromotor gemonteerd. Deze is niet aangesloten.
+
 In Sirene zit ook een feature (met een LDR) ingebouwd zodat die kon reageren op het flitsen van camera’s.      
+
 Elektrische schema’s en de waarheidstabellen zijn opgenomen in de bijlage (Realisaties en werkschetsen scan). 
 
 #### Speelwijze, repertoire en inzet in producties

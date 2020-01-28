@@ -42,13 +42,18 @@ LOGOS 83.
 
 #### Beschrijving van het instrument
 Dual synthelog combineert -zoals de naam het aangeeft- twee synthelogs, namelijk synthelog III en minisynthelog die beiden rond de chip #SN76477 zijn gebouwd. In de behuizing van plexiglas zijn ook de twee sequensers, de VCO-matrix (stuurspanning) en een R-matrix (weerstand) ingebouwd. Inzicht in de werking van chip is een groot voordeel bij het bespelen van het instrument.
+
 De patchpaper van dit instrument (zie bijlage) geeft een overzicht van de bediening en de mogelijkheden.
+
 Rechts bovenaan bevinden zich de twee mono-uitgangen en de stereo-uitgang. Met de kleine zwarte draaischakelaars links ervan kunnen de mixer de enveloppe en de one-shot (of KB = keyboard) worden geschakeld. Dit is met behulp van pins (tip en sleeve doorverbonden) ook mogelijk via de twee rijen van zes vrouwelijk mini-jacks. De nummers 25,26,27, 1, 28 en 29 staan voor de pootjes van de chip waarmee deze verbonden zijn.
+
 Hieronder bevinden zich de twee sequencers  met elk hun eigen klok (CLOCK 1 en CLOCK 2) die met de tuimelschakelaar (1 on 2) worden in en uitgeschakeld. De twee metalen potmeters bepalen de snelheid. Het signaal van deze klokken (OUT) kan ook iets anders aansturen. Daarnaast kan ook de sequencer kan met een ander signaal (IN) worden aangestuurd. 
 Het signaal van de sequencer (SEQ 1 OUT en SEQ 2 OUT) wordt telkens bepaald door de stand van de vier zwarte potmeters. Ook het signaal van de teller van de sequencer kan via de vrouwelijke jack-uitgangen onder elke potmeter worden gebruikt als stuursignaal. Met de VCO-matrix kan de VCO rechtstreeks worden aangestuurd. 
+
 De weerstanden van de R-matrix kunnen met patchkabels via de twee vrouwelijk mini-jacks aan de rechterbovenhoek van de matrix weerstand gestuurde functies aansturen. 
 Boven de twee matrixen bevinden zich de knoppen en ingangen voor het aansturen van de synthelog 3-module, rechts onderaan deze van de minisynthelog-module. 
 Rechts onderaan zien we ook de one-shot (GATE 9) en de joystick waarmee de klank ervan kan worden beïnvloed. De volume-knop (VOLUME) bevind zich centraal op het frontpaneel. De twee jackingangen bovenaan zijn externe ingangen waarvan jet volume geregeld wordt met de potmeter er onder.
+
 Als we naar de onderkant van dual synthelog kijken zien we centraal de ge-etste pcb die ook bij synthelog 3 werd gebruikt met daaronder de kleinere pcm van de minisynthelogs.
 
 #### Speelwijze, repertoire en inzet in producties

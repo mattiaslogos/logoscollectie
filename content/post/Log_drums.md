@@ -46,6 +46,7 @@ LOGOS 73.01
 
 #### Beschrijving van het instrument
 De drie bij elkaar horende log drums zijn allemaal uit dezelfde materialen opgebouwd. Hun bovenbladen -waarin telkens twee tongen van 8 cm breed werden uitgezaagd- zijn van massief sequoia (redwood) van 2 cm dik en voorzien van een laag vernis. De zijkanten zijn uit zwartgeverfd massief hout afkomstig van een afgedankte piano (1,5cm dik). De onderkant is van dun multiplex. Alle verbindingen zijn gelijmd, enkel de onderkant werd ook met houtschroeven (van klein naar groot 14, 14 en 18 schroeven) aan de zijkanten vast gemaakt. De uitgezaagde tongen komen telkens samen in het midden van het bovenblad. De grootste rust onderaan aan de zijkanten op twee rubberen banden. De lijmsporen verraden dar er ook het kleinste en middelste instrument voordien waren van zulke banden onderaan. Deze zijn verloren gegaan.  
+
 In totaal kunnen we zes verschillende toonhoogtes spelen. De drie log drums staan van groot naar klein respectievelijk in een kwart, kwint en terts gestemd.    
 
 #### Speelwijze, repertoire en inzet in producties

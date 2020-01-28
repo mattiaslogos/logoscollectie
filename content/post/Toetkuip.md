@@ -41,6 +41,7 @@ LOGOS 87.01
 
 #### Beschrijving van het instrument
 De klanksculptuur Toetkuip is een driehoekig rijtuig met drie wielen waarop een gegalvaniseerde wastobbe is gemonteerd. De klank wordt voortgebracht door 24 verschillend gestemde persluchtclaxons die zich met hun paviljoen net onder de waterlijn van de met water gevulde wastobbe bevinden. Toetkuip wordt bespeeld door vier personen. Vooraan zit de bestuurder op het houten stoeltje. Met de voeten bedient deze het voetstuur en met de handrem kan hij/zij toetkuip desgewenst ook afremmen. De bespeler zit op het stoeltje (of zadel) achteraan het rijtuig en bedient de 13 momentschakelaars op het bedieningspaneel  die bepalen welke claxons spelen. Rechts en links op het bedieningspaneel zien we een volt- en een ampèremeter (niet aangesloten). Het gevaarte wordt door twee personen aan de duwrail voortgeduwd terwijl ze (zoals bij een autopet) met één voet op de treeplank staan. Het bewegen en klotsen van het water (aard van de weg, bochtenwerk, waterpeil in de kuip,…) bepaalt in grote mate mee de klank van de klanksculptuur.   
+
 Onder de stoel van de bespeler zien we de compressor en het compressievat die de claxons van perslucht voorzien. Naast de compressor staat de accu die de compressor, de ventielen en de sturing van stroom voorzien. De 24 claxons zijn verbonden met 4 units van telkens 6 ventielen. Deze zijn op een spiraalvormige metalen constructie boven de wastobbe gemonteerd.   
 
 #### Speelwijze, repertoire en inzet in producties

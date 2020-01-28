@@ -41,11 +41,14 @@ LOGOS 89.01
 
 #### Beschrijving van het instrument
 Talking Flames uit 1989 zijn twee identieke plasmaluidspreker die gebouwd werden door Godfried-Willem Raes. De werking van het instrument gaat verder op de zingende boog van William Duddell, een fysicus uit de tweede helft van de 19de eeuw. 
+
 De plasmaluidsprekers staan telkens gemonteerd op een kunststof plaat. In het midden van de plaat is een gat geboord om de luidspreker op een statief te kunnen monteren. Aan de ene kant zie je de blokvormige voeding (Siemens sitop power flexi). Aan de andere kant staat de PCB verticaal gemonteerd. Daarop zijn de kloelvinnen voor de transistoren, de condensatoren en de hoogspanningstransfo met ferrietkern (gesloopt uit een oud tv-toestel) duidelijk zichtbaar. Bovenaan leiden twee pootjes die afkomstig zijn van een passer naar de puntelektroden waartussen het plasma wij werking van de luidspreker ontstaat.
+
 Via een elektronische schakeling word tussen de puntelektroden een vlamboog opgewekt die met een geluidssignaal wordt gemoduleerd. Het plasma (of de vlamboog) maakt het betreffende signaal op die manier hoorbaar. De lucht rond het plasma wordt namelijk aan een snel wisselend tempo verhit. Omdat warme lucht uitzet ontstaat er een drukgolf die wij als geluid waarnemen.  
 
 #### Speelwijze, repertoire en inzet in producties
 Talking Flames werd zowel als installatie als in een concertcontext gepresenteerd. Daarvoor werden teksten uit AutoAuthor, een kunstwerk van Moniek Darge, gebruikt. Deze werden in real time met een microfoon ingesproken (performance) of de opgenomen tekst werd afgespeeld met een cassettespeler.  
+
 Naar aanleiding van het Prometheusfestival in december 2015 in de Bijloke te Gent (coproductie met Stichting Logos) schreef Catharina Smets een nieuwe tekst en nam deze op. Ze voegde er subtiele soundscape-geluiden aan de tekst toe.    
 
 
@@ -63,8 +66,11 @@ Talking Flames werd onder andere gepresenteerd op:
 
 #### Opbouw van het instrument/installatie
 Beide speakers worden op een afstand van elkaar op een tafel of op statieven geplaatst. De speakers worden respectievelijk met het rechtse en linkse kanaal van een geluidssignaal in stereo aangesloten via de vrouwelijke cinch ingang. 
+
 Optioneel kan het geluid van elke plasmaluidspreker via een paraboolstraler naar de luisteraar worden gericht. Zonder parabool is Talking Flames een zuiver omnidirectionele geluidsweergever.
+
 De puntelektroden moeten af en toe worden bijgeslepen. Daar de elektroden licht radioactief zijn, moet hiervoor een masker worden gedragen. 
+
 De puntelektroden moeten in hetzelfde horizontale vlak liggen op ongeveer een 1 centimeter van elkaar. Als de puntelektroden te ver van elkaar staan, verdwijnt het plasma. Door met een schroevendraaier met geïsoleerd handvat tussen de elektroden te gaan, komt het plasma terug tot stand. Dit dient mogelijks ook te gebeuren bij het opstarten van de installatie.
 Aan elke plasmaluidspreker zit een potmeter. Hiermee moet bij het opstarten van de installatie de gain worden ingesteld. Wordt deze te laag ingesteld dan klinken de vlammetjes stil of verdwijnt het plasma. Staat deze te hoof ingesteld dan zal er vervorming optreden.
 

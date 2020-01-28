@@ -42,6 +42,7 @@ LOGOS 1975.04
 
 #### Beschrijving van het instrument
 Fingerboard 2 is een experimenteel elektromechanisch instrument. Het instrument is gebouwd op een zwart kistje. Op het bovenblad zijn verschillende klankobbjcten aangebracht. Twee veren aan een dikke snaar, een dunne snaar en een draadstang met vreugelmoer in L-vorm worden versterkt door een magnetische pick-up van Schaller. De metalen voorwerpen die op de smalle ijzeren lat zijn gelast worden vermoedelijk met een contactmicrofoon versterkt. 
+
 De uitgang van het instrument, een vrouwelijke mono-jack, bevind zich on één van de hoeken van het bovenblad. 
 
 #### Speelwijze, repertoire en inzet in producties

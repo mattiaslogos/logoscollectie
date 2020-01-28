@@ -47,9 +47,13 @@ LOGOS 74.01
 
 #### Beschrijving van het instrument
 Deze 5 fork resonators zijn prototypes van verschillende sets die zijn verkocht. Er zijn drie open resonator in aluminium en twee gesloten resonators in staal.
+
 Het bouw- en werkingsprincipe is steeds hetzelfde. In het midden van een metalen balk wordt een sleuf gezaagd tot de gewenste toonhoogte is bereikt. Er ontstaan twee lamellen die bij het aanslaan met elkaar resoneren (zoals bij een stemvork). De lengte van de sleuf (of van de lamellen) bepaalt de toonhoogte. Hoe langer de sleuf, hoe lager de toon. Vervolgens komt het er op aan bij open fork resonators de buis af te zagen en bij gesloten fork resonators de buis toe te stoppen zodat de lucht in de buis resoneert met de toonhoogte. De stalen resonators werden gesloten met een gelast plaatje. Gesloten fork resonators hebben een duidelijkere grondtoon (minder harmonieken).  
+
 De wanddikte van de aluminium kokers is 2 mm, de stalen fork resonators hebben een wanddikte van 1,5 mm.
+
 De kleinste en grootste stalen fork resonator hebben respectievelijk een sleuf van 12,5 cm en 11,5 cm en hebben een toonhoogte van F/F# en C#. 
+
 De aluminium fork resonators hebben van klein naar groot een sleuf van 11,5 cm, 14,5 cm en 19 cm en hebben een toonhoogte van C#, C# en F#.
 
 #### Speelwijze, repertoire en inzet in producties

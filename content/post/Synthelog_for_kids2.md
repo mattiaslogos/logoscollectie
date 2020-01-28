@@ -39,7 +39,9 @@ H x B x L: 12 x 39 x 47
 
 #### Beschrijving van het instrument
 De synthelog for kids 2 is gebouwd in een houten deksel (vermoedelijk afkomstig van een oude platendraaier) waarop een vezelplaat is vast gevezen. Op de bovenkant van het instrument zien we een roostertje waaronder de speaker is gemonteerd. Onder dat roostertje zien we vier grote ijzeren ronde plaatjes met een gat er in (rondellen). In dat gat is telkens een lichtweerstand bevestigd met epoxyhars. De synthesizer wordt bespeeld door de lichtintensiteit op deze weerstanden (bijvoorbeeld met de vingers) te beïnvloeden. 
+
 Op de achterkant van het instrument zien we een DIN-ingang. Met behulp van een plug die aan een batterijclip voor een blokbatterij van 9 volt hangt, kan de voeding worden aangesloten en wordt het instrument ingeschakeld. 
+
 Als we de vier houtschroeven op de onderkant los draaien kunnen we de vezelplaat van de behuizing halen. Centraal zien we een ge-etste pcb (zie bijlage) waarop de schakeling rond de ic SN94281 (identiek aan de SN76495) is gebouwd. De schakeling is een vereenovueigde versie van de demoschakeling uit de datasheet (zie bijlage). De mixer die in de chip is ingebouwd is zo geschakeld dat de noicemodule met filter, de SLF en de VCO allen hoorbaar zijn. Deze functies worden samen met het volume worden door de lichtweerstanden bepaald terwijl de waarden van de bepalende condensatoren vast zijn.    
 
 #### Speelwijze, repertoire en inzet in producties

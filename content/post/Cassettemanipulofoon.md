@@ -42,6 +42,7 @@ LOGOS 1984.01
 
 #### Beschrijving van het instrument
 De Cassettemanipulofoon is qua werking en esthetiek sterk verwant aan de Manipulofoon die Raes in 1976 bouwde. 
+
 Door aan twee hendels te draaien kon de magneetband handmatig op verschillende snelheden en in twee richtingen voorbij de opneem- en weergavekoppen worden geschoven. Met behulp van schakelaars werd bepaald welke kop in werking werd gesteld. In de bijlage vind u een werktekening van het instrument met het bijhorende elektrische schema.
 
 #### Speelwijze, repertoire en inzet in producties

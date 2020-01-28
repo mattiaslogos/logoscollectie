@@ -42,12 +42,18 @@ LOGOS 79.03
 
 #### Beschrijving van het instrument
 Synthelog 5 is gebouwd in een massief houten kistje. De chip SN76477 is het kloppend hart van deze synthesizer. Inzicht in de werking van chip is een pluspunt bij het bespelen van het instrument.
+
 De bediening gebeurt door het schakelen van de schakelaars, het pluggen van (C-)pins en het manipuleren van de lichtweerstanden en aanraakpunten bovenaan op het instrument. De datasheet en de elektronische schakeling vind je in de bijlage.
+
 Het instrument wordt ingeschakeld met de meest rechtse schakelaar in het rijtje van zeven bovenaan op het instrument. De drie schakelaars links -verbonden met de pin 27, 26 en 25- vormen samen de mixer. De combinatie van standen bepalen of we de VCO, LFO, Noice filter of een mix van ervan te horen is (zie datasheet). De twee schakelaars naast de drie schakelaars van de mixer zijn verbonden met pin 1 en 28 van de chip en bepalen op welke geluiden de enveloppe-functie vat heeft (zie datasheet). Hiermee wordt ook de one-shot, de momentschakelaar rechts onderaan op het bedieningspaneel, ingeschakeld. De stand van de schakelaar naast de aan- en uitschakelaar ten slotte betaalt of de VCO intern of via de drie aanrakingspunten wordt aangestuurd.  
+
 Onder de schakelaars zien we zes mini-jackingangen. Via de derde ingang van links (12 ex) kan er extern signaal worden aangesloten. Ook via de mini-jackingang op de linker zijkant kan er via een buffer (zie datasheet en schema) een extern signaal hoorbaar worden gemaakt. De andere vijf mini-jackingangen worden geschakeld met c-pins, een mannelijke jack waartussen de tip en de sleeve een condensator is gesoldeerd. De waardes van deze condensatoren bepalen het bereik van de VCO (17), de attack en decay (ad 8), noice filter (rs 6) en de LFO (21) en de lengte van de one-shot (O.S. 23). De precieze waarde van de decay, ruis, VCO en LFO wordt bepaald door de lichtintensiteit die op de lichtweerstanden met het betreffende bijschrift vallen.
+
 Met de onderste lichtweerstand wordt het volume beïnvloed. 
+
 Op de rechter zijkant van het kistje zien we een piezoplaatje (driver) waarop een haakje is gesoldeerd. Deze is verbonden met de uitgang. Op die manier kunnen veren of snaren worden aangestuurd. Het signaal van hiervan kan op zijn beurt des gewenst terug worden opgepikt (reverb) en gebruikt als extern signaal (feedback).
 Aan de achterzijde van het kistje zien we de stereo-uitgang (TRS 6,3 mm).
+
 Onderaan het kistje zien we de schakelingen. Raes gebruikte een PCB van een Velleman-kit (zie bijlage) waarvan hij de schakeling volledig herwerkte. Bovenaan zien we een gaatjesprint (1,5 cm en 6,5 cm) met de driverschakeling van de piezo. Onderaan is een uitsparing voorzien voor de voeding, namelijk twee blokbatterijen die parallel geschakeld zijn.        
 
 #### Speelwijze, repertoire en inzet in producties

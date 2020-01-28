@@ -41,8 +41,11 @@ LOGOS 1983.02
 
 #### Beschrijving van het instrument
 Deze kraakdoos, een experimenteel elektronisch instrument, is gebouwd in een zwartgeverfd tabaksblik. Aan de ene smalle zijkant zien we de ultrasone luidspreker, aan de andere smalle zijde een 5-polige DIN-stekker die als uitgang kan worden gebruikt. Bovenop het doosje zien we een plaatje met 10 aanraakpunten.  
+
 Deze kraakdoos wordt bespeeld zoals andere kraakdozen. De geleidende aanraakpunten worden intuïtief met de vingers verbonden. Het resultaat van deze kraakdoos is echter niet hoorbaar. Zoals de naam reeds verraadt wekt deze namelijk (onhoorbare) ultrasonen op. Deze kraakdoos moet gebruikt worden in combinatie met een interface die ultrasoon geluid in hoorbare geluidsgolven omzet. Holosound is daar een voorbeeld van.
+
 Als we het doosje openen zien we de drie kabeltjes die de schakeling met de aanraakpunten verbindt.     
+
 Naast de DIN-stekker zien we een kwikschakelaar. Als de bel kwik de twee geleiders in het glazen buisje verbindt is het instrument ingeschakeld. Om te voorkomen dat de batterij leegloopt moet het instrument dus rechtop bewaard worden. Op de kleine gaatjesprint zien we de schakeling op basis van een 555 timer-chip
 
 #### Speelwijze, repertoire en inzet in producties

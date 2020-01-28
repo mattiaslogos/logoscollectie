@@ -42,8 +42,11 @@ LOGOS 74.02
 
 #### Beschrijving van het instrument
 De optorgofoon is in een rechthoekige massief houten (1 cm dik) kist gebouwd. De ingefreesde zijkant met gleuf, waar de voedingsconnector (220V) zich bevindt, verraadt dat de kist ooit een fichebak was. Op de onderkant van het instrument is een inox plaat gevezen waarop een ronde inox stang (32 cm lang, 1,2 diameter) is vast gelast. Op deze manier kan het instrument op een statief worden geplaatst. 
+
 Aan de voorkant van het instrument is door het plexiglas de printplaat met de daarop gesoldeerde componenten zichtbaar. Op het plexiglas is een sticker met “LOGOS FOUNDATION” gekleefd. Op de achterkant van het instrument is een ijzeren grille gevezen. Als we deze grille verwijderen, zien we twee ronde gaten waarachter de speaker zich bevindt.
+
 Op de printplaat zien we verschillende horizontale rijen met componenten. Onderaan zien we twaalf lichtweerstanden die elk in een metalen kokertje huizen. Boven elke lichtweerstand zien we drie trimpotmeters met daarboven telkens een dubbel-T oscillator schakeling (zie bijlage). De lichtweerstand is telkens met één van deze trimpots in serie geschakeld (de andere twee trimpots zijn niet in gebruik). De som van de weerstand van de trimpots en de lichtweerstand bepaalt de toonhoogte. De lichtintensiteit (en dus de weerstand van de LDR) wordt bepaald door de bespeler. De trimpots zijn van links naar rechts van met een stijgende waarde ingesteld. 
+
 In de linker bovenhoek zien we een rietcontact. Door een sterke magneet tegen dit contact te houden, wordt de vibratomudule ingeschakeld (zie scan).
 Als we het plexiglas en de printplaat losvijzen zien we in de kist aan de ene kant van de luidspreker de transformator en de elektrische voeding (een Vellemankit met een LM317). Aan de andere kant van de luidspreker zien we de printplaat met de versterkerschakeling (met een LM380). Met behulp van de potentiometer onderaan de printplaat kan het volume van het instrument worden ingesteld.
 

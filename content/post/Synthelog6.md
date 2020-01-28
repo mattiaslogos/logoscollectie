@@ -39,8 +39,11 @@ H x B x L: 6 x 12 x 13
 
 #### Beschrijving van het instrument
 De synthelog 6 gebouwd in een metalen behuizing op 4 rubberen pootjes. Op het achterpaneel van het instrument zien we twee vrouwelijke jackingangen. De ene is de uitgang (OUT) via de andere kan een extern signaal worden aangesloten (IN).
+
 De synthesizer is gebouwd rond de IC SN94281 (identiek aan de SN76495). Inzicht in de werking van deze eenvoudige chip verduidelijkt de werking van de synthesizer. Je vind zowel de datasheet in de bijlage. 
+
 Op het frontpaneel zien we rechts de aan- en uitschakelaar. Met de potentiometer links onderaan op het frontpaneel bepaal je het volume en met de schakelaar er naast bepaal je of de hoe de VCO gemoduleerd wordt (pin 13). De drie schakelaars links boven op het frontpaneel vormen samen de mixer. De logische standen van de schakelaars (pin 14, 15 en 16) bepalen welke klanken je hoort. De mogelijke combinaties en de daaruit volgende resultaten staan onderaan met stift op het instrument geschreven. Met de drie vierkante schakelaars en de telkens overeenkomstige vrouwelijk mini-jack bepaal je respectievelijk de range en de verfijning van de VCO1, VCO2 eb RUIS. De vrouwelijke mini-jacks werden geschakeld met R-pin (een weerstand wordt dan tussen de tip en de sleeve van de jack gesoldeerd) of met speciaal daarvoor ontworpen kabels die leiden naar een lichtweerstand (zie foto’s). 
+
 Als we het metalen deksel van het chassis verwijderen zien we de PCB met schakeling die je beiden gedocumenteerd vindt in de bijlage. Op de batterijclip moet een 9-volt blokbatterij worden aangesloten.  
 
 #### Speelwijze, repertoire en inzet in producties

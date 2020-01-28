@@ -44,6 +44,7 @@ LOGOS 72.06
 #### Beschrijving van het instrument
 De tab-tone organ synth is gebouwd in een plastic behuizing met een metalen bovenplaat. Op de achterzijde staat “WERKGROEP LOGOS” te lezen.
 Deze synthesizer bevat twee modules die klank opwekken, namelijk de tap-tone-module en de orgelmodule.
+
 De tap-tone-module bestaat uit vijf dubbel-T-oscillatoren (Twin-T). Deze kunnen worden aangestuurd door de vijf taps onderaan links (ingangen van banaanstekkertjes) op het frontpaneel met de vinger aan te raken. De klankkleur van elke tabs kan worden ingesteld met één van de vijf potmeters die zich boven de taps bevinden. De instelling hiervan is erg kritisch. Als de potmeter te ver wordt opengedraaid, gaat de oscillator ook zonder het aanraken van de tab oscilleren. Op die manier kunnen ook vijf verschillende frequenties worden ingesteld. De grote potmeter in de linker bovenhoek van het frontpaneel bepaalt het volume van deze module. 
 
 Met de twaalf rode momentschakelaartjes bedien je de verschillende toonhoogten van het monofoon orgeltje. De toonhoogten kunnen met behulp van trimpots op de schakeling worden bepaald. De potmeter rechts boven de momentschakelaars heeft invloed op de frequentie van elke schakelaar. Met de potmeter met bijschrift “vol.org” betaal je het volume van het orgeltje. 

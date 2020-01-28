@@ -44,6 +44,7 @@ LOGOS
 #### Beschrijving van het instrument
 Three Nuns is gebouwd voor de gelijknamige performance en bestaat uit twee identieke samplers die telkens met een kabel en een bakelieten telefoonhoorn verbonden zijn.   
 De 8-bit samplers zijn ingebouwd in een tabaksblik van Three Nuns. Via een vrouwelijke jackingang wordt de telefoonhoorn aangesloten. Deze fungeert eigenlijk enkel als microfoon. De din-plug naast is de uitgang die verbonden wordt met een mixtafel of versterker. De sampler is gebaseerd op een pcb met schakeling die ontworpen werd voor antwoordapparaten. Door het induwen van een klein knopje kan er een kort tekstje worden opgenomen. Bij het indrukken van het andere kleine knopje wordt deze opnieuw afgespeeld. 
+
 Op de zijkant zien we een zwarte draaiknop. Met deze variabele condensator kan de snelheid van het opgenomen geluid worden gewijzigd. Ook bij het opnemen kan je de snelheid op dezelfde wijze manipuleren.  
 
 #### Speelwijze, repertoire en inzet in producties
