@@ -64,3 +64,14 @@ Verloren
 {{< load-photoswipe >}}
 {{< gallery dir="/img/Nail_Violin" />}}
 
+##### pdf-bestanden
+[Partituur Junks] (/logoscollectie/pdf/Nail_Violin/Partituur%20junks.pdf)
+
+##### Audio
+Junks:
+
+<audio controls>
+<source src="/logoscollectie/audio/Nail_Violin/Junks_IV_CR3.2.wav" type="audio/wav">
+<source src="/logoscollectie/audio/Nail_Violin/Junks_IV_CR3.2.wav" type="audio/x-wav">
+  Your browser doesn't support HTML5 audio. Here is a <a href="/logoscollectie/audio/Nail_Violin/Junks_IV_CR3.2.wav">link to the audio</a> instead.
+</audio>

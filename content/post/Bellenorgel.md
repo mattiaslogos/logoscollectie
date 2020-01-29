@@ -82,6 +82,12 @@ Bellenorgel vormt samen met Beltotem en Beltelefoon een triptiek.
 ##### Video
 <iframe width="45%" height="315" src="https://www.youtube.com/embed/OObtIDI0NLE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+##### Audio
+<audio controls>
+<source src="/logoscollectie/audio/Bellenorgel/Bellenorgel-fragment.wav" type="audio/wav">
+<source src="/logoscollectie/audio/Bellenorgel/Bellenorgel-fragment.wav" type="audio/x-wav">
+  Your browser doesn't support HTML5 audio. Here is a <a href="/logoscollectie/audio/Bellenorgel/Bellenorgel-fragment.wav">link to the audio</a> instead.
+</audio>
 
 
 

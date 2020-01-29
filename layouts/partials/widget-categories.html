@@ -1,6 +1,6 @@
 <div class="card">
     <div class="card-content">
-        <h1 class="title is-5">Categori&euml;n</h1>
+        <h1 class="title is-5">Categorie&euml;n</h1>
         <div class="date">
         {{ range $name, $taxonomy := .Site.Taxonomies.categories }}
             <span class="tag"><a href="{{ "categories" | absURL }}/{{ $name | urlize }}">{{ $name }}</a></span>

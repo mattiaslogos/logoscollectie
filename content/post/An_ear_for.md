@@ -88,3 +88,8 @@ Seriële printerpoorten zijn in onbruik geraakt en niet meer aanwezig op moderne
 ##### Afbeeldingen
 {{< load-photoswipe >}}
 {{< gallery dir="/img/An_ear_for" />}}
+
+
+##### pdf-bestanden
+[Ears scan] (/logoscollectie/pdf/An_ear_for/Scan%20Ears.pdf)
+

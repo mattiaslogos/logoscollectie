@@ -69,4 +69,13 @@ Verloren
 ##### pdf-bestanden
 [Bicorbassoon] (/logoscollectie/pdf/Bicorbassoon/Bicorbassoon.pdf)
 
+[Partituur Junks](/logoscollectie/pdf/Bicorbassoon/Partituur%20junks.pdf)
 
+##### Audio
+Junks:
+
+<audio controls>
+<source src="/logoscollectie/audio/Bicorbassoon/Junks_IV_CR3.2.wav" type="audio/wav">
+<source src="/logoscollectie/audio/Bicorbassoon/Junks_IV_CR3.2.wav" type="audio/x-wav">
+  Your browser doesn't support HTML5 audio. Here is a <a href="/logoscollectie/audio/Bicorbassoon/Junks_IV_CR3.2.wav">link to the audio</a> instead.
+</audio>

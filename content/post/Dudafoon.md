@@ -76,3 +76,21 @@ Brom en ruis. Magnetische pick-ups hebben heel wat van hun magnetisme verloren.
 
 ##### pdf-bestanden
 [Dudafoon 1972](/logoscollectie/pdf/Dudafoon/Dudafoon1972.pdf)
+
+[Partituur Junks](/logoscollectie/pdf/Dudafoon/Partituur%20junks.pdf)
+
+
+##### Audio
+<audio controls>
+<source src="/logoscollectie/audio/Dudafoon/Dudafoon_LP7002B.4.wav" type="audio/wav">
+<source src="/logoscollectie/audio/Dudafoon/Dudafoon_LP7002B.4.wav" type="audio/x-wav">
+  Your browser doesn't support HTML5 audio. Here is a <a href="/logoscollectie/audio/Dudafoon/Dudafoon_LP7002B.4.wav">link to the audio</a> instead.
+</audio>
+
+
+<audio controls>
+<source src="/logoscollectie/audio/Dudafoon/Junks_IV_CR3.2.4.wav" type="audio/wav">
+<source src="/logoscollectie/audio/Dudafoon/Junks_IV_CR3.2.4.wav" type="audio/x-wav">
+  Your browser doesn't support HTML5 audio. Here is a <a href="/logoscollectie/audio/Dudafoon/Junks_IV_CR3.2.4.wav">link to the audio</a> instead.
+</audio>
+

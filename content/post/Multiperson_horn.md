@@ -67,3 +67,13 @@ De hoorn werd later gebruikt voor de soundsculptuur Kolpia die deel uitmaakt van
 ##### pdf-bestanden
 [Drieblazershoorn](/logoscollectie/pdf/Multiperson_horn/Drieblazershoorn.pdf)
 
+[Partituur Junks](/logoscollectie/pdf/Multiperson_horn/Partituur%20junks.pdf)
+
+##### Audio
+Junks:
+
+<audio controls>
+<source src="/logoscollectie/audio/Multiperson_horn/Junks_IV_CR3.2.wav" type="audio/wav">
+<source src="/logoscollectie/audio/Multiperson_horn/Junks_IV_CR3.2.wav" type="audio/x-wav">
+  Your browser doesn't support HTML5 audio. Here is a <a href="/logoscollectie/audio/Multiperson_horn/Junks_IV_CR3.2.wav">link to the audio</a> instead.
+</audio>

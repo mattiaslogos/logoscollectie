@@ -256,3 +256,11 @@ Pneumafoon-performance 17:54
 <source src="/logoscollectie/audio/Pneumafoon/C506-2.wav" type="audio/x-wav">
   Your browser doesn't support HTML5 audio. Here is a <a href="/logoscollectie/audio/Pneumafoon/C506-2.wav">link to the audio</a> instead.
 </audio>
+
+
+<audio controls>
+<source src="/logoscollectie/audio/Pneumafoon/pneumafoon-impro.wav" type="audio/wav">
+<source src="/logoscollectie/audio/Pneumafoon/pneumafoon-impro.wav" type="audio/x-wav">
+  Your browser doesn't support HTML5 audio. Here is a <a href="/logoscollectie/audio/Pneumafoon/pneumafoon-impro.wav">link to the audio</a> instead.
+</audio>
+
