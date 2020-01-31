@@ -2,10 +2,18 @@
 title = "Bellenorgel"
 description = ""
 tags = [
+  "bel",
+"sirene",
+"slaan",
+"claxon",
+"openbare-ruimte"
 ]
 date = "1972-01-01"
 dates = "1972"
 categories = [
+  "akoestisch",
+"elektro-akoestisch",
+"klanksculptuur"
 ]
 alfabetisch = ["B"
 ]

@@ -2,10 +2,14 @@
 title = "Ruisgenerator - ritmizator"
 description = ""
 tags = [
+  "geluidseffect",
+"verloren",
+"VCA",
+"synthesizer"
 ]
 date = "1971-01-01"
 dates = "1971"
-categories = [
+categories = [ "elektronisch"
 ]
 alfabetisch = ["R"
 ]

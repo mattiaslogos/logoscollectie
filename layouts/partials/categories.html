@@ -1,15 +1,10 @@
-<!-- layouts/partials/tags.html -->
-
 {{ $taxonomy := "categories" }}
 {{ with .Param $taxonomy }}
-<h4>Categorieën</h4>
-  <ul>
-    {{ range $index, $cat := . }}
+<h1 class="is-size-5">Categorieën</h1>
+    <p>{{ range $index, $cat := . }}
       {{ with $.Site.GetPage (printf "/%s/%s" $taxonomy $cat) -}}
-        <li>
-          <a href="{{ .Permalink }}">{{ $cat | urlize }}</a>
-        </li>
+          <a class="is-size-7" href="{{ .Permalink }}">{{ $cat | urlize }}&nbsp;</a>
       {{- end -}}
     {{- end -}}
-  </ul>
+	</p>
 {{ end }}

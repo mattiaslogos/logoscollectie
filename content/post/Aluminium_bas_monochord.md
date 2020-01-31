@@ -2,10 +2,17 @@
 title = "Aluminium bas monochord"
 description = ""
 tags = [
+    "pick-up",
+"slaan",
+"snaar",
+"strijken",
+"tokkelen",
+"verloren"
 ]
 date = "1970-01-01"
 dates = "1970"
 categories = [
+    "elektro-akoestisch"
 ]
 alfabetisch = ["A"
 ]

@@ -2,10 +2,13 @@
 title = "Ring modulator (1980)"
 description = ""
 tags = [
+    "geluidseffect",
+"ringmodulator",
+"tabaksblik"
 ]
 date = "1980-01-01"
 dates = "1980"
-categories = [
+categories = [ "elektronisch"
 ]
 alfabetisch = ["R"
 ]

@@ -67,7 +67,7 @@ Synthelog 3 is de herwerkte versie van Synthelog 2. Raes ontwierp voor dit type 
 {{< gallery dir="/img/Synthelog3" />}}
 
 ##### pdf-bestanden
-[Elektrische schema's, PCB en bouwbeschrijving synthelog 3 (versie 2)](/logoscollectie/pdf/Synthelog3/Elektrische%20schema's,%20PCB%20en%20bouwbeschrijving%20synthelog%203%20(versie%202).pdf)
+[Elektrische schema's, PCB en bouwbeschrijving synthelog 3, versie 2](/logoscollectie/pdf/Synthelog3/Elektrische%20schemas%20PCB%20en%20bouwbeschrijving%20synthelog%203_v2.pdf)
 
 [Scan synthelog 3](/logoscollectie/pdf/Synthelog3/Scan%20synthelog%203.pdf)
 

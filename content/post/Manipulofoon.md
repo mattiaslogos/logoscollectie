@@ -2,10 +2,13 @@
 title = "Manipulofoon"
 description = ""
 tags = [
+    "magneetband+leeskop",
+"sampler"
 ]
 date = "1982-01-01"
 dates = "1982"
 categories = [
+    "elektro-akoestisch"
 ]
 alfabetisch = ["M"
 ]

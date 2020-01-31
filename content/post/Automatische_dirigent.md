@@ -2,10 +2,14 @@
 title = "Automatische dirigent"
 description = ""
 tags = [
+    "interface",
+"verloren"
+
 ]
 date = "1968-01-01"
 dates = "1968"
 categories = [
+    "elektro-akoestisch"
 ]
 alfabetisch = ["A"
 ]

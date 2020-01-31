@@ -2,10 +2,13 @@
 title = "Klanksplitser en vierkanaalsomschakelaar"
 description = ""
 tags = [
+    "geluidseffect",
+"verloren"
 ]
 date = "1971-01-01"
 dates = "1971"
 categories = [
+"elektronisch"
 ]
 alfabetisch = ["K"
 ]

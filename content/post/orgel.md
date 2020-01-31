@@ -2,10 +2,13 @@
 title = "Orgel"
 description = ""
 tags = [
+    "verloren",
+"oscillator",
+"toetsen"
 ]
 date = "1967-01-01"
 dates = "1967"
-categories = [
+categories = [ "elektronisch"
 ]
 alfabetisch = ["O"
 ]
@@ -21,7 +24,7 @@ summary = "<p>Raes bouwde in zijn tienerjaren een elektrisch orgel. Hij gebruikt
 Stichting Logos
 
 **Titel**
-
+Orgel
 
 **Productie**
 Gebouwd door Godfried-Willem Raes te Gent

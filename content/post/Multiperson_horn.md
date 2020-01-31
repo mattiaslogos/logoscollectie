@@ -2,10 +2,14 @@
 title = "Multiperson-horn"
 description = ""
 tags = [
+  "blazen/lucht",
+"exponentiële-hoorn",
+"verloren"
 ]
 date = "1980-01-01"
 dates = "1980"
 categories = [
+  "akoestisch"
 ]
 alfabetisch = ["M"
 ]

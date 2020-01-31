@@ -2,10 +2,12 @@
 title = "Diode compressor"
 description = ""
 tags = [
+    "geluidseffect",
+"tabaksblik"
 ]
 date = "1974-01-01"
 dates = "1974"
-categories = [
+categories = [ "elektronisch"
 ]
 alfabetisch = ["D"
 ]

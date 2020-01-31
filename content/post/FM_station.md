@@ -2,10 +2,13 @@
 title = "FM-zender"
 description = ""
 tags = [ 
+"verloren",
+"ringmodulator"
 ]
 date = "1965-01-01"
 dates = "1965"
 categories = [
+    "elektronisch"
 ]
 alfabetisch = ["F"
 ]

@@ -2,10 +2,19 @@
 title = "Fingerboard 1"
 description = ""
 tags = [ 
+    "contactmicrofoon",
+"duimpiano",
+"slaan",
+"snaar",
+"strijken",
+"veer",
+"bel",
+"verloren"
 ]
 date = "1975-01-01"
 dates = "1975"
 categories = [
+    "elektro-akoestisch"
 ]
 alfabetisch = ["F"
 ]

@@ -2,10 +2,16 @@
 title = "Ultrasone kraakdoos"
 description = ""
 tags = [
+    "kraakdoos",
+"aanraakpunten",
+"555",
+"oscillator",
+"tabaksblik"
 ]
 date = "1983-01-01"
 dates = "1983"
 categories = [
+    "elektronisch"
 ]
 alfabetisch = ["U"
 ]

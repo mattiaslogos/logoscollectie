@@ -2,10 +2,12 @@
 title = "Vervormer voor monochorden"
 description = ""
 tags = [
+    "verloren",
+"geluidseffect"
 ]
 date = "1972-01-01"
 dates = "1972"
-categories = [
+categories = [ "elektronisch"
 ]
 alfabetisch = ["V"
 ]

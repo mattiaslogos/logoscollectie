@@ -2,10 +2,19 @@
 title = "Sirene"
 description = ""
 tags = [
+    "sirene",
+"interface",
+"openbare-ruimte",
+"bewegingsdetectie",
+"tabaksblik",
+"555"
 ]
 date = "1986-01-01"
 dates = "1986"
 categories = [
+    "akoestisch",
+"elektro-akoestisch",
+"klanksculptuur"
 ]
 alfabetisch = ["S"
 ]

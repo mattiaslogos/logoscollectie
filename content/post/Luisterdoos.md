@@ -2,10 +2,15 @@
 title = "Luisterdoos"
 description = ""
 tags = [
+    "contactmicrofoon",
+"verloren",
+"tabaksblik",
+"voorversterker"
 ]
 date = "1976-01-01"
 dates = "1976"
 categories = [
+    "elektro-akoestisch"
 ]
 alfabetisch = ["L"
 ]

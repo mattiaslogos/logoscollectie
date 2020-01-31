@@ -2,10 +2,16 @@
 title = "Pneumafoon"
 description = ""
 tags = [
+  "pvc-buis",
+  "vel",
+  "blazen/lucht",
+  "exponentiële-hoorn"
 ]
 date = "1983-01-01"
 dates = "1983"
 categories = [
+  "akoestisch",
+"klanksculptuur"
 ]
 alfabetisch = ["P"
 ]

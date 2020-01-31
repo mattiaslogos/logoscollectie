@@ -2,10 +2,14 @@
 title = "Zingende zaag"
 description = ""
 tags = [
+    "strijken",
+"slaan",
+"verloren"
 ]
 date = "1973-01-01"
 dates = "1973"
 categories = [
+"akoestisch"
 ]
 alfabetisch = ["Z"
 ]

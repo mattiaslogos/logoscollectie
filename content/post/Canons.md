@@ -2,10 +2,14 @@
 title = "Canons"
 description = ""
 tags = [
+    "vuur",
+"verloren"
 ]
 date = "1980-01-01"
 dates = "1980"
 categories = [
+    "akoestisch",
+"elektro-akoestisch"
 ]
 alfabetisch = ["C"
 ]

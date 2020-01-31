@@ -1,11 +1,12 @@
 +++
 title = "An ear for ..."
 description = ""
-tags = [
+tags = [ "interface"
 ]
 date = "1989-01-01"
 dates = "1989"
 categories = [
+    "digitaal"
 ]
 alfabetisch = ["A"
 ]

@@ -2,10 +2,14 @@
 title = "Theremin"
 description = ""
 tags = [
+    "oscillator",
+"ringmodulator",
+"synthesizer",
+"verloren"
 ]
 date = "1968-01-01"
 dates = "1968"
-categories = [
+categories = [ "elektronisch"
 ]
 alfabetisch = ["T"
 ]

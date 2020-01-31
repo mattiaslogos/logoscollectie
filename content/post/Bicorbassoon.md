@@ -2,10 +2,13 @@
 title = "Bicorbassoon"
 description = ""
 tags = [
+  "verloren",
+  "blazen/lucht"
 ]
 date = "1975-01-01"
 dates = "1975"
 categories = [
+  "akoestisch"
 ]
 alfabetisch = ["B"
 ]

@@ -2,11 +2,11 @@
 title = "Dual synthelog"
 description = ""
 tags = [
-"synthelog", "SN76477", "c-pin", "toetsen", "oscillator"
+"pin", "synthelog", "SN76477", "c-pin", "toetsen", "oscillator", "synthesizer"
 ]
 date = "1983-01-01"
 dates = "1983"
-categories = ["synthesizer"
+categories = [ "elektronisch"
 ]
 alfabetisch = ["D"
 ]

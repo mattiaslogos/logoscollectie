@@ -2,10 +2,13 @@
 title = "Cassettemanipulofoon"
 description = ""
 tags = [
+    "magneetband+leeskop",
+"verloren",
+"sampler"
 ]
 date = "1984-01-01"
 dates = "1984"
-categories = [
+categories = [ "elektro-akoestisch"
 ]
 alfabetisch = ["C"
 ]

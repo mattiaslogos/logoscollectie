@@ -2,10 +2,13 @@
 title = "Ring modulator (1970)"
 description = ""
 tags = [
+    "geluidseffect",
+"ringmodulator",
+"verloren"
 ]
 date = "1970-01-01"
 dates = "1970"
-categories = [
+categories = [ "elektronisch"
 ]
 alfabetisch = ["R"
 ]

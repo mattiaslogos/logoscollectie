@@ -2,10 +2,14 @@
 title = "Nail Violin"
 description = ""
 tags = [
+  "strijken",
+"exponentiële-hoorn",
+"verloren"
 ]
 date = "1975-01-01"
 dates = "1975"
 categories = [
+  "akoestisch"
 ]
 alfabetisch = ["N"
 ]
