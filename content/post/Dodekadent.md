@@ -41,7 +41,8 @@ H x B x L: 14 x 76 x 26
 
 Voedingsmodule
 
-H x B x L: 22 x 29 x 25 
+H x B x L: 22 x 29 x 25
+
 **Classificatie**
 531.23
 
@@ -72,37 +73,23 @@ De voeding (15 Volt dual power supply) moet worden aangesloten. De pin-out vind 
 #### Inscripties
 *Voedingsmodule:*
 
-DODEKADENT
-
-MOD. OFF ON
-
-OFF ON
-
-H L 
-
-SINGLE ALTERNATE
-
-ATTENTION! CHECK FOR MANUAL ANS ACCESSORIES IN PACKING
-
+- DODEKADENT
+- MOD. OFF ON
+- OFF ON
+- H L 
+- SINGLE ALTERNATE
+- ATTENTION! CHECK FOR MANUAL AND ACCESSORIES IN PACKING
 
 
 *Bedieningsmodule:*
-
-WERKGROEP LOGOS
-
-OUTPUT 1, OUTPUT 2, OUTPUT 3, OUTPUT 4
-
-F1 f2 f3 f4 f5 f6 f7 f8 f9 f10 f11 f12
-
-Fglob.
-
-Dodekadent
-
-On off (3x)
-
-PORTAMENTO
-
-f1-3 f4-6 f7-9 f10-12
+- WERKGROEP LOGOS
+- OUTPUT 1, OUTPUT 2, OUTPUT 3, OUTPUT 4
+- F1 f2 f3 f4 f5 f6 f7 f8 f9 f10 f11 f12
+- Fglob.
+- Dodekadent
+- On off (3x)
+- PORTAMENTO
+- f1-3 f4-6 f7-9 f10-12
 
 #### Staat van het instrument
 In werkende staat. Enkel de twee klankeffecten op de voedingsmodule functioneren niet zoals het hoort. Dit is mogelijkerwijs het gevolg van defecte condensatoren. 

@@ -14,12 +14,12 @@ categories = [ "elektronisch"
 alfabetisch = ["R"
 ]
 menu = "main"
-summary = "<a href='/logoscollectie/1971/ruisgenerator_ritmisator'><img src='/logoscollectie/img/Ruisgenerator_ritmizator/Tekening'></a><p>Bij dit instrument wordt een noise-module met flip-flop-schakelingen aangestuurd.</p>"
+summary = "<a href='/logoscollectie/1971/ruisgenerator_ritmisator'><img src='/logoscollectie/img/Ruisgenerator_ritmizator/Tekening%20Ruisgenerator%20-%20rirmizator-thumb.png'></a><p>Bij dit instrument wordt een noise-module met flip-flop-schakelingen aangestuurd.</p>"
 +++
 
 # Ruisgenerator - ritmizator (1971)
 ![Ruisgenerator en Ritmisator][afb1]
-[afb1]: /logoscollectie/img/Ruisgenerator_ritmizator/Tekening Ruisgenerator - rirmizator-thumb.png "Ruisgenerator en Ritmisator"
+[afb1]: /logoscollectie/img/Ruisgenerator_ritmizator/Tekening%20Ruisgenerator%20-%20rirmizator-thumb.png "Ruisgenerator en Ritmisator"
 
 **Collectie**
 Stichting Logos

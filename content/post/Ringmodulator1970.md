@@ -13,12 +13,12 @@ categories = [ "elektronisch"
 alfabetisch = ["R"
 ]
 menu = "main"
-summary = "<a href='/logoscollectie/1970/ringmodulator1970'><img src='/logoscollectie/img/Ringmodulator1970/Ringmodulator%201970%20(tekening)-thumb.jpg'></a><p>Deze passieve ringmodulator was in een metalen chassis met schuin oplopend bedieningspaneel ondergebracht.</p>"
+summary = "<a href='/logoscollectie/1970/ringmodulator1970'><img src='/logoscollectie/img/Ringmodulator1970/Ringmodulator%201970%20(tekening)-thumb.png'></a><p>Deze passieve ringmodulator was in een metalen chassis met schuin oplopend bedieningspaneel ondergebracht.</p>"
 +++
 
 # Ring modulator (1970)
 ![Ringmodulator 1970][afb1]
-[afb1]: /logoscollectie/img/Ringmodulator1970/Ringmodulator%201970%20(tekening)-thumb.jpg "Ringmodulator 1970"
+[afb1]: /logoscollectie/img/Ringmodulator1970/Ringmodulator%201970%20(tekening)-thumb.png "Ringmodulator 1970"
 
 **Collectie**
 Stichting Logos

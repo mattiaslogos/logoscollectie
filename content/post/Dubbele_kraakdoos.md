@@ -54,17 +54,17 @@ Om het instrument te bespelen moet de schakelaar in het doosje worden aangezet.
 
 #### Inscripties
 Op het doosje:
-Balmoral Oxford
+- Balmoral Oxford
 
 In het doosje:
-RAES
+- RAES
 
-#### Op het printje twee maal:
-KRAAKDOOS
-Logos Electronics Labs
-Logos
--9v +9v
-speaker
+Op het printje twee maal:
+- KRAAKDOOS
+- Logos Electronics Labs
+- Logos
+- -9v +9v
+- speaker
 
 #### Staat van het instrument
 In werkende staat

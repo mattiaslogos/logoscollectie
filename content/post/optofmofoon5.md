@@ -53,10 +53,10 @@ Niet van torpassing
 #### Inscripties
 - Raes 
 - Logos 
-- 5/1988
+- 5 / 1988
 - Optofmofoon
-- /5
-- 1/1
+- / 5
+- 1 / 1
 - Made in Belgium
 
 #### Staat van het instrument

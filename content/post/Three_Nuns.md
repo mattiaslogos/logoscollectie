@@ -54,7 +54,7 @@ De performance gaat over miscommunicatie. De performence houden onderling nonsen
 De sampler wordt gevoed met een 9V blokbatterij. Om deze te vervangen moet het doosje geopend worden. Via de din-plug worden beide samplers op een mengpaneel of versterker aangesloten. 
 
 #### Inscripties
-- Buiten50 g TOBACCO E
+- Buiten: 50 g TOBACCO E
 - BELL’S
 - Three Nubs
 - TOBACCO
