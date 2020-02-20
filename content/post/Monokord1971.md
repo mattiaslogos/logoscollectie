@@ -5,7 +5,7 @@ tags = [ "contactmicrofoon", "pick-up", "snaar", "strijken", "slaan", "tokkelen"
 ]
 date = "1971-01-01"
 dates = "1971"
-categories = ["elektro-akoestisch"
+categories = ["elektroakoestisch"
 
 ]
 alfabetisch = ["M"

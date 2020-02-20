@@ -4,11 +4,12 @@ description = ""
 tags = [ 
 "Kraakdoos", 
 "aanraakpunten",
-"versterkt/speaker"
+"ingebouwde-versterker",
+"synthesizer"
 ]
 date = "1976-01-01"
 dates = "1976"
-categories = ["synthesizer"
+categories = [ "elektronisch"
 
 ]
 alfabetisch = ["K"
@@ -47,7 +48,7 @@ LOGOS 76.02
 #### Beschrijving van het instrument
 De kraakdoos, een experimenteel elektronisch instrument, is gebouwd rond een houten sigarenkistje (Balmoral Cardinal) met een gescharnierd deksel en een koperen slotje. In de rechterbovenhoek van het deksel zien we de aan- en uitschakelaar. Centraal op het deksel ligt de printplaat met zeven aanrakingspunten. Boven de aanraakpunten zien we de onderkant van de vast gesoldeerde componenten. Op het printje staat “KRAAKDOOS, logos, Logos Electronics Lab 1976. 2 rev. 02.2019” te lezen. Ook de ook de aansluitpunten van de speaker en de -9v en +9v staan aangegeven. Aan de achterzijde van het kistje zien we de uitgang, een vrouwelijke stereojack (TRS 6,3mm). Door de bodem van het doosje zijn gaatjes geboord op de plaats waar binnenin de speaker is gelijmd. Twee houten spietjes, die op de bodem van het doosje zijn gelijmd, zorgen er voor dat het geluid van de speaker niet wordt gedempt. Op de onderkant staat in potlood “Raes ‘76” geschreven.
 
-Aan de binnenkant zien we dat de elektronische schakeling door een vierkant gat in het dekseltje. De schakeling van deze kraakdoos is gebaseerd op de schakeling die Michel Waisvisz voor zijn kraakdozen in 1975 ontwikkelde. Wel werd er één aanrakingspunt toegevoegd die via een weerstand van 1,2kOhm aan pin 5 van de op-amp is verbonden. De schakeling is met kabeltjes verbonden met het houdertje van de 9V blokbatterij, het speakertje (8 Ohm), de transfo (type 437-049) en de vrouwelijke stereojack die in het kistje zijn vastgelijmd. Het elektrische schema van deze kraakdoos vind je in de bijlage.
+Aan de binnenkant zien we dat de elektronische schakeling door een vierkant gat in het dekseltje. De schakeling van deze kraakdoos is gebaseerd op de schakeling die Michel Waisvisz voor zijn kraakdozen in 1975 ontwikkelde. Wel werd er één aanrakingspunt toegevoegd die via een weerstand van 1,2kOhm aan pin 5 van de opamp is verbonden. De schakeling is met kabeltjes verbonden met het houdertje van de 9V blokbatterij, het speakertje (8 Ohm), de transfo (type 437-049) en de vrouwelijke stereojack die in het kistje zijn vastgelijmd. Het elektrische schema van deze kraakdoos vind je in de bijlage.
 
 
 #### Speelwijze, repertoire en inzet in producties

@@ -5,7 +5,7 @@ tags = [ "pick-up", "veer", "snaar", "voorversterker", "tokkelen"
 ]
 date = "1973-01-01"
 dates = "1973"
-categories = ["elektro-akoestisch"
+categories = ["elektroakoestisch"
 
 ]
 alfabetisch = ["E"
@@ -62,7 +62,7 @@ Het instrument moet met een kabel met een mannelijke monojack (TS 6,3 mm) via ee
 In werkende staat
 
 #### Historiek van het instrument
-De oorspronkelijke voorversterker was opgebouwd met een enkele germaniumtransistor (AC126) op een gaatjesprint en had de positieve pool aan massa, zoals dat het geval was bij heel wat historische schakelingen met dit type transistor. In 2019 werd deze vervangen door een pcb met een  voorversterkerschakeling uit 2002 met de low-noice operationele versterker OP27. Hierdoor verbeterde de signaal-ruisverhouding aanzienlijk. Ook de batterijclip werd vervangen en het instrument werd opnieuw vernist.
+De oorspronkelijke voorversterker was opgebouwd met een enkele germaniumtransistor (AC126) op een gaatjesprint en had de positieve pool aan massa, zoals dat het geval was bij heel wat historische schakelingen met dit type transistor. In 2019 werd deze vervangen door een pcb met een  voorversterkerschakeling uit 2002 met de low-noise operationele versterker OP27. Hierdoor verbeterde de signaal-ruisverhouding aanzienlijk. Ook de batterijclip werd vervangen en het instrument werd opnieuw vernist.
 
 #### Problematieken
 Omwille van de grote afmeting van de ferrietmagneet is het instrument erg gevoelig voor brom signalen afkomstig van transformatoren. Deze moeten dus in de onmiddellijke omgeving vermeden worden.

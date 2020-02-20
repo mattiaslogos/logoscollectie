@@ -2,11 +2,11 @@
 title = "Synthelog for kids 2"
 description = ""
 tags = [
-"synthelog", "SN76495/SN94281", "vormingswerk", "lichtweerstand", "versterkt/speaker"
+"synthelog", "SN76495/SN94281", "vormingswerk", "lichtweerstand", "ingebouwde-versterker", "synthesizer"
 ]
 date = "1984-01-01"
 dates = "1984"
-categories = ["synthesizer"
+categories = [ "elektronisch"
 ]
 alfabetisch = ["S"
 ]
@@ -42,7 +42,7 @@ De synthelog for kids 2 is gebouwd in een houten deksel (vermoedelijk afkomstig 
 
 Op de achterkant van het instrument zien we een DIN-ingang. Met behulp van een plug die aan een batterijclip voor een blokbatterij van 9 volt hangt, kan de voeding worden aangesloten en wordt het instrument ingeschakeld. 
 
-Als we de vier houtschroeven op de onderkant los draaien kunnen we de vezelplaat van de behuizing halen. Centraal zien we een ge-etste pcb (zie bijlage) waarop de schakeling rond de ic SN94281 (identiek aan de SN76495) is gebouwd. De schakeling is een vereenovueigde versie van de demoschakeling uit de datasheet (zie bijlage). De mixer die in de chip is ingebouwd is zo geschakeld dat de noicemodule met filter, de SLF en de VCO allen hoorbaar zijn. Deze functies worden samen met het volume worden door de lichtweerstanden bepaald terwijl de waarden van de bepalende condensatoren vast zijn.    
+Als we de vier houtschroeven op de onderkant los draaien kunnen we de vezelplaat van de behuizing halen. Centraal zien we een ge-etste pcb (zie bijlage) waarop de schakeling rond de ic SN94281 (identiek aan de SN76495) is gebouwd. De schakeling is een vereenovueigde versie van de demoschakeling uit de datasheet (zie bijlage). De mixer die in de chip is ingebouwd is zo geschakeld dat de noisemodule met filter, de SLF en de VCO allen hoorbaar zijn. Deze functies worden samen met het volume worden door de lichtweerstanden bepaald terwijl de waarden van de bepalende condensatoren vast zijn.    
 
 #### Speelwijze, repertoire en inzet in producties
 Door de voeding aan te sluiten wordt de synthelog for kids aangezet. Het instrument is gemaakt voor vormingswerk met kinderen. Het is de bedoeling om het instrument intuïtief te bespelen. Door de lichtintensiteit op de LDR’s te wijzigen gaat de bespeler op zoek naar interessante geluiden en onderzoekt hij al luisterend wat de weerstanden met het geluid doen. Er zijn bewust geen handleidingen, partituren en op opschriften op het instrument.

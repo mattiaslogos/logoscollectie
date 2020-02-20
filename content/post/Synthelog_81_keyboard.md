@@ -2,11 +2,11 @@
 title = "Synthelog 81 keyboard"
 description = ""
 tags = [
-"synthelog", "interface", "toetsen"
+"synthelog", "interface", "toetsen", "synthesizer"
 ]
 date = "1981-01-01"
 dates = "1981"
-categories = ["synthesizer"
+categories = [ "elektronisch"
 ]
 alfabetisch = ["S"
 ]

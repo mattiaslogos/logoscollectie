@@ -2,11 +2,11 @@
 title = "Synthelog 6"
 description = ""
 tags = [
-"synthelog", "SN76495/SN94281", "lichtweerstand", "oscillator"
+"synthelog", "SN76495/SN94281", "lichtweerstand", "oscillator", "synthesizer"
 ]
 date = "1984-01-01"
 dates = "1984"
-categories = ["synthesizer"
+categories = [ "elektronisch"
 ]
 alfabetisch = ["S"
 ]

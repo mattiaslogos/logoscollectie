@@ -34,14 +34,10 @@ Gebouwd door Godfried-Willem Raes te Gent
 1971
 
 **Afmetingen**
-Bedieningsmodule
 
-H x B x L: 14 x 76 x 26
+*Bedieningsmodule:*  H x B x L: 14 x 76 x 26
 
-
-Voedingsmodule
-
-H x B x L: 22 x 29 x 25
+*Voedingsmodule:*  H x B x L: 22 x 29 x 25
 
 **Classificatie**
 531.23
@@ -56,7 +52,7 @@ Dodekadent is een 12-stemmige analoge oscillatorbank die gebouwd is in twee apar
 Achteraan de behuizing zien we centraal de connector voor de kabel die naar de bedieningsmodule leidt, rechts ervan zien we de twee pinnen waarover de voedingskabel moet worden geschoven. De fiche eronder moet in functie van de gebruikte netspanning worden verstoken. De twee ingangen daarnaast zijn vermoedelijk bedoeld voor het aansluiten van meetpunten.
 
 
-Ook de bedieningsmodule is gebouwd in een metalen behuizing met een schuin oplopend bovenblad. Hierop zijn potentiometers en  tuimelschakelaars gemonteerd waarmee de 12 oscillatoren worden bediend. Elke oscillator wordt bediend met een verticale strip van drie onder elkaar liggende draaiknoppen. Zo liggen er twaalf strips naast elkaar (aangegeven met f1 tot f12). Met de bovenste en middelste  potentiometer bepaal je telkens respectievelijk de toonhoogte en het volume van de betreffende oscillator. Met de onderste draaischakelaar zet je de oscillator aan en bepaal je naar welk kanaal de klank wordt gestuurd. Er zijn vier kanalen waarvan de uitgangen zich links op de voorzijde van de bedieningsmodule bevinden (vrouwelijke mono-jacks TS 6,3mm). Het volume van elke uitgang wordt bepaald met één van de vier potentiometers centraal onderaan op het bedieningspaneel. Met de grote potentiometer boven de portamento-schakelaar beïnvloed je de relatieve toonhoogtes van alle oscillatoren samen. Met de vier draaiknoppen links onderaan op het bedieningspaneel bepaal je de range van telkens drie oscillatoren (linkse knop f1 tot en met f3, de tweede van links f4 tot en met f6 en zo verder). Met de tuimelschakelaars eronder kan je diezelfde drie oscillatoren snel in- en uitschakelen.
+Ook de bedieningsmodule is gebouwd in een metalen behuizing met een schuin oplopend bovenblad. Hierop zijn potentiometers en tuimelschakelaars gemonteerd waarmee de 12 oscillatoren worden bediend. Elke oscillator wordt bediend met een verticale strip van drie onder elkaar liggende draaiknoppen. Zo liggen er twaalf strips naast elkaar (aangegeven met f1 tot f12). Met de bovenste en middelste potentiometer bepaal je telkens respectievelijk de toonhoogte en het volume van de betreffende oscillator. Met de onderste draaischakelaar zet je de oscillator aan en bepaal je naar welk kanaal de klank wordt gestuurd. Er zijn vier kanalen waarvan de uitgangen zich links op de voorzijde van de bedieningsmodule bevinden (vrouwelijke mono-jacks TS 6,3mm). Het volume van elke uitgang wordt bepaald met één van de vier potentiometers centraal onderaan op het bedieningspaneel. Met de grote potentiometer boven de portamento-schakelaar beïnvloed je de relatieve toonhoogten van alle oscillatoren samen. Met de vier draaiknoppen links onderaan op het bedieningspaneel bepaal je de range van telkens drie oscillatoren (linkse knop f1 tot en met f3, de tweede van links f4 tot en met f6 en zo verder). Met de tuimelschakelaars eronder kan je diezelfde drie oscillatoren snel in- en uitschakelen.
 
 
 Achteraan de behuizingen van de bedieningsmodule zien we de connector voor de kabel die naar de voedingsmodule leidt.
@@ -82,6 +78,7 @@ De voeding (15 Volt dual power supply) moet worden aangesloten. De pin-out vind 
 
 
 *Bedieningsmodule:*
+
 - WERKGROEP LOGOS
 - OUTPUT 1, OUTPUT 2, OUTPUT 3, OUTPUT 4
 - F1 f2 f3 f4 f5 f6 f7 f8 f9 f10 f11 f12

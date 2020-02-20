@@ -1,11 +1,11 @@
 ﻿+++
 title = "Mini synthelog 4"
 description = ""
-tags = [ "Synthelog", "SN76477", "Lichtweerstand", "Kraakdoos", "Aanraakpunten", "Pin", "C-pin"
+tags = [ "Synthelog", "SN76477", "lichtweerstand", "kraakdoos", "aanraakpunten", "pin", "synthesizer"
 ]
 date = "1983-01-01"
 dates = "1983"
-categories = [
+categories = [ "elektronisch"
 ]
 alfabetisch = ["M"
 ]

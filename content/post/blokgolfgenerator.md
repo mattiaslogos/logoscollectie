@@ -1,11 +1,11 @@
 ﻿+++
 title = "Blokgolfgenerator"
 description = ""
-tags = [ "oscillator", "vibrato",
+tags = [ "oscillator", "vibrato", "synthesizer"
 ]
 date = "1970-01-01"
 dates = "1970"
-categories = [ "synthesizer"
+categories = [ "elektronisch"
 ]
 alfabetisch = ["B"
 ]
@@ -47,10 +47,10 @@ Met de potmeter links bovenaan bepaal je de hoeveelheid vibratie van de toon. Al
 
 Aan de achterkant zien we een vrouwelijke monojack (6,3 mm) om het audiosignaal op een versterker aan te sluiten. Naast de jackingang zien we een 5-polige vrouwelijke DIN-connector. Hierop wordt een 9 volt voeding aangesloten (voor pin-out zie bijlage). 
 
-Als we de bovenplaat los schroeven zien we binnenin twee grotere printplaten met componenten. Beiden werden aangekocht als onderdelenpakket. Bovenaan in de linkerhoek zien we de schakeling van de vibrato eenheid en in het midden de schakeling van de golfgenerator. Beiden maken gebruik van AC126 transistoren met de plus aan de massa (meer info over deze schakelingen in bijlage). Het kleine printplaatje in de rechter bovenhoek is de ompoolbeveiliging van de voeding.   
+Als we de bovenplaat losschroeven zien we binnenin twee grotere printplaten met componenten. Beiden werden aangekocht als onderdelenpakket. Bovenaan in de linkerhoek zien we de schakeling van de vibrato eenheid en in het midden de schakeling van de golfgenerator. Beiden maken gebruik van AC126 transistoren met de plus aan de massa (meer info over deze schakelingen in bijlage). Het kleine printplaatje in de rechterbovenhoek is de ompoolbeveiliging van de voeding.   
 
 #### Speelwijze, repertoire en inzet in producties
-De blokgolfgenerator werd gebouwd voor het stuk Epitaium van Godfried-Willem raes. Hij werd er samen met een sinusgenerator op een  ringmodulator aangesloten. Later deed het apparaat ook dienst in andere stukken en bij improvisaties. 
+De blokgolfgenerator werd gebouwd voor het stuk Epitafium van Godfried-Willem raes. Hij werd er samen met een sinusgenerator op een  ringmodulator aangesloten. Later deed het apparaat ook dienst in andere stukken en bij improvisaties. 
 
 #### Opbouw van het instrument/installatie
 Voor de het aansluiten van de voeding wordt een 5-polige vrouwelijke DIN-connector gebruikt. De pin-out vind je in de bijlage.

@@ -2,11 +2,11 @@
 title = "TRS"
 description = ""
 tags = [
-"ringmodulator", 
+"ringmodulator", "synthesizer"
 ]
 date = "1975-01-01"
 dates = "1975"
-categories = ["synthesizer"
+categories = [ "elektronisch"
 ]
 alfabetisch = ["T"
 ]

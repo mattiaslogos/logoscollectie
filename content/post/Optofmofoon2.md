@@ -1,11 +1,11 @@
 ﻿+++
 title = "Optofmofoon II"
 description = ""
-tags = [ "lichtweerstand", "versterkt/speaker", "oscillator", "pvc-buis" 
+tags = [ "lichtweerstand", "ingebouwde-versterker", "oscillator", "pvc-buis", "synthesizer"
 ]
 date = "1988-01-01"
 dates = "1988"
-categories = ["synthesizer"
+categories = [ "elektronisch"
 
 ]
 alfabetisch = ["O"

@@ -6,14 +6,13 @@ tags = [
 "interface",
 "openbare-ruimte",
 "bewegingsdetectie",
-"tabaksblik",
-"555"
+"tabaksblik"
 ]
 date = "1986-01-01"
 dates = "1986"
 categories = [
     "akoestisch",
-"elektro-akoestisch",
+"elektroakoestisch",
 "klanksculptuur"
 ]
 alfabetisch = ["S"

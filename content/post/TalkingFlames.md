@@ -1,11 +1,11 @@
 ﻿+++
 title = "Talking Flames"
 description = ""
-tags = [ "voorversterker", "vuur", "versterkt/speaker"
+tags = [ "voorversterker", "vuur", "ingebouwde-versterker"
 ]
 date = "1989-01-01"
 dates = "1989"
-categories = ["elektro-akoestisch", "klanksculptuur"
+categories = ["elektroakoestisch", "klanksculptuur"
 ]
 alfabetisch = ["T"
 ]

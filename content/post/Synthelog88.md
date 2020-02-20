@@ -4,14 +4,14 @@ description = ""
 tags = [
 "8_bit",
 "Synthelog",
-"Synthesizer",
+"synthesizer",
 "Printerpoort",
 "Quadrofoon",
 "ringmodulator"
 ]
 date = "1988-01-01"
 dates = "1988"
-categories = ["digitaal"
+categories = ["digitaal", "elektronisch"
 ]
 alfabetisch = ["S"
 ]
@@ -72,7 +72,7 @@ Raes zelf gebruikte het programma Basic (met een HX EPSON-computer) om code voor
 - Cd4066
 
 #### Staat van het instrument
-Niet getest. Er ontbreken momenteel twee op-amp. Waarschijnlijk tijdelijk weggehaald om te gebruiken voor een ander experiment (dixit Raes).
+Niet getest. Er ontbreken momenteel twee opamp. Waarschijnlijk tijdelijk weggehaald om te gebruiken voor een ander experiment (dixit Raes).
 
 #### Historiek van het instrument
 De bouw van dit instrument is verwant met de bouw van HEX, dat in hetzelfde jaar tot stand kwam. Op synthelog 88 staat in dymo “P1”. HEX bestaat uit gelijklopende PCB’s genummerd van P1 tot P8. Dit is geen toeval, in de eerste experimenten en versies van HEX speelde dit instrument een rol. Om dezelfde redenen is in de doos waarin HEX wordt opgeborgen een plaats voorzien voor dit instrument.

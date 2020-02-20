@@ -1,12 +1,11 @@
 ﻿+++
 title = "Tape head reading pen"
 description = ""
-tags = [ 
-"magneetband+leeskop", "voorversterker", 
+tags = [ "magneetband+leeskop", "voorversterker", "tabaksblik"
 ]
 date = "1970-01-01"
 dates = "1970"
-categories = ["elektro-akoestisch"
+categories = ["elektroakoestisch"
 
 ]
 alfabetisch = ["T"

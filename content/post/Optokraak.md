@@ -1,11 +1,11 @@
 ﻿+++
 title = "Optokraak"
 description = ""
-tags = [ "kraakdoos", "lichtweerstand",  
+tags = [ "kraakdoos", "lichtweerstand",  "synthesizer"
 ]
 date = "1975-01-01"
 dates = "1975"
-categories = ["synthesizer"
+categories = [ "elektronisch"
 
 ]
 alfabetisch = ["O"

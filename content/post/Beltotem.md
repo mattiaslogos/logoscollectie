@@ -6,13 +6,12 @@ tags = [
 "sirene",
 "slaan",
 "claxon",
-"openbare-ruimte"
 ]
 date = "1975-01-01"
 dates = "1975"
 categories = [
 "akoestisch",
-"elektro-akoestisch",
+"elektroakoestisch",
 "klanksculptuur"
 ]
 alfabetisch = ["B"

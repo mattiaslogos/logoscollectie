@@ -15,3 +15,19 @@ Projectmedewerker Mattias Parent beschrijft de instrumenten op stukniveau, volge
 
 Op deze projectwebsite vind je alvast alle info. Daarnaast kan je de instrumenten ook terug vinden via Carmentis, de publiekscatalogus van de Koninklijke Musea voor Kunst en Geschiedenis, waartoe het Muziekinstrumentenmuseum behoort.
 Stichting Logos wordt bij de uitvoering van dit project inhoudelijk begeleid door het Brusselse Muziekinstrumentenmuseum, expert Maarten Quanten en CEMPER. Voor financiële steun kan ze rekenen op de Vlaamse Overheid.
+
+<!--
+# Copyright
+
+# Dankwoord
+
+Matrix
+
+# Links
+## Partners
+MIM
+Matrix
+Cemper
+... (zie home)
+
+-->

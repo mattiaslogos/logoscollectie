@@ -1,11 +1,11 @@
 ﻿+++
 title = "Optofmofoon V"
 description = ""
-tags = [ "lichtweerstand", "oscillator", "versterkt/speaker"
+tags = [ "lichtweerstand", "oscillator", "ingebouwde-versterker", "synthesizer"
 ]
 date = "1988-01-01"
 dates = "1988"
-categories = ["synthesizer"
+categories = [ "elektronisch"
 
 ]
 alfabetisch = ["O"

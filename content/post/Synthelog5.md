@@ -2,11 +2,11 @@
 title = "Synthelog 5"
 description = ""
 tags = [
-"synthelog", "SN76477", "aanraakpunten", "lichtweerstand", "c-pin", "contactmicrofoon", "oscillator"
+"synthelog", "SN76477", "aanraakpunten", "lichtweerstand", "contactmicrofoon", "oscillator", "synthesizer"
 ]
 date = "1983-01-01"
 dates = "1983"
-categories = ["synthesizer"
+categories = [ "elektronisch"
 ]
 alfabetisch = ["S"
 ]
@@ -45,9 +45,9 @@ Synthelog 5 is gebouwd in een massief houten kistje. De chip SN76477 is het klop
 
 De bediening gebeurt door het schakelen van de schakelaars, het pluggen van (C-)pins en het manipuleren van de lichtweerstanden en aanraakpunten bovenaan op het instrument. De datasheet en de elektronische schakeling vind je in de bijlage.
 
-Het instrument wordt ingeschakeld met de meest rechtse schakelaar in het rijtje van zeven bovenaan op het instrument. De drie schakelaars links -verbonden met de pin 27, 26 en 25- vormen samen de mixer. De combinatie van standen bepalen of we de VCO, LFO, Noice filter of een mix van ervan te horen is (zie datasheet). De twee schakelaars naast de drie schakelaars van de mixer zijn verbonden met pin 1 en 28 van de chip en bepalen op welke geluiden de enveloppe-functie vat heeft (zie datasheet). Hiermee wordt ook de one-shot, de momentschakelaar rechts onderaan op het bedieningspaneel, ingeschakeld. De stand van de schakelaar naast de aan- en uitschakelaar ten slotte betaalt of de VCO intern of via de drie aanrakingspunten wordt aangestuurd.  
+Het instrument wordt ingeschakeld met de meest rechtse schakelaar in het rijtje van zeven bovenaan op het instrument. De drie schakelaars links -verbonden met de pin 27, 26 en 25- vormen samen de mixer. De combinatie van standen bepalen of we de VCO, LFO, Noise filter of een mix van ervan te horen is (zie datasheet). De twee schakelaars naast de drie schakelaars van de mixer zijn verbonden met pin 1 en 28 van de chip en bepalen op welke geluiden de enveloppe-functie vat heeft (zie datasheet). Hiermee wordt ook de one-shot, de momentschakelaar rechts onderaan op het bedieningspaneel, ingeschakeld. De stand van de schakelaar naast de aan- en uitschakelaar ten slotte betaalt of de VCO intern of via de drie aanrakingspunten wordt aangestuurd.  
 
-Onder de schakelaars zien we zes mini-jackingangen. Via de derde ingang van links (12 ex) kan er extern signaal worden aangesloten. Ook via de mini-jackingang op de linker zijkant kan er via een buffer (zie datasheet en schema) een extern signaal hoorbaar worden gemaakt. De andere vijf mini-jackingangen worden geschakeld met c-pins, een mannelijke jack waartussen de tip en de sleeve een condensator is gesoldeerd. De waardes van deze condensatoren bepalen het bereik van de VCO (17), de attack en decay (ad 8), noice filter (rs 6) en de LFO (21) en de lengte van de one-shot (O.S. 23). De precieze waarde van de decay, ruis, VCO en LFO wordt bepaald door de lichtintensiteit die op de lichtweerstanden met het betreffende bijschrift vallen.
+Onder de schakelaars zien we zes mini-jackingangen. Via de derde ingang van links (12 ex) kan er extern signaal worden aangesloten. Ook via de mini-jackingang op de linker zijkant kan er via een buffer (zie datasheet en schema) een extern signaal hoorbaar worden gemaakt. De andere vijf mini-jackingangen worden geschakeld met c-pins, een mannelijke jack waartussen de tip en de sleeve een condensator is gesoldeerd. De waardes van deze condensatoren bepalen het bereik van de VCO (17), de attack en decay (ad 8), noise filter (rs 6) en de LFO (21) en de lengte van de one-shot (O.S. 23). De precieze waarde van de decay, ruis, VCO en LFO wordt bepaald door de lichtintensiteit die op de lichtweerstanden met het betreffende bijschrift vallen.
 
 Met de onderste lichtweerstand wordt het volume beïnvloed. 
 

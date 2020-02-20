@@ -10,7 +10,7 @@ tags = [
 date = "1976-01-01"
 dates = "1976"
 categories = [
-    "elektro-akoestisch"
+    "elektroakoestisch"
 ]
 alfabetisch = ["L"
 ]

@@ -4,11 +4,12 @@ description = ""
 tags = [ 
 "kraakdoos", 
 "aanraakpunten",
-"versterkt/speaker"
+"ingebouwde-versterker",
+"synthesizer"
 ]
 date = "1981-01-01"
 dates = "1981"
-categories = ["synthesizer"
+categories = [ "elektronisch"
 ]
 alfabetisch = ["K"
 ]

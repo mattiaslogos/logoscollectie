@@ -2,11 +2,11 @@
 title = "Trigger interface"
 description = ""
 tags = [
-"synthelog", "interface", "toetsen"
+"synthelog", "interface", "toetsen", "synthesizer"
 ]
 date = "1983-01-01"
 dates = "1983"
-categories = ["synthesizer"
+categories = [ "elektronisch"
 ]
 alfabetisch = ["T"
 ]

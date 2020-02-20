@@ -13,7 +13,7 @@ tags = [
 date = "1969-01-01"
 dates = "1969"
 categories = [
-    "elektro-akoestisch"
+    "elektroakoestisch"
 ]
 alfabetisch = ["M"
 ]

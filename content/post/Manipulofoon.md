@@ -8,12 +8,12 @@ tags = [
 date = "1982-01-01"
 dates = "1982"
 categories = [
-    "elektro-akoestisch"
+    "elektroakoestisch"
 ]
 alfabetisch = ["M"
 ]
 menu = "main"
-summary = ""
+summary = "<a href='/logoscollectie/1982/manipulofoon'><img src='/logoscollectie/img/Manipulofoon1982/Manipulofoon1-thumb.jpg'></a><p>Met de Manipulofoon kunnen klanken van vooraf opgenomen stukken magneetband handmatig worden gemanipuleerd.</p>"
 +++
 
 # Manipulofoon (1982)

@@ -3,7 +3,7 @@ title = "Multiperson-horn"
 description = ""
 tags = [
   "blazen/lucht",
-"exponentiële-hoorn",
+"exponentiele-hoorn",
 "verloren"
 ]
 date = "1980-01-01"

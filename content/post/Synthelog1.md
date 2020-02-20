@@ -2,11 +2,11 @@
 title = "Synthelog 1"
 description = ""
 tags = [
-"synthelog", "SN76477", "toetsen", "oscillator", "versterkt/speaker",
+"synthelog", "SN76477", "toetsen", "oscillator", "ingebouwde-versterker", "synthesizer"
 ]
 date = "1979-01-01"
 dates = "1979"
-categories = ["synthesizer"
+categories = [ 
 ]
 alfabetisch = ["S"
 ]
@@ -46,11 +46,10 @@ Synthelog 1 uit 1979 is de eerst geborene uit de synthelog-familie, een reeks sy
 Synthelog 1 is gebouwd in een zwarte houten kist met handvat en een gescharnierd deksel waarop “logos”, “synthelog” en “raes” staat geschreven. Als we het deksel van de kist open klappen zien we het bedieningspaneel met onderaan het uitstekend klavier. Onder het klavier is een ruimte waar plaats is voor de stroomkabel en de patchkabels. In die ruimte is ook de voedingstransformator gemonteerd. 
 
 Als basis voor de schakeling werd een ontwerp met pcb gebruikt dat in februari 1979 gepubliceerd werd in het tijdschrift ETI, (zie bijlage).
-Met deze schakeling kan het signaal van een LFO, VCO en Noicefilter apart worden opgewekt of met behulp van de mixer samen worden gemixt tot één signaal (dus niet zoals een mengpaneel). Met een tuimelschakelaar (KB-CONT) kan je keyboard inschakelen en bespelen met een stift die met een patchkabel met de vrouwelijke mini-jack uitgang KEY is verbonden. De ontworpen toon is dan niet meer constant hoorbaar. Door met de tuimelschakelaars de ENVELOPPE-functie in te schakelen kan de duur (of hold), attack en decay van de klank met de potmeters worden ingesteld.
+Met deze schakeling kan het signaal van een LFO, VCO en Noisefilter apart worden opgewekt of met behulp van de mixer samen worden gemixt tot één signaal (dus niet zoals een mengpaneel). Met een tuimelschakelaar (KB-CONT) kan je keyboard inschakelen en bespelen met een stift die met een patchkabel met de vrouwelijke mini-jack uitgang KEY is verbonden. De ontworpen toon is dan niet meer constant hoorbaar. Door met de tuimelschakelaars de ENVELOPPE-functie in te schakelen kan de duur (of hold), attack en decay van de klank met de potmeters worden ingesteld.
 
-De functies van de deze schakeling breid Raes uit met andere mogelijkheden die op de SN764477-chip voorhanden zijn zoals het bepalen van de DUTY CYCLE, het apart inschakelen van de ONE SHOT en het extern sturen van de VCO (VCO-IN) en NOICE CLOCK.
-
-Daarnaast bouwde Raes ook een portato-module (te bedienen met de strip knoppen links op het controlepaneel) en een sequenser in. Met de potmeter CLOCK wordt de snelheid van de puls aan CLOCK OUT bepaald. Dit signaal kan onder andere gebruikt worden om de sequenser aan te sturen (met een patchkabel van CLOCK OUT naar SEQ-IN). De spanning van de zestien stappen het stuursignaal van de sequenser worden bepaald door de stand van de vier potmeters rechts bovenaan op het bedieningspaneel. Met de stuurspanning van de sequenser (SEQ-OUT) kan bijvoorbeeld de VCO worden aangestuurd. 
+De functies van de deze schakeling breid Raes uit met andere mogelijkheden die op de SN764477-chip voorhanden zijn zoals het bepalen van de DUTY CYCLE, het apart inschakelen van de ONE SHOT en het extern sturen van de VCO (VCO-IN) en NOISE CLOCK.
+Daarnaast bouwde Raes ook een portato-module (te bedienen met de strip knoppen links op het controlepaneel) en een sequencer in. Met de potmeter CLOCK wordt de snelheid van de puls aan CLOCK OUT bepaald. Dit signaal kan onder andere gebruikt worden om de sequencer aan te sturen (met een patchkabel van CLOCK OUT naar SEQ-IN). De spanning van de zestien stappen het stuursignaal van de sequencer worden bepaald door de stand van de vier potmeters rechts bovenaan op het bedieningspaneel. Met de stuurspanning van de sequencer (SEQ-OUT) kan bijvoorbeeld de VCO worden aangestuurd. 
 
 De synthesizer heeft een ingebouwde versterker met luidspreker. Deze kan met de schakelaar LS OFF worden ingeschakeld. Naast de OUTPUTS (rechts bovenaan op het bedieningspaneel) waarmee het instrument op een externe versterker kan worden aangesloten, zien we de connector voor de voedingskabel met daaronder de twee aan- en uitschakelaars (één voor DC en één voor AC).
 
@@ -74,7 +73,7 @@ De voedingskabel wordt via de connector bovenaan op het bedieningspaneel met het
 - Raes
 
 #### Staat van het instrument
-De sequensermodule is defect. Vermoedelijk is er een verbinding los gekomen.
+De sequencermodule is defect. Vermoedelijk is er een verbinding los gekomen.
 
 #### Historiek van het instrument
 Aan- en uitschakelaar werd gerepareerd na de tentoonstelling naar aanleiding van Erfgoeddag op 29/4/2019. 

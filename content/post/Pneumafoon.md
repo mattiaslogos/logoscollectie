@@ -5,13 +5,12 @@ tags = [
   "pvc-buis",
   "vel",
   "blazen/lucht",
-  "exponentiële-hoorn"
+  "exponentiele-hoorn"
 ]
 date = "1983-01-01"
 dates = "1983"
 categories = [
-  "akoestisch",
-"klanksculptuur"
+  "akoestisch", "klanksculptuur"
 ]
 alfabetisch = ["P"
 ]

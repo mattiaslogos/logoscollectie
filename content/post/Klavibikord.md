@@ -9,7 +9,7 @@ tags = [
 ]
 date = "1983-01-01"
 dates = "1983"
-categories = ["elektro-akoestisch"
+categories = ["elektroakoestisch"
 ]
 alfabetisch = ["K"
 ]

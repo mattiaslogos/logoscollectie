@@ -8,13 +8,12 @@ tags = [
 "snaar",
 "strijken",
 "veer",
-"bel",
 "verloren"
 ]
 date = "1975-01-01"
 dates = "1975"
 categories = [
-    "elektro-akoestisch"
+    "elektroakoestisch"
 ]
 alfabetisch = ["F"
 ]

@@ -9,7 +9,7 @@ date = "1980-01-01"
 dates = "1980"
 categories = [
     "akoestisch",
-"elektro-akoestisch"
+"elektroakoestisch"
 ]
 alfabetisch = ["C"
 ]

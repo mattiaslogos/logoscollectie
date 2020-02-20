@@ -5,11 +5,12 @@ tags = [
 "synthelog", "SN76477",
 "lichtweerstand",
 "aanraakpunten",
-"c-pin", "vormingswerk"
+"pin", "vormingswerk",
+"synthesizer"
 ]
 date = "1983-01-01"
 dates = "1983"
-categories = ["synthesizer"
+categories = [ "elektronisch"
 ]
 alfabetisch = ["M"
 ]

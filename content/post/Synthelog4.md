@@ -1,11 +1,11 @@
 ﻿+++
 title = "Synthelog 4"
 description = ""
-tags = [ "synthelog", "SN76477", "555", "luidspreker/versterker", "synthesizer"
+tags = [ "synthelog", "SN76477", "ingebouwde-versterker", "synthesizer"
 ]
 date = "1982-01-01"
 dates = "1982"
-categories = [
+categories = [ "elektronisch"
 ]
 alfabetisch = ["S"
 ]

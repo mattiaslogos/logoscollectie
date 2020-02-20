@@ -2,11 +2,11 @@
 title = "Optorgofoon"
 description = ""
 tags = [
-"lichtweerstand", "dubbel-t", "vibrato", "oscillator", "versterkt/speaker"
+"lichtweerstand", "dubbel-t", "vibrato", "oscillator", "ingebouwde-versterker", "synthesizer"
 ]
 date = "1974-01-01"
 dates = "1974"
-categories = ["synthesizer"
+categories = [ "elektronisch"
 ]
 alfabetisch = ["O"
 ]

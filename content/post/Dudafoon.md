@@ -2,11 +2,11 @@
 title = "Dudafoon"
 description = ""
 tags = [ "veer", "pick-up", "duimpiano", "fietswiel", "gongveer", "tokkelen",
-"versterkt/speaker", "strijken", "slaan"
+"ingebouwde-versterker", "strijken", "slaan", "bel"
 ]
 date = "1976-01-01"
 dates = "1976"
-categories = ["elektro-akoestisch"
+categories = ["elektroakoestisch"
 ]
 alfabetisch = ["D"
 ]

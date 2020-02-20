@@ -6,7 +6,7 @@ layout = "about"
 +++
 
 #### Inleiding
-Catalogiseren en documenteren van de collectie muziekinstrumenten van Stichting Logos
+Dit is de projectwebsite van het erfgoedproject "Catalogiseren en documenteren van de collectie muziekinstrumenten van Stichting Logos".
 
 
 <center>

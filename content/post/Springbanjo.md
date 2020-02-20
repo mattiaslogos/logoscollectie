@@ -5,7 +5,7 @@ tags = [ "banjo", "pick-up", "Vel", "veer", "tokkelen"
 ]
 date = "1977-01-01"
 dates = "1977"
-categories = ["elektro-akoestisch"
+categories = ["elektroakoestisch"
 
 ]
 alfabetisch = ["S"

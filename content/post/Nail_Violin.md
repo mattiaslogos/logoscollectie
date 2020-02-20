@@ -3,7 +3,7 @@ title = "Nail Violin"
 description = ""
 tags = [
   "strijken",
-"exponentiële-hoorn",
+"exponentiele-hoorn",
 "verloren"
 ]
 date = "1975-01-01"

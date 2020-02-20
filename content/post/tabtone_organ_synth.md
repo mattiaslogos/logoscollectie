@@ -1,11 +1,11 @@
 ﻿+++
 title = "Tab-tone organ synth"
 description = ""
-tags = [ "dubbel-t", "ringmodulator", "oscillator", "aanraakpunten"
+tags = [ "dubbel-t", "ringmodulator", "oscillator", "aanraakpunten", "synthesizer"
 ]
 date = "1972-01-01"
 dates = "1972"
-categories = ["synthesizer"
+categories = [ "elektronisch"
 ]
 alfabetisch = ["T"
 ]

@@ -5,7 +5,7 @@ tags = [ "magneetband+leeskop", "voorversterker"
 ]
 date = "1986-01-01"
 dates = "1986"
-categories = ["elektro-akoestisch",
+categories = ["elektroakoestisch",
 ]
 alfabetisch = ["S"
 ]

@@ -4,7 +4,6 @@ description = ""
 tags = [
     "kraakdoos",
 "aanraakpunten",
-"555",
 "oscillator",
 "tabaksblik"
 ]

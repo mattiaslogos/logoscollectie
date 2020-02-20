@@ -3,11 +3,11 @@ title = "Amplified springboard"
 description = ""
 tags = [
 "veer", "pick-up",
-"versterkt/speaker", "feedback", "tokkelen", "vormingswerk"
+"ingebouwde-versterker", "feedback", "tokkelen", "vormingswerk"
 ]
 date = "1982-01-01"
 dates = "1982"
-categories = ["elektro-akoestisch"
+categories = ["elektroakoestisch"
 ]
 alfabetisch = ["A"
 ]

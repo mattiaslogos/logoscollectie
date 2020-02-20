@@ -2,7 +2,7 @@
 title = "Three Nuns"
 description = ""
 tags = [
-"sampler", "8_bit"
+"sampler", "8_bit", "tabaksblik"
 ]
 date = "1986-01-01"
 dates = "1986"

@@ -2,7 +2,7 @@
 title = "Dual synthelog"
 description = ""
 tags = [
-"pin", "synthelog", "SN76477", "c-pin", "toetsen", "oscillator", "synthesizer"
+"pin", "synthelog", "SN76477", "pin", "toetsen", "oscillator", "synthesizer"
 ]
 date = "1983-01-01"
 dates = "1983"
@@ -11,7 +11,7 @@ categories = [ "elektronisch"
 alfabetisch = ["D"
 ]
 menu = "main"
-summary = "<a href='/logoscollectie/1983/dual_synthelog'><img src='/logoscollectie/img/Dual_synthelog/Dual%20synthelog%20bovenkant.jpg'></a><p>Zoals de naam het aangeeft combineert Dual synthelog twee andere synthlogs uit de synthelogfamilie, wat een meerstemmig geluid mogelijk maakt. In de behuizing van plexiglas zijn ook twee sequensers, de VCO-matrix en een R-matrix ingebouwd die de verschillende modules kunnen aansturen.</p>"
+summary = "<a href='/logoscollectie/1983/dual_synthelog'><img src='/logoscollectie/img/Dual_synthelog/Dual%20synthelog%20bovenkant.jpg'></a><p>Zoals de naam het aangeeft combineert Dual synthelog twee andere synthlogs uit de synthelogfamilie, wat een meerstemmig geluid mogelijk maakt. In de behuizing van plexiglas zijn ook twee sequencers, de VCO-matrix en een R-matrix ingebouwd die de verschillende modules kunnen aansturen.</p>"
 +++
 
 # Dual synthelog (1983)
@@ -41,7 +41,7 @@ H x B x L: 8 x 30 x 23
 LOGOS 83.
 
 #### Beschrijving van het instrument
-Dual synthelog combineert -zoals de naam het aangeeft- twee synthelogs, namelijk synthelog III en minisynthelog die beiden rond de chip #SN76477 zijn gebouwd. In de behuizing van plexiglas zijn ook de twee sequensers, de VCO-matrix (stuurspanning) en een R-matrix (weerstand) ingebouwd. Inzicht in de werking van chip is een groot voordeel bij het bespelen van het instrument.
+Dual synthelog combineert -zoals de naam het aangeeft- twee synthelogs, namelijk synthelog III en minisynthelog die beiden rond de chip #SN76477 zijn gebouwd. In de behuizing van plexiglas zijn ook de twee sequencers, de VCO-matrix (stuurspanning) en een R-matrix (weerstand) ingebouwd. Inzicht in de werking van chip is een groot voordeel bij het bespelen van het instrument.
 
 De patchpaper van dit instrument (zie bijlage) geeft een overzicht van de bediening en de mogelijkheden.
 
