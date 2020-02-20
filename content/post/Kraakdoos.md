@@ -58,18 +58,19 @@ De kraakdoos wordt bespeeld door intuïtief de verschillende geleidende aanraakp
 Om het instrument te bespelen moet de schakelaar worden aangenzet. De kraakdoos heeft zijn eigen luidsprekertje maar kan eventueel ook versterkt worden via zijn gebalanceerde lijnuitgang. Hiervoor dient een kabel met stereojack (TRS) gebruikt te worden.  
 
 #### Inscripties
-Op het doosje:
+*Op het doosje:*
 
 - Balmoral Cardinal
 - Raes 76
 
-#### Op het printje
-KRAAKDOOS
-Logos Electronics Labs
-1976. 2 rev.03.2019
-Logos
--9v +9v
-speaker
+*Op het printje:*
+
+- KRAAKDOOS
+- Logos Electronics Labs
+- 1976. 2 rev.03.2019
+- Logos
+- -9v +9v
+- speaker
 
 #### Staat van het instrument
 In werkende staat

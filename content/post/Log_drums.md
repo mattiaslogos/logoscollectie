@@ -50,10 +50,10 @@ De drie bij elkaar horende log drums zijn allemaal uit dezelfde materialen opgeb
 In totaal kunnen we zes verschillende toonhoogtes spelen. De drie log drums staan van groot naar klein respectievelijk in een kwart, kwint en terts gestemd.    
 
 #### Speelwijze, repertoire en inzet in producties
-De logdrums werden bespeelt met stokken met een rubberen koppen. 
+De logdrums werden bespeeld met stokken met een rubberen koppen. 
 
 #### Opbouw van het instrument/installatie
-Bij het bouwproces werden de bovenbladen nat gemaakt zodat ze krom trokken. Door de verlijming op de zijkanten werden ze vervolgens terug recht getrokken zodat enkel de tongen een klein beetje krom boven de rest van het bovenblad uitsteken.
+Bij het bouwproces werden de bovenbladen nat gemaakt zodat ze kromtrokken. Door de verlijming op de zijkanten werden ze vervolgens terug recht getrokken zodat enkel de tongen een klein beetje krom boven de rest van het bovenblad uitsteken.
 
 #### Inscripties
 geen
@@ -62,7 +62,7 @@ geen
 In werkende staat. In een van de bovenbladen zijn ronde putjes, vermoedelijk het resultaat van een hardhandige behandeling.
 
 #### Historiek van het instrument
-Godfried-Willem Raes inspireerde zich voor deze logdrums op de teponaztli, het slaginstrument bij uitstek van de Asteken dat ook in in verschillende regio’s van Mexico voorkomt.
+Godfried-Willem Raes inspireerde zich voor deze logdrums op de teponaztli, het slaginstrument bij uitstek van de Azteken dat ook in in verschillende regio’s van Mexico voorkomt.
 
 
 #### Problematieken

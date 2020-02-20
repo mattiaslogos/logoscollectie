@@ -43,7 +43,7 @@ H x B x L: niet bekend
 LOGOS 1976.04
 
 #### Beschrijving van het instrument
-Godfried-Willem Raes maakte verschillende gelijkaardige luisterdozen. Ze huisden in een sigarenkistje van het merk Schimmelpenninck. De luisterdozen fungeerden als een soort van stethoscoop en werden gebruikt voor vormingswerk met kinderen. Tegen de wand van het kistje was een piezo contactmicrofoon gekleefd. Deze werd versterkt werd met een voorversterkertje dat gevoed werd door een blokbatterij van 9 Volt en leidde naar een koptelefoonuitgang. De luisterdoos werd ingeschakeld met een kwikschakelaar of een tuimelschakelaar. Er was geen volumeknop aanwezig. Het elektrische schema vind je in de bijlage.
+Godfried-Willem Raes maakte verschillende gelijkaardige luisterdozen. Ze huisden in een sigarenkistje van het merk Schimmelpenninck. De luisterdozen fungeerden als een soort van stethoscoop en werden gebruikt voor vormingswerk met kinderen. Tegen de wand van het kistje was een piëzo contactmicrofoon gekleefd. Deze werd versterkt werd met een voorversterkertje dat gevoed werd door een blokbatterij van 9 Volt en leidde naar een koptelefoonuitgang. De luisterdoos werd ingeschakeld met een kwikschakelaar of een tuimelschakelaar. Er was geen volumeknop aanwezig. Het elektrische schema vind je in de bijlage.
 
 #### Speelwijze, repertoire en inzet in producties
 De luisterdozen werden gebruikt voor vormingswerk met kinderen. Deze konden de luisterdoos tegen allerlei voorwerpen houden en zo de omgeving auditief ontdekken.
