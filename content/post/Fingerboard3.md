@@ -1,7 +1,7 @@
 ﻿+++
 title = "Fingerboard 3"
 description = ""
-tags = [ "veer", "voorversterker", "contactmicrofoon", "gongveer", "slaan", "strijken", "tokkelen"
+tags = [ "veer", "versterking-noodzakelijk", "contactmicrofoon", "gongveer", "slaan", "strijken", "tokkelen"
 ]
 date = "1975-01-01"
 dates = "1975"

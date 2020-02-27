@@ -4,7 +4,6 @@ description = ""
 tags = [
     "sirene",
 "interface",
-"openbare-ruimte",
 "bewegingsdetectie",
 "tabaksblik"
 ]

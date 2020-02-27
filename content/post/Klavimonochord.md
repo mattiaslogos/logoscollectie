@@ -80,5 +80,6 @@ In augustus 2019 werd de elektrische bedrading herzien. Er werd toen ook een gat
 <audio controls>
 <source src="/logoscollectie/audio/Klavimonochord/on_one_string_only__klavimonochord_LP7002B.2.wav" type="audio/wav">
 <source src="/logoscollectie/audio/Klavimonochord/on_one_string_only__klavimonochord_LP7002B.2.wav" type="audio/x-wav">
-  Your browser doesn't support HTML5 audio. Here is a <a href="/logoscollectie/audio/Klavimonochord/on_one_string_only__klavimonochord_LP7002B.2.wav">link to the audio</a> instead.
 </audio>
+
+If your browser doesn't support HTML5 audio, here is a <a href="/logoscollectie/audio/Klavimonochord/on_one_string_only__klavimonochord_LP7002B.2.wav">link to the audio</a> instead.

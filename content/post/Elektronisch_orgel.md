@@ -17,8 +17,6 @@ summary = "<p>Raes bouwde in zijn tienerjaren een elektrisch orgel. Hij gebruikt
 +++
 
 # Elektronisch orgel (1967)
-![No picture][afb1]
-[afb1]: /logoscollectie/img/noImage.png "No picture"
 
 **Collectie**
 Stichting Logos

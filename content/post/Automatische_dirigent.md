@@ -17,11 +17,7 @@ menu = "main"
 summary = "<p>De automatische dirigent werd gebruikt om muzikanten te helpen bij het spelen van complexe ritmes en tempiverhoudingen.</p>"
 +++
 
-
 # Automatische dirigent (1968)
-
-![No photo available][afb1]
-[afb1]: /logoscollectie/img/noImage.png "No photo available"
 
 **Collectie**
 Stichting Logos

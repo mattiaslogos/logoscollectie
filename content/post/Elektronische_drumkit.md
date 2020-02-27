@@ -3,7 +3,7 @@ title = "Elektronische drumkit"
 description = ""
 tags = [
     "synthesizer",
-"printerpoort",
+"printerpoort/centronics",
 "8_bit"
 ]
 date = "1988-01-01"

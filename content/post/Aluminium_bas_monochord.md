@@ -22,9 +22,6 @@ summary = "<p>Een snaar van een basgitaar wordt versterkt met een magnetische pi
 
 # Aluminium bas monochord (1970)
 
-![Aluminium bas monochord][afb1]
-[afb1]: /logoscollectie/img/noImage.png "Aluminium bas monochord"
-
 **Collectie**
 Stichting Logos
 

@@ -104,11 +104,14 @@ Naamgeving. Synthelog 1 wordt op de patchpapers Synthelog IX genoemd (naar het j
 <audio controls>
 <source src="/logoscollectie/audio/Synthelog1/Out_of_a_tiny_box__Synthelog_LP7002B.3.wav" type="audio/wav">
 <source src="/logoscollectie/audio/Synthelog1/Out_of_a_tiny_box__Synthelog_LP7002B.3.wav" type="audio/x-wav">
-  Your browser doesn't support HTML5 audio. Here is a <a href="/logoscollectie/audio/Synthelog1/Out_of_a_tiny_box__Synthelog_LP7002B.3.wav">link to the audio</a> instead.
 </audio>
+
+If your browser doesn't support HTML5 audio, here is a <a href="/logoscollectie/audio/Synthelog1/Out_of_a_tiny_box__Synthelog_LP7002B.3.wav">link to the audio</a> instead.
+
 
 <audio controls>
 <source src="/logoscollectie/audio/Synthelog1/the_street_filmmusic_from_pietje_rood_III.wav" type="audio/wav">
 <source src="/logoscollectie/audio/Synthelog1/the_street_filmmusic_from_pietje_rood_III.wav" type="audio/x-wav">
-  Your browser doesn't support HTML5 audio. Here is a <a href="/logoscollectie/audio/Synthelog1/the_street_filmmusic_from_pietje_rood_III.wav">link to the audio</a> instead.
 </audio>
+
+If your browser doesn't support HTML5 audio, here is a <a href="/logoscollectie/audio/Synthelog1/the_street_filmmusic_from_pietje_rood_III.wav">link to the audio</a> instead.

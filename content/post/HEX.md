@@ -6,7 +6,7 @@ tags = [
 "Contactmicrofoon",
 "Feedback",
 "Midi",
-"SPO-256",
+"spo256",
 "tabaksblik",
 "veer",
 "geluidseffect",
@@ -169,23 +169,21 @@ Verouderde poorten, verouderde software en verouderde besturingssystemen.
 
 
 ##### audio-bestanden
-CR1511-10 LPD09
-
 Godfried-Willem Raes: "HEX" (excerpt), 1988 (04:59)
 
 <audio controls>
 <source src="/logoscollectie/audio/HEX/CR1511-10.wav" type="audio/wav">
 <source src="/logoscollectie/audio/HEX/CR1511-10.wav" type="audio/x-wav">
-  Your browser doesn't support HTML5 audio. Here is a <a href="/logoscollectie/audio/HEX/CR1511-10.wav">link to the audio</a> instead.
 </audio>
 
+If your browser doesn't support HTML5 audio, here is a <a href="/logoscollectie/audio/HEX/CR1511-10.wav">link to the audio</a> instead.
 
-CR890-2
 
-HEX(1988) 2 26:25
+HEX(1988)
 
 <audio controls>
 <source src="/logoscollectie/audio/HEX/CR890-2.wav" type="audio/wav">
 <source src="/logoscollectie/audio/HEX/CR890-2.wav" type="audio/x-wav">
-  Your browser doesn't support HTML5 audio. Here is a <a href="/logoscollectie/audio/HEX/CR890-2.wav">link to the audio</a> instead.
 </audio>
+
+If your browser doesn't support HTML5 audio, here is a <a href="/logoscollectie/audio/HEX/CR890-2.wav">link to the audio</a> instead.

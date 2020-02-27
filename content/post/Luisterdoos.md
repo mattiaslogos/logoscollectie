@@ -5,7 +5,7 @@ tags = [
     "contactmicrofoon",
 "verloren",
 "tabaksblik",
-"voorversterker"
+"versterking-noodzakelijk"
 ]
 date = "1976-01-01"
 dates = "1976"

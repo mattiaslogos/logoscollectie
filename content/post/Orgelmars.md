@@ -1,7 +1,7 @@
 ﻿+++
 title = "Orgelmars"
 description = ""
-tags = [ "orgel", "openbare-ruimte",  "blazen/wind"
+tags = [ "orgel", "openbare-ruimte",  "blazen/lucht"
 ]
 date = "1988-01-01"
 dates = "1988"

@@ -5,7 +5,7 @@ tags = [
 "8_bit",
 "Synthelog",
 "synthesizer",
-"Printerpoort",
+"printerpoort/centronics",
 "Quadrofoon",
 "ringmodulator"
 ]

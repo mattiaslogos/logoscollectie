@@ -19,9 +19,6 @@ summary = "<p>Raes bouwde zijn eerste theremin in 1968.</p>"
 
 # Theremin (1968)
 
-![no picture][afb1]
-[afb1]: /logoscollectie/img/noImage.png "no picture"
-
 **Collectie**
 Stichting Logos
 

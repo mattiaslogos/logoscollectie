@@ -1,7 +1,7 @@
 ﻿+++
 title = "EMbox / Elektromagnetische doos"
 description = ""
-tags = [ "pick-up", "veer", "snaar", "voorversterker", "tokkelen"
+tags = [ "pick-up", "veer", "snaar", "versterking-noodzakelijk", "tokkelen"
 ]
 date = "1973-01-01"
 dates = "1973"

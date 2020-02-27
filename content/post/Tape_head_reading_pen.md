@@ -1,7 +1,7 @@
 ﻿+++
 title = "Tape head reading pen"
 description = ""
-tags = [ "magneetband+leeskop", "voorversterker", "tabaksblik"
+tags = [ "magneetband+leeskop", "versterking-noodzakelijk", "tabaksblik"
 ]
 date = "1970-01-01"
 dates = "1970"
@@ -32,11 +32,11 @@ Gebouwd door Godfried-Willem Raes te Gent
 1970
 
 **Afmetingen**
-Pen
+*Pen*
 
 H x B x L: 2 x 2 x 20
 
-Voorversterker
+*Voorversterker*
 
 H x B x L: 3,5 x 13,5 x 14
 

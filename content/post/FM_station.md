@@ -16,11 +16,7 @@ menu = "main"
 summary = "<p>Raes bouwde als tiener een FM-zender die stond beschreven in een jongerentijdschrift “Jongens en elektronica”.</p>"
 +++
 
-
 # FM-station (1965)
-
-![no picture][afb1]
-[afb1]: /logoscollectie/img/noImage.png "no picture"
 
 **Collectie** 
 Stichting Logos

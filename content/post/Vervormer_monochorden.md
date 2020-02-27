@@ -16,8 +16,6 @@ summary = "<p>Met dit geluidseffect werd de klank van monochorden gemanipuleerd.
 +++
 
 # Vervormer voor monochorden (1972)
-![no picture][afb1]
-[afb1]: /logoscollectie/img/noImage.png "no picture"
 
 **Collectie**
 Stichting Logos

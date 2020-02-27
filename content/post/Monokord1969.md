@@ -21,11 +21,7 @@ menu = "main"
 summary = "<p>De metalen snaar van dit Monochord werd versterkt met een magnetische pick-up. Met een beweegbaar luidsprekertje kon de bespeler spelen met feedback.</p>"
 +++
 
-
 # Monokord (1969)
-
-![no picture][afb1]
-[afb1]: /logoscollectie/img/noImage.png "no picture"
 
 **Collectie** 
 Stichting Logos

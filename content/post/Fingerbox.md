@@ -1,7 +1,7 @@
 ﻿+++
 title = "Fingerbox"
 description = ""
-tags = [ "pick-up", "contactmicrofoon", "duimpiano", "SN76477",  "voorversterker", "pin", "slaan", "tokkelen", "veer", "synthesizer"
+tags = [ "pick-up", "contactmicrofoon", "duimpiano", "SN76477",  "versterking-noodzakelijk", "pin", "slaan", "tokkelen", "veer", "synthesizer"
 
 ]
 date = "1983-01-01"
@@ -58,7 +58,7 @@ Merk op dat zowel de speakers, de pick-ups, de frequentiemeters en het motortje 
 De fingerbox combineert deze hier boven besproken elektro-akoekstische klanken met elektronisch geluid. Hiervoor wordt een chip SN76477 gebruikt (Raes gebruikt deze ook in enkele synthelogs), de datasheet vind je in de bijlage. Met de tuimelschakelaar links bovenaan wordt de synthesizermodule ingeschakeld. Met de zwarte potmeters een de linker en rechter zijkanten wordt het volume van de synth van respectievelijk het linker en rechter kanaal geregeld. Via de vrouwelijke mini-jack ingang links boven de frequentiemeter van 60Hz kan een externe geluidsbron worden aangesloten. De vrouwelijke mini-jack rechts ervan dient om de one-shot, de kleine witte momentschakelaar rechts boven de rechter luidspreker, in of uit te schakelen. Dit doen we met behulp van een mannelijke mono-mini-jack waarvan de top en de sleeve zijn doorverbonden. Ook de vrouwelijke mini-jack rechts hiervan wordt met een soortgelijke jack geschakeld en bepaald of de VCO/LFO al dan niet samen met de noisemodule hoorbaar is. Deze laatste genoemde module kan beïnvloed worden met de lichtweerstand boven de one-shot.
 
 
-De volgende drie vrouwelijke mini-jacks worden geschakeld met c-pins, een mannelijke minijack met een condensator van een bepaalde waarde tussen top en sleeve. De waarde van de c-pin bepaald van links naar rechts de lengte van de one shot, het frequentiegebied van de LFO en het frequentiegebied van de VCO. Met de joystick rechts bovenaan wordt de LFO en VCO gestuurd. Deze heeft ook een invloed op de noisemodule.
+De volgende drie vrouwelijke mini-jacks worden geschakeld met c-pins, een mannelijke mini-jack met een condensator van een bepaalde waarde tussen top en sleeve. De waarde van de c-pin bepaald van links naar rechts de lengte van de one shot, het frequentiegebied van de LFO en het frequentiegebied van de VCO. Met de joystick rechts bovenaan wordt de LFO en VCO gestuurd. Deze heeft ook een invloed op de noisemodule.
 
 
 De PCB’s met schakelingen zijn onder het houten bovenblad gemonteerd. Dit kan  uit het kistje worden gelicht als we de vier vijsjes in de hoeken losmaken. We zien boven de onderkant van de joystick en het motortje de PCB met de synthesizer module. Aan de andere kant zien we de PCB’s van het stereo voorversterkertje en een impedantieomvormer (met LT44). Er werd onder andere gebruik gemaakt van onderdelenkits (Velleman) die naar de noden van het instrument werden aangepast. De schakeling van de fingerbox vindt u in de bijlage.

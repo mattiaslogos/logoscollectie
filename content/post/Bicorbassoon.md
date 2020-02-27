@@ -80,5 +80,6 @@ Junks:
 <audio controls>
 <source src="/logoscollectie/audio/Bicorbassoon/Junks_IV_CR3.2.wav" type="audio/wav">
 <source src="/logoscollectie/audio/Bicorbassoon/Junks_IV_CR3.2.wav" type="audio/x-wav">
-  Your browser doesn't support HTML5 audio. Here is a <a href="/logoscollectie/audio/Bicorbassoon/Junks_IV_CR3.2.wav">link to the audio</a> instead.
 </audio>
+
+If your browser doesn't support HTML5 audio, here is a <a href="/logoscollectie/audio/Bicorbassoon/Junks_IV_CR3.2.wav">link to the audio</a> instead.

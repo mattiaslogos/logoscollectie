@@ -18,9 +18,6 @@ summary = "<p>Raes bouwde als tiener zijn eerste taperecorder zelf.</p>"
 
 # Tape recorder (1966)
 
-![no picture][afb1]
-[afb1]: /logoscollectie/img/noImage.png "no picture"
-
 **Collectie**
 Stichting Logos
 

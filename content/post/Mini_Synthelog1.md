@@ -1,5 +1,5 @@
 ﻿+++
-title = "Mini synthelog"
+title = "Mini synthelog 1"
 description = ""
 tags = [ 
 "synthelog", "SN76477",
@@ -51,7 +51,7 @@ De synthesizer is gebouwd op een ge-etste printplaat waarboven (op een afstand v
 
 Centraal op de printplaat zien we de SN76477 chip waarrond de mini synthelog is gebouwd. Hier staat met dymo “logos” op geschreven. De schakeling is gebaseerd op de evaluatieschakeling van de chip (zie bijlage). De schakelaars en condensatoren die de verschillende parameters van het outputsignaal bepalen zijn hier vervangen door vrouwelijke mini-jacks. De bovenste rij mini-jacks op het frontpaneel kunnen geschakeld worden met mannelijke mini-jacks waarvan de tip en de sleeve zijn doorverbonden. Welke parameters er worden geschakeld kan je zien in de tekening in de bijlage. 
 
-De tweede rij vrouwelijke mini-jacks worden geschakeld met mannelijke mini-jacks waarvan tussen de tip en sleeve een condensator is gesoldeerd (c-pins). De waarde van de condensator is bepalend voor de klank. Welke parameters er worden geschakeld met de c-pins kan je zien op de tekening in de bijlage. De vrouwelijke minijack boven de aan- en uitschakelaar (in het midden rechts) is verbonden met pin 12 (de feedbackweerstand) en  wordt geschakeld met een mannelijke mini-jack waar tussen de tip en de sleeve een weerstand is gesoldeerd. De waarde ervan bepaald de gain (veel gain bij grote weerstand en andersom). Door de momentschakelaar (verbonden met pin 9) onder de tuimelschakelaar kan het geluid van de synth worden onderbroken. 
+De tweede rij vrouwelijke mini-jacks worden geschakeld met mannelijke mini-jacks waarvan tussen de tip en sleeve een condensator is gesoldeerd (c-pins). De waarde van de condensator is bepalend voor de klank. Welke parameters er worden geschakeld met de c-pins kan je zien op de tekening in de bijlage. De vrouwelijke mini-jack boven de aan- en uitschakelaar (in het midden rechts) is verbonden met pin 12 (de feedbackweerstand) en  wordt geschakeld met een mannelijke mini-jack waar tussen de tip en de sleeve een weerstand is gesoldeerd. De waarde ervan bepaald de gain (veel gain bij grote weerstand en andersom). Door de momentschakelaar (verbonden met pin 9) onder de tuimelschakelaar kan het geluid van de synth worden onderbroken. 
 
 Ook door met de vingers de lichtinval op de lichtweerstanden te wijzigen kunnen de parameters van de klank worden gewijzigd. Welke lichtweerstand welke parameter verandert vind je terug in het schema in de bijlage.  
 

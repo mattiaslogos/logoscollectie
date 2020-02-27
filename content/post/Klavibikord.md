@@ -3,7 +3,7 @@ title = "Klavibikord"
 description = ""
 tags = [ 
 "pick-up",
-"voorversterker",
+"versterking-noodzakelijk",
 "snaar",
 "toetsen", "clavichord"
 ]
@@ -44,11 +44,11 @@ H x B x L: 13 x 19,5 x 44,5
 LOGOS 72.05
 
 #### Beschrijving van het instrument
-Het klavibikord is gebouwd op een massief houten plank van 1,7 cm dik. Aan de twee korte zijden zijn twee houten spieën gelijmd waaraan het frontpaneel is bevestigd. Op het frontpaneel, waarop de naam van het instrument staat, zien we de aan- en uitschakelaar tussen vier horizontale schuifpotentiometers (2 links en 2 rechts). In de linker benedenhoek zien we de stereo-uitgang (vrouwelijke stereojack) van het instrument. De schakelaar boven de uitgang heeft geen functie meer.
+Het klavibikord is gebouwd op een massief houten plank van 1,7 cm dik. Aan de twee korte zijden zijn twee houten spieën gelijmd waaraan het frontpaneel is bevestigd. Op het frontpaneel, waarop de naam van het instrument staat, zien we de aan- en uitschakelaar tussen vier horizontale schuifpotentiometers (2 links en 2 rechts). In de linkerbenedenhoek zien we de stereo-uitgang (vrouwelijke stereojack) van het instrument. De schakelaar boven de uitgang heeft geen functie meer.
 
-Centraal boven op het instrument zien we het klavier, afkomstig van een gesloopt bontempi orgeltje. Door de toetsen van het klavier in te drukken, bespeel je twee snaren die parallel met de lange zijde van het instrument lopen. De ene snaar loopt boven het mechanisme en de andere snaar eronder. Kleine veertjes trekken de twaalf toeten telkens terug op hun plaats. Onder de kloppertjes van het klavier is een strookje vilt aangebracht. Zowel de dunne snaar (0.4 mm) aan de kant van de bespeler als de dikke snaar (1.2 mm) aan de andere kant, worden met een brugpen van een gitaar vast gehouden. Beide snaren lopen over een mandolinebrugje en over een topkammetje naar een stemmechaniek van een gitaar. Beide snaren kunnen met twee pick-ups worden versterkt, telkens één aan de kant van de brug en één aan de kant van de topkam.
+Centraal boven op het instrument zien we het klavier, afkomstig van een gesloopt bontempi orgeltje. Door de toetsen van het klavier in te drukken, bespeel je twee snaren die parallel met de lange zijde van het instrument lopen. De ene snaar loopt boven het mechanisme en de andere snaar eronder. Kleine veertjes trekken de twaalf toeten telkens terug op hun plaats. Onder de kloppertjes van het klavier is een strookje vilt aangebracht. Zowel de dunne snaar (0.4 mm) aan de kant van de bespeler als de dikke snaar (1.2 mm) aan de andere kant, worden met een brugpen van een gitaar vastgehouden. Beide snaren lopen over een mandolinebrugje en over een topkammetje naar een stemmechaniek van een gitaar. Beide snaren kunnen met twee pick-ups worden versterkt, telkens één aan de kant van de brug en één aan de kant van de topkam.
 
-De pick-ups zijn gemaakt van 12 Volt elektromagneten waarvan het magnetisch circuit werd geopend en het bewegende anker werd vervangen door een vastgelijmde neodymiummagneten. De pick-ups zijn met een metalen latje en twee vijzen in het hout vast gezet.
+De pick-ups zijn gemaakt van 12 Volt elektromagneten waarvan het magnetisch circuit werd geopend en het bewegende anker werd vervangen door een vastgelijmde neodymiummagneten. De pick-ups zijn met een metalen latje en twee vijzen in het hout vastgezet.
 
 In het midden van beide korte zijden is het klavibikord bovenaan versiert met een ijzeren bloemsculptuurtje. Op een van de lange zijden is bovenaan een koperen plaatje gevezen waarop “RAES” te lezen staat.
 
@@ -73,7 +73,7 @@ Om de 9V blokbatterijen te vervangen moet de dekplaat onderaan worden verwijderd
 In werkende staat. Enkel de schuifpotentiometer rechts onderaan op het frontpaneel is stuk.
 
 #### Historiek van het instrument
-Klavibikord werd gebouwd ter vervanging van het zware en moeilijk vertransporteerbare Klavimonochord uit 1970. 
+Klavibikord werd gebouwd ter vervanging van het zware en moeilijk transporteerbare Klavimonochord uit 1970. 
 In 2019 besloot Godfried-Willem Raes om het instrument te restaureren. De pick-ups hadden hun magnetisme verloren, het stemmechanisme van de dikke snaar was stuk en de brugjes waren verloren gegaan. Deze werden allemaal vervangen door nieuwe exemplaren. De componenten van de originele voorversterkers (met 709 opamps) en mixers waren met dikke kabels met elkaar verbonden en hingen zwevend onder de houten plank. Deze werden vervangen door een nieuwe schakeling op een ge-etste pcb. De brom en ruis verminderde daardoor aanzienlijk. Het instrument kreeg ook een frontpaneel vooraan en een afdekplaat en pootjes onderaan. Beiden zijn verbonden met de massa om ruis tegen te gaan. De schakelaar links, die oorspronkelijk diende om het instrument van mono naar stereo te schakelen, verloor zijn functie.  
 
 #### Problematieken

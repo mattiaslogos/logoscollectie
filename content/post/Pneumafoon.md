@@ -251,21 +251,26 @@ Concerto for organ and pneumaphones 25:13
 <audio controls>
 <source src="/logoscollectie/audio/Pneumafoon/C506-1.wav" type="audio/wav">
 <source src="/logoscollectie/audio/Pneumafoon/C506-1.wav" type="audio/x-wav">
-  Your browser doesn't support HTML5 audio. Here is a <a href="/logoscollectie/audio/Pneumafoon/C506-1.wav">link to the audio</a> instead.
 </audio>
+
+If your browser doesn't support HTML5 audio, here is a <a href="/logoscollectie/audio/Pneumafoon/C506-1.wav">link to the audio</a> instead.
+
+
 
 Pneumafoon-performance 17:54
 
 <audio controls>
 <source src="/logoscollectie/audio/Pneumafoon/C506-2.wav" type="audio/wav">
 <source src="/logoscollectie/audio/Pneumafoon/C506-2.wav" type="audio/x-wav">
-  Your browser doesn't support HTML5 audio. Here is a <a href="/logoscollectie/audio/Pneumafoon/C506-2.wav">link to the audio</a> instead.
 </audio>
 
+If your browser doesn't support HTML5 audio, here is a <a href="/logoscollectie/audio/Pneumafoon/C506-2.wav">link to the audio</a> instead.
+
+Pneumafoon impro
 
 <audio controls>
 <source src="/logoscollectie/audio/Pneumafoon/pneumafoon-impro.wav" type="audio/wav">
 <source src="/logoscollectie/audio/Pneumafoon/pneumafoon-impro.wav" type="audio/x-wav">
-  Your browser doesn't support HTML5 audio. Here is a <a href="/logoscollectie/audio/Pneumafoon/pneumafoon-impro.wav">link to the audio</a> instead.
 </audio>
 
+If your browser doesn't support HTML5 audio, here is a <a href="/logoscollectie/audio/Pneumafoon/pneumafoon-impro.wav">link to the audio</a> instead.

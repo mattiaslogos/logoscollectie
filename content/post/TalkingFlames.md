@@ -1,7 +1,7 @@
 ﻿+++
 title = "Talking Flames"
 description = ""
-tags = [ "voorversterker", "vuur", "ingebouwde-versterker"
+tags = [ "vuur", "ingebouwde-versterker"
 ]
 date = "1989-01-01"
 dates = "1989"
@@ -99,5 +99,6 @@ De plasmaluidspreker is geen uitvinding van Raes. Zijn vele experimenten met het
 <audio controls>
   <source src="/logoscollectie/audio/Talking_Flames/CR1511-6TalkingFlames.wav" type="audio/wav">
   <source src="/logoscollectie/audio/Talking_Flames/CR1511-6TalkingFlames.wav" type="audio/x-wav">
-  Your browser doesn't support HTML5 audio. Here is a <a href="/logoscollectie/audio/Talking_Flames/CR1511-6TalkingFlames.wav">link to the audio</a> instead.
 </audio>
+
+If your browser doesn't support HTML5 audio, here is a <a href="/logoscollectie/audio/Talking_Flames/CR1511-6TalkingFlames.wav">link to the audio</a> instead.
