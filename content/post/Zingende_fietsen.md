@@ -4,12 +4,11 @@ description = ""
 tags = [ "oscillator",
 "openbare-ruimte",
 "fietswiel",
-"pvc-buis",
-"event"
+"pvc-buis"
 ]
 date = "1980-01-01"
 dates = "1980"
-categories = ["elektronisch"
+categories = ["elektronisch", "event"
 ]
 alfabetisch = ["Z"
 ]
