@@ -7,11 +7,11 @@ tags = [
 "Feedback",
 "Midi",
 "spo256",
-"tabaksblik",
 "veer",
 "geluidseffect",
 "printerpoort/centronics",
-"tabaksblik"
+"tabaksblik",
+"sampler"
 
 ]
 date = "1988-01-01"

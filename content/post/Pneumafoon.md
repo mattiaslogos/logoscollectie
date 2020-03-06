@@ -5,7 +5,8 @@ tags = [
   "pvc-buis",
   "vel",
   "blazen/lucht",
-  "exponentiele-hoorn"
+  "exponentiele-hoorn",
+  "orgel"
 ]
 date = "1983-01-01"
 dates = "1983"

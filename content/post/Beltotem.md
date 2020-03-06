@@ -4,7 +4,6 @@ description = ""
 tags = [
  "bel",
 "sirene",
-"slaan",
 "claxon",
 ]
 date = "1975-01-01"

@@ -4,7 +4,6 @@ description = ""
 tags = [
   "geluidseffect",
 "verloren",
-"VCA",
 "synthesizer"
 ]
 date = "1971-01-01"

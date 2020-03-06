@@ -4,7 +4,8 @@ description = ""
 tags = [
     "verloren",
 "oscillator",
-"toetsen"
+"toetsen",
+"orgel"
 ]
 date = "1967-01-01"
 dates = "1967"
