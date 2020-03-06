@@ -4,7 +4,8 @@ description = ""
 tags = [ "oscillator",
 "openbare-ruimte",
 "fietswiel",
-"pvc-buis"
+"pvc-buis",
+"event"
 ]
 date = "1980-01-01"
 dates = "1980"

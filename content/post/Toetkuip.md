@@ -1,7 +1,7 @@
 ﻿+++
 title = "Toetkuip"
 description = ""
-tags = ["openbare-ruimte", "Claxon", "8_bit"
+tags = ["openbare-ruimte", "Claxon", "8_bit", "event"
 ]
 date = "1987-01-01"
 dates = "1987"

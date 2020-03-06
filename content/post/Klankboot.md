@@ -2,7 +2,7 @@
 title = "Klankboot"
 description = ""
 tags = [
-"claxon", "openbare-ruimte", "toetsen"
+"claxon", "openbare-ruimte", "toetsen", "event"
 ]
 date = "1987-01-01"
 dates = "1987"

@@ -1,7 +1,7 @@
 ﻿+++
 title = "Soundtracker 1"
 description = ""
-tags = [ "magneetband+leeskop", "versterking-noodzakelijk"
+tags = [ "magneetband+leeskop", "versterking-noodzakelijk", "event"
 ]
 date = "1982-01-01"
 dates = "1982"
