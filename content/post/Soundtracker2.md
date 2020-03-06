@@ -1,11 +1,11 @@
 ﻿+++
 title = "Soundtracker 2"
 description = ""
-tags = [ "magneetband+leeskop", "versterking-noodzakelijk", "event"
+tags = [ "magneetband+leeskop", "versterking-noodzakelijk"
 ]
 date = "1986-01-01"
 dates = "1986"
-categories = ["elektroakoestisch",
+categories = ["elektroakoestisch", "event"
 ]
 alfabetisch = ["S"
 ]

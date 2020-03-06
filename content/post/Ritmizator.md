@@ -1,11 +1,11 @@
 ﻿+++
 title = "Ritmizator (1972)"
 description = ""
-tags = [ 
+tags = [ "quadrofoon", "synthesizer"
 ]
 date = "1972-01-01"
 dates = "1972"
-categories = [ 
+categories = [ "elektronisch"
 ]
 alfabetisch = ["R"
 ]

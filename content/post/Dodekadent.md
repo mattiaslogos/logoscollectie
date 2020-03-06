@@ -4,7 +4,8 @@ description = ""
 tags = [
     "oscillator",
     "synthesizer",
-    "vibrato"
+    "vibrato",
+	"quadrofoon"
 ]
 date = "1971-01-01"
 dates = "1971"

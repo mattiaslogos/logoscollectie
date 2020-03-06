@@ -2,11 +2,11 @@
 title = "Klankboot"
 description = ""
 tags = [
-"claxon", "openbare-ruimte", "toetsen", "event"
+"claxon", "openbare-ruimte", "toetsen"
 ]
 date = "1987-01-01"
 dates = "1987"
-categories = ["klanksculptuur", "akoestisch"
+categories = ["klanksculptuur", "akoestisch", "event"
 ]
 alfabetisch = ["K"
 ]

@@ -11,8 +11,8 @@ tags = [
 "geluidseffect",
 "printerpoort/centronics",
 "tabaksblik",
-"sampler"
-
+"sampler",
+"quadrofoon"
 ]
 date = "1988-01-01"
 dates = "1988"

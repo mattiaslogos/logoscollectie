@@ -1,11 +1,11 @@
 ﻿+++
 title = "Toetkuip"
 description = ""
-tags = ["openbare-ruimte", "Claxon", "8_bit", "event"
+tags = ["openbare-ruimte", "Claxon", "8_bit"
 ]
 date = "1987-01-01"
 dates = "1987"
-categories = ["klanksculptuur", "akoestisch" 
+categories = ["klanksculptuur", "akoestisch", "event" 
 ]
 alfabetisch = ["T"
 ]
