@@ -7,7 +7,7 @@ date = "1979-01-01"
 dates = "1979"
 categories = ["elektronisch"
 ]
-alfabetisch = ["S"
+alfabetisch = ["S", "N", "G"
 ]
 menu = "main"
 summary = "<a href='/logoscollectie/1979/Stereo_noise_generator'><img src='/logoscollectie/img/Stereo_noise_generator/Stereo%20Noise%20generator-thumb.jpg'></a><p>Zoals het woord het zegt wekt de Stereo Noise Generator twee ruissignalen op.</p>"

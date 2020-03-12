@@ -8,7 +8,7 @@ date = "1974-01-01"
 dates = "1974"
 categories = ["elektroakoestisch"
 ]
-alfabetisch = ["D"
+alfabetisch = ["D", "H"
 ]
 menu = "main"
 summary = "<a href='/logoscollectie/1974/duchamp_harp'><img src='/logoscollectie/img/DuchampHarp/Duchamp%20Harp%20voorkant-thumb.jpg'></a><p>Dit instrument ziet er uit als de sculptuur “Bicycle Wheel” van Marcel Duchamp uit 1952. Toch is het een muziekinstrument. Het fietswiel wordt namelijk met een contactmicrofoon versterkt en bespeeld met tandenborstels, vorken, speelkaarten, strijkstokken, vibrators en breinaalden. </p>"

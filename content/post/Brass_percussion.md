@@ -10,7 +10,7 @@ dates = "1975"
 categories = [
     "akoestisch"
 ]
-alfabetisch = ["B"
+alfabetisch = ["B", "P"
 ]
 menu = "main"
 summary = "<a href='/logoscollectie/1975/brass_percussion'><img src='/logoscollectie/img/Brass_percussion/Brass_percussion-thumb.jpg'></a><p>Brass percussion is een gestemd slagwerkinstrument gebouwd van metalen vindmaterialen.</p>"

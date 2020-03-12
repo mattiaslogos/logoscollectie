@@ -14,7 +14,7 @@ dates = "1970"
 categories = [
     "elektroakoestisch"
 ]
-alfabetisch = ["A"
+alfabetisch = ["A", "B", "M"
 ]
 menu = "main"
 summary = "<p>Een snaar van een basgitaar wordt versterkt met een magnetische pick-up.</p>"

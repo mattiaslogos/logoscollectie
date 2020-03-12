@@ -8,7 +8,7 @@ date = "1973-01-01"
 dates = "1973"
 categories = ["akoestisch"
 ]
-alfabetisch = ["L"
+alfabetisch = ["L", "D"
 ]
 menu = "main"
 summary = "<a href='/logoscollectie/1973/log_drums'><img src='/logoscollectie/img/LogDrums/Log%20Drums-thumb.jpg'></a><p>Raes bouwde deze drie bij elkaar horende spleettrommels uit massief sequoia.  </p>"

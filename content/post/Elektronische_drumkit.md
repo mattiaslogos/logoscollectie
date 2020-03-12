@@ -11,7 +11,7 @@ dates = "1988"
 categories = [
     "elektronisch"
 ]
-alfabetisch = ["E"
+alfabetisch = ["E", "D"
 ]
 menu = "main"
 summary = "<p>Met de elektronische drumkit kunnen analoge drumklanken afkomstig van gyrator-schakelingen digotaal worden aangestuurd.</p>"

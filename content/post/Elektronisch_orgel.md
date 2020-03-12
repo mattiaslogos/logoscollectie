@@ -11,7 +11,7 @@ date = "1967-01-01"
 dates = "1967"
 categories = [ "elektronisch"
 ]
-alfabetisch = ["E"
+alfabetisch = ["E", "O"
 ]
 menu = "main"
 summary = "<p>Raes bouwde in zijn tienerjaren een elektrisch orgel. Hij gebruikte een orgeldeler-schakeling en eenvoudige generatoren. Met slechts 1 oscillator per drie noten was er slechts een beperkte polyfonie mogelijk.</p>"

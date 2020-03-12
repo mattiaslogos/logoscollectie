@@ -11,7 +11,7 @@ dates = "1975"
 categories = [
   "akoestisch"
 ]
-alfabetisch = ["N"
+alfabetisch = ["N", "V"
 ]
 menu = "main"
 summary = "<a href='/logoscollectie/1975/nail_violin'><img src='/logoscollectie/img/Nail_Violin/Nail_Violin1-thumb.jpg'></a><p>De acht metalen staafjes van deze nagelviool moeten met een strijkstok worden bespeeld. </p>"

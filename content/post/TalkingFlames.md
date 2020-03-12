@@ -7,7 +7,7 @@ date = "1989-01-01"
 dates = "1989"
 categories = ["elektroakoestisch", "klanksculptuur"
 ]
-alfabetisch = ["T"
+alfabetisch = ["T", "F"
 ]
 menu = "main"
 summary = "<a href='/logoscollectie/1989/talkingflames'><img src='/logoscollectie/img/Talking_Flames/Talking%20Flames-thumb.jpg'></a><p>Talking Flames zijn twee identieke plasmaluidspreker die gebruikt worden als geluidssculptuur of in performances. De werking van het instrument gaat verder op de zingende boog van William Duddell, een fysicus uit de tweede helft van de 19de eeuw. Een geluidssignaal wordt gemodificeerd en door de vlammetjes in geluidsgolven omgezet.</p>"
@@ -102,3 +102,4 @@ De plasmaluidspreker is geen uitvinding van Raes. Zijn vele experimenten met het
 </audio>
 
 If your browser doesn't support HTML5 audio, here is a <a href="/logoscollectie/audio/Talking_Flames/CR1511-6TalkingFlames.wav">link to the audio</a> instead.
+

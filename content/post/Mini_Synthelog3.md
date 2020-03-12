@@ -7,7 +7,7 @@ date = "1983-01-01"
 dates = "1983"
 categories = [ "elektronisch"
 ]
-alfabetisch = ["M"
+alfabetisch = ["M", "S"
 ]
 menu = "main"
 summary = "<a href='/logoscollectie/1983/mini_synthelog3'><img src='/logoscollectie/img/MiniSynthelog3/MiniSynthelog3_2-thumb.jpg'></a><p>Deze synthesizer maak deel uit van de synthelogfamilie en is rond de geluidenchip SN76477 gebouwd. Het instrument wordt intuïtief bespeeld door C-pins en schakelpins in de daarvoor voorziene ingangen te pluggen. De klank kan ook veranderd en beïnvloed worden door te spelen met de aanraakpunten en de lichtinval op de lichtweerstanden.</p>"

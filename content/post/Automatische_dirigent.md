@@ -11,7 +11,7 @@ dates = "1968"
 categories = [
     "elektroakoestisch"
 ]
-alfabetisch = ["A"
+alfabetisch = ["A", "D"
 ]
 menu = "main"
 summary = "<p>De automatische dirigent werd gebruikt om muzikanten te helpen bij het spelen van complexe ritmes en tempiverhoudingen.</p>"

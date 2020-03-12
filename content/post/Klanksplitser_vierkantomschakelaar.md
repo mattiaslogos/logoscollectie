@@ -7,7 +7,7 @@ dates = "1971"
 categories = [
 "elektronisch"
 ]
-alfabetisch = ["K"
+alfabetisch = ["K", "V"
 ]
 menu = "main"
 summary = "<p>Via dit apparaat konden geluidssignalen die op de ingangen zijn aangesloten naar verschillende uitgangen worden geleid. </p>"

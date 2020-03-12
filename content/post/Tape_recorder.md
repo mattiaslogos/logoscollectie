@@ -10,7 +10,7 @@ dates = "1966"
 categories = [
     "elektroakoestisch"
 ]
-alfabetisch = ["T"
+alfabetisch = ["T", "R"
 ]
 menu = "main"
 summary = "<p>Raes bouwde als tiener zijn eerste taperecorder zelf.</p>"

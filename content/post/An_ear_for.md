@@ -8,7 +8,7 @@ dates = "1989"
 categories = [
     "digitaal"
 ]
-alfabetisch = ["A"
+alfabetisch = ["A", "E", "F"
 ]
 menu = "main"
 summary = "<a href='/logoscollectie/1989/an_ear_for'><img src='/logoscollectie/img/An_ear_for/An_ear_for1-thumb.jpg'></a><p>An Ear for Violin en An Ear for Clarinet zijn (quasi twee identieke) digitale interfaces. Ze kunnen toonhoogtes in real time herkennen en een triggersignaal via een printerpoort naar een computer sturen.</p>"

@@ -8,7 +8,7 @@ date = "1986-01-01"
 dates = "1986"
 categories = ["digitaal"
 ]
-alfabetisch = ["T"
+alfabetisch = ["T", "N"
 ]
 menu = "main"
 summary = "<a href='/logoscollectie/1986/three_nuns'><img src='/logoscollectie/img/Three_Nuns/Three%20nuns%20sampler%20profiel.jpg'></a><p>Three Nuns zijn in tabaksblikken ingebouwde samplers ontworpen voor de gelijknamige performance. Via oude telefoonhoorns nemen de bespelers vocale klanken in real time op en laten ze desgewenst vervormd afspelen.</p>"

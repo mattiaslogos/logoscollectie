@@ -8,7 +8,7 @@ dates = "1970"
 categories = ["elektroakoestisch"
 
 ]
-alfabetisch = ["T"
+alfabetisch = ["T", "R", "P"
 ]
 menu = "main"
 summary = "<a href='/logoscollectie/1970/tape_head_reading'><img src='/logoscollectie/img/Tape_head_reading_pen/Tape%20head%20reading%20pen%20voorzijde-thumb.jpg'></a><p>Godfried-Willem Raes bouwde dit instrument om de compositie MAP van Jon Hassell (gepubliceerd in Sources: Music of the Avant Garde) uit te voeren. Met de leeskop van de pen moet de muzikant op zoek gaan naar de geluiden die de componist op een stuk gemagnetiseerd vel achter liet.</p>"

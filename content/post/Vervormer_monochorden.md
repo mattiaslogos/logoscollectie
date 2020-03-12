@@ -9,7 +9,7 @@ date = "1972-01-01"
 dates = "1972"
 categories = [ "elektronisch"
 ]
-alfabetisch = ["V"
+alfabetisch = ["V", "M"
 ]
 menu = "main"
 summary = "<p>Met dit geluidseffect werd de klank van monochorden gemanipuleerd.</p>"

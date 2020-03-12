@@ -12,7 +12,7 @@ dates = "1983"
 categories = [
     "elektronisch"
 ]
-alfabetisch = ["U"
+alfabetisch = ["U", "K"
 ]
 menu = "main"
 summary = "<a href='/logoscollectie/1983/ultrasone_kraakdoos'><img src='/logoscollectie/img/Ultrasone_kraakdoos/Ultrasone_kraakdoos_bovenzijde-thumb.jpg'></a><p>Deze kraakdoos wekt ultrasonen op en moet dus gebruikt worden in combinatie met een interface die ultrasone golven in hoorbaar geluid omzet.</p>"
