@@ -17,7 +17,7 @@ menu = "main"
 summary = "<p>Raes bouwde zijn eerste theremin in 1968.</p>"
 +++
 
-# Theremin (1968)
+# Theremin
 
 **Collectie**
 Stichting Logos

@@ -13,7 +13,7 @@ menu = "main"
 summary = "<a href='/logoscollectie/1982/springdriver'><img src='/logoscollectie/img/Springdriver_(timeframes)/Springdriver-thumb.jpg'></a><p>De springdriver met bijhorende drivers en receivers werd gebruikt in de compositie “Timeframes”. Met externe klanken worden via drivers lange veren aan het trillen gebracht. Met pick-ups worden die trillingen terug opgepikt en via boxen hoorbaar gemaakt. Het is daarenboven mogelijk om met de opgepikte klank terug de veren aan te sturen, waardoor een feedback-loop in gang gezet wordt.</p>"
 +++
 
-# Springdriver (Timeframes) (1982)
+# Springdriver (Timeframes)
 
 ![alt text][afb1]
 [afb1]: /logoscollectie/img/Springdriver_(timeframes)/Springdriver-thumb.jpg "Springdriver (Timeframes)"

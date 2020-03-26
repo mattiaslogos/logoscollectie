@@ -1,5 +1,5 @@
 ﻿+++
-title = "RIAA pick-up cartridge amp (1970)"
+title = "RIAA pick-up cartridge amp"
 description = ""
 tags = [ "verloren", "contactmicrofoon"
 
@@ -14,7 +14,7 @@ menu = "main"
 summary = "<a href='/logoscollectie/1970/RIAA_pickup-cardridge_amp'><img src='/logoscollectie/img/RIAA_pickup-cardridge_amp_(1970)/Tekening%20cartdridge%20contactmicrofoon.jpg'></a><p>Raes bouwde deze versterker om (onder andere) de compositie Cartridge Music van John Cage te kunnen uitvoeren.</p>"
 +++
 
-# RIAA pick-up cartridge amp (1970)
+# RIAA pick-up cartridge amp
 
 **Collectie**
 Stichting Logos

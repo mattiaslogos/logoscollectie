@@ -13,7 +13,7 @@ menu = "main"
 summary = "<a href='/logoscollectie/1989/talkingflames'><img src='/logoscollectie/img/Talking_Flames/Talking%20Flames-thumb.jpg'></a><p>Talking Flames zijn twee identieke plasmaluidspreker die gebruikt worden als geluidssculptuur of in performances. De werking van het instrument gaat verder op de zingende boog van William Duddell, een fysicus uit de tweede helft van de 19de eeuw. Een geluidssignaal wordt gemodificeerd en door de vlammetjes in geluidsgolven omgezet.</p>"
 +++
 
-# Talking Flames 1989
+# Talking Flames
 
 ![alt text][afb1]
 [afb1]: /logoscollectie/img/Talking_Flames/Talking%20Flames-thumb.jpg "Talking Flames"
@@ -22,7 +22,7 @@ summary = "<a href='/logoscollectie/1989/talkingflames'><img src='/logoscollecti
 Stichting Logos
 
 **Titel**
-Talking Flames 1989
+Talking Flames
 
 **Productie**
 Gebouwd door Godfried-Willem Raes te Gent 

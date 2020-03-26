@@ -1,5 +1,5 @@
 ﻿+++
-title = "Radio-ontvanger (1964)"
+title = "Radio-ontvanger"
 description = ""
 tags = [
 
@@ -14,7 +14,7 @@ menu = "main"
 summary = "Raes bouwde als tiener een eenvoudige radio-ontvanger."
 +++
 
-# Radio-ontvanger (1964)
+# Radio-ontvanger
 
 **Collectie**
 Stichting Logos

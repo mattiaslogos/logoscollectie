@@ -14,7 +14,7 @@ menu = "main"
 summary = "<a href='/logoscollectie/1979/synthelog1'><img src='/logoscollectie/img/Synthelog1/Synthelog%201%20open%20bovenkant-thumb.jpg'></a><p>Synthelog 1 is de eerst geborene uit de synthelog familie, een reeks synthesizers met de chip SN76477 in de hoofdrol.</p>"
 +++
 
-# Synthelog 1 (1979)
+# Synthelog 1
 
 ![alt text][afb1]
 [afb1]: /logoscollectie/img/Synthelog1/Synthelog%201%20open%20bovenkant-thumb.jpg "Synthelog 1"

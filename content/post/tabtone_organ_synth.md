@@ -15,7 +15,7 @@ summary = "<a href='/logoscollectie/1972/tabtone_organ_synth'><img src='/logosco
 
 
 
-# Tab-tone organ synth (1972)
+# Tab-tone organ synth
 
 ![alt text][afb1]
 [afb1]: /logoscollectie/img/Tab-tone_organ_synth/Tab-tone%20organ%20synth%20bovenzijde-thumb.jpg "Tab-tone organ synth"

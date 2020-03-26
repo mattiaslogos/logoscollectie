@@ -20,7 +20,7 @@ menu = "main"
 summary = "<a href='/logoscollectie/1986/sirene/'><img src='/logoscollectie/img/Sirene/Sirene_voorzijde-thumb.jpg'></a><p>Sirene is een interactieve klanksculptuur waarbij de muziek door twaalf sirenes wordt gemaakt.</p>"
 +++
 
-# Sirene (1986)
+# Sirene
 
 ![Sirene][afb1]
 [afb1]: /logoscollectie/img/Sirene/Sirene_voorzijde-thumb.jpg "Sirene"

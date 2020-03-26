@@ -16,7 +16,7 @@ menu = "main"
 summary = "<a href='/logoscollectie/1982/manipulofoon'><img src='/logoscollectie/img/Manipulofoon1982/Manipulofoon1-thumb.jpg'></a><p>Met de Manipulofoon kunnen klanken van vooraf opgenomen stukken magneetband handmatig worden gemanipuleerd.</p>"
 +++
 
-# Manipulofoon (1982)
+# Manipulofoon
 
 ![alt text][afb1]
 [afb1]: /logoscollectie/img/Manipulofoon1982/Manipulofoon1-thumb.jpg "Manipulofoon"

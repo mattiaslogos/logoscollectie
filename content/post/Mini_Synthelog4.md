@@ -13,7 +13,7 @@ menu = "main"
 summary = "<a href='/logoscollectie/1983/mini_synthelog4'><img src='/logoscollectie/img/MiniSynthelog4/MiniSynthelog4-thumb.jpg'></a><p>Deze synthesizer maak deel uit van de synthelogfamilie en is rond de geluidenchip SN76477 gebouwd. Het instrument wordt intuïtief bespeeld door C-pins en schakelpins in de daarvoor voorziene ingangen te pluggen. De klank kan ook veranderd en beïnvloed worden door te spelen met de aanraakpunten en de lichtinval op de lichtweerstanden.</p>"
 +++
 
-# Mini synthelog 4 (1983)
+# Mini synthelog 4
 
 ![Mini synthelog 4][afb1]
 [afb1]: /logoscollectie/img/MiniSynthelog4/MiniSynthelog4-thumb.jpg "Mini synthelog 4"

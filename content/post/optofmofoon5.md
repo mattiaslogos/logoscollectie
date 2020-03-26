@@ -15,7 +15,7 @@ summary = "<a href='/logoscollectie/1988/optofmofoon5'><img src='/logoscollectie
 +++
 
 
-# Optofmofoon V (1988)
+# Optofmofoon V
 
 ![alt text][afb1]
 [afb1]: /logoscollectie/img/Optofmofoon_V/Optofmofoon%20V%20bovenaanzicht-thumb.jpg "Optofmofoon V"

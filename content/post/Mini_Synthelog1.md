@@ -20,7 +20,7 @@ summary = "<a href='/logoscollectie/1979/mini_synthelog'><img src='/logoscollect
 
 
 
-# Mini synthelog 1 (1983)
+# Mini synthelog 1
 
 ![alt text][afb1]
 [afb1]: /logoscollectie/img/MiniSynthelog1/Mini_Synthelog%20bovenkant-thumb.jpg "Mini synthelog 1"

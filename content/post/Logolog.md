@@ -14,7 +14,7 @@ menu = "main"
 summary = "<a href='/logoscollectie/1984/logolog'><img src='/logoscollectie/img/Logolog/Logolog%20bovenaanzicht-thumb.jpg'></a><p>Logolog is spreekmachine die zowel manueel als via een seriële poort van een computer kan worden aangestuurd.</p>"
 +++
 
-# Logolog (1984)
+# Logolog
 
 ![alt text][afb1]
 [afb1]: /logoscollectie/img/Logolog/Logolog%20bovenaanzicht-thumb.jpg "Log drums"

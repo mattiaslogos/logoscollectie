@@ -14,7 +14,7 @@ menu = "main"
 summary = "<a href='/logoscollectie/1984/synthelog_for_kids1'><img src='/logoscollectie/img/Synthelog_for_kids1/Synthelog%20for%20kids%201%20bovenkant-thumb.jpg'></a><p>Deze synthelog is specifiek gebouwd voor vormingswerk. Kinderen kunnen met de schakelaars en potmeters intuïtief op zoek gaan naar interessante klanken en tonen.</p>"
 +++
 
-# Synthelog for kids 1 (1984)
+# Synthelog for kids 1
 
 ![alt text][afb1]
 [afb1]: /logoscollectie/img/Synthelog_for_kids1/Synthelog%20for%20kids%201%20bovenkant-thumb.jpg "Synthelog for kids 1"

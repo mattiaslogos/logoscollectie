@@ -14,7 +14,7 @@ summary = "<a href='/logoscollectie/1974/monokord1974'><img src='/logoscollectie
 +++
 
 
-# Monokord (1974)
+# Monokord
 
 ![alt text][afb1]
 [afb1]: /logoscollectie/img/Monokord1974/Monokord%20voorzijde-thumb.jpg "Monokord"
@@ -23,7 +23,7 @@ summary = "<a href='/logoscollectie/1974/monokord1974'><img src='/logoscollectie
 Stichting Logos
 
 **Titel**
-Monokord (1974)
+Monokord
 
 **Productie**
 Gebouwd door Godfried-Willem Raes te Gent

@@ -14,7 +14,7 @@ menu = "main"
 summary = "<a href='/logoscollectie/1982/synthelog2'><img src='/logoscollectie/img/Synthelog2/Synthelog%202%20open%20bovenkant-thumb.jpg'></a><p>Synthelog 2 is de compacte (concertreis-)versie van de synthelog 1. De sequenzer heeft wel meer mogelijkheden en het aangebouwde keyboard werd achterwege gelaten.</p>"
 +++
 
-# Synthelog 2 (1982)
+# Synthelog 2
 
 ![alt text][afb1]
 [afb1]: /logoscollectie/img/Synthelog2/Synthelog%202%20open%20bovenkant-thumb.jpg "Synthelog 2"

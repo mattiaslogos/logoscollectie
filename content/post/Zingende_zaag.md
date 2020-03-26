@@ -17,7 +17,8 @@ menu = "main"
 summary = "<a href='/logoscollectie/1973/zingende_zaag'><img src='/logoscollectie/img/Zingende_zaag/ZingendeZaag1-thumb.jpg'></a><p>Deze zingende zaag, gemaakt van veerstaal, werd met een strijkstok bespeeld.</p>"
 +++
 
-# Zingende zaag (1973)
+# Zingende zaag
+
 ![Zingende zaag][afb1]
 [afb1]: /logoscollectie/img/Zingende_zaag/ZingendeZaag1-thumb.jpg "Zingende zaag"
 

@@ -16,7 +16,7 @@ menu = "main"
 summary = "<p>Raes bouwde als tiener zijn eerste taperecorder zelf.</p>"
 +++
 
-# Tape recorder (1966)
+# Tape recorder
 
 **Collectie**
 Stichting Logos

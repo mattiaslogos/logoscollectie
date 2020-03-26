@@ -19,7 +19,7 @@ summary = "<a href='/logoscollectie/1981/kraakdoos1981'><img src='/logoscollecti
 
 
 
-# Kraakdoos (1981)
+# Kraakdoos
 
 ![alt text][afb1]
 [afb1]: /logoscollectie/img/Kraakdoos1981/Kraakdoos%20bovenkant-thumb.jpg "Kraakdoos"

@@ -19,7 +19,7 @@ menu = "main"
 summary = "<a href='/logoscollectie/1988/synthelog88'><img src='/logoscollectie/img/Synthelog88/Synthelog88a_b-thumb.jpg'></a><p>Deze synthesizer is in feite een PCB met een schakeling die gebouwd is rond de geluidenchip AY-3 van General Instrument. Deze chip kon digitaal via een 8-bit printerpoort (centronics) worden aangestuurd. De vier kanalen (quadrofoon) van het uitgangssignaal moeten op een mengpaneel of versterker worden aangesloten.</p>"
 +++
 
-# Synthelog 88 (1988)
+# Synthelog 88
 
 ![alt text][afb1]
 [afb1]: /logoscollectie/img/Synthelog88/Synthelog88a_b-thumb.jpg "Synthelog 88"

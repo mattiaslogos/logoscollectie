@@ -14,7 +14,7 @@ menu = "main"
 summary = "<a href='/logoscollectie/1984/synthelog_for_kids2'><img src='/logoscollectie/img/Synthelog_for_kids2/Synthelog%20for%20kids%202%20binnenkant-thumb.jpg'></a><p>Synthelog for kids 2 is een ruismachine bedoelt voor vormingswerk. Door de intensiteit op de lichtweerstanden te beïnvloeden verander je de parameters van zijn vreemde klanken.</p>"
 +++
 
-# Synthelog for kids 2 (1984)
+# Synthelog for kids 2
 
 ![alt text][afb1]
 [afb1]: /logoscollectie/img/Synthelog_for_kids2/Synthelog%20for%20kids%202%20binnenkant-thumb.jpg "Synthelog for kids 2"

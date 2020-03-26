@@ -18,7 +18,7 @@ menu = "main"
 summary = "<p>In de Luisterdoos, een sigarenkistje, zit een contactmicrofoon. Door deze als een stethoscoop tegen voorwerpen en objecten te houden kunnen deze auditief verkend worden.  </p>"
 +++
 
-# Luisterdoos (1976)
+# Luisterdoos
 
 
 **Collectie**

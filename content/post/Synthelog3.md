@@ -13,7 +13,7 @@ menu = "main"
 summary = "<p>Synthelog 3 is het derde type synthesizer dat Raes rond chip SN76477 ontwierp.</p>"
 +++
 
-# Synthelog 3 (1982)
+# Synthelog 3
 
 
 **Collectie**

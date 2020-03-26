@@ -19,7 +19,8 @@ menu = "main"
 summary = "<a href='/logoscollectie/1983/pneumafoon'><img src='/logoscollectie/img/Pneumafoon/20161107_0199-thumb.jpg'></a><p>Twintig klanksculpturen worden met behulp van wind tot klinken gebracht door op grote gele luchtkussens te zitten, springen en duwen. De kussens worden met windmachines voortdurend geleidelijk opgeblazen.</p>"
 +++
 
-# Pneumafoon (1983)
+# Pneumafoon
+
 ![Pneumafoon][afb1]
 [afb1]: /logoscollectie/img/Pneumafoon/20161107_0199-thumb.jpg "Pneumafoon"
 

@@ -17,7 +17,7 @@ summary = "<a href='/logoscollectie/1980/zingende_fietsen'><img src='/logoscolle
 +++
 
 
-# Zingende fietsen (1980)
+# Zingende fietsen
 
 ![alt text][afb1]
 [afb1]: /logoscollectie/img/Zingende_fietsen/zingendefiets-thumb.jpg "Zingende fiets"

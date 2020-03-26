@@ -13,7 +13,7 @@ menu = "main"
 summary = "<p>Via dit apparaat konden geluidssignalen die op de ingangen zijn aangesloten naar verschillende uitgangen worden geleid. </p>"
 +++
 
-# Klanksplitser en vierkanaalsomschakelaar (1971)
+# Klanksplitser en vierkanaalsomschakelaar
 
 
 **Collectie**

@@ -16,7 +16,8 @@ menu = "main"
 summary = "<a href='/logoscollectie/1980/ringmodulator1980'><img src='/logoscollectie/img/Ringmodulator1980/Ringmodulator_binnenkant-thumb.jpg'></a><p></p>"
 +++
 
-# Ring modulator (1980)
+# Ring modulator
+
 ![Ring modulator (1980)][afb1]
 [afb1]: /logoscollectie/img/Ringmodulator1980/Ringmodulator_binnenkant-thumb.jpg "Ring modulator (1980)"
 
@@ -24,7 +25,7 @@ summary = "<a href='/logoscollectie/1980/ringmodulator1980'><img src='/logoscoll
 Stichting Logos
 
 **Titel**
-Ring modulator (1980)
+Ring modulator
 
 **Productie**
 Gebouwd door Godfried-Willem Raes te Gent

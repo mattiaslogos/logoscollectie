@@ -14,7 +14,7 @@ summary = "<a href='/logoscollectie/1982/soundtracker1'><img src='/logoscollecti
 +++
 
 
-# Soundtracker I (1982)
+# Soundtracker I
 
 ![alt text][afb1]
 [afb1]: /logoscollectie/img/Soundtracker_I/Soundtracker%20I%20voorzijde-thumb.jpg "Soundtracker I"

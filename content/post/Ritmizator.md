@@ -13,7 +13,7 @@ menu = "main"
 summary = "<a href='/logoscollectie/1972/ritmizator'><img src='/logoscollectie/img/Ritmizator/Tekening%201%20ritmizator-thumb.png'></a><p>Op deze omhullendegenerator (Eng.: envelope generator) kon je twaalf verschillende geluidsignalen simultaan verwerken en quadrofoon uitsturen.</p>"
 +++
 
-# Ritmizator (1972)
+# Ritmizator
 
 **Collectie**
 Stichting Logos

@@ -17,7 +17,8 @@ menu = "main"
 summary = "<a href='/logoscollectie/1980/multiperson_horn'><img src='/logoscollectie/img/Multiperson_horn/Multiperson_horn-thumb.jpg'></a><p>De Multiperson-horn is een blaasinstrument dat door drie verschillende personen moet worden bespeeld.</p>"
 +++
 
-# Multiperson-horn (1980)
+# Multiperson-horn
+
 ![Multiperson horn][afb1]
 [afb1]: /logoscollectie/img/Multiperson_horn/Multiperson_horn-thumb.jpg "Multiperson horn"
 

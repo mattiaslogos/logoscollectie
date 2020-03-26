@@ -14,7 +14,7 @@ menu = "main"
 summary = "<a href='/logoscollectie/1981/synthelog_81_keyboard'><img src='/logoscollectie/img/Synthelog_81_keyboard/Synthelog%2081%20keyboard%20bovenkant-thumb.jpg'></a><p>Met deze universele interface kunnen de verschillende synthelogs en de TRS zowel manuaal els met een sequencer van stuurspanning voorzien worden.</p>"
 +++
 
-# Synthelog 81 keyboard (1981)
+# Synthelog 81 keyboard
 
 ![alt text][afb1]
 [afb1]: /logoscollectie/img/Synthelog_81_keyboard/Synthelog%2081%20keyboard%20bovenkant-thumb.jpg "Synthelog 81 keyboard"

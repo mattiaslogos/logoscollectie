@@ -14,7 +14,7 @@ summary = "<a href='/logoscollectie/1988/orgelmars'><img src='/logoscollectie/im
 +++
 
 
-# Orgelmars (1988)
+# Orgelmars
 
 ![alt text][afb1]
 [afb1]: /logoscollectie/img/Orgelmars/Orgelmars-thumb.jpg "Orgelmars"

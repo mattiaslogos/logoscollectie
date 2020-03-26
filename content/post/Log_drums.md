@@ -15,7 +15,7 @@ summary = "<a href='/logoscollectie/1973/log_drums'><img src='/logoscollectie/im
 +++
 
 
-# Log drums (1973)
+# Log drums
 
 ![alt text][afb1]
 [afb1]: /logoscollectie/img/LogDrums/Log%20Drums-thumb.jpg "Log drums"

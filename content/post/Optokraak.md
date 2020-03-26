@@ -15,7 +15,7 @@ summary = "<a href='/logoscollectie/1975/optokraak'><img src='/logoscollectie/im
 +++
 
 
-# Optokraak (1975)
+# Optokraak
 
 ![alt text][afb1]
 [afb1]: /logoscollectie/img/Optokraak/Optokraak%20vooraanzicht-thumb.jpg "Optokraak"

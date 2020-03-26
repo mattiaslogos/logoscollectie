@@ -21,13 +21,13 @@ menu = "main"
 summary = "<p>De metalen snaar van dit Monochord werd versterkt met een magnetische pick-up. Met een beweegbaar luidsprekertje kon de bespeler spelen met feedback.</p>"
 +++
 
-# Monokord (1969)
+# Monokord
 
 **Collectie** 
 Stichting Logos
 
 **Titel**
-Monokord (1969)
+Monokord
 
 **Productie**
 Gebouwd door Godfried-Willem Raes te Gent
