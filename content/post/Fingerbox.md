@@ -16,7 +16,7 @@ summary = "<a href='/logoscollectie/1983/fingerbox'><img src='/logoscollectie/im
 +++
 
 
-# Fingerbox (1983)
+# Fingerbox
 
 ![alt text][afb1]
 [afb1]: /logoscollectie/img/Fingerbox/Fingerbox-thumb.jpg "Fingerbox"

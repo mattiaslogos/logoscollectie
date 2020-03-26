@@ -15,7 +15,7 @@ summary = "<a href='/logoscollectie/1989/an_ear_for'><img src='/logoscollectie/i
 +++
 
 
-# An ear for ... (1989)
+# An ear for ...
 
 ![An ear for][afb1]
 [afb1]: /logoscollectie/img/An_ear_for/An_ear_for1-thumb.jpg "An ear for"

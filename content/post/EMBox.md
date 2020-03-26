@@ -16,7 +16,7 @@ summary = "<a href='/logoscollectie/1973/embox'><img src='/logoscollectie/img/EM
 
 
 
-# EMbox / Elektromagnetische doos (1973)
+# EMbox / Elektromagnetische doos
 
 ![alt text][afb1]
 [afb1]: /logoscollectie/img/EMBox/EMBox%20bovenaanzicht-thumb.jpg "EMBox"

@@ -1,5 +1,5 @@
 ﻿+++
-title = "Stereo Noise Generator (1979)"
+title = "Stereo Noise Generator"
 description = ""
 tags = [ "tabaksblik", "oscillator", "synthesizer"
 ]

@@ -38,11 +38,14 @@ H x B x L: niet gekend
 LOGOS 1978.04
 
 #### Beschrijving van het instrument
-Synthelog 3 is de derde type synthesizer die Raes rond chip SN76477. 
+Synthelog 3 is de derde type synthesizer die Raes rond chip SN76477 ontwierp.
 
-Raes ontwierp hiervoor een volledig nieuwe print (PCB). Er bestaan verschillende versies (versie maart, versie oktober en versie november) van Synthelog 3 (zie scan). De laatste versie n(ovember 1982) is uitgebreid gedocumenteerd in de bijlage.
 
-Synthelog 3 heeft dezelfde functies als de vorige twee versies: LFO, VCO, NOISE FILTER, PORTAMENTO, ONE SHOT, ADSR en SEQUENCER. De bediening is een beetje anders (zie template in bijlage).
+Daarvoor werd een volledig nieuwe print (PCB) ontwikkeld. Er bestaan verschillende versies (versie maart, versie oktober en versie november) van Synthelog 3 (zie scan). De laatste versie (november 1982) is uitgebreid gedocumenteerd in de bijlage.
+
+
+Synthelog 3 heeft dezelfde functies als de vorige twee versies: LFO, VCO, NOICE FILTER, PORTAMENTO, ONE SHOT, ADSR en SEQUENCER. De bediening is verschillend (zie template in bijlage).
+
 
 #### Speelwijze, repertoire en inzet in producties
 /
@@ -53,7 +56,7 @@ Synthelog 3 heeft dezelfde functies als de vorige twee versies: LFO, VCO, NOISE 
 #### Inscripties
 /
 #### Staat van het instrument
-Verloren en/of verkocht. Er zou er nog één bestaan in privé-bezit.
+Er is nog een exemplaar van dit instrument in privé bezit (José Vandenbroucke)
 
 #### Historiek van het instrument
 Synthelog 3 is de herwerkte versie van Synthelog 2. Raes ontwierp voor dit type een volledig nieuwe PCB. Van dit type werden er verschillende verkocht (ook in bouwpakket).

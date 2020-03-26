@@ -14,7 +14,7 @@ summary = "<a href='/logoscollectie/1975/fingerboard3'><img src='/logoscollectie
 +++
 
 
-# Fingerboard 3 (1975)
+# Fingerboard 3
 
 ![alt text][afb1]
 [afb1]: /logoscollectie/img/Fingerboard3/Fingerboard3%20bovenkant-thumb.jpg "Fingerboard 3"

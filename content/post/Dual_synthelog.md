@@ -14,7 +14,7 @@ menu = "main"
 summary = "<a href='/logoscollectie/1983/dual_synthelog'><img src='/logoscollectie/img/Dual_synthelog/Dual%20synthelog%20bovenkant.jpg'></a><p>Zoals de naam het aangeeft combineert Dual synthelog twee andere synthlogs uit de synthelogfamilie, wat een meerstemmig geluid mogelijk maakt. In de behuizing van plexiglas zijn ook twee sequencers, de VCO-matrix en een R-matrix ingebouwd die de verschillende modules kunnen aansturen.</p>"
 +++
 
-# Dual synthelog (1983)
+# Dual synthelog
 
 ![alt text][afb1]
 [afb1]: /logoscollectie/img/Dual_synthelog/Dual%20synthelog%20bovenkant.jpg "Dual synthelog"

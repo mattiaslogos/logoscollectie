@@ -17,7 +17,7 @@ summary = "<a href='/logoscollectie/1980/buistrommel'><img src='/logoscollectie/
 +++
 
 
-# Buistrommel (1980)
+# Buistrommel
 
 ![Buistrommel][afb1]
 [afb1]: /logoscollectie/img/Buistrommel/Buistrommel-thumb.jpg "Buistrommel"

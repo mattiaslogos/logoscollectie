@@ -20,7 +20,7 @@ summary = "<a href='/logoscollectie/1975/beltotem'><img src='/logoscollectie/img
 +++
 
 
-# Beltotem (1975)
+# Beltotem
 
 ![Beltotem][afb1]
 [afb1]: /logoscollectie/img/Beltotem/Beltotem_voorzijde-thumb.jpg "Beltotem voorzijde"

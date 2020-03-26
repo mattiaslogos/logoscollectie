@@ -1,5 +1,5 @@
 ﻿+++
-title = "Monokord 1974"
+title = "Monokord"
 description = ""
 tags = [ "contactmicrofoon", "snaar", "slaan", "strijken", "tokkelen"
 ]

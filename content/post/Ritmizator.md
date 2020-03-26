@@ -1,5 +1,5 @@
 ﻿+++
-title = "Ritmizator (1972)"
+title = "Ritmizator"
 description = ""
 tags = [ "quadrofoon", "synthesizer"
 ]

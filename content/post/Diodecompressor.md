@@ -15,7 +15,7 @@ menu = "main"
 summary = "<a href='/logoscollectie/1974/diodecompressor'><img src='/logoscollectie/img/Diode_compressor/Diode_compressor_bovenzijde-thumb.jpg'></a><p>Deze geluidscompressor heeft zijn klankkarakteristieken te danken aan de gebruikte germaniumdiodes.</p>"
 +++
 
-# Diode compressor (1974)
+# Diode compressor
 
 ![Diode compressor][afb1]
 [afb1]: /logoscollectie/img/Diode_compressor/Diode_compressor_bovenzijde-thumb.jpg "Diode compressor"

@@ -17,7 +17,7 @@ menu = "main"
 summary = "<p>Raes bouwde in zijn tienerjaren een elektrisch orgel. Hij gebruikte een orgeldeler-schakeling en eenvoudige generatoren. Met slechts 1 oscillator per drie noten was er slechts een beperkte polyfonie mogelijk.</p>"
 +++
 
-# Elektronisch orgel (1967)
+# Elektronisch orgel
 
 **Collectie**
 Stichting Logos

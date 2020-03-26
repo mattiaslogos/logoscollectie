@@ -21,7 +21,7 @@ summary = "<a href='/logoscollectie/1972/bellenorgel'><img src='/logoscollectie/
 +++
 
 
-# Bellenorgel (1972)
+# Bellenorgel
 
 ![Bellenorgel][afb1]
 [afb1]: /logoscollectie/img/Bellenorgel/Bellenorgel-thumb.jpg "Bellenorgel voorzijde"

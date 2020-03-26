@@ -17,7 +17,7 @@ menu = "main"
 summary = "<p>Met de elektronische drumkit kunnen analoge drumklanken afkomstig van gyrator-schakelingen digotaal worden aangestuurd.</p>"
 +++
 
-# Elektronische drumkit (1988)
+# Elektronische drumkit
 
 
 **Collectie**

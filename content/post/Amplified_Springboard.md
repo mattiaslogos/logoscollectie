@@ -15,7 +15,7 @@ menu = "main"
 summary = "<a href='/logoscollectie/1982/amplified_springboard'><img src='/logoscollectie/img/Amplified_Springboard/Amplified%20Springboard%20voorkant-thumb.jpg'></a><p>Een magnetische pick-up versterkt de twee verschillende veren die met de handen bespeeld worden. Het resultaat hiervan is door de ingebouwde versterker en luidspreker onmiddellijk hoorbaar.</p>"
 +++
 
-# Amplified springboard (1982)
+# Amplified springboard
 
 ![Amplified Springboard][afb1]
 [afb1]: /logoscollectie/img/Amplified_Springboard/Amplified%20Springboard%20voorkant-thumb.jpg "Amplified Springboard"

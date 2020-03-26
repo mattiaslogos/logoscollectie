@@ -17,7 +17,7 @@ menu = "main"
 summary = "<a href='/logoscollectie/1971/Dodekadent/Dodekadent%20met%20module%20vooraanzicht-thumb.jpg'><img src='/logoscollectie/img/Dodekadent/Dodekadent%20met%20module%20vooraanzicht-thumb.jpg'></a><p>De Dodekadent is een quadrofone twaalfstemmige oscillatorbank. De parameters van elke oscillator kunnen precies worden ingesteld.</p>"
 +++
 
-# Dodekadent(1971)
+# Dodekadent
 
 ![Dodekadent][afb1]
 [afb1]: /logoscollectie/img/Dodekadent/Dodekadent%20met%20module%20vooraanzicht-thumb.jpg "Dodekadent"

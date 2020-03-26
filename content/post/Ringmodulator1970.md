@@ -1,5 +1,5 @@
 ﻿+++
-title = "Ring modulator (1970)"
+title = "Ring modulator"
 description = ""
 tags = [
     "geluidseffect",

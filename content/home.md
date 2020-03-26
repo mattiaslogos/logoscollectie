@@ -5,6 +5,7 @@ menu = "main"
 layout = "about"
 +++
 
+
 #### Inleiding
 Dit is de projectwebsite van het erfgoedproject "Catalogiseren en documenteren van de collectie muziekinstrumenten van Stichting Logos".
 

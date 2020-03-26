@@ -1,5 +1,5 @@
 ﻿+++
-title = "Springdriver (Timeframes) (1982)"
+title = "Springdriver (Timeframes)"
 description = ""
 tags = [ "veer","pick-up", "geluidseffect", "feedback"
 ]

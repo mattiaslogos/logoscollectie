@@ -20,7 +20,7 @@ menu = "main"
 summary = "<p>Een snaar van een basgitaar wordt versterkt met een magnetische pick-up.</p>"
 +++
 
-# Aluminium bas monochord (1970)
+# Aluminium bas monochord
 
 **Collectie**
 Stichting Logos

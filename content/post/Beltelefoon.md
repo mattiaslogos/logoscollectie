@@ -20,7 +20,7 @@ summary = "<a href='/logoscollectie/1975/beltelefoon'><img src='/logoscollectie/
 +++
 
 
-# Beltelefoon (1975)
+# Beltelefoon
 
 ![Beltelefoon][afb1]
 [afb1]: /logoscollectie/img/Beltelefoon/Beltelefoon%20voorzijde-thumb.jpg "Beltelefoon voorzijde"

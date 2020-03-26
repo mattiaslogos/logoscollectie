@@ -14,7 +14,7 @@ menu = "main"
 summary = "<a href='/logoscollectie/1980/harp_processors'><img src='/logoscollectie/img/Harp_processor/Harp%20processor%20(tekening)-thumb.png'></a><p>Deze synthesizer werd gebruikt om de klank van een harp te manipuleren.</p>"
 +++
 
-# Harp processor (1980)
+# Harp processor
 
 ![Harp processor][afb1]
 [afb1]: /logoscollectie/img/Harp_processor/Harp%20processor%20(tekening)-thumb.png "Harp processor"

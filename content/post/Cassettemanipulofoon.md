@@ -17,7 +17,7 @@ summary = "<a href='/logoscollectie/1984/cassettemanipulofoon'><img src='/logosc
 +++
 
 
-# Canons (1980)
+# Canons
 
 ![Cassettemanipulofoon][afb1]
 [afb1]: /logoscollectie/img/Cassettemanipulofoon/Cassettemanipulofoon.jpg "Cassettemanipulofoon"

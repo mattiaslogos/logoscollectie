@@ -14,7 +14,7 @@ summary = "<a href='/logoscollectie/1976/dubbele_kraakdoos'><img src='/logoscoll
 +++
 
 
-# Dubbele kraakdoos (1976)
+# Dubbele kraakdoos
 
 ![alt text][afb1]
 [afb1]: /logoscollectie/img/Dubbele_Kraakdoos/Dubbele%20kraakdoos%20bovenkant-thumb.jpg "Dubbele kraakdoos"

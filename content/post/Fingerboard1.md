@@ -21,7 +21,7 @@ menu = "main"
 summary = "<a href='/logoscollectie/1975/fingerboard1'><img src='/logoscollectie/img/Fingerboard1/Fingerboard1-thumb.jpg'></a><p>De veren, snaren en lamellen van deze fingerbox werden met de handen bespeeld.</p>"
 +++
 
-# Fingerboard 1 (1975)
+# Fingerboard 1
 
 ![Fingerboard 1][afb1]
 [afb1]: /logoscollectie/img/Fingerboard1/Fingerboard1-thumb.jpg "Fingerboard1"

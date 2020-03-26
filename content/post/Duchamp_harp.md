@@ -15,7 +15,7 @@ summary = "<a href='/logoscollectie/1974/duchamp_harp'><img src='/logoscollectie
 +++
 
 
-# Duchamp harp (1974)
+# Duchamp harp
 
 ![alt text][afb1]
 [afb1]: /logoscollectie/img/DuchampHarp/Duchamp%20Harp%20voorkant-thumb.jpg "Duchamp harp"
