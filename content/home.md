@@ -6,7 +6,6 @@ layout = "about"
 +++
 
 
-#### Inleiding
 Dit is de projectwebsite van het erfgoedproject "Catalogiseren en documenteren van de collectie muziekinstrumenten van Stichting Logos".
 
 
@@ -15,7 +14,7 @@ Dit is de projectwebsite van het erfgoedproject "Catalogiseren en documenteren v
 </center>
 
 
-#### Met de steun van:
+Met de steun van
 
 <a href="http://www.mim.be/nl" target="_blank"><img src="/logoscollectie/medewerking/mim.png" class="medewerkinglogo" alt="MIM" /></a>
 <a href="https://www.cemper.be" target="_blank"><img src="/logoscollectie/medewerking/logo-cemper.svg" alt="Cemper"class="medewerkinglogo"/></a>

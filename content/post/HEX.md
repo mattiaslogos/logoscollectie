@@ -25,7 +25,7 @@ categories = [
 alfabetisch = ["H"
 ]
 menu = "main"
-summary = "<a href='/logoscollectie/1988/hex'><img src='/logoscollectie/img/HEX/HEX-thumb.jpg'></a><p>Bij HEX worden acht elektroakoestische modules die allen gebouwd zijn op of rond een printplaat, interactief aangestuurd met een computer. Bijna alle klanken zijn afkomstig van kleine fysisch trillende objecten die worden versterkt. </p><p>HEX bestaat als concerto met viool en als klanksculptuur. Van beide gedaantes bestaan verschillende versies. HEX is een sleutelwerk binnen het werk van muziekmaker Godfried-Willem Raes omdat hij elektronische middelen gebruikt om (kleine) fysische objecten interactief aan het trillen te brengen. Raes brengt met andere woorden eerder beproefde instrumentenbouw-technieken samen en knipoogt tegelijkertijd naar het toekomstige Logos Robotorkest.</p>"
+summary = "<a href='/logoscollectie/1988/hex'><img src='/logoscollectie/img/HEX/Hex_algemeen/HEX-thumb.jpg'></a><p>Bij HEX worden acht elektroakoestische modules die allen gebouwd zijn op of rond een printplaat, interactief aangestuurd met een computer. Bijna alle klanken zijn afkomstig van kleine fysisch trillende objecten die worden versterkt. </p><p>HEX bestaat als concerto met viool en als klanksculptuur. Van beide gedaantes bestaan verschillende versies. HEX is een sleutelwerk binnen het werk van muziekmaker Godfried-Willem Raes omdat hij elektronische middelen gebruikt om (kleine) fysische objecten interactief aan het trillen te brengen. Raes brengt met andere woorden eerder beproefde instrumentenbouw-technieken samen en knipoogt tegelijkertijd naar het toekomstige Logos Robotorkest.</p>"
 +++
 
 # HEX
@@ -125,8 +125,37 @@ Verouderde poorten, verouderde software en verouderde besturingssystemen.
 
 #### Media
 ##### Afbeeldingen
+###### HEX algemeen
 {{< load-photoswipe >}}
-{{< gallery dir="/img/HEX" />}}
+{{< gallery dir="/img/HEX/Hex_algemeen" />}}
+
+###### Mixers PS asseccoires HEX
+{{< gallery dir="/img/HEX/Mixers_PS_asseccoires_HEX" />}}
+
+###### P1 (midicard) en hexbus
+{{< gallery dir="/img/HEX/P1_(midicard)_en_hexbus" />}}
+
+###### P2A Printnaalddriver (miniviool)
+{{< gallery dir="/img/HEX/P2A_Printnaalddriver_(miniviool)" />}}
+
+###### P2B niblecard
+{{< gallery dir="/img/HEX/P2B_niblecard" />}}
+
+###### P3 MD Oscillator HEX
+{{< gallery dir="/img/HEX/P3_MD_Oscillator_HEX" />}}
+
+###### P4 driver en receiver
+{{< gallery dir="/img/HEX/P4_driver_en_receiver" />}}
+
+###### P5 driver en receiver
+{{< gallery dir="/img/HEX/P5_driver_en_receiver" />}}
+
+###### P6 stappenmotor HEX
+{{< gallery dir="/img/HEX/P6_stappenmotor_HEX" />}}
+
+###### P7 en P8 logolog
+{{< gallery dir="/img/HEX/P7_en_P8_logolog" />}}
+
 
 ##### pdf-bestanden
 [Beschrijving HEX (1988)](/logoscollectie/pdf/HEX/Beschrijving%20HEX%20(1988).pdf)
@@ -175,8 +204,7 @@ Godfried-Willem Raes: "HEX" (excerpt), 1988 (04:59)
 <source src="/logoscollectie/audio/HEX/CR1511-10.wav" type="audio/wav">
 <source src="/logoscollectie/audio/HEX/CR1511-10.wav" type="audio/x-wav">
 </audio>
-
-If your browser doesn't support HTML5 audio, here is a <a href="/logoscollectie/audio/HEX/CR1511-10.wav">link to the audio</a> instead.
+<a href="/logoscollectie/audio/HEX/CR1511-10.wav">download</a>
 
 
 HEX(1988)
@@ -185,5 +213,4 @@ HEX(1988)
 <source src="/logoscollectie/audio/HEX/CR890-2.wav" type="audio/wav">
 <source src="/logoscollectie/audio/HEX/CR890-2.wav" type="audio/x-wav">
 </audio>
-
-If your browser doesn't support HTML5 audio, here is a <a href="/logoscollectie/audio/HEX/CR890-2.wav">link to the audio</a> instead.
+<a href="/logoscollectie/audio/HEX/CR890-2.wav">download</a>

@@ -10,13 +10,13 @@ categories = ["elektronisch"
 alfabetisch = ["S", "N", "G"
 ]
 menu = "main"
-summary = "<a href='/logoscollectie/1979/Stereo_noise_generator'><img src='/logoscollectie/img/Stereo_noise_generator/Stereo%20Noise%20generator-thumb.jpg'></a><p>Zoals het woord het zegt wekt de Stereo Noise Generator twee ruissignalen op.</p>"
+summary = "<a href='/logoscollectie/1979/Stereo_noise_generator'><img src='/logoscollectie/img/Stereo_noise_generator/20200312_0023-thumb.jpg'></a><p>Zoals het woord het zegt wekt de Stereo Noise Generator twee ruissignalen op.</p>"
 +++
 
 # Stereo Noise Generator
 
 ![alt text][afb1]
-[afb1]: /logoscollectie/img/Stereo_noise_generator/Stereo%20Noise%20generator-thumb.jpg "Stereo Noise Generator"
+[afb1]: /logoscollectie/img/Stereo_noise_generator/20200312_0023-thumb.jpg "Stereo Noise Generator"
 
 **Collectie**
 Stichting Logos

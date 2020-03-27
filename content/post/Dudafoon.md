@@ -81,16 +81,17 @@ Brom en ruis. Magnetische pick-ups hebben heel wat van hun magnetisme verloren.
 
 
 ##### Audio
+###### LP7002B.4
 <audio controls>
 <source src="/logoscollectie/audio/Dudafoon/Dudafoon_LP7002B.4.wav" type="audio/wav">
 <source src="/logoscollectie/audio/Dudafoon/Dudafoon_LP7002B.4.wav" type="audio/x-wav">
 </audio>
+<a href="/logoscollectie/audio/Dudafoon/Dudafoon_LP7002B.4.wav">download</a>
 
-If your browser doesn't support HTML5 audio, here is a <a href="/logoscollectie/audio/Dudafoon/Dudafoon_LP7002B.4.wav">link to the audio</a> instead.
 
-
+###### Junks IV
 <audio controls>
 <source src="/logoscollectie/audio/Dudafoon/Junks_IV_CR3.2.4.wav" type="audio/wav">
 <source src="/logoscollectie/audio/Dudafoon/Junks_IV_CR3.2.4.wav" type="audio/x-wav">
 </audio>
-  If your browser doesn't support HTML5 audio, here is a <a href="/logoscollectie/audio/Dudafoon/Junks_IV_CR3.2.4.wav">link to the audio</a> instead.
+<a href="/logoscollectie/audio/Dudafoon/Junks_IV_CR3.2.4.wav">download</a>

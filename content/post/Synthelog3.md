@@ -10,11 +10,13 @@ categories = [ "elektronisch"
 alfabetisch = ["S"
 ]
 menu = "main"
-summary = "<p>Synthelog 3 is het derde type synthesizer dat Raes rond chip SN76477 ontwierp.</p>"
+summary = "<a href='/logoscollectie/1982/synthelog3'><img src='/logoscollectie/img/Synthelog3/Synthelog3-thumb.jpg'></a><p>Synthelog 3 is het derde type synthesizer dat Raes rond chip SN76477 ontwierp.</p>"
 +++
 
 # Synthelog 3
 
+![alt text][afb1]
+[afb1]: /logoscollectie/img/Synthelog3/Synthelog3-thumb.jpg "Synthelog 5"
 
 **Collectie**
 Stichting Logos
