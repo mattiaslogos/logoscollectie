@@ -88,7 +88,7 @@ De meeste fietsen hebben geen dynamo meer.
 <audio controls>
 <source src="/logoscollectie/audio/Zingende_fietsen/zingende_fietsen3.wav" type="audio/wav">
 <source src="/logoscollectie/audio/Zingende_fietsen/zingende_fietsen3.wav" type="audio/x-wav">
-  If your browser doesn't support HTML5 audio, here is a <a href="/logoscollectie/audio/Zingende_fietsen/zingende_fietsen3.wav">link to the audio</a> instead.
+  <a href="/logoscollectie/audio/Zingende_fietsen/zingende_fietsen3.wav">download</a>
 </audio>
 
 

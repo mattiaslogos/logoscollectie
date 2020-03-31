@@ -81,5 +81,5 @@ In 2005 werd toetkuip herzien. De verschillende kleine compressors werden vervan
 <audio controls>
 <source src="/logoscollectie/audio/Toetkuip/toetkuip.wav" type="audio/x-wav">
 <source src="/logoscollectie/audio/Toetkuip/toetkuip.wav" type="audio/wav">
-If your browser doesn't support HTML5 audio, here is a <a href="/logoscollectie/audio/Toetkuip/toetkuip.wav">link to the audio</a> instead.
+<a href="/logoscollectie/audio/Toetkuip/toetkuip.wav">download</a>
 </audio>

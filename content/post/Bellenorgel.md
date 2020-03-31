@@ -95,7 +95,7 @@ Bellenorgel vormt samen met Beltotem en Beltelefoon een triptiek.
 <source src="/logoscollectie/audio/Bellenorgel/Bellenorgel-fragment.wav" type="audio/x-wav">
 </audio>
 
-If your browser doesn't support HTML5 audio, here is a <a href="/logoscollectie/audio/Bellenorgel/Bellenorgel-fragment.wav">link to the audio</a> instead.
+<a href="/logoscollectie/audio/Bellenorgel/Bellenorgel-fragment.wav">download</a>
 
 
 

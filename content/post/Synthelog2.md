@@ -109,7 +109,7 @@ Er werd een nieuwe voeding ingebouwd, deze verving de externe voeding waardoor d
 <source src="/logoscollectie/audio/Synthelog2/a_last_repetitive.wav" type="audio/x-wav">
 </audio>
 
-If your browser doesn't support HTML5 audio, here is a <a href="/logoscollectie/audio/Synthelog2/a_last_repetitive.wav">link to the audio</a> instead.
+<a href="/logoscollectie/audio/Synthelog2/a_last_repetitive.wav">download</a>
 
 
 <audio controls>
@@ -117,4 +117,4 @@ If your browser doesn't support HTML5 audio, here is a <a href="/logoscollectie/
 <source src="/logoscollectie/audio/Synthelog2/for_synthelog.wav" type="audio/x-wav">
 </audio>
 
-If your browser doesn't support HTML5 audio, here is a <a href="/logoscollectie/audio/Synthelog2/for_synthelog.wav">link to the audio</a> instead.
+<a href="/logoscollectie/audio/Synthelog2/for_synthelog.wav">download</a>

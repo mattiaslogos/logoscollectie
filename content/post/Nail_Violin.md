@@ -80,4 +80,4 @@ Junks:
 <source src="/logoscollectie/audio/Nail_Violin/Junks_IV_CR3.2.wav" type="audio/x-wav">
 </audio>
 
-If your browser doesn't support HTML5 audio, here is a <a href="/logoscollectie/audio/Nail_Violin/Junks_IV_CR3.2.wav">link to the audio</a> instead.
+<a href="/logoscollectie/audio/Nail_Violin/Junks_IV_CR3.2.wav">download</a>

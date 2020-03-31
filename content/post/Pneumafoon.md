@@ -255,7 +255,7 @@ Concerto for organ and pneumaphones 25:13
 <source src="/logoscollectie/audio/Pneumafoon/C506-1.wav" type="audio/x-wav">
 </audio>
 
-If your browser doesn't support HTML5 audio, here is a <a href="/logoscollectie/audio/Pneumafoon/C506-1.wav">link to the audio</a> instead.
+<a href="/logoscollectie/audio/Pneumafoon/C506-1.wav">download</a>
 
 
 
@@ -266,7 +266,7 @@ Pneumafoon-performance 17:54
 <source src="/logoscollectie/audio/Pneumafoon/C506-2.wav" type="audio/x-wav">
 </audio>
 
-If your browser doesn't support HTML5 audio, here is a <a href="/logoscollectie/audio/Pneumafoon/C506-2.wav">link to the audio</a> instead.
+<a href="/logoscollectie/audio/Pneumafoon/C506-2.wav">download</a>
 
 Pneumafoon impro
 
@@ -275,4 +275,4 @@ Pneumafoon impro
 <source src="/logoscollectie/audio/Pneumafoon/pneumafoon-impro.wav" type="audio/x-wav">
 </audio>
 
-If your browser doesn't support HTML5 audio, here is a <a href="/logoscollectie/audio/Pneumafoon/pneumafoon-impro.wav">link to the audio</a> instead.
+<a href="/logoscollectie/audio/Pneumafoon/pneumafoon-impro.wav">download</a>

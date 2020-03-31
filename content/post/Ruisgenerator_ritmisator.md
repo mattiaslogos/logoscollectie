@@ -77,4 +77,4 @@ De Ruisgenerator-ritmizator is de voorloper van de Ritmizator uit 1972. Deze laa
 <source src="/logoscollectie/audio/Ruisgenerator-Ritmisator/Puig_Antich_example_of_ritmizators_CR747.wav" type="audio/x-wav">  
 </audio>
 
-If your browser doesn't support HTML5 audio, here is a <a href="/logoscollectie/audio/Ruisgenerator-Ritmisator/Puig_Antich_example_of_ritmizators_CR747.wav">link to the audio</a> instead.
+<a href="/logoscollectie/audio/Ruisgenerator-Ritmisator/Puig_Antich_example_of_ritmizators_CR747.wav">download</a>

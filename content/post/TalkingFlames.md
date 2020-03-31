@@ -101,5 +101,5 @@ De plasmaluidspreker is geen uitvinding van Raes. Zijn vele experimenten met het
   <source src="/logoscollectie/audio/Talking_Flames/CR1511-6TalkingFlames.wav" type="audio/x-wav">
 </audio>
 
-If your browser doesn't support HTML5 audio, here is a <a href="/logoscollectie/audio/Talking_Flames/CR1511-6TalkingFlames.wav">link to the audio</a> instead.
+<a href="/logoscollectie/audio/Talking_Flames/CR1511-6TalkingFlames.wav">download</a>
 
