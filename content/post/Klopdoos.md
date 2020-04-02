@@ -56,7 +56,7 @@ De klopdoos wordt met behulp van een (symmetrische) kabel op de versterker aange
 Binnenin staat er in potlood “logos werkgroep klopdoos” geschreven.
 
 #### Staat van het instrument
-Anno mei 2019 is het instrument in werkende staat.
+In werkende staat.
 
 #### Historiek van het instrument
 Het instrument werd in mei 2019 opnieuw vernist en er werd een nieuwe 3/8” schroefdraadaansluiting aangebracht.

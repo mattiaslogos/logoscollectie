@@ -41,7 +41,7 @@ H x B x L: 13 x 19,5 x 44,5
 513
 
 **Inventarisnummer**
-LOGOS 72.05
+LOGOS 1983.04
 
 #### Beschrijving van het instrument
 Het klavibikord is gebouwd op een massief houten plank van 1,7 cm dik. Aan de twee korte zijden zijn twee houten spieën gelijmd waaraan het frontpaneel is bevestigd. Op het frontpaneel, waarop de naam van het instrument staat, zien we de aan- en uitschakelaar tussen vier horizontale schuifpotentiometers (2 links en 2 rechts). In de linkerbenedenhoek zien we de stereo-uitgang (vrouwelijke stereojack) van het instrument. De schakelaar boven de uitgang heeft geen functie meer.
@@ -78,7 +78,6 @@ In 2019 besloot Godfried-Willem Raes om het instrument te restaureren. De pick-u
 
 #### Problematieken
 De oude pick-ups hadden hun magnetisme verloren door ouderdom en werden door nieuwe vervangen.
-Datering. 
 
 #### Media
 ##### Afbeeldingen
