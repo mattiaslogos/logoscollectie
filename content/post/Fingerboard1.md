@@ -48,7 +48,7 @@ H x B x L: niet bekend
 LOGOS 1975.03
 
 #### Beschrijving van het instrument
-Fingerboard 1, een experimenteel elektromechanisch instrument, is gebouwd op een smal vierkant kistje. In drie van de voer hoeken van het bovenblad zijn veren gemonteerd. On de vierde hoeg zien we de uitgang van het instrument (monojack 6,3 cm, TS). Aan één van de lange zijdes van het instrument zijn vier ijzeren staafjes en vier stukjes vouwmeter over een dwarse bar gemonteerd zodat deze als lamellen bespeelbaar zijn. Op het bovenblad zijn ook een bel en snaar die aan een van de veren vasthangt als klankvoorwerp bevestigd. Deze worden allemaal met een (of meerdere) contactmicrofoon(s) versterkt. Of er een voorversterker onder het bovenblad aanwezig was is niet geweten.
+Fingerboard 1, een experimenteel elektromechanisch instrument, is gebouwd op een smal vierkant kistje. In drie van de vier hoeken van het bovenblad zijn veren gemonteerd. On de vierde hoeg zien we de uitgang van het instrument (monojack 6,3 cm, TS). Aan één van de lange zijden van het instrument zijn vier ijzeren staafjes en vier stukjes vouwmeter over een dwarse bar gemonteerd, zodat deze als lamellen bespeelbaar zijn. Op het bovenblad zijn ook een bel en een snaar (die aan een van de veren vasthangt) als klankvoorwerp bevestigd. Deze worden allemaal met een (of meerdere) contactmicrofoon(s) versterkt. Of er een voorversterker onder het bovenblad aanwezig was is niet geweten.
 
 #### Speelwijze, repertoire en inzet in producties
 De klankobjecten van het fingerboard worden -zoals de naam het zegt- vooral met de vingers bespeeld, al kunnen er ook strijkstokken of andere voorwerpen worden gebruikt.  

@@ -31,7 +31,6 @@ Gebouwd door Godfried-Willem Raes te Gent
 
 **Datering**
 1982
-(Godfried dateert  op zijn website. Het werkmapje met het ontwerp vermeldt duidelijk 1982.)
 
 **Afmetingen**
 H x B x L: 7,5 x 10 x 54
@@ -47,7 +46,7 @@ Het springboard is een experimenteel muziekinstrument waarbij twee veren van 38 
 
 Aan één van de lange zijkanten van het springboard zien we een potmeter waarmee het volume kan worden geregeld. Naast de potmeter zien we de uitgang (vrouwelijke jack TS). Deze is niet aangesloten.
 
-De bodemplank van het instrument zit vast met twee houtschroeven. Als we deze bodem wegnemen zien we binnenin aan de ene kant de luidspreker en aan de andere kant de voeding (8 AA-baterijen 1,5 V, samen 12 V). In het midden zien we de pick-up waarvan de twee spoelen in serie zijn geschakeld. Het ene uiteinde van de spoel is via een klein printplaatje die aan de pick-up hangt, verbonden met de lange smalle koperen plaat die als massa wordt gebruikt. Ook de massa van de voeding, de condensator (4700 uF) die als buffer over de voeding is geplaatst en de versterker (de gaatjesprint met operationele versterker lm386) naast de luidspreker) is met deze koperen plaat verbonden. Het andere uiteinde van de spoel is verbonden met de potmeter die het signaal naar de ingang van de versterker brengt. De massa van de potmeter is zowel met de pick-up als de versterker verbonden. Tussen de plus- en de minpool van de luidspreker, die respectievelijk met de uitgang en de massa van de versterker zijn verbonden, is een condensator als hoogfrequent ontkoppelaar geschakeld (0,1 uF). Op de pick-up is met siliconen een extra magneet gekleefd. We zien dat de jackuitgang niet is aangesloten. Er is wel een condensator en een weerstand aan gesoldeerd. Deze hebben geen functie (meer). 
+De bodemplank van het instrument zit vast met twee houtschroeven. Als we deze bodemplank verwijderen, zien we binnenin aan de ene kant de luidspreker en aan de andere kant de voeding (8 AA-baterijen 1,5 V, samen 12 V). In het midden zien we de pick-up waarvan de twee spoelen in serie zijn geschakeld. Het ene uiteinde van de spoel is via een klein printplaatje die aan de pick-up hangt, verbonden met de lange smalle koperen plaat die als massa wordt gebruikt. Ook de massa van de voeding, de condensator (4700 uF) die als buffer over de voeding is geplaatst en de versterker (de gaatjesprint met operationele versterker lm386 naast de luidspreker) is met deze koperen plaat verbonden. Het andere uiteinde van de spoel is verbonden met de potmeter die het signaal naar de ingang van de versterker brengt. De massa van de potmeter is zowel met de pick-up als de versterker verbonden. Tussen de plus- en de minpool van de luidspreker, die respectievelijk met de uitgang en de massa van de versterker zijn verbonden, is een condensator als hoogfrequent ontkoppelaar geschakeld (0,1 uF). Op de pick-up is met siliconen een extra magneet gekleefd. We zien dat de jackuitgang niet is aangesloten. Er is wel een condensator en een weerstand aan gesoldeerd. Deze hebben geen functie (meer). 
 
 De voeding wordt met een moes op zijn plaats gehouden. 
 
@@ -68,7 +67,7 @@ Springboard Logos (in dymo)
 In werkende staat
 
 #### Historiek van het instrument
-Het instrument werd oorspronkelijk ook springbox genoemd en wijkt af van de oorspronkelijke plannen. Zo werden er meer veren gepland(zie scan). Ook de oorspronkelijke elektronische schema’s kwamen vermoedelijk niet overeen met de oorspronkelijke plannen.  
+Het instrument werd oorspronkelijk ook springbox genoemd en wijkt af van de oorspronkelijke plannen. Zo werden er meer veren gepland (zie scan). Ook de oorspronkelijke elektronische schema’s kwamen vermoedelijk niet overeen met de oorspronkelijke plannen.  
 
 Het instrument werd in maart 2014 in opdracht van Godfried-Willem Raes door Mattias Parent nagekeken en herzien. Er werd een nieuwe versterker en nieuwe voeding met buffer geplaatst. De jackuitgang werd losgekoppeld wegens overbodig bevonden. Er werd een nieuwe sterke magneet op de pick-up geplakt om het signaal krachtiger te maken. De oorspronkelijke magneet was met de jaren het meeste van zijn kracht verloren. De condensator van 0,1 uF werd als hoogfrequent ontkoppelaar over de spoel van speaker geschakeld.
 De pick-up is afkomstig uit een hoog-ohmige koptelefoon die voordien voor simultaanvertalingen in de senaat werd gebruikt. Raes kocht in de jaren 70 een heel lot van deze afgedankte koptelefoons.

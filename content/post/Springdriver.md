@@ -65,19 +65,19 @@ Timeframes stond op het repertoire van het Logos Duo (Moniek Darge en Godfried-W
 De springdriver moet op de 12 Volt voeding worden aangesloten. En de driver, de receivers en het in- en uitgangssignaal moeten op de vrouwelijke jacks worden aangesloten. (Zie ook beschrijving en de tekening van de opstelling in de bijlage.)
 
 #### Inscripties
-12V POWER 
-DRIVER OUT
-IN
-COILS
-OUTPUT
-INPUT
-TIMEFRAMES I
-LOGOS ELECTRONICS
-2-CHANNEL SPRINGDRIVER LOGOS
-COIL 1
-COIL 2
-IN 1
-IN 2
+- 12V POWER 
+- DRIVER OUT
+- IN
+- COILS
+- OUTPUT
+- INPUT
+- TIMEFRAMES I
+- LOGOS ELECTRONICS
+- 2-CHANNEL SPRINGDRIVER LOGOS
+- COIL 1
+- COIL 2
+- IN 1
+- IN 2
 
 
 #### Staat van het instrument

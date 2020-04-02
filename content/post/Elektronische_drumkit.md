@@ -14,11 +14,13 @@ categories = [
 alfabetisch = ["E", "D"
 ]
 menu = "main"
-summary = "<p>Met de elektronische drumkit kunnen analoge drumklanken afkomstig van gyrator-schakelingen digotaal worden aangestuurd.</p>"
+summary = "<p><a href='/logoscollectie/1988/elektronische_drumkit'><img src='/logoscollectie/img/Elektronische_drumkit/gwr_elektronische_drumkit-thumb.jpg'></a>Met de elektronische drumkit kunnen analoge drumklanken afkomstig van gyrator-schakelingen digitaal worden aangestuurd.</p>"
 +++
 
 # Elektronische drumkit
 
+![Elektronische drumkit][afb1]
+[afb1]: /logoscollectie/img/Elektronische_drumkit/gwr_elektronische_drumkit-thumb.jpg "Elektronische drumkit"
 
 **Collectie**
 Stichting Logos
@@ -30,7 +32,7 @@ Elektronische drumkit
 Gebouwd door Godfried-Willem Raes te Gent
 
 **Datering**
-1988 (op PCB staat van 1973-1988. Deze verschijningsvorm uit 1988)
+1988 
 
 **Afmetingen**
 H x B x L: 13 x 20 x 25
@@ -39,7 +41,7 @@ H x B x L: 13 x 20 x 25
 531.23
 
 **Inventarisnummer**
-LOGOS 1973.03
+LOGOS 1988.01
 
 #### Beschrijving van het instrument
 De elektronische drumkit bestaat uit één grote horizontale printplaat waarop 10 kleine verticale printplaten zijn vastgemaakt. De rechtopstaande printen zijn gyrator-schakelingen die Raes reeds in de eerste helft van de jaren 70 vervaardigde. Hij baseerde zich daarvoor op een ontwerp uit het tijdschrift Elektuur (EPS op de PCB staat voor Elektuur Printing Servive). De eerste 8 printen hebben eenzelfde lay-out maar de bestukking verschilt. Met analoge middelen wordt namelijk een verschillend drum-geluid gecreeërd (bas, snaardrum, conga, tom,…). De twee laatste printjes zijn varianten (noise) en immiteren het geluid van schijven en hi-hat. Pas later werden deze printen tot deze elektronische drumkit waarbij analoge drumklanken digitaal kunnen worden aangestuurd.
@@ -74,7 +76,7 @@ De seriële poort moet aan de computer worden aangesloten. De uitgang moet op ee
 Niet getest.
 
 #### Historiek van het instrument
-Raes ontwierp de gyratorschakelingen reeds in het begin jaren 70. Ze werden in 1988 samengevoegd tot deze drummachine. 
+Raes ontwierp de gyratorschakelingen reeds in het begin jaren 70. Ze werden in 1988 samengevoegd tot deze drummachine. Op pcb staat te lezen: 1973-1988. 
 
 #### Problematieken
 Computers hebben geen printerpoorten meer. Daarenboven is de gebruikte software verouderd. 
