@@ -29,7 +29,7 @@ Invisible Instrument
 Gebouwd door Godfried-Willem Raes te Gent
 
 **Datering**
-1985 (De eerste experimenten met ultrasone golven die leiden tot Holosound dateren van veel vroeger (1978) maar in 1985 ging Holosound in première, daarom dateren we 1985) 
+1985  
 
 **Afmetingen**
 
@@ -58,7 +58,7 @@ DRIVERS EN RECEIVERS
 
 
 **Classificatie**
-53 en 52
+6
 
 **Inventarisnummer**
 LOGOS 1983.01
@@ -66,7 +66,7 @@ LOGOS 1983.01
 #### Beschrijving van het instrument
 
 ##### Het principe van het Invisible Instrument
-Het Invisible Instrument (of Onzichtbare Muziekinstrument) zet bewegingen in geluid om. Het maakt hiervoor gebruik van ultrasone (en dus voor de mens onhoorbare) geluidsgolven. Één zender wordt in de bovenhoek van een denkbeeldige tetraëder geplaatst. Deze zendt een (onhoorbare) draaggolf uit (40kHrz). In de andere drie hoeken van de denkbeeldige tertraëder worden drie ontvangers geplaatst. Het Doppler-effect veroorzaakt door de bewegingen van een bespeler binnen de denkbeeldige tertraëder, zorgen ervoor dat het ontvangen signaal afwijkt van het signaal dat is uitgezonden. Met behulp van ringmodulatie tussen de draaggolf en het ontvangen signaal kan deze “afwijking” naar het hoorbare spectrum worden gebracht. Dit resulteert in gekleurde ruisbanden. Omdat elke zender zich op een andere plaats bevindt ten opzichte van de bewegingen van de bespeler, leveren deze elk een verschillende ruisband op.
+Het Invisible Instrument (of Onzichtbare Muziekinstrument) zet bewegingen in geluid om. Het maakt hiervoor gebruik van ultrasone (en dus voor de mens onhoorbare) geluidsgolven. Één zender wordt in de bovenhoek van een denkbeeldige tetraëder geplaatst. Deze zendt een (onhoorbare) draaggolf uit (40kHrz). In de andere drie hoeken van de denkbeeldige tertraëder worden drie ontvangers geplaatst. Het Doppler-effect veroorzaakt door de bewegingen van een bespeler binnen de denkbeeldige tertraëder, zorgen ervoor dat het ontvangen signaal afwijkt van het signaal dat is uitgezonden. Met behulp van (onder andere) ringmodulatie tussen de draaggolf en het ontvangen signaal kan deze “afwijking” naar het hoorbare spectrum worden gebracht. Dit resulteert in gekleurde ruisbanden. Omdat elke zender zich op een andere plaats bevindt ten opzichte van de bewegingen van de bespeler, leveren deze elk een verschillende ruisband op.
 
 ##### De relatie tussen het Invisible Instrument en Holosound
 Raes experimenteert reeds vanaf 1978 met allerlei ultrasone zenders, ultrasone ontvangers en demodulatoren. In 1985 gaat het stuk Holosound in première waarin hij voor de eerste maal volwaardig gebruikt maakt van deze technologie (in combinatie met technieken uit Timeframes (zie infra)). Dit betekent uiteraard niet het eindpunt, Raes gaat (zoals steeds) verder met experimenteren, waaruit dan weer nieuwe versies en generaties van het Invisible Instrument en Holosound ontstaan. Dit levert een ingewikkelde maar zeer boeiende geschiedenis op. Ook het doctoraat dat Raes over zijn Onzichtbare Muziekinstrument in 1992 schrijft resulteert (gelukkig) niet in een definitieve versie. Ook bijvoorbeeld Book of Moves, Songbook en het interactieve Logos Robotorkest zijn een verder denken van deze technologie. Dat doctoraat documenteert wel uitstekend de technologische experimenten en evoluties die Holosound (en Book of Moves) doormaakte en die er aan vooraf gingen (Zie bijlage).
@@ -90,12 +90,14 @@ We onderscheiden hier twee generaties zenders en ontvangers.
 De eerste generatie werden gebruikt voor de uitvoeringen van Holosound (zowel concert- als installatie versie) uit 1985 en 1986. Het betreft twee AM-ontvangers met opschrift AM40A en AM40B. Beiden huizen in een zwartgeverfd tabaksblik met scharnierdeksel. Aan de ene smalle zijde zien we een vrouwelijke DIN-connector voor het uitgangssignaal en het aansluiten van de voeding. Aan de andere smalle zijde zien we een moer met daarin de eigenlijke sensoren. Als we het doosje openen zien we de gaatjesprint met de schakeling. Een derde ontvanger met opschrift FET40-1 (Phase locked loop) ziet er bijna identiek uit. Met dat verschil dat de sensor is beschermd met een plastic ring. Een vierde ontvanger met opschrift FS40D (Frequentiemodulatie, Foster Seeley schakeling) zit in een grotere metalen behuizing dan de andere ontvangers. De elektrische schema´s vind je terug in het boekdeel 2.3.2 van het doctoraat van Raes (zie bijlage). Over de sensoren van de ontvangers werd een akoestische filter geschoven. Dit was een plastic buisje met insnijdingen. De ontvangers werden ondersteund met daarvoor voorziene driehoeken in plexiglas.
 
 De twee zenders van de eerste generatie zijn gebouwd in een plastic behuizing. Aan de korte zijden vind je enerzijds de vrouwelijke DIN-plug voor de voeding en de eigenlijke zender. Als we de vier vijsjes losschroeven zien we de schakeling zoals in boekdeel 2.3.1 van het doctoraat van Raes beschreven (zie bijlage).
+
 Ook de zender en ontvangers van de tweede generatie (vermoedelijk gebruikt vanaf 1987) huizen -in weliswaar kleinere- tabaksblikjes. Zowel de ontvangers als de zenders zien er van buiten uit identiek uit. Op de korte zijden zien we de sensoren/zender en de vrouwelijke DIN-plug. De schakeling van de ene ontvanger is op een PCB gesoldeerd, de andere op een gaatjesprint. Je vindt de schakelingen van de zender en ontvangers in de reeds aangehaalde boekdelen van het doctoraat van Raes (zie bijlage).
 
 ###### Holosoundmodules (demodulatoren) 
 Je vindt de schakelingen van de Holosoundmodules in het boekdeel 2.3.3 in het doctoraat van Raes.
 
 De eerste holosoundmodule werd gebouwd in 1984 en staat beschreven in de bijlage (Scan holosound 85). Deze module werd gebruikt voor de concertante uitvoeringen van Holosound in 1985 en 1986. Je vind ook een patchpaper en partituur in de bijlage (Patchpaper Holosoundmodule 1985 en Partituur Holosound 1985). 
+
 Voor Holosound als installatieproject werd in 1986 een nieuwe Holosoundmodule gebouwd. Deze staat beschreven in “scan Holosound installatieversie 1986” in de bijlage. Deze module is vermoedelijk verloren gegaan.
 
 In 1987 werden twee nieuwe modules gebouwd. De eerste versie huist in een houten U-profiel met daarin een metalen behuizing. Deze module met de LM1496 in de hoofdrol, staat beschreven in “Scan holosound 87 versie 1” in de bijlage. Raes bouwde in datzelfde jaar nog een nieuwe en betere module rond de AD532 (gedocumenteerd in “Scan holosound 87 versie 2”). Deze laatste werd ook gebruikt in Book of Moves 1 (1992).
