@@ -33,11 +33,11 @@ Gebouwd door Godfried-Willem Raes te Gent
 1974
 
 **Afmetingen**
-Aluminium groot fork resonator: H x B x L: 3,5 x 3,5 x 60
-Aluminium middel fork resonator: H x B x L: 3,5 x 3,5 x 40
-Aluminium klein fork resonator: H x B x L: 3,5 x 3,5 x 30
-Staal kleinste fork resonator: H x B x L: 2,5 x 2,5 x 24,5
-Staal grootste fork resonator: H x B x L: 2,5 x 2,5 x 26
+- Aluminium groot fork resonator: H x B x L: 3,5 x 3,5 x 60
+- Aluminium middel fork resonator: H x B x L: 3,5 x 3,5 x 40
+- Aluminium klein fork resonator: H x B x L: 3,5 x 3,5 x 30
+- Staal kleinste fork resonator: H x B x L: 2,5 x 2,5 x 24,5
+- Staal grootste fork resonator: H x B x L: 2,5 x 2,5 x 26
 
 **Classificatie**
 111.231

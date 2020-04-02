@@ -15,6 +15,9 @@ summary = "<a href='/logoscollectie/1972/ritmizator'><img src='/logoscollectie/i
 
 # Ritmizator
 
+![Ritmizator][afb1]
+[afb1]: /logoscollectie/img/Ritmizator/Tekening%201%20ritmizator-thumb.png "Ritmizator"
+
 **Collectie**
 Stichting Logos
 

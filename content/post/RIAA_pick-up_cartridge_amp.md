@@ -11,7 +11,7 @@ categories = [ "Elektronisch"
 alfabetisch = ["R", "P", "C", "A"
 ]
 menu = "main"
-summary = "<a href='/logoscollectie/1970/RIAA_pickup-cardridge_amp'><img src='/logoscollectie/img/RIAA_pickup-cardridge_amp_(1970)/Tekening%20cartdridge%20contactmicrofoon.jpg'></a><p>Raes bouwde deze versterker om (onder andere) de compositie Cartridge Music van John Cage te kunnen uitvoeren.</p>"
+summary = "<a href='/logoscollectie/1970/1970/riaa_pick-up_cartridge_amp'><img src='/logoscollectie/img/RIAA_pickup-cardridge_amp_(1970)/Tekening%20cartdridge%20contactmicrofoon.jpg'></a><p>Raes bouwde deze versterker om (onder andere) de compositie Cartridge Music van John Cage te kunnen uitvoeren.</p>"
 +++
 
 # RIAA pick-up cartridge amp
