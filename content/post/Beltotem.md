@@ -49,7 +49,7 @@ LOGOS 1975.01
 #### Beschrijving van het instrument
 Beltotem is een interactieve soundsculptuur. De rechtopstaande houten balk is vastgemaakt aan een ijzeren voet met vier poten. Vooraan op de balk zijn naast de nodige elektronische schakelingen en bedradingen 2 buzzers, 2 telefoonbellen, een grote 220V bel gemonteerd. Bovenop de totempaal prijkt de membraantoeter. 
 
-De soundsculptuur wordt bespeeld door het publiek. Door in een micro te fluisteren, te spreken en te roepen worden afhankelijk van het volume verschillende bellen, buzzers en toeters geactiveerd. Ook de peervormige lamp vooraan en de kelderlamp achteraan worden op die in- en uitgeschakeld. 
+De soundsculptuur wordt bespeeld door het publiek. Door in een micro te fluisteren, te spreken en te roepen worden afhankelijk van het volume verschillende bellen, buzzers en toeters geactiveerd. Ook de peervormige lamp vooraan en de kelderlamp achteraan worden op die manier in- en uitgeschakeld. 
 
 Voor de elektronica baseerde Raes zich op een VU-meter in een kit van Velleman (zie scan in bijlage). We zien deze printplaat boven het antieke metalen ornament en de canonplug waarop een dynamische microfoon moet worden aangesloten. Naast deze printplaat zien we magneetrelais waarmee de lawaaimakers worden geschakeld. Ook boven de de voeding (naast de peervormige lamp) zien we relais. Tussen de twee telefoonbellen in de zwarte kastjes zien we het versterkerje van de buzzers.
 
