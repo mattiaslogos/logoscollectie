@@ -44,7 +44,7 @@ LOGOS 1981.02
 #### Beschrijving van het instrument
 An Ear for Violin en An Ear for Clarinet zijn quasi twee identieke digitale interfaces. Ze zijn beide in staat om 8 verschillende  toonhoogten te herkennen en in real time een triggersignaal via de printerpoort naar een computer te sturen. Het enige verschil tussen beiden is dat de te herkennen toonhoogtes zijn aangepast aan de tessituur van respectievelijk de viool en de klarinet.
 
-An ear for Violin en An ear for Clarinet zijn ge-etst op een printplaat van 16 cm op 10 cm. De printplaat moet via de grijze connector met de printerpoort van een computer worden verbonden. Met behulp van via de rode en zwarte connectoren (banaanstekkers) moeten de interfaces met 5 V worden gevoed (zwart is massa, rood is 5 V). Naast de voedingsaansluiting vinden we de eerste ingang (vrouwelijke cinch). Deze wordt gevolgd door een compressor met diodes. De tweede cinch-ingang is (vermoedelijk) een tweede ingang met andere karakteristieken. Met de zwarte draaischakelaars worden deze (vermoedelijk) al dan niet geselecteerd. 
+An ear for Violin en An ear for Clarinet zijn ge-etst op een printplaat van 16 cm op 10 cm. De printplaat moet via de grijze connector met de printerpoort van een computer worden verbonden. Met behulp van via de rode en zwarte connectoren (banaanstekkers) moeten de interfaces met 5 V worden gevoed (zwart is massa, rood is 5 V). Naast de voedingsaansluiting vinden we de eerste ingang (vrouwelijke cinch). Deze wordt gevolgd door een compressor met diodes. De tweede cinch-ingang is een tweede ingang met andere karakteristieken. Met de zwarte draaischakelaars worden deze al dan niet geselecteerd. 
 
 Met het vijsje op het uiteinde van de acht weerstanden (de doorzichtige componenten op een rij aan de lange zijde) kan de betreffende toonhoogte precies worden ingesteld. Bij elk zulke weerstand zien we een 2211 chip en een LED die oplicht als de toonhoogte wordt waargenomen.
 
@@ -72,9 +72,6 @@ De interface moet worden gevoed met 5 Volt en verbonden worden met een printerpo
 
 *Op An Ear for Clarinet staat aan de voedingsconnectoren:* 
 Klarinet
-
-Op doos 
-
 
 #### Staat van het instrument
 Niet getest
