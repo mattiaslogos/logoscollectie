@@ -59,7 +59,7 @@ De pick-ups worden op met de mannelijke jacks op het mengpaneel aangesloten. Het
 /
 
 #### Staat van het instrument
-Niet in werkende staat.In werkende staat
+In werkende staat
 
 #### Historiek van het instrument
 Het klavier is uit een piano van Raes’ ouders gezaagd (deze kon niet mee verhuizen van de Plateaustraat naar de Hofmeierstraat (beiden te Gent)).  
