@@ -39,13 +39,13 @@ Gebouwd door Godfried-Willem Raes te Gent
 H x B x L: niet bekend
 
 **Classificatie**
-?
+6
 
 **Inventarisnummer**
 LOGOS 1980.02
 
 #### Beschrijving van het instrument
-De Canons werden door Godfried-Willem Raes gebouwd als slagwek instrument voor de Ouverture Solennelle van Tschaikowsky’s opus 49 (1812).
+De Canons of Kanonnen werden door Godfried-Willem Raes gebouwd als slagwek instrument voor de Ouverture Solennelle van Tschaikowsky’s opus 49 (1812).
 
 Vijf grote stalen boxen met een inhoud van 800 tot 1000 liter en met aan de bovenkant een open buis, dienden als resonator voor telkens 4 explosieven. Het ontstekingsmechanisme waarmee de explosieven tot ontploffing werden gebracht, huisden in een houten kistje. Een duidelijke beschrijving vind je in de bijlage (scan).
 
