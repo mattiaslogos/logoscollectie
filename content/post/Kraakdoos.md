@@ -15,7 +15,7 @@ categories = [ "elektronisch"
 alfabetisch = ["K"
 ]
 menu = "main"
-summary = "<a href='/logoscollectie/1976/kraakdoos'><img src='/logoscollectie/img/Kraakdoos1976/Kraakdoos%20bovenkant-thumb.jpg'></a><p>Door intuïtief de verschillende geleidende aanraakpunten vanm deze kraakdoos met de vingers te verbinden, worden er verschillende elektronische klanken opgewekt. De elektronische schakeling is gebaseerd op de schakeling die Michel Waisvisz, de “uitvinder” van dit instrument, in 1975 ontwierp. </p>"
+summary = "<a href='/logoscollectie/1976/kraakdoos'><img src='/logoscollectie/img/Kraakdoos1976/Kraakdoos%20bovenkant-thumb.jpg'></a><p>Door intuïtief de verschillende geleidende aanraakpunten van deze kraakdoos met de vingers te verbinden, worden er verschillende elektronische klanken opgewekt. De elektronische schakeling is gebaseerd op de schakeling die Michel Waisvisz, de “uitvinder” van dit instrument, in 1975 ontwierp. </p>"
 +++
 
 
