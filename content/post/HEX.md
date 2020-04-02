@@ -62,10 +62,10 @@ Gebouwd door Godfried-Willem Raes te Gent
 - Mixer in tabaksblik 13 x 13 x 5
 
 **Classificatie**
-55 of 6?
+6
 
 **Inventarisnummer**
-LOGOS 1987.03
+LOGOS 1988.02
 
 #### Beschrijving van het instrument
 HEX is eigenlijk een verzameling van PCB’s die onderling met voedingskabels, flatcables en signaalkabels verbonden zijn. Het resultaat moet via luidsprekers hoorbaar gemaakt worden. We kunnen acht modules onderscheiden die aangestuurd worden met een computer. In de eerste versies (1988) werd hiervoor een HX20 (epson) gebruikt -vandaar de naam HEX- latere versies (1989) werden met een Toshiba T1000 bestuurd.
@@ -80,7 +80,7 @@ Ik bespreek hieronder de modules afzonderlijk. Ze zijn allen gebouwd op of rond 
 De modules werden aan microfoonstatieven opgehangen of erop gemonteerd.
 
 ##### P1
-P1 is de Midicard. De midi-out van dez PCB van deze module werd op een REX50 van Yamaha aangesloten. De vioolklanken die via een microfoon “door” deze digitale effect machine konden via de code worden beïnvloed. Zo werd er bijvoorbeeld gebruik gemaakt van pitch-bending. De audio uitgang van de REX50 wordt op de mixer aangesloten. Deze machine kon ook in by-pass geschakeld worden zodat louter de vioolklank hoorbaar was. De midi-in en de centronics output werd in de eerste versies (1988-1989) niet gebruikt. Via de zwarte en rode fiche werd de 5V-voeding aangesloten. 
+P1 is de Midicard. De midi-out van de pcb van deze module werd op een REX50 van Yamaha aangesloten. De vioolklanken die via een microfoon “door” deze digitale effectmachine werden gestuurd, konden via de code worden beïnvloed. Zo werd er bijvoorbeeld gebruik gemaakt van pitch-bending. De audio uitgang van de REX50 wordt op de mixer aangesloten. Deze machine kon ook in by-pass geschakeld worden zodat enkel de vioolklank hoorbaar was. De midi-in en de centronics output werd in de eerste versies (1988-1989) niet gebruikt. Via de zwarte en rode fiche werd de 5V-voeding aangesloten. 
 
 ##### P2A en P2B
 De flatcable van P2 (8-bit) die op de HEX-bus wordt aangesloten heeft een aftakking zodat er twee PCB’s kunnen worden aangesloten: P2A en P2B. Ze worden elk met 4-bit gestuurd.
@@ -92,25 +92,25 @@ Met de P2A worden vier printernaalden aangestuurd. Deze kunnen op en neer bewege
 De P2B bevat vier elektromagneten die op een contactmicrofoon gesoldeerde ijzerdraadjes aanstuurt. Via de vrouwelijke DIN-plug wordt een stereo audiosignaal naar de mixer gestuurd. Op de andere DIN-fiche wordt de 15V-dual-voeding aangesloten, de zwarte en witte fiches worden met de 5V power supply verbonden.
 
 ##### P3
-P3 is de md oscillator PCB. Acht akoestische objecten worden tussen de piëzo’s van de driverszijde en de piëzo’s van de receivers zijde gehangen. Deze worden onderling in een feedback-loop geplaatst waardoor deze gaan trillen.  
+P3 is de md oscillator pcb. Acht akoestische objecten worden tussen de piëzo’s van de driverszijde en de piëzo’s van de receivers zijde gehangen. Deze worden onderling in een feedback-loop geplaatst waardoor deze gaan trillen.  
 
 
 Via de vrouwelijke DIN-plug wordt het quadrofone audiosignaal naar de mixer gestuurd. Op de andere DIN-fiche wordt de 15V-dual-voeding aangesloten, de zwarte en witte fiches worden met de 5V power supply verbonden. Op p. 2 van de Opstelling HEX (0888) in de bijlage worden de objecten omschreven.
 
 ##### P4
-P4 bestaat uit een driver- en een receiver PCB. Metalen draden van de driver worden met elektromagneten aan het trillen gebracht. De vier piëzo’s van de receiver-PCB versterken deze trillingen. Het ontwerp van deze laatste PCB is quasi identiek aan de receiver PCB van P5. De bestukking is verschillend. 
+P4 bestaat uit een driver- en een receiver pcb. Metalen draden van de driver worden met elektromagneten aan het trillen gebracht. De vier piëzo’s van de receiver-pcb versterken deze trillingen. Het ontwerp van deze laatste pcb is quasi identiek aan de receiver pcb van P5. De bestukking is verschillend. 
 
 
 Via de vrouwelijke DIN-plug wordt het quadrofone audiosignaal naar de mixer gestuurd. Op de andere DIN-fiche wordt de 15V-dual-voeding aangesloten, de zwarte en witte fiches worden met de 5V voeding verbonden. 
 
 ##### P5
-Ook P5 bestaat uit een driver- en een receiver-PCB. Waarmee drie veren worden aangestuurd en versterkt. Daarnaast doet ook een motortje doet een rekker trillen. Het resultaat wordt door twee piëzo’s versterkt.
+Ook P5 bestaat uit een driver- en een receiver-pcb. Waarmee drie veren worden aangestuurd en versterkt. Daarnaast doet ook een motortje doet een rekker trillen. Het resultaat wordt door twee piëzo’s versterkt.
 
 
 Via de vrouwelijke DIN-plug wordt het quadrofone audiosignaal naar de mixer gestuurd. Op de andere DIN-fiche wordt de 15V-dual-voeding aangesloten, de zwarte en witte fiches worden met de 5V voeding verbonden.
 
 ##### P6
-P6 bestaat uit twee stappenmotors ze winden een snaar in door de computer bevolen stapjes op en af. De snaar glijdt telkens over een kammetje dat op een piëzo is gesoldeerd. Dat geluid kan worden versterkt via de vrouwelijk jack. Aan elke snaar wordt onderaan een contactmicrofoon gehangen die via een kabel naar een stereo jack leidt (zie foto accessoires). Deze worden versterkt met de zwarte Kompressor pre-amp in het tabaksblik. Het versterkte geluid gaat via twee cinch-uitgangen naar de mixer. De stappenmotor wordt gevoed met 12V (witte en rode fiche) en de pre-amp via de DIN-plug met een 15V-dual-voeding.
+P6 bestaat uit twee stappenmotors. Deze winden een snaar in door de computer bevolen stapjes op en af. De snaar glijdt telkens over een kammetje dat op een piëzoplaatje is gesoldeerd. Dat geluid kan worden versterkt via de vrouwelijk jack. Aan elke snaar wordt onderaan een contactmicrofoon gehangen die via een kabel naar een stereo jack leidt (zie foto accessoires). Deze worden versterkt met de zwarte Kompressor pre-amp in het tabaksblik. Het versterkte geluid gaat via twee cinch-uitgangen naar de mixer. De stappenmotor wordt gevoed met 12V (witte en rode fiche) en de pre-amp via de DIN-plug met een 15V-dual-voeding.
 
 ##### P7 en P8
 P7 en P8 (Logolog 1 en Logolog 2) zijn beiden gebouwd rond de chip SPO256. Dit zijn sprekende chips. 8-bit commando’s resulteren in allofonen of woorden. Via de cinch-uitgang wordt het audiosignaal naar de mixer geleid. Beide boards worden gevoed met zowel 12 als 5 Volt. 
@@ -139,10 +139,10 @@ High Nibble (P2B) werd dan weer pas in 1989 ontwikkeld.
 
 In 1988 werd de HX20 Epson gebruikt om het programma te sturen. Vanaf 1989 gebeurde dit met de Toshiba T1000.
 
-Raes geeft in een tekst aan dat de PCB’s voor de audio-art installatie in kooien moeten worden gehangen. In de praktijk is het stuk nooit zo uitgevoerd.
+Raes geeft in een tekst aan dat de pcb’s voor de audio-art installatie in kooien moeten worden gehangen. In de praktijk is het stuk nooit zo uitgevoerd.
 
 #### Problematieken
-Verouderde poorten, verouderde software en verouderde besturingssystemen.
+In onbruik geraakte poorten, software en besturingssystemen.
 
 #### Media
 ##### Afbeeldingen
