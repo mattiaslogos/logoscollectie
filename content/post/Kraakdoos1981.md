@@ -14,7 +14,7 @@ categories = [ "elektronisch"
 alfabetisch = ["K"
 ]
 menu = "main"
-summary = "<a href='/logoscollectie/1981/kraakdoos1981'><img src='/logoscollectie/img/Kraakdoos1981/Kraakdoos%20bovenkant-thumb.jpg'></a><p>Deze kraakdoos is ontworpen op een ge-etste printplaat die oorspronkelijk voor een radio-ontvanger met buizen was bedoeld. Door intuïtief de verschillende geleidende aanraakpunten met de vingers te verbinden kunnen de meest uiteenlopende elektronische klankenaan het instrument worden ontfutseld.</p>"
+summary = "<a href='/logoscollectie/1981/kraakdoos1981'><img src='/logoscollectie/img/Kraakdoos1981/Kraakdoos%20bovenkant-thumb.jpg'></a><p>Deze kraakdoos is ontworpen op een ge-etste printplaat die oorspronkelijk voor een radio-ontvanger met buizen was bedoeld. Door intuïtief de verschillende geleidende aanraakpunten met de vingers te verbinden kunnen de meest uiteenlopende elektronische klanken aan het instrument worden ontfutseld.</p>"
 +++
 
 
@@ -73,7 +73,7 @@ In werkende staat
 Het instrument werd in maart 2014 nagekeken.
 
 #### Problematieken
-Datering. In cursus onder boekdeel kraakdozen staat dat deze kraakdoos in 1973 is gebouwd. Dat lijkt me onwaarschijnlijk daar de schakeling gebaseerd op de schakeling van Waisvisz uit 1975. Op website staat 1981. Daarom neem ik 1981 over.
+/
 
 #### Media
 {{< load-photoswipe >}}
