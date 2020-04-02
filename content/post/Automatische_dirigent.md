@@ -41,7 +41,7 @@ H x B x L: niet bekend
 LOGOS 1968.02
 
 #### Beschrijving van het instrument
-De automatische dirigent was gebouwd in een chasis van ongeveer 60 centimeter breed. Op de schuin opstaande frontpaneel was plaats voor 6 stopcontacten. Deze werden met een flip-flop schakeling en via relais geschakeld. De periodetijd en puls-pauze verhouding kon voor elk stopcontact apart bepaald worden met een potentiometer. Een schakelaar met vier standen (condensatoren) bepaalde telkens het bereik. De stopcontacten waren via een snoer met gloeilampen verbonden die over de pupiters van de muzikanten werden gelegd.
+De automatische dirigent werd gebouwd in een chasis van ongeveer 60 centimeter breed. Op de schuin opstaande frontpaneel was plaats voor 6 stopcontacten. Deze werden met een flip-flop schakeling en via relais geschakeld. De periodetijd en puls-pauze verhouding kon voor elk stopcontact apart bepaald worden met een potentiometer. Een schakelaar met vier standen (condensatoren) bepaalde telkens het bereik. De stopcontacten waren via een snoer met gloeilampen verbonden die over de pupiters van de muzikanten werden gelegd.
 
 #### Speelwijze, repertoire en inzet in producties
 De automatische dirigent werd gebouwd voor de compositie Logos 3:5 van Godfried-Willem Raes. De compositie zorgde destijds voor een schandaal aan het Gentse conservatorium. Voor dit stuk werden slechts vijf lampen gebruikt. De dirigent kon zes lampen aansturen.
