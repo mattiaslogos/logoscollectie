@@ -10,7 +10,7 @@ categories = [ "elektronisch"
 alfabetisch = ["D", "K"
 ]
 menu = "main"
-summary = "<a href='/logoscollectie/1976/dubbele_kraakdoos'><img src='/logoscollectie/img/Dubbele_Kraakdoos/Dubbele%20kraakdoos%20bovenkant-thumb.jpg'></a><p>Dit instrument bestaat eigenlijk uit twee apart functionerende kraakdozen. Door intuïtief de verschillende geleidende aanraakpunten met de vingers te verbinden worden er verschillende elektronische klanken worden opgewekt. Dit instrument uit 1976 werd in 2019 grondig herzien.</p>"
+summary = "<a href='/logoscollectie/1976/dubbele_kraakdoos'><img src='/logoscollectie/img/Dubbele_Kraakdoos/Dubbele%20kraakdoos%20bovenkant-thumb.jpg'></a><p>Dit instrument bestaat eigenlijk uit twee apart functionerende kraakdozen. Door intuïtief de verschillende geleidende aanraakpunten met de vingers te verbinden, worden er verschillende elektronische klanken worden opgewekt. Dit instrument uit 1976 werd in 2019 grondig herzien.</p>"
 +++
 
 
@@ -47,7 +47,7 @@ Aan de binnenkant van het kistje zien we terug tweemaal dezelfde elektronische s
 Beide schakelingen worden met dezelfde (dubbelpolige) schakelaar ingeschakeld. Deze is in het midden op een houten dwarsbalkje gelijmd. De schakelingen van deze kraakdoos zijn gebaseerd op de schakeling die Michel Waisvisz voor zijn kraakdozen in 1975 ontwikkelde. Wel werd de Sziklai eindtrap van de oorspronkelijke schakeling telkens vervangen door één met een bufferchip (BUF634). De houdertjes met de 9V blokbatterijen en de speakertjes (8 Ohm) zijn in het kistje vastgelijmd. Het elektrische schema van deze kraakdoos vind je in de bijlage. Boven de linkse batterij staat “RAES” geschreven.
 
 #### Speelwijze, repertoire en inzet in producties
-De kraakdoos wordt bespeeld door intuïtief de verschillende geleidende aanraakpunten met de vingers te verbinden. De weerstand en in kleinere mate ook de capaciteit van de menselijke huid op en tussen de aanraakpunten zorgen ervoor dat er verschillende elektronische klanken worden opgewekt. Hou er rekening mee dat de contactpunten van de twee identieke printjes niet met elkaar verbonden zijn. 
+De kraakdoos wordt bespeeld door intuïtief de verschillende geleidende aanraakpunten met de vingers te verbinden. De weerstand en in kleinere mate ook de capaciteit van de menselijke huid op en tussen de aanraakpunten, zorgen ervoor dat er verschillende elektronische klanken worden opgewekt. Hou er rekening mee dat de contactpunten van de twee identieke printjes niet met elkaar verbonden zijn. 
 
 #### Opbouw van het instrument/installatie
 Om het instrument te bespelen moet de schakelaar in het doosje worden aangezet. 
@@ -70,11 +70,11 @@ Op het printje twee maal:
 In werkende staat
 
 #### Historiek van het instrument
-Het instrument werd in 2019 herzien. De originele Sziklai eindtrap van de oorspronkelijke schakeling werd telkens vervangen door één met een bufferchip (BUF634). De 709 opamp (die ook Michel Waisvisz in zijn kraakdozen gebruikte gebruikte) is niet meer in de handel te verkrijgen. Godfried-Willem Raes ging op zoek naar een alternatief en kwam uit bij de CA3130. Sinds de herziening maakt de rechter kraakdoos gebruik van een 709 opamp terwijl de linker schakeling gebruik maakt van de CA3130 opamp. Hierdoor zijn de te gebruiken vingercombinaties van de twee schakelingen niet identiek.  
+Het instrument werd in 2019 herzien. De originele Sziklai eindtrap van de oorspronkelijke schakeling werd telkens vervangen door één met een bufferchip (BUF634). De 709 opamp (die ook Michel Waisvisz in zijn kraakdozen gebruikte gebruikte) is niet meer in de handel te verkrijgen. Godfried-Willem Raes ging op zoek naar een alternatief en kwam uit bij de CA3130. Sinds de herziening maakt de rechter kraakdoos gebruik van de "historische" 709 opamp terwijl de linker schakeling gebruik maakt van de CA3130 opamp. Hierdoor zijn de te gebruiken vingercombinaties van de twee schakelingen niet identiek.  
 
 #### Problematieken
 
-
+/
 
 #### Media
 {{< load-photoswipe >}}
