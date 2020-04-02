@@ -35,7 +35,7 @@ Gebouwd door Godfried-Willem Raes te Gent
 Afhankelijk van de gebruikte boot
 
 **Classificatie**
-Categorie 6 of 424
+Categorie 6 
 
 **Inventarisnummer**
 LOGOS 87.02
@@ -44,7 +44,7 @@ LOGOS 87.02
 De klanksculptuur klankboot wordt op het water (vijver, rivier, meer,…) in de openbare ruimte gepresenteerd. Het project bestaat eigenlijk uit een geprepareerd bootje. Aan de zijkanten en achterkant van het bootje worden namelijk verschillend gestemde persluchtclaxons bevestigd die zich met hun paviljoen net onder de waterlijn bevinden. 
 
 Er zijn drie units van claxons, twee voor de zijkanten en één voor de achterkant. Elke unit is met een stroomkabel met de accu(‘s) van 12 V (oorspronkelijk scheepsaccu’s) verbonden.  
-Aan beide zijkanten wordt een unit van 10 claxons - gerangschikt van groot naar klein - op een metalen staaf van 1,5 meter bevestigd. De claxons zijn aangesloten op telkens vijf compressoren (1 tot 5 claxons per compressor) die op een houten plank (75 cm x 10 cm) zijn vastgemaakt. Op de planken staat “klankboot” geschreven en elke compressor wordt geschakeld met het relais dat ernaast is vastgemaakt. 
+Aan beide zijkanten wordt een unit van 10 claxons -gerangschikt van groot naar klein- op een metalen staaf van 1,5 meter bevestigd. De claxons zijn aangesloten op telkens vijf compressoren (1 tot 5 claxons per compressor) die op een houten plank (75 cm x 10 cm) zijn vastgemaakt. Op de planken staat “klankboot” geschreven en elke compressor wordt geschakeld met het relais dat ernaast is vastgemaakt. 
 
 Ook de unit van 12 claxons achteraan, die bevestigd zijn op een aluminium u-profiel (130 cm x 10 cm x 3,5 cm), worden door vijf met relais geschakelde compressoren aangeblazen. De relais en compressoren zijn op een trapeziumvormige plank bevestigd die met een beugel aan het aluminium profiel vasthangt. Op de plank is een metalen handvat vastgemaakt waarmee de paviljoenen van de claxons in en uit het water kunnen worden gehoffen. 
 
