@@ -38,10 +38,10 @@ H x B x L: 8 x 30 x 23
 531.23
 
 **Inventarisnummer**
-LOGOS 83.
+LOGOS 83.01
 
 #### Beschrijving van het instrument
-Dual synthelog combineert -zoals de naam het aangeeft- twee synthelogs, namelijk synthelog III en minisynthelog die beiden rond de chip #SN76477 zijn gebouwd. In de behuizing van plexiglas zijn ook de twee sequencers, de VCO-matrix (stuurspanning) en een R-matrix (weerstand) ingebouwd. Inzicht in de werking van chip is een groot voordeel bij het bespelen van het instrument.
+Dual synthelog combineert -zoals de naam het aangeeft- twee synthelogs, namelijk de synthelog 3 en de minisynthelog die beiden rond de chip #SN76477 zijn gebouwd. In de behuizing van plexiglas zijn ook de twee sequencers, de VCO-matrix (stuurspanning) en een R-matrix (weerstand) ingebouwd. Inzicht in de werking van chip is een groot voordeel bij het bespelen van het instrument.
 
 De patchpaper van dit instrument (zie bijlage) geeft een overzicht van de bediening en de mogelijkheden.
 
@@ -50,9 +50,9 @@ Rechts bovenaan bevinden zich de twee mono-uitgangen en de stereo-uitgang. Met d
 Hieronder bevinden zich de twee sequencers  met elk hun eigen klok (CLOCK 1 en CLOCK 2) die met de tuimelschakelaar (1 on 2) worden in en uitgeschakeld. De twee metalen potmeters bepalen de snelheid. Het signaal van deze klokken (OUT) kan ook iets anders aansturen. Daarnaast kan ook de sequencer kan met een ander signaal (IN) worden aangestuurd. 
 Het signaal van de sequencer (SEQ 1 OUT en SEQ 2 OUT) wordt telkens bepaald door de stand van de vier zwarte potmeters. Ook het signaal van de teller van de sequencer kan via de vrouwelijke jack-uitgangen onder elke potmeter worden gebruikt als stuursignaal. Met de VCO-matrix kan de VCO rechtstreeks worden aangestuurd. 
 
-De weerstanden van de R-matrix kunnen met patchkabels via de twee vrouwelijk mini-jacks aan de rechterbovenhoek van de matrix weerstand gestuurde functies aansturen. 
+De weerstanden van de R-matrix kunnen met patchkabels via de twee vrouwelijk mini-jacks aan de rechterbovenhoek van de matrix, weerstandgestuurde functies aansturen. 
 Boven de twee matrixen bevinden zich de knoppen en ingangen voor het aansturen van de synthelog 3-module, rechts onderaan deze van de minisynthelog-module. 
-Rechts onderaan zien we ook de one-shot (GATE 9) en de joystick waarmee de klank ervan kan worden beïnvloed. De volume-knop (VOLUME) bevind zich centraal op het frontpaneel. De twee jackingangen bovenaan zijn externe ingangen waarvan jet volume geregeld wordt met de potmeter er onder.
+Rechts onderaan zien we ook de one-shot (GATE 9) en de joystick waarmee de klank ervan kan worden beïnvloed. De volume-knop (VOLUME) bevind zich centraal op het frontpaneel. De twee jackingangen bovenaan zijn externe ingangen waarvan het volume geregeld wordt met de potmeter eronder.
 
 Als we naar de onderkant van dual synthelog kijken zien we centraal de ge-etste pcb die ook bij synthelog 3 werd gebruikt met daaronder de kleinere pcm van de minisynthelogs.
 
@@ -94,7 +94,7 @@ Met een stereokabel  of met twee monokabels wordt dual synthelog op een versterk
 Niet in werkende staat. 
 
 #### Historiek van het instrument
-Dual synthelog is uitgebouwd met de pcb’s van synthelog 3 en minisynthelog. Raes twijfelt anno 2019 of hij niet begon aan een herziening van de synth en dat deze nooit is afgewerkt. 
+Dual synthelog is opgebouwd met de pcb’s van synthelog 3 en minisynthelog. Raes twijfelt anno 2019 of hij niet begon aan een herziening van de synth en dat deze nooit is afgewerkt. 
 
 #### Problematieken
 /
