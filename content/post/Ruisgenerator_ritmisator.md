@@ -40,7 +40,7 @@ H x B x L: 6 x 24 x 18
 533.11
 
 **Inventarisnummer**
-
+LOGOS 1971.04
 
 #### Beschrijving van het instrument
 De ruisgenerator-ritmizator bevatte een noise-module die met een flip-flop werd aangestuurd. U vindt een werkrekening en het elektrische schema in de bijlage.

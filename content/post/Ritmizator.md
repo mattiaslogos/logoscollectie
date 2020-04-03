@@ -28,7 +28,7 @@ Ritmizator
 Gebouwd door Godfried-Willem Raes te Gent
 
 **Datering**
-1972 (op de scan staat 1972)
+1972 
 
 **Afmetingen**
 H x B x L: niet bekend
