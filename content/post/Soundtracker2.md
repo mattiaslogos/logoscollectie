@@ -38,16 +38,16 @@ H x B x L: 42 x 42 x 123
 523
 
 **Inventarisnummer**
-LOGOS 82.02
+LOGOS 1986.03
 
 #### Beschrijving van het instrument
-Sountracker 2 is gemaakt van een stuurwiel (diameter 42 cm) waarop in het midden haaks een metalen buis van 120 cm is gemonteerd. Op het einde van die buis zien we twee wielen. Het grotere ijzeren wiel (diameter 26 cm) met volle rubberen band dient om de sountracker te laten rijden, het kleinere volle wieltje (diameter 7 cm) dient om de magneet over te laten lopen alvorens die naar of in de grond gaat. Over de buis is een metalen vierkante koker geschoven en met verschillende bouten vast gezet. Op deze koker zijn de twee batterijen en de metalen behuizing van de schakelingen bevestigd. Aan de zijkant van de koker hangt het draaimechanisme (afkomstig van een bandopnemer) waarop een spoel kan worden geplaatst. Deze wordt licht geremd met een remband aan een veer. Vlak onder het stuur is met twee beugeltjes een shotgun microfoon op een houder geklikt.
+Sountracker 2 is gemaakt van een stuurwiel (diameter 42 cm) waarop in het midden haaks een metalen buis van 120 cm is gemonteerd. Op het einde van die buis zien we twee wielen. Het grotere ijzeren wiel (diameter 26 cm) met volle rubberen band dient om de sountracker te laten rijden. Het kleinere volle wieltje (diameter 7 cm) dient om de magneetband over te laten lopen alvorens die naar of in de grond gaat. Over de buis is een metalen vierkante koker geschoven en met verschillende bouten vast gezet. Op deze koker zijn de twee batterijen en de metalen behuizing van de schakelingen bevestigd. Aan de zijkant van de koker hangt het draaimechanisme (afkomstig van een bandopnemer) waarop een spoel kan worden geplaatst. Deze wordt licht geremd met een remband aan een veer. Vlak onder het stuur is met twee beugeltjes een shotgun microfoon op een houder geklikt.
 
-Op de zijkant van de metalen behuizing zien we één volspoor opnamekop en twee weergavekoppen, deze worden omringd door zes ronde geleiders met een wieltje. Deze moeten er voor zorgen dat de magneetband makkelijk en precies langs de koppen kan schuiven. Bovenaan op de smalle kant behuizing zien we in volgorde de vrouwelijke monojack ingang van de shotgunmicrofoon (MIKE), de potmeter om de signaal signaalsterkte naar de opnamekop te regelen (REC), de twee potmeters die de signaalsterkte van het uitgangssignaal van de twee afspeelkoppen regelen (PB1 en PB2), de twee vrouwelijke monojack uitgangen (OUT1 en OUT2) en de voedingsconnector (POW) die op de twee in serie geschakelde 9V batterijen (samen 18V) moet worden aangesloten. De elektronische schakelingen vind je in de bijlage.    
+Op de zijkant van de metalen behuizing zien we één volspoor opnamekop en twee weergavekoppen, deze worden omringd door zes ronde geleiders met een wieltje. Deze moeten er voor zorgen dat de magneetband makkelijk en precies langs de koppen kan schuiven. Bovenaan op de smalle kant van de behuizing zien we in volgorde de vrouwelijke monojack ingang van de shotgunmicrofoon (MIKE), de potmeter om de signaal signaalsterkte naar de opnamekop te regelen (REC), de twee potmeters die de signaalsterkte van het uitgangssignaal van de twee afspeelkoppen regelen (PB1 en PB2), de twee vrouwelijke monojack uitgangen (OUT1 en OUT2) en de voedingsconnector (POW) die op de twee in serie geschakelde 9V batterijen (samen 18V) moet worden aangesloten. De elektronische schakelingen vind je in de bijlage.    
 
 #### Speelwijze, repertoire en inzet in producties
 Soundtracker 2 is de machine die gemaakt is voor Klankspoor (of Soundtrack), een poëtisch event in de openbare ruimte en dient als opvolger voor de zware Soundtracker 1. 
-Er wordt een traject afgelegd door de stad. Met een microfoon worden alle omgevingsgeluiden opgenomen en afgespeeld op het tempo van degene die de soundtracker draagt. De magneetbank wordt achtergelaten en met stickers  vastgekleefd op de stoepen en straten. Waar mogelijk (parken) wordt de band ingegraven. Het auditieve resultaat wordt hoorbaar door twee megafoons die op een rugzak waren bevestigd en wordt uigezonden met een FM-zender. Omdat er twee weergavekoppen zijn en de snelheid van de magneetband niet constant is, zal het signaal aan OUT1 en OUT2 een andere modulatie van dezelfde opname zijn. De uitgezonden en versterkte geluiden vallen dus niet samen.
+Er wordt een traject afgelegd door de stad. Met een microfoon worden alle omgevingsgeluiden opgenomen en afgespeeld op het tempo van degene die de soundtracker stuurt. De magneetband wordt achtergelaten en met stickers vastgekleefd op de stoepen en straten. Waar mogelijk (parken) wordt de band ingegraven. Het auditieve resultaat wordt hoorbaar door twee megafoons die op een rugzak waren bevestigd en wordt uigezonden met een FM-zender. Omdat er twee weergavekoppen zijn en de snelheid van de magneetband niet constant is, zal het signaal aan OUT1 en OUT2 een andere modulatie van dezelfde opname zijn. De uitgezonden en versterkte geluiden vallen dus niet samen.
 Soundtracker 2 werd gebruikt voor de uitvoering van Soundtrack in 1986 te Leffingen en in 1987 te Amsterdam. 
 
 #### Opbouw van het instrument/installatie
@@ -67,7 +67,7 @@ De power wordt ingeschakeld door de plug van de batterijen in de connector te st
 - POW
 
 #### Staat van het instrument
-Onbekend (niet getest).
+Niet getest.
 
 #### Historiek van het instrument
 /
