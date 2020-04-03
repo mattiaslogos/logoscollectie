@@ -39,7 +39,7 @@ Gebouwd door Godfried-Willem Raes te Gent
 Categorie 6
 
 **Inventarisnummer**
-NOG GEEN
+LOGOS 1988.06
 
 #### Beschrijving van het instrument
 Orgelmars is een event voor stoeten en optochten. Zeven bespelers hebben elk een paar pompschoenen aan de voeten die met slangen met twee orgelpijpen op de rug zijn verbonden. Ze lopen in een rij en elk op een verschillend staptempo. Dat tempo wordt aangegeven met behulp van slingers van een verschillende lengte. De partituur vind je in de bijlage (Scan orgelmars).
