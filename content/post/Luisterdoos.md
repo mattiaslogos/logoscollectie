@@ -15,7 +15,7 @@ categories = [
 alfabetisch = ["L"
 ]
 menu = "main"
-summary = "<p>In de Luisterdoos, een sigarenkistje, zit een contactmicrofoon. Door deze als een stethoscoop tegen voorwerpen en objecten te houden kunnen deze auditief verkend worden.  </p>"
+summary = "<p>In de Luisterdoos, die gebouwd is in een sigarenkistje, zit een contactmicrofoon. Door deze als een stethoscoop tegen voorwerpen en objecten te houden kunnen deze auditief verkend worden.  </p>"
 +++
 
 # Luisterdoos
