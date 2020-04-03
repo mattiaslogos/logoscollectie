@@ -43,18 +43,18 @@ H x B x L: 3 x 10 x 16
 546
 
 **Inventarisnummer**
-LOGOS 1989.02
+LOGOS 1988.05
 
 #### Beschrijving van het instrument
 Synthelog 88 is de laatst gebouwde synthesizer van de synthelogfamilie. Het is de enige waarbij de chip AY-3-8910 wordt gebruikt en het is de enige die volledig digitaal wordt aangestuurd.
-Het instrument is een PCB met daarop een schakeling rond de betreffende chip. Aan de lange zijde zien we de centronics poort (8-bit). Via een flatcable die van deze poort naar de printerpoort van een computer loopt, worden de bevelen gegeven. 
+Het instrument is een pcb met daarop een schakeling rond de betreffende chip. Aan de lange zijde zien we de centronics poort (8-bit). Via een flatcable die van deze poort naar de printerpoort van een computer loopt, worden de bevelen gegeven. 
 
 
-Op de hoek van de andere lange zijde zien we drie vrouwelijke DIN-pluggen. Een eerste plug is bestemd voor de 15 Volt dual power supply en de middelste plug is het vierkanaals uitgangssignaal. Via de plug het meest in de hoek kan een audiosignaal (cascade audio input) naar de synthesizer worden gestuurd. De PCB, de bestukking en het elektrisch schema vind je in de bijlage (Scan Synthelog 88).
-De synthesizer heeft ook ingebouwde ringmodulatoren met analoge multipliers (AD532). In één van de hoeken van de PCB bevindt zich de reset-knop (momentschakelaar). 
+Op de hoek van de andere lange zijde zien we drie vrouwelijke DIN-pluggen. Een eerste plug is bestemd voor de 15 Volt dual power supply en de middelste plug is het vierkanaals uitgangssignaal. Via de plug het meest in de hoek kan een audiosignaal (cascade audio input) naar de synthesizer worden gestuurd. De pcb, de bestukking en het elektrisch schema vind je in de bijlage (Scan Synthelog 88).
+De synthesizer heeft ook ingebouwde ringmodulatoren met analoge multipliers (AD532). In één van de hoeken van de pcb bevindt zich de reset-knop (momentschakelaar). 
 
 #### Speelwijze, repertoire en inzet in producties
-Godfried schreef gaf eind jaren 80 een concert waarin hij enkel dit instrument gebruikte.
+Godfried-Willem Raes gaf eind jaren 80 een concert waarin hij enkel dit instrument gebruikte.
 
 #### Opbouw van het instrument/installatie
 De interface moet worden gevoed met 15 Volt en de centronicspoort met de computer verbonden. Op de uitgang moet een versterker of mengpaneel worden aangesloten. 
@@ -72,7 +72,7 @@ Raes zelf gebruikte het programma Basic (met een HX EPSON-computer) om code voor
 - Cd4066
 
 #### Staat van het instrument
-Niet getest. Er ontbreken momenteel twee opamp. Waarschijnlijk tijdelijk weggehaald om te gebruiken voor een ander experiment (dixit Raes).
+Niet getest. Er ontbreken momenteel twee opamps. Waarschijnlijk tijdelijk weggehaald om te gebruiken voor een ander experiment (dixit Raes).
 
 #### Historiek van het instrument
 De bouw van dit instrument is verwant met de bouw van HEX, dat in hetzelfde jaar tot stand kwam. Op synthelog 88 staat in dymo “P1”. HEX bestaat uit gelijklopende PCB’s genummerd van P1 tot P8. Dit is geen toeval, in de eerste experimenten en versies van HEX speelde dit instrument een rol. Om dezelfde redenen is in de doos waarin HEX wordt opgeborgen een plaats voorzien voor dit instrument.
