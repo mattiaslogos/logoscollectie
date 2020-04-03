@@ -1,6 +1,7 @@
 baseURL = "https://www.logosfoundation.org/logoscollectie"
 languageCode = "en-us"
 title = "Catalogus"
+googleAnalytics = "UA-143256397-1"
 theme = "jeff"
 [permalinks]
     post = "/:year/:filename"
