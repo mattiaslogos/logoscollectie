@@ -37,7 +37,7 @@ H x B x L: niet bekend
 531.23
 
 **Inventarisnummer**
-LOGOS xxxxxx
+LOGOS 1983.07
 
 #### Beschrijving van het instrument
 Deze synthesizer is verloren gegaan. Mini synthelog 3 is hoogstwaarschijnlijk zeer gelijkaardig aan Mini synthelog 1 in die zin dat hij gebruik maakt dezelfde elektronische schakeling en hetzelfde printontwerp. Ook de bediening van de acht schakelaars, vijf C-pins, vier LDR’s en de vier aanrakingspunten is hoogstwaarschijnlijk gelijklopend met die van de Mini synthelog 1. Minisynthelog 3 heeft een balkvormige behuizing van hout en plexiglas en heeft in tegenstelling tot minisynthelog 1 een eigen speaker. De 9 Volt blokbatterij wordt door een uitsparing in het plexiglas in de batterijclip geklikt.
