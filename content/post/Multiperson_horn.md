@@ -44,7 +44,7 @@ H x B x L: niet bekend
 LOGOS 1980.06
 
 #### Beschrijving van het instrument
-De Multiperson-horn is een blaasinstrument voor drie bespelers. Een exponentiele hoorn afkomstig van een oude grammofoonspeler is verbonden met drie plastic slangen waaraan telkens een tuba-mondstuk is bevestigd.
+De Multiperson-horn is een blaasinstrument voor drie bespelers. Een exponentiele hoorn (afkomstig van een oude grammofoonspeler) is verbonden met drie plastic slangen waaraan telkens een tuba-mondstuk is bevestigd.
 
 #### Speelwijze, repertoire en inzet in producties
 /
