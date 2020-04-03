@@ -42,7 +42,7 @@ H x B x L: 2,5 x 9 x 14
 LOGOS 75.07
 
 #### Beschrijving van het instrument
-Optokraak bestaat uit een gaatjesprint met daarop acht componenten, namelijk drie condensatoren, twee koolstof weerstanden, een lichtgevoelige weerstand en twee ic’s (lm380 en lm741). Met koperdraadjes worden er verschillende gaatjes en componenten overbrugd. De printplaat is met een luidsprekertje van 8 Ohm en batterijclip voor een 9 V blokbatterij verbonden. Godfried-Willem Raes, de bouwer van het instrument, weet ook niet meer precies wat het deed. Vermoedelijk was rond de lm741 een oscillatorschakeling gebouwd die met de lichtweerstand en met aanraakpunten (de overbruggingen naar de zijkanten van het printje) konden beïnvloed. De lm380 diende naar alle waarschijnlijkheid als eindtrap (versterkerthe) voor het luidsprekertje. De schakeling kan in de huidige staat onmogelijk werken daar de laatst genoemde ic bijvoormeeld niet met de voeding is verbonden.   
+Optokraak bestaat uit een gaatjesprint met daarop acht componenten, namelijk drie condensatoren, twee koolstof weerstanden, een lichtgevoelige weerstand en twee ic’s (lm380 en lm741). Met koperdraadjes worden er verschillende gaatjes en componenten overbrugd. De printplaat is met een luidsprekertje van 8 Ohm en batterijclip voor een 9 V blokbatterij verbonden. Godfried-Willem Raes, de bouwer van het instrument, weet ook niet meer precies wat het deed. Vermoedelijk was rond de lm741 een oscillatorschakeling gebouwd die met de lichtweerstand en met aanraakpunten (de overbruggingen naar de zijkanten van het printje) konden beïnvloed. De lm380 diende naar alle waarschijnlijkheid als eindtrap (versterkertje) voor het luidsprekertje. De schakeling kan in de huidige staat onmogelijk werken daar de laatst genoemde ic bijvoormeeld niet met de voeding is verbonden.   
 
 #### Speelwijze, repertoire en inzet in producties
 Niet bekend. Ook de maker weet het zelf niet meer. 
@@ -54,7 +54,7 @@ Niet bekend. Ook de maker weet het zelf niet meer.
 Geen 
 
 #### Staat van het instrument
-Functioneert niet
+Niet in werkende staat
 
 #### Historiek van het instrument
 Het instrument zat oorspronkelijk in een doorzichtige plastic behuizing.

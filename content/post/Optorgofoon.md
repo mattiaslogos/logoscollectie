@@ -38,7 +38,7 @@ H x B x L: 15 x 54 x 12,5
 531.2
 
 **Inventarisnummer**
-LOGOS 74.02
+LOGOS 1974.02
 
 #### Beschrijving van het instrument
 De optorgofoon is in een rechthoekige massief houten (1 cm dik) kist gebouwd. De ingefreesde zijkant met gleuf, waar de voedingsconnector (220V) zich bevindt, verraadt dat de kist ooit een fichebak was. Op de onderkant van het instrument is een inox plaat gevezen waarop een ronde inox stang (32 cm lang, 1,2 diameter) is vast gelast. Op deze manier kan het instrument op een statief worden geplaatst. 

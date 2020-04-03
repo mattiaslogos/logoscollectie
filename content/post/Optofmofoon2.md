@@ -38,10 +38,10 @@ H x B x L: 35 x 20 x 56
 531.21
 
 **Inventarisnummer**
-LOGOS 77.01 en 88.02 ?
+LOGOS 1988.03
 
 #### Beschrijving van het instrument
-Optofmofoon II is een eenvoudige synthesizer die gebouwd is voor muzikaal vormingswerk met kinderen. In een massief houten kader van 12 cm hoog is met vier houtschroeven een witte vezelplaat bevestigd. Op dit paneel zien we aan de smalle kant vier potentiometers. Onder elke potentiometer zien we telkens een gaatje waarover een latje plexiglas is gevezen. Vier witte pvc-buisje met dezelfde diameter van de gaatjes lopen naar de vier lichtgevoelige weerstanden die op de pcb onder het boven paneel zijn gesoldeerd. Met elke potentiometer en onderliggende lichtweerstand wordt de toonhoogte van de vier luidsprekers bepaald. Deze (8 Ohm) zijn onder de witte verticaal geplaatste pvc-buizen gemonteerd. De verschillende buizen hebben een verschillende lengte en dus ook een verschillende resonantie frequentie. Elke luidspreker heeft zijn eigen toonhoogtebereik gelijklopend met de lengte van de buis. De meest linkse potentiometer is tegelijkertijd ook de aan en uit schakelaar. Elke potentiometer met onderliggende lichtweerstand maakt deel uit van een soortgelijke schakeling met een 555 chip die onderling in cascade zijn geplaatst (FM-modulatie). Je vind het elektrische schema in de bijlage.
+Optofmofoon II is een eenvoudige synthesizer die gebouwd is voor muzikaal vormingswerk met kinderen. In een massief houten kader van 12 cm hoog is met vier houtschroeven een witte vezelplaat bevestigd. Op dit paneel zien we aan de smalle kant vier potentiometers. Onder elke potentiometer zien we telkens een gaatje waarover een latje plexiglas is gevezen. Vier witte pvc-buisje met dezelfde diameter van de gaatjes lopen naar de vier lichtgevoelige weerstanden die op de pcb onder het boven paneel zijn gesoldeerd. Met elke potentiometer en onderliggende lichtweerstand wordt de toonhoogte van de vier luidsprekers bepaald. Deze (8 Ohm) zijn onder de witte verticaal geplaatste pvc-buizen gemonteerd. De verschillende buizen hebben een verschillende lengte en dus ook een verschillende resonantie frequentie. Elke luidspreker heeft zijn eigen toonhoogtebereik gelijklopend met de lengte van de buis. De meest linkse potentiometer is tegelijkertijd ook de aan- en uitschakelaar. Elke potentiometer met onderliggende lichtweerstand maakt deel uit van een soortgelijke schakeling met een 555 chip die onderling in cascade zijn geplaatst (FM-modulatie). Je vind het elektrische schema in de bijlage.
 
 Op de korte zijde vooraan staat “logos” gebrandmerkt en uit een gat op de achterzijde zien we de stroomkabel komen. Als we in de rechtopstaande buizen kijken zien we dat de speakers met grille zijn beveiligd.
 
@@ -65,7 +65,7 @@ Er zijn verschillende versies van de optofmofoon gemaakt (zie scan). Uit het ond
 Optofmofoon II werd in maart 2014 nagekeken.
 
 #### Problematieken
-Dubbele benaming 
+Optofmofoon II wordt ook Optsynth genoemd.
 
 #### Media
 ##### Afbeeldingen
