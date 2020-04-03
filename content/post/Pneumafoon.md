@@ -96,13 +96,13 @@ WINDMACHINES, KUSSENS en SLANGEN:
 40 slangen (+reserve): verschillende lengtes met een diameter van 5 cm
 
 **Classificatie**
-6?
+6
 
 **Inventarisnummer**
 LOGOS 1983.03
 
 #### Beschrijving van het instrument
-Pneumafoon-project bestaat uit 20 klanksculpturen die met lucht tot klinken worden gebracht. De klank van elke sculptuur is verschillend en bovendien afhankelijk van de luchtdruk die in de sculptuur wordt geblazen. De bespelers bepalen de luchtdruk door op 20 grote gele tetraëdervormige luchtkussens te zitten, te wippen en te duwen. Elk kussen is met een flexibele plastic slang met één pneumafoons (sculpturen) verbonden. De kussens zijn op hun beurt met soortgelijke slangen verbonden met de uitgang van een windmachine. Op die manier worden ze steeds geleidelijk aan opgeblazen. De hoeveelheid lucht die naar een kussen wordt geleid kan met kranen op de windmachines geregeld worden. Ook de hoeveelheid wind die elke machine maakt is regelbaar met de motorsturing op de machine.
+Pneumafoon-project bestaat uit 20 klanksculpturen die met lucht tot klinken worden gebracht. De klank van elke sculptuur is verschillend en bovendien afhankelijk van de luchtdruk die in de sculptuur wordt geblazen. De bespelers bepalen de luchtdruk door op 20 grote gele tetraëdervormige luchtkussens te zitten, te wippen en te duwen. Elk kussen is met een flexibele plastic slang met één pneumafoons (sculpturen) verbonden. De kussens zijn op hun beurt met soortgelijke slangen verbonden met de uitgang van een windmachine. Op die manier worden ze steeds geleidelijk aan opgeblazen. De hoeveelheid lucht die naar een kussen wordt geleid, kan met kranen op de windmachines geregeld worden. Ook de hoeveelheid wind die elke machine maakt is regelbaar met de motorsturing op de machine.
 
 Het klinkend resultaat van deze installatie is een boeiend en veelzijdig klanktapijt. 
 
@@ -140,9 +140,9 @@ Elke pneumafoon is genoemd naar een windgod en elke windmachine (uitgezonderd Me
 
 - Tawhiri: In de rechtopstaande PVC-buis van Tawhiri zit een roterende sirene. De klank wordt via een hyperbolische resonator in de ruimte geprojecteerd. 
 
-- Tembo: Een exponentiële hoorn afkomstig van een oude grammofoonspeler is met een ijzeren lat en buis op de voet gemonteerd. De lucht wordt via een witte PVC-buis en een holteresonator naar de hootn geleid. 
+- Tembo: Een exponentiële hoorn afkomstig van een oude grammofoonspeler is met een ijzeren lat en buis op de voet gemonteerd. De lucht wordt via een witte PVC-buis en een holteresonator naar de hoorn geleid. 
 
-- Teshub: Twee dissonerende messing rieten worden lopen via cylindrische buizen naar hetzelfde hyperbolisch paviljoen dat op twee schuin rechtopstaande balken is gemonteerd.
+- Teshub: Twee dissonerende messing rieten lopen via cylindrische buizen naar hetzelfde hyperbolisch paviljoen dat op twee schuin rechtopstaande balken is gemonteerd.
 
 - Xix: Vier labiaalpijpen worden aangestuurd vanuit een met stroperige olie gevulde nachtegaal tremulant. De pijpen kunnen afzonderlijk met ventielen worden bediend. 
 
@@ -158,7 +158,7 @@ Elke pneumafoon is genoemd naar een windgod en elke windmachine (uitgezonderd Me
 
 #### Speelwijze, repertoire en inzet in producties
 De pneumafoons worden bespeeld door op de luchtkussens te zitten, springen, wippen, duwen,… De bespelers moeten hiervoor hun schoenen uit doen. 
-Pneumafoon kan in drie drie verschillende versies worden gepresenteerd: als interactieve installatie met klanksculpturen (publieksparticipatie), in een concertante versie (bespeeld door muzikanten) en in het Concerto voor Pneumafoon en Orgel. Beide laatste zijn gedocumenteerd op de langspeelplaat “Pneumafoon” uit 1987 (IGL050).
+Pneumafoon kan in drie verschillende versies worden gepresenteerd: als interactieve installatie met klanksculpturen (publieksparticipatie), in een concertante versie (bespeeld door muzikanten) en in het Concerto voor Pneumafoon en Orgel. Beide laatste zijn gedocumenteerd op de langspeelplaat “Pneumafoon” uit 1987 (IGL050).
 
 #### Opbouw van het instrument/installatie
 De ene windconnector van het luchtkussen wordt steeds via een slang met de uitgang van een windmachine verbonden. De andere connector van het kussen wordt telkens op de ingang van een pneumafoon aangesloten. Als alle klanksculpturen via een kussen op de windmachines zijn aangesloten, kunnen deze laatste worden ingeschakeld. Ze moeten van stroom worden voorzien (220 Volt, 50 Hrz). De schakelaar van elke windmachine moet worden aangezet.  De winddruk moet steeds worden aangepast aan de omstandigheden: aantal bespelers, hun intensiteit, en het type pneumafoon. De winddruk kan geregeld worden via de motorsturing van de windmachines. Hiervoor moet aan de potentiometer worden gedraaid. Daarnaast kan de winddruk via de kranen individueel worden aangepast. 
