@@ -44,12 +44,12 @@ H x B x L: 4 x 7,5 x 11,5
 531.23
 
 **Inventarisnummer**
-LOGOS 79.05
+LOGOS 1983.05
 
 #### Beschrijving van het instrument
 De synthesizer is gebouwd op een ge-etste printplaat waarboven (op een afstand van 2 cm) een doorzichtig plaatje van polycarbonaat is gemonteerd. Dat plaatje wordt vastgehouden met een vijsje en met de connectoren en schakelaars die op de printplaat zijn vast gesoldeerd en door het doorzichtig plaatje zijn vast gevezen.
 
-Centraal op de printplaat zien we de SN76477 chip waarrond de mini synthelog is gebouwd. Hier staat met dymo “logos” op geschreven. De schakeling is gebaseerd op de evaluatieschakeling van de chip (zie bijlage). De schakelaars en condensatoren die de verschillende parameters van het outputsignaal bepalen zijn hier vervangen door vrouwelijke mini-jacks. De bovenste rij mini-jacks op het frontpaneel kunnen geschakeld worden met mannelijke mini-jacks waarvan de tip en de sleeve zijn doorverbonden. Welke parameters er worden geschakeld kan je zien in de tekening in de bijlage. 
+Centraal op de printplaat zien we de SN76477 chip waarrond de mini synthelog is gebouwd. Hier staat met dymo “logos” op geschreven. De schakeling is gebaseerd op de evaluatieschakeling van de chip (zie bijlage). De schakelaars en condensatoren die de verschillende parameters van het outputsignaal bepalen, zijn hier vervangen door vrouwelijke mini-jacks. De bovenste rij mini-jacks op het frontpaneel kunnen geschakeld worden met mannelijke mini-jacks waarvan de tip en de sleeve zijn doorverbonden. Welke parameters er worden geschakeld kan je zien in de tekening in de bijlage. 
 
 De tweede rij vrouwelijke mini-jacks worden geschakeld met mannelijke mini-jacks waarvan tussen de tip en sleeve een condensator is gesoldeerd (c-pins). De waarde van de condensator is bepalend voor de klank. Welke parameters er worden geschakeld met de c-pins kan je zien op de tekening in de bijlage. De vrouwelijke mini-jack boven de aan- en uitschakelaar (in het midden rechts) is verbonden met pin 12 (de feedbackweerstand) en  wordt geschakeld met een mannelijke mini-jack waar tussen de tip en de sleeve een weerstand is gesoldeerd. De waarde ervan bepaald de gain (veel gain bij grote weerstand en andersom). Door de momentschakelaar (verbonden met pin 9) onder de tuimelschakelaar kan het geluid van de synth worden onderbroken. 
 
@@ -74,7 +74,7 @@ Het instrument is niet in werkende staat. De eindtrap is vermoedelijk stuk. Als 
 In juli 2019 werden de kabeltjes van de batterijclip terug op zijn plaats gesoldeerd (Mattias Parent). Het losse kabeltje aan de eindtrap werd verwijderd. 
 
 #### Problematieken
-De pinnen waarmee de mini synthelog werd geschakeld zijn verloren gegaan. Deze zijn eenvoudig opnieuw te maken.
+/
 
 #### Media
 ##### Afbeeldingen
