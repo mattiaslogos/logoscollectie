@@ -69,6 +69,3 @@ Oorspronkelijk werden de instrumenten met losse contactmicrofoons versterkt. De 
 ##### Afbeeldingen
 {{< load-photoswipe >}}
 {{< gallery dir="/img/DuchampHarp/" />}}
-
-##### pdf-bestanden
-[Dudafoon 1972](/logoscollectie/pdf/Dudafoon/Dudafoon1972.pdf)
