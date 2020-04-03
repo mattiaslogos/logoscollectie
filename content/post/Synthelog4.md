@@ -35,10 +35,10 @@ H x B x L: niet gekend
 531.23
 
 **Inventarisnummer**
-
+LOGOS 1982.07
 
 #### Beschrijving van het instrument
-Voor Synthelog 4, die zoals de voorgaande types gebouwd is rond de  chip SN76477, ontwerpt Raes in oktober 2082 een volledig nieuwe print. Daarnaast past hij ook de PCB van Synthelog 3 aan. Hij voegt namelijk een LFO-buffer en inverter toe. Het is niet duidelijk of beide PCB’s uityeindelijk werden gbruikt in de ze synthesizer. U vindt de ontwerpen in de bijlage (scan).
+Voor Synthelog 4, die zoals de voorgaande types gebouwd is rond de  chip SN76477, ontwerpt Raes in oktober 1982 een volledig nieuwe print. Daarnaast past hij ook de pcb van Synthelog 3 aan. Hij voegt namelijk een LFO-buffer en inverter toe. Het is niet duidelijk of beide pcb’s uityeindelijk werden gbruikt in deze synthesizer. U vindt de ontwerpen in de bijlage (scan).
 
 #### Speelwijze, repertoire en inzet in producties
 /
@@ -49,10 +49,10 @@ Voor Synthelog 4, die zoals de voorgaande types gebouwd is rond de  chip SN76477
 #### Inscripties
 /
 #### Staat van het instrument
-Verloren?
+Verloren
 
 #### Historiek van het instrument
-Het is opvallend dat Raes voor Dual Synthelog uit 1983 teruggrijpt naar het ontwerp van Synthelog 3 (september 1982) en niet naar de PCB die hij voor Synthelog 4 (oktober 1982) ontwierp. 
+Het is opvallend dat Raes voor Dual Synthelog uit 1983 teruggrijpt naar het ontwerp van Synthelog 3 (september 1982) en niet naar de pcb die hij voor Synthelog 4 (oktober 1982) ontwierp. 
 
 #### Problematieken
 /
