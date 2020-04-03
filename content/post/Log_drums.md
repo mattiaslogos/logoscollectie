@@ -31,7 +31,6 @@ Gebouwd door Godfried-Willem Raes te Gent
 
 **Datering**
 1973
-(Godfried dateert 1973 op zijn website, op een oude foto wordt ook 1972 vermeld)
 
 **Afmetingen**
 1) H x B x L: 16 x 14 x 47,5
