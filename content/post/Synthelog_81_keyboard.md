@@ -38,14 +38,14 @@ H x B x L: 9 x 22 x 14
 532.2
 
 **Inventarisnummer**
-LOGOS 81.
+LOGOS 1981.02
 
 #### Beschrijving van het instrument
-Synthelog 81 keyboard is een universeel keyboard voor de synthelogfamilie, een reeks synthezizers die Raes op het einde van de jaren 70 en het begin van de jaren 80 bouwde. Synthelog 1, 2 en 3 kunnen in het bijzonder via de dinplug met bijhorende kabel worden gestuurd. Deze dinplug is tevens de voeding (5 Volt). De andere modellen kunnen via de meest rechtse van de vier mini-jack uitgangen en een patchkabel (mannelijke mini-jacks) stuurspanning ontvangen.
+Synthelog 81 keyboard is een universeel keyboard voor de synthelogfamilie, een reeks synthezizers die Raes op het einde van de jaren 70 en het begin van de jaren 80 bouwde. Synthelog 1, 2 en 3 kunnen in het bijzonder via de DINplug met bijhorende kabel worden gestuurd. Deze plug is tevens de voeding (5 Volt). De andere modellen kunnen via de meest rechtse van de vier mini-jack uitgangen en een patchkabel (mannelijke mini-jacks) stuurspanning ontvangen.
 
 Het keyboard is gebouwd in een plastic behuizing en heeft twee identieke klavieren van elk 40 toetsen. De acht bovenste potmeters zijn verbonden met de acht rijen verticale rijen van de matrix en de vier linkse potmeters met de bovenste vier horizontale rijen. De onderste horizontale rij is niet verbonden met een potmeter (steeds weerstand 0 ohm). Door het drukken op de knoppen in de matrix worden de standen van de potmeters van de verschillende rijen gecombineerd. Via een spanningsdeler wordt zo een stuurspanning opgewekt die naar de uitgang wordt gestuurd. 
 
-Het keyboard bevat ook een sequencer. De snelheid van de klok van de sequencer wordt gestuurd met de potentiometer rechts onderaan het frontpaneel. De klok heeft ook een eigen output dit is de tweede vrouwelijke mini-jach van rechts. Via de vrouwelijke mini-jack links daarvan kan de sequencer ook met een externe klok aabgestuurd worden. Via de meest linkse vrouwelijke mini-jack kan een externe input voltage worden aangesloten.Boven de potmeter die de snelheid van de klok regelt, bevind zich de potmeter die in combinatie met de meest rechtse tuimelschakelaar de portamento bepaalt. Met de potmeter daarboven bepaal je de range van de toonhoogte van het volledige keyboard. 
+Het keyboard bevat ook een sequencer. De snelheid van de klok van de sequencer wordt gestuurd met de potentiometer rechts onderaan het frontpaneel. De klok heeft ook een eigen output (de tweede vrouwelijke mini-jach van rechts). Via de vrouwelijke mini-jack links daarvan kan de sequencer ook met een externe klok aangestuurd worden. Via de meest linkse vrouwelijke mini-jack kan een externe input voltage worden aangesloten. Boven de potmeter die de snelheid van de klok regelt, bevind zich de potmeter die in combinatie met de meest rechtse tuimelschakelaar de portamento bepaalt. Met de potmeter daarboven bepaal je de range van de toonhoogte van het volledige keyboard. 
 
 Als we de vier vijsjes losvijzen kunnen we het frontpaneel uit de plastic behuizing lichten. We zien dan centraal de gaatjesprint met de teller (een 7493) en de klok (een 555 chip). De elktrische schema’s en de bedrading vind je in de bijlage (scan synthelog 81 keyboard).
 Onderaan op de behuizing van het keyboard is ook een blokschema opgenomen.
@@ -54,7 +54,7 @@ Onderaan op de behuizing van het keyboard is ook een blokschema opgenomen.
 Het keyboard werd gebruikt om synthesizers uit de synthelogfamilie aan te sturen.
 
 #### Opbouw van het instrument/installatie
-Als het keyboard met een din-kabel met synthelog 1, 2 of 3 wordt verbonden is hij zowel de voeding als de stuurspanning naar de VCO aangesloten. Bij de andere synthelogs dient de din-aansluiting enkel voor de voeding (5 Volt). De stuurspanning wordt met een patchkabel (mannelijke mini-jacks) naar de betreffende VCO-ingang op de synthelog verbonden.      
+Als het keyboard met een DIN-kabel met synthelog 1, 2 of 3 wordt verbonden, is hij zowel de voeding als de stuurspanning naar de VCO aangesloten. Bij de andere synthelogs dient de din-aansluiting enkel voor de voeding (5 Volt). De stuurspanning wordt met een patchkabel (mannelijke mini-jacks) naar de betreffende VCO-ingang op de synthelog verbonden.      
 
 #### Inscripties
 - SYNTHELOG 81 KEYBOARD
