@@ -38,7 +38,7 @@ H x B x L: niet bekend
 LOGOS 1970.04
 
 #### Beschrijving van het instrument
-Raes bouwde deze versterker voor de uitvoering van Cartridge Music, een compositie van John Cage waarbij pick-up naalden als een soort van drukmicrofoon worden gebruikt. In de tekening in bijlage zie je hoe de pick-up naalden tot contactmicrofoon werden ongebouwd. De elektrische schakeling ging verloren. 
+Raes bouwde deze versterker voor de uitvoering van Cartridge Music, een compositie van John Cage waarbij pick-up naalden als een soort van drukmicrofoon worden gebruikt. In de tekening in bijlage zie je hoe de pick-up naalden tot contactmicrofoon werden omgebouwd. De elektrische schakeling ging verloren. 
 
 #### Speelwijze, repertoire en inzet in producties
 Cartridge Music (John Cage) en andere stukken waarin versterkte pick-up naalden werden gebruikt.
