@@ -11,7 +11,7 @@ categories = ["digitaal"
 alfabetisch = ["L"
 ]
 menu = "main"
-summary = "<a href='/logoscollectie/1984/logolog'><img src='/logoscollectie/img/Logolog/Logolog%20bovenaanzicht-thumb.jpg'></a><p>Logolog is spreekmachine die zowel manueel als via een seriële poort van een computer kan worden aangestuurd.</p>"
+summary = "<a href='/logoscollectie/1984/logolog'><img src='/logoscollectie/img/Logolog/Logolog%20bovenaanzicht-thumb.jpg'></a><p>Logolog is een spreekmachine die zowel manueel als via een seriële poort van een computer kan worden aangestuurd.</p>"
 +++
 
 # Logolog
@@ -61,7 +61,7 @@ Logolog kan zowel manueel (met de knoppen) als via de seriële poort met een com
 Niet in werkende staat. 2 chip en vier knoppen van de momentschakelaars ontbreken. Er is geen voeding of aansluiting voor een voeding voorzien. Het instrument heeft verschillende loshangende draden.
 
 #### Historiek van het instrument
-/
+Deze technologie en de chip SPO256 werd ook in Hex gebruikt (p7 en p8).
 
 #### Problematieken
 /

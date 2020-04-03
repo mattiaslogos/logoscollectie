@@ -32,7 +32,7 @@ Manipulofoon
 Gebouwd door Godfried-Willem Raes te Gent
 
 **Datering**
-1982 (op foto 1981, op schema bouwjaar 1982, op infomap 1982, op site 1976, gebouwd voor timeframes een compositie uit 1983)
+1982 
 
 **Afmetingen**
 H x B x L: 9 x 20 x 13
@@ -41,13 +41,13 @@ H x B x L: 9 x 20 x 13
 523
 
 **Inventarisnummer**
-LOGOS 1976.01
+LOGOS 1982.02
 
 #### Beschrijving van het instrument
-Manipulofoon huist in een metalen behuizing van 6 op 9 op 12 cm waarvan het deksel onderaan is toegeschroefd met vier vijsjes. Op de bovenkant van behuizing zijn in de twee hoeken twee volspoor afspeelknoppen gemonteerd. Deze zijn afkomstig van een professionele bandopnemer. Ook de twee geveerde hulparmen die in de andere twee hoeken zijn gemonteerd, zijn afkomstig van een bandopnemer. Het is de bedoeling dat de bespeler met de hand stukken vooraf opgenomen magneetband langs de afspeelkoppen laat glijden. De snelheid en de richting heeft uiteraard invloed op hoe het opgenomen geluid wordt afgespeeld. De schakelaars tussen de armen en de koppen hebben drie standen. De bespeler kan hiermee de koppen uitschakelen of naar één van de twee uitgangen schakelen.
+Manipulofoon huist in een metalen behuizing (6 x 9 x 12 cm) waarvan het deksel onderaan is toegeschroefd met vier vijsjes. Op de bovenkant van behuizing zijn in de twee hoeken twee volspoor afspeelknoppen gemonteerd. Deze zijn afkomstig van een professionele bandopnemer. Ook de twee geveerde hulparmen die in de andere twee hoeken zijn gemonteerd, zijn afkomstig van een bandopnemer. Het is de bedoeling dat de bespeler met de hand stukken vooraf opgenomen magneetband langs de afspeelkoppen laat glijden. De snelheid en de richting heeft uiteraard invloed op hoe het opgenomen geluid wordt afgespeeld. De schakelaars tussen de armen en de koppen hebben drie standen. De bespeler kan hiermee de koppen uitschakelen of naar één van de twee uitgangen schakelen.
 
 
-De lijnuitgangen bevinden zich op zijkant aan de kant van de bespeler:  twee vrouwelijke mono-jacks (TS 6,3mm). Op de andere lange zijkant zien we drie connectoren voor de dual power supply (banaanfiches). Met behulp van een schroef onderaan op het instrument kan het op een statief worden geplaatst.       
+De lijnuitgangen bevinden zich op zijkant aan de kant van de bespeler:  twee vrouwelijke mono-jacks (TS 6,3 cm). Op de andere lange zijkant zien we drie connectoren voor de dual power supply (banaanfiches). Met behulp van een schroef onderaan op het instrument kan het op een statief worden geplaatst.       
 
 
 #### Speelwijze, repertoire en inzet in producties
