@@ -38,14 +38,14 @@ H x B x L: 12 x 16 x 26,5
 531.23
 
 **Inventarisnummer**
-LOGOS 78.03
+LOGOS 1982.05
 
 #### Beschrijving van het instrument
 Synthelog 2 is gebouwd in een massief houten kistje met rubberen handvat en een gescharnierd deksel waarop “synthelog II”, “logos” en “electronics” staat geschreven. Achteraan zien we de connector voor de stroomkabel. Als we het deksel van het kistje open zien we het bedieningspaneel.
 
 De chip SN76477 is het kloppend hart van dit instrument. Hij produceert alle geluiden. De chip kan worden aangestuurd met een sequencer en een frequencie-to-voltage-controller die in de synth zijn ingebouwd. Om de besturing van deze synthelog goed te begrijpen is het belangrijk om enig inzicht te hebben in de werking van de chip. In de bijlage vind je de datasheet en een een document die de interne logica goed documenteert (elektrische schakeling synthelog 2). De patchpunten, schakelaars en potmeters zijn met letters aangeduid en verwijzen naar hun plaats en functie in het schema. 
 
-Rechts onderaan op het bedieningspaneel bevind zich de aan- en uitschakelaar met daarboven de uitgang van respectievelijk clock 1 en 2 waarvan de pulssnelheid met de twee potmeters daarboven wordt ingesteld. Clock 2 fungeert tevens als de klok van de sequencer die je met de vier kleine zwarte pormeters daarnaast bedient (sequenceR). Het signaal van de teller van de sequencer kan via de uitgangen P, Q R en S (de 4 mini-jackuitgangen daaronder) ook apart als stuursignaal worden gebruikt. 
+Rechts onderaan op het bedieningspaneel bevind zich de aan- en uitschakelaar met daarboven de uitgang van respectievelijk clock 1 en 2 waarvan de pulssnelheid met de twee potmeters daarboven wordt ingesteld. Clock 2 fungeert tevens als de klok van de sequencer die je met de vier kleine zwarte pormeters daarnaast bedient (sequencer). Het signaal van de teller van de sequencer kan via de uitgangen P, Q, R en S (de 4 mini-jackuitgangen daaronder) ook apart als stuursignaal worden gebruikt. 
 Met de drie tuimelschakelaars rechts onderaan op het bedieningspaneel bedien je de (logische) mixer. Deze zijn verbonden met de die mini jackingangen X, Y en Z. In de bovenste stand van de schakelaar(s) kan de mixer zo ook met een stuurspanningen worden geschakeld. 
 
 Links van de mixerschakelaars vind je de schakelaar van de luidspreker met daarnaast de volumeknop. 
@@ -57,7 +57,7 @@ Via ingang T kan je het gehele systeem in- en uit schakelen en met de TRIG uitga
 Met de potmeters en schakelaars tussen de momentschakelaar van de ONE-SHOT en de volumeknop regel je de HOLD, ATTACK en DECAY (indien geselecteerd met de reeds aangehaald enveloppe-schakelaars).
 
 Links van de uitgang van de sequencer (SEQ OUT) bevinden zicht de ingangen op de LFO, VCO and noise-module met filter aan te sturen. De opschriften en zwarte lijnen tonen de weg naar de schakelaars die bepalen of de betreffende module intern of extern wordt aangestuurd. Andere schakelaars bepalen de range van het signaal.
-Rechts van de uitgang van de sequencer (SEQ OUT) zien we de ingang en twee uitgangen van de frequencie-to-voltage-convertor.   Met daarnaast de externe ingang (L). 
+Rechts van de uitgang van de sequencer (SEQ OUT) zien we de ingang en twee uitgangen van de frequencie-to-voltage-convertor. 
 In de rechter bovenhoek bevinden zicht de asymmetrische en symmetrische uitgangen van de synthelog. 
 
 Links bovenaan het bedieningspaneel zien we de connector van de vroegere voeding. Deze is niet meer aangesloten. Naast deze connector zien we een mini-jackingang van de amplitude modulatie. Deze wordt geschakeld met de tuimelschakelaar boven de volumeknop.

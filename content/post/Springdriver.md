@@ -40,13 +40,13 @@ Receiver (2 keer): 3 x 6 x 6
 2-channel springdriver: 11 x 15 x 6
 
 **Classificatie**
-6?
+6
 
 **Inventarisnummer**
-1975.06
+LOGOS 1982.04
 
 #### Beschrijving van het instrument
-De springdriver zelf huist in een metalen chasis van 11 op 15 op 6 cm. Achteraan dit metalen doosje zien we vijf vrouwelijke jacks (6,3mm) met daarboven de zwarte en rode fiche waarop de 12 Volt voeding moet worden aangesloten. Op de twee mono jacks (TS) links (driver out) worden de drivers met een kabel (mono-jack naar mono-jack) aangesloten. De twee drivers worden vastgehouden in een beugel en zijn op een aluminium profiel gemonteerd. Op datzelfde profiel zien we de vrouwelijke mono-jacks (TS) waarmee de drivers verbonden zijn. Aan de drivers zijn lange veren gehangen. Doorgaans wordt dit profiel in zijn geheel op een statief geplaatst. Het uiteinde van elke veer werd in het daarvoor voorziene mechanisme van de receivers (of coil) vastgevezen en de veren (licht) opgespannen. De veer moet vlak voor de hoefijzermagneet van de pick-up (of receiver of coil) hangen. De pick-ups (afkomstig uit oude telefoonhoorns) hangen aan een beugeltje dat op zijn beurt op de schroefdraad van een microfoonstatief past.
+De springdriver zelf huist in een metalen chasis van 11 op 15 op 6 cm. Achteraan dit metalen doosje zien we vijf vrouwelijke jacks (6,3 cm) met daarboven de zwarte en rode fiche waarop de 12 Volt voeding moet worden aangesloten. Op de twee mono jacks (TS) links (driver out) worden de drivers met een kabel (mono-jack naar mono-jack) aangesloten. De twee drivers worden vastgehouden in een beugel en zijn op een aluminium profiel gemonteerd. Op datzelfde profiel zien we de vrouwelijke mono-jacks (TS) waarmee de drivers verbonden zijn. Aan de drivers zijn lange veren gehangen. Doorgaans wordt dit profiel in zijn geheel op een statief geplaatst. Het uiteinde van elke veer werd in het daarvoor voorziene mechanisme van de receivers (of coil) vastgevezen en de veren (licht) opgespannen. De veer moet vlak voor de hoefijzermagneet van de pick-up (of receiver of coil) hangen. De pick-ups (afkomstig uit oude telefoonhoorns) hangen aan een beugeltje dat op zijn beurt op de schroefdraad van een microfoonstatief past.
 
 
 Beide receivercoils lopen via een kabel naar een mannelijke stereoplug (TRS). Deze moet in de vrouwelijke jack “coils” worden geplugd. In de vrouwelijke stereo-jack ernaast wordt het externe geluidssignaal ingeplugd dat naar de drivers kan worden gestuur. In het stuk Timeframes is dat het stereosignaal van de Manipulofoon. De output (stereo) centraal onderaan op de achterzijde van springdriver moet op een mengpaneel worden aangesloten.

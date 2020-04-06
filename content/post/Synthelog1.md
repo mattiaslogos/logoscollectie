@@ -39,7 +39,7 @@ H x B x L: 27 x 12 x 30
 531.23
 
 **Inventarisnummer**
-LOGOS 78.02
+LOGOS 1979.01
 
 #### Beschrijving van het instrument
 Synthelog 1 uit 1979 is de eerst geborene uit de synthelog-familie, een reeks synthesizers die Raes bouwde met de chip SN76477 (en later ook de SN94281) in de hoofdrol.

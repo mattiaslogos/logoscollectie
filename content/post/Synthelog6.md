@@ -37,6 +37,10 @@ H x B x L: 6 x 12 x 13
 **Classificatie**
 531.23
 
+
+**Inventarisnummer**
+LOGOS 1983.11
+
 #### Beschrijving van het instrument
 De synthelog 6 gebouwd in een metalen behuizing op 4 rubberen pootjes. Op het achterpaneel van het instrument zien we twee vrouwelijke jackingangen. De ene is de uitgang (OUT) via de andere kan een extern signaal worden aangesloten (IN).
 
@@ -72,7 +76,7 @@ Met de schakelaar rechts op het frontpaneel wordt het instrument aan gezet.
 Niet in werkende staat
 
 #### Historiek van het instrument
-Dit instrument maakt gebruik van dezelfde PCB en soortgelijke schakeling als de synthelog for kids 1 en 2. Ze werden in dezelfde periode gebouwd. 
+Dit instrument maakt gebruik van dezelfde pcb en soortgelijke schakeling als de synthelog for kids 1 en 2. Ze werden in dezelfde periode gebouwd. 
 
 #### Problematieken
 De chips SN94281 of de SN76495 (beide types zijn identiek) zijn niet meer te krijgen in de handel.

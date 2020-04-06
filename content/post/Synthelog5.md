@@ -38,7 +38,7 @@ H x B x L: 6 x 8 x 15
 531.23
 
 **Inventarisnummer**
-LOGOS 79.03
+LOGOS 1983.10
 
 #### Beschrijving van het instrument
 Synthelog 5 is gebouwd in een massief houten kistje. De chip SN76477 is het kloppend hart van deze synthesizer. Inzicht in de werking van chip is een pluspunt bij het bespelen van het instrument.
@@ -52,9 +52,9 @@ Onder de schakelaars zien we zes mini-jackingangen. Via de derde ingang van link
 Met de onderste lichtweerstand wordt het volume beïnvloed. 
 
 Op de rechter zijkant van het kistje zien we een piezoplaatje (driver) waarop een haakje is gesoldeerd. Deze is verbonden met de uitgang. Op die manier kunnen veren of snaren worden aangestuurd. Het signaal van hiervan kan op zijn beurt des gewenst terug worden opgepikt (reverb) en gebruikt als extern signaal (feedback).
-Aan de achterzijde van het kistje zien we de stereo-uitgang (TRS 6,3 mm).
+Aan de achterzijde van het kistje zien we de stereo-uitgang (TRS 6,3 cm).
 
-Onderaan het kistje zien we de schakelingen. Raes gebruikte een PCB van een Velleman-kit (zie bijlage) waarvan hij de schakeling volledig herwerkte. Bovenaan zien we een gaatjesprint (1,5 cm en 6,5 cm) met de driverschakeling van de piezo. Onderaan is een uitsparing voorzien voor de voeding, namelijk twee blokbatterijen die parallel geschakeld zijn.        
+Onderaan het kistje zien we de schakelingen. Raes gebruikte een pcb van een Velleman-kit (zie bijlage) waarvan hij de schakeling volledig herwerkte. Bovenaan zien we een gaatjesprint (1,5 cm en 6,5 cm) met de driverschakeling van de piezo. Onderaan is een uitsparing voorzien voor de voeding, namelijk twee blokbatterijen die parallel geschakeld zijn.        
 
 #### Speelwijze, repertoire en inzet in producties
 Deze synthesizer werd sporadisch gebruikt voor improvisaties en bij vormingswerg. Specifieke stukken werden er niet voor geschreven.

@@ -10,7 +10,7 @@ categories = ["elektroakoestisch", "event"
 alfabetisch = ["S"
 ]
 menu = "main"
-summary = "<a href='/logoscollectie/1982/soundtracker1'><img src='/logoscollectie/img/Soundtracker_I/Soundtracker%20I%20voorzijde-thumb.jpg'></a><p>Deze machine werd specifiek gebouwd voor het poëtische straatproject klankspoor. De klank van een traject door de stad wordt er letterlijk op een magneetband achtergelaten. Op het tempo van de wandelende bespeler wordt een grote spoel met magneetband afgerold. De omgevingsgeluiden worden op dat tempo op de magneetband opgenomen en onmiddellijk terug afgespeeld en uitgezonden op de FM-band.</p>"
+summary = "<a href='/logoscollectie/1982/soundtracker1'><img src='/logoscollectie/img/Soundtracker_I/Soundtracker%20I%20voorzijde-thumb.jpg'></a><p>Deze machine werd specifiek gebouwd voor het poëtische straatproject "Klankspoor". De klank van een traject door de stad wordt er letterlijk op een magneetband achtergelaten. Op het tempo van de wandelende bespeler wordt een grote spoel met magneetband afgerold. De omgevingsgeluiden worden op dat tempo op de magneetband opgenomen en onmiddellijk terug afgespeeld en uitgezonden op de FM-band.</p>"
 +++
 
 
@@ -41,7 +41,7 @@ H x B x L: 61 x 61 x 4
 523
 
 **Inventarisnummer**
-LOGOS 82.01
+LOGOS 1982.01
 
 #### Beschrijving van het instrument
 Sountracker 1 werd gebouwd in en rond een houten met kunststof beklede kist (35 x 10 x 25). Aan twee metalen beugeltjes op de smalle zijkanten van de kist is een riem bevestigd zodat de soundtracker als een schoudertas kan gedragen worden. 
@@ -52,16 +52,16 @@ Bovenaan op de kist zie je naast het microfoonhoudertje de twee aan- en uitschak
 
 Op de ene zijkant zien we onderaan de uitgang voor de aansluiting van een antenne (deze is binnenin niet verbonden). Boven de twee rubberen pootjes zien we op deze kant ook de ingang (vrouwelijke monojack) van de microfoon en de potmeter die het ingangssignaal regelt.
 
-Op de andere zijkant zien we onderaan het deurtje waarachter de batterijen wonen. Daarboven zien we de uitgang van de koptelefoon (OUT KOP) en de lijnuitgang (OUT LINE), beide vrouwelijke stereojacks. Met een patchkabel kan de lijnuitgang met de ingang van FM-zender worden verbonden. De potmeter onder de koptelefoonuitgang bepaald de sterkte van het gestuurde signaal (zie schakelschema in bijlage).
-Als we de metalen zijkant openen zien we onderaan in de kist de PCB van de FM-zender. Het ijzeren L-profiel doet tevens dienst als antenne. Onder de metalen zijkant zie je de schakelingen van de voorversterkers, bias oscillator en eindtrap die de signalen van de opname- en de weergavekop tot bruikbare lijnsignalen omzetten. De schema’s vind u in de bijlage. 
+Op de andere zijkant zien we onderaan het deurtje waarachter de batterijen wonen. Daarboven zien we de uitgang van de koptelefoon (OUT KOP) en de lijnuitgang (OUT LINE), beide vrouwelijke stereojacks. Met een patchkabel kan de lijnuitgang met de ingang van FM-zender worden verbonden. De potmeter onder de koptelefoonuitgang bepaalt de sterkte van het gestuurde signaal (zie schakelschema in bijlage).
+Als we de metalen zijkant openen, zien we onderaan in de kist de pcb van de FM-zender. Het ijzeren L-profiel doet tevens dienst als antenne. Onder de metalen zijkant zie je de schakelingen van de voorversterkers, bias oscillator en eindtrap die de signalen van de opname- en de weergavekop tot bruikbare lijnsignalen omzetten. De schema’s vind u in de bijlage. 
 
 #### Speelwijze, repertoire en inzet in producties
-Soundtracker 1 is de machine die gemaakt is voor het poëtisch event in de openbare ruimte Klankspoor (soundtrack). Het werd gecreëerd in 1982 te Gent, van Logos (kongostraat) tot aan Museum voor Hedendaagse kunst.  
+Soundtracker 1 is de machine die gemaakt is voor het poëtisch event in de openbare ruimte Klankspoor (soundtrack). Het werd gecreëerd in 1982 te Gent, van Logos (Kongostraat) tot aan Museum voor Hedendaagse kunst (het huidige SMAK).  
 
 Er wordt een traject afgelegd door de stad. Met een microfoon worden alle omgevingsgeluiden opgenomen en afgespeeld op het tempo van degene die de soundtracker draagt. De magneetbank wordt achtergelaten en met stickers  vastgekleefd op de stoepen en straten. Waar mogelijk (parken) wordt de band ingegraven. Het auditieve resultaat is direct hoorbaar door een koptelefoon en wordt bovendien onmiddellijk uitgezonden op de FM-band. Het event wordt gefilmd met een videocamera die via een FM-ontvanger synchroon het geluid opneemt. Meer info over klankspoor vind u in het programmablaadje in de bijlage.    
 
 In 1985 werd Sountrack ook in Boston en New-York uitgevoerd. Hiervoor werd de (huidige) gereviseerde versie van Soundtracker 1 gebruikt. In Boston werd het geluid versterkt met gettoblasters. 
-Voor een uitvoering in 1976 te Leffingen en in 1987 te Amsterdam werd soundtracker 2 gebouwd. 
+Voor een uitvoering in 1986 te Leffingen en in 1987 te Amsterdam werd soundtracker 2 gebouwd. 
 
 Opbouw van het instrument/installatie
 De magneetband moet via de geleiders eerst over de opnamekop en vervolgens over de afspeelknop worden gelegd. De soundtracker moet worden aangezet. Omdat de bespeler zich voortbeweegt wordt de magneetband van de spoel over de koppen afgerold. De bespeler controleert het geluidssignaal met de koptelefoon. De microfoon wordt in de hand gehouden. 
@@ -76,10 +76,10 @@ De magneetband moet via de geleiders eerst over de opnamekop en vervolgens over 
 - Supply 12V 24V
 
 #### Staat van het instrument
-Onbekend (niet getest).
+Niet getest
 
 #### Historiek van het instrument
-Soundtracker 1 van 1982 werd in 1985 gereviseerd. (elektrische schema’s in bijlage). De antenne-uitgang werd losgekoppeld en het ijzeren L-profiel werd als antenne gebruikt. De voedingen en schakelingen werden aangepast. Alle schakelingen werkten voortaan op  batterijen van 12V (voordien 12V en 24V). 
+Soundtracker 1 van 1982 werd in 1985 gereviseerd (elektrische schema’s in bijlage). De antenne-uitgang werd losgekoppeld en het ijzeren L-profiel werd als antenne gebruikt. De voedingen en schakelingen werden aangepast. Alle schakelingen werkten voortaan op  batterijen van 12V (voordien 12V en 24V). 
 
 #### Problematieken
 /

@@ -37,6 +37,9 @@ H x B x L: 12 x 39 x 47
 **Classificatie**
 531.23
 
+**Inverntarisnummer**
+LOGOS 1984.04
+
 #### Beschrijving van het instrument
 De synthelog for kids 2 is gebouwd in een houten deksel (vermoedelijk afkomstig van een oude platendraaier) waarop een vezelplaat is vast gevezen. Op de bovenkant van het instrument zien we een roostertje waaronder de speaker is gemonteerd. Onder dat roostertje zien we vier grote ijzeren ronde plaatjes met een gat er in (rondellen). In dat gat is telkens een lichtweerstand bevestigd met epoxyhars. De synthesizer wordt bespeeld door de lichtintensiteit op deze weerstanden (bijvoorbeeld met de vingers) te beïnvloeden. 
 
@@ -45,7 +48,7 @@ Op de achterkant van het instrument zien we een DIN-ingang. Met behulp van een p
 Als we de vier houtschroeven op de onderkant los draaien kunnen we de vezelplaat van de behuizing halen. Centraal zien we een ge-etste pcb (zie bijlage) waarop de schakeling rond de ic SN94281 (identiek aan de SN76495) is gebouwd. De schakeling is een vereenovueigde versie van de demoschakeling uit de datasheet (zie bijlage). De mixer die in de chip is ingebouwd is zo geschakeld dat de noisemodule met filter, de SLF en de VCO allen hoorbaar zijn. Deze functies worden samen met het volume worden door de lichtweerstanden bepaald terwijl de waarden van de bepalende condensatoren vast zijn.    
 
 #### Speelwijze, repertoire en inzet in producties
-Door de voeding aan te sluiten wordt de synthelog for kids aangezet. Het instrument is gemaakt voor vormingswerk met kinderen. Het is de bedoeling om het instrument intuïtief te bespelen. Door de lichtintensiteit op de LDR’s te wijzigen gaat de bespeler op zoek naar interessante geluiden en onderzoekt hij al luisterend wat de weerstanden met het geluid doen. Er zijn bewust geen handleidingen, partituren en op opschriften op het instrument.
+Door de voeding aan te sluiten wordt de Synthelog for Kids 2 aangezet. Het instrument is gemaakt voor vormingswerk met kinderen. Het is de bedoeling om het instrument intuïtief te bespelen. Door de lichtintensiteit op de LDR’s te wijzigen gaat de bespeler op zoek naar interessante geluiden en onderzoekt hij al luisterend wat de weerstanden met het geluid doen. Er zijn bewust geen handleidingen, partituren en op opschriften op het instrument.
 
 #### Opbouw van het instrument/installatie
 Geen commentaar 
@@ -57,7 +60,7 @@ Geen commentaar
 In werkende staat 
 
 #### Historiek van het instrument
-Dit instrument maakt gebruik van dezelfde schakeling en PCB als de synthelog for kids 1 en de synthelog 6. Ze werden in dezelfde periode gebouwd. 
+Dit instrument maakt gebruik van dezelfde schakeling en pcb als de synthelog for kids 1 en de synthelog 6. Ze werden in dezelfde periode gebouwd. 
 
 #### Problematieken
 De chips SN94281 of de SN76495 (beide types zijn identiek) zijn niet meer te krijgen in de handel.
