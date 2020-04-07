@@ -11,7 +11,7 @@ categories = [ "elektronisch"
 alfabetisch = ["T"
 ]
 menu = "main"
-summary = "<a href='/logoscollectie/1975/trs'><img src='/logoscollectie/img/TRS/TRS%20voorkant.jpg'></a><p>TRS staat voor “Transfornational Regenrative Synthesiser”. De verschillende modules van de synthesizer transformeren en regenereren een met drukmicrofoon uitgeruste viool. Alle gegenereerde klanken zijn met andere woorden afhankelijk van de input van de muzikant.</p>"
+summary = "<a href='/logoscollectie/1975/trs'><img src='/logoscollectie/img/TRS/TRS%20voorkant.jpg'></a><p>TRS staat voor “Transfornational Regenrative Synthesiser”. De verschillende modules van de synthesizer transformeren en regenereren een met drukmicrofoon versterkte viool. Alle gegenereerde klanken zijn met andere woorden afhankelijk van de input van de muzikant.</p>"
 +++
 
 # TRS
@@ -38,14 +38,14 @@ H x B x L: 20 x 30 x 45
 533.12
 
 **Inventarisnummer**
-LOGOS 75.09
+LOGOS 1975.09
 
 #### Beschrijving van het instrument
 De TRS is gebouwd in een metalen behuizing. Op het frontpaneel aan de zijkant zijn twee handvaten bevestigd. 
 
-TRS staat voor “Transfornational Regenrative Synthesiser”. Hij wordt volledig aangestuurd met een viool, het instrument waarvoor hij is ontworpen. Het geluid van het instrument wordt met een contactmicrofoon opgepikt en het signaal wordt naar de ingang (links onderaan op het frontpaneel) gestuurd. De verschillende modules van de synthesizer transformeren (transformational) en regenereren (regenrative) het signaal. Het transformeren van het geluidssignaal gebeurt door de tremolo, ringmodulartor, trapconvertor, de filter en de deler. Via de frequentieconvertor en de VCO (voltage control oscillator) wordt op basis van het geluidssignaal een nieuw audiosignaal of stuursignaal gegenereerd. Deze kunnen op zijn beurt door de andere modules worden getransformeerd. Rechts onderaan het frontpaneel van de synth vind je de twee doorverbonden uitgangen (vrouwelijke monojacks TS). Naast deze uitgangen en onder de knop van het mastervolume kan een pedaal voor de volumeregeling worden aangesloten. 
+TRS staat voor “Transfornational Regenrative Synthesiser”. Hij wordt volledig aangestuurd met een viool, het instrument waarvoor hij specifiek is ontworpen. Het geluid van het instrument wordt met een contactmicrofoon opgepikt en het signaal wordt naar de ingang (links onderaan op het frontpaneel) gestuurd. De verschillende modules van de synthesizer transformeren (transformational) en regenereren (regenrative) het signaal. Het transformeren van het geluidssignaal gebeurt door de tremolo, ringmodulartor, trapconvertor, de filter en de deler. Via de frequentieconvertor en de VCO (voltage control oscillator) wordt op basis van het geluidssignaal een nieuw audiosignaal of stuursignaal gegenereerd. Deze kunnen op zijn beurt door de andere modules worden getransformeerd. Rechts onderaan het frontpaneel van de synth vind je de twee doorverbonden uitgangen (vrouwelijke monojacks TS). Naast deze uitgangen en onder de knop van het mastervolume kan een pedaal voor de volumeregeling worden aangesloten. 
 
-De bediening van de synth gebeurt per module. Voor elke module is een verticale strip met knoppen enschakelaars op het frontpaneel voorzien. Boven elke strip staat de naam van de module vermeld. De onderste potmeter van elke strip bepaalt het volume van het geluidssignaal van de module in het uitgangssignaal. Met de kipschakelaars in het midden van de strips wordt de functie (bepaald de frequentie of de stroomsterkte de stuurspanning?) of het ingangssignaal (viool of externe ingang) geselecteerd. Met de vrouwelijk mini-jackingangen onderaan kunnen geluidssignalen (via U en IN) en stuursignalen (via VUF, VUI, VIN en VI) met patchkabels (mannelijk monojack) worden gepatcht. In de  bijlage vind u een afbeelding die de bediening en de functie van de verschillende knoppen toelicht. De tuimelschakelaar onder het controlelampje van de aan- en uitknop is niet aangesloten.
+De bediening van de synth gebeurt per module. Voor elke module is een verticale strip met knoppen en schakelaars op het frontpaneel voorzien. Boven elke strip staat de naam van de module vermeld. De onderste potmeter van elke strip bepaalt het volume van het geluidssignaal van de module in het uitgangssignaal. Met de kipschakelaars in het midden van de strips wordt de functie (bepaald de frequentie of de stroomsterkte de stuurspanning?) of het ingangssignaal (viool of externe ingang) geselecteerd. Met de vrouwelijk mini-jackingangen onderaan kunnen geluidssignalen (via U en IN) en stuursignalen (via VUF, VUI, VIN en VI) met patchkabels (mannelijk monojack) worden gepatcht. In de  bijlage vind u een afbeelding die de bediening en de functie van de verschillende knoppen toelicht. De tuimelschakelaar onder het controlelampje van de aan- en uitknop is niet aangesloten.
 
 Met de handvaten aan het frontpaneel kunnen we het daaraan hangende chassis met de printplaten en componenten, uit de metalen behuizingen heffen. De schakeling van elke module is op een aparte printplaat ontworpen. Deze zijn aan het chassis gevezen of worden in de daarvoor voorziene sleuven geklemd. In de bijlage vind u een afbeelding met de plaats van de betreffende pcb’s. Ook de elektrische schakelingen zijn in de bijlage opgenomen.
 
@@ -79,7 +79,7 @@ De TRS wordt ingeschakeld met de tuimelschakelaar rechts boven op het frontpanee
 - Logos
 
 #### Staat van het instrument
-Niet in werkende staat. Er ontbreekt een PCB van de frequentieconvertor en er is geen stopcontact op het snoer van de voeding aangesloten. De voedingen, de tremolo- en VCO-module werken nog met zekerheid. 
+Niet in werkende staat. Er ontbreekt een pcb van de frequentieconvertor en er is geen stopcontact op het snoer van de voeding aangesloten. De voedingen, de tremolo- en VCO-module werken nog met zekerheid. 
 
 #### Historiek van het instrument
 TRS is uitgebouwd met de pcb’s van synthelog 3 en minisynthelog. Raes twijfelt anno 2019 of hij niet begon aan een herziening van de synth en dat deze nooit is afgewerkt. 
