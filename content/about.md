@@ -51,7 +51,7 @@ Financiële steun krijgen we van de Vlaamse Overheid.
 <details>
   <summary class="accordion">Copyright</summary>
 <p>
-Alle foto's, geluidsbestanden en andere documenten op deze website zijn afkomstig uit het archief van Stichting Logos of zijn voor het project door de stichting aangemaakt. Zo werden de catalogusfoto's bijvoorbeeld gemaakt door Kristof Lauwers. Om ideologische redenen zijn alle documenten en media publiek domein. Bij gebruik moet wel naar de bron verwezen worden. 
+Alle foto’s, geluidsbestanden en andere documenten op deze website zijn afkomstig uit het archief van Stichting Logos of zijn voor het project door de stichting aangemaakt. De catalogusfoto’s werden gemaakt door Kristof Lauwers. Om ideologische redenen zijn alle documenten en media publiek domein. Vermeld bij gebruik de bron.
 </p>
 </details>
 

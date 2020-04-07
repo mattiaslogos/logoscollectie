@@ -71,10 +71,10 @@ figure {
 }
 .gallery figure {
     position: absolute;
-    left: 5px;
-    right: 5px;
-    top: 5px;
-    bottom: 5px;
+    left: 0px;
+    right: 0px;
+    top: 0px;
+    bottom: 0px;
 }
 .gallery.hover-effect-grow figure:hover {
     transform: scale(1.05);
@@ -99,7 +99,7 @@ img / a styles
     right: 0;
     top: 0;
     bottom: 0;
-    background-size: cover;
+    background-size: 100%;
     background-position: 50% 50%;
     background-repeat: no-repeat;
 }
@@ -143,7 +143,7 @@ figcaption styles
 .gallery.caption-position-center figcaption,
 .fancy-figure.caption-position-center figcaption {
     top: 0;
-    padding: 40% 5px;
+    padding: 10% 5px;
 }
 .gallery.caption-position-bottom figcaption,
 .fancy-figure.caption-position-bottom figcaption {
