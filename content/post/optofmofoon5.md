@@ -39,10 +39,10 @@ H x B x L: 11,5 x 10,5 x 16,5
 531.21
 
 **Inventarisnummer**
-LOGOS 88.03
+LOGOS 1988.03
 
 #### Beschrijving van het instrument
-In de vier hoeken van Optofmofoon V vijn zowel naar onder als boven toe afstandsbussen van 3,5 cm gemonteerd. Deze die onder de pcb zijn gemonteerd, dienen als pootjes. Degene die op de pcb zijn gemonteerd zijn aan het frontpaneel in plexiglas vastgemaakt. Met de vier draaiknoppen op het frontpaneel kunnen we de vier potentiometers die onder de pcb zijn gemonteerd bedienen. De meest linkse potentiometer is tegelijkertijd ook de aan en uit schakelaar. Elke potentiometer met maakt deel uit van een soortgelijke schakeling met een 555 chip die onderling in cascade zijn geplaatst (FM-modulatie). Je vind het elektrische schema waarop de schakeling gebaseerd is in de bijlage. De luidsprekers uit de vorige ontwerpen van de optofmofoon zijn hier vervangen door buzzers die op de printplaat zelf zijn gesoldeerd. 
+In de vier hoeken van Optofmofoon V vijn zowel naar onder als boven toe afstandsbussen van 3,5 cm gemonteerd. Deze die onder de pcb zijn gemonteerd, dienen als pootjes. Degene die op de pcb zijn gemonteerd zijn aan het frontpaneel van plexiglas vastgemaakt. Met de vier draaiknoppen op het frontpaneel kunnen we de vier potentiometers die onder de pcb zijn gemonteerd bedienen. De meest linkse potentiometer is tegelijkertijd ook de aan en uit schakelaar. Elke potentiometer met maakt deel uit van een soortgelijke schakeling met een 555 chip die onderling in cascade zijn geplaatst (FM-modulatie). Je vind het elektrische schema waarop de schakeling gebaseerd is in de bijlage. De luidsprekers uit de vorige ontwerpen van de optofmofoon zijn hier vervangen door buzzers die op de printplaat zelf zijn gesoldeerd. 
 
 #### Speelwijze, repertoire en inzet in producties
 Er zijn verschillende versies van de Optofmofoon. Ze werden ontworpen voor Jeugd en Muziek die vormingswerk met kinderen organiseerden. Het is de bedoeling om het instrument intuïtief te bespelen. Door potentiometers te bedienen en de lichtinval op de lichtweerstanden te veranderen gaat de bespeler op zoek naar interessante geluiden en onderzoekt hij al luisterend wat de knoppen met het geluid doen. Er zijn bewust geen handleidingen, partituren en op opschriften opgenomen.
