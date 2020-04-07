@@ -11,7 +11,7 @@ categories = ["Akoestisch"
 alfabetisch = ["S"
 ]
 menu = "main"
-summary = "<a href='/logoscollectie/2014/styromandoline'><img src='/logoscollectie/img/Styro-mandoline/Styro-mandoline%20replica%20voorzijde-thumb.jpg'></a><p>Het vel van een bestaande (budget-)banjoline werd verwijderd en vervangen door piepschuim.</p>"
+summary = "<a href='/logoscollectie/2014/styromandoline'><img src='/logoscollectie/img/Styro-mandoline/Styro-mandoline%20replica%20voorzijde-thumb.jpg'></a>Het vel van een bestaande (budget-)banjoline werd verwijderd en vervangen door piepschuim."
 +++
 
 # Styromandoline

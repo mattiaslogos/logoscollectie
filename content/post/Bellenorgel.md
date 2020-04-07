@@ -17,7 +17,7 @@ categories = [
 alfabetisch = ["B"
 ]
 menu = "main"
-summary = "<a href='/logoscollectie/1972/bellenorgel'><img src='/logoscollectie/img/Bellenorgel/Bellenorgel-thumb.jpg'></a><p>Bij deze zelf spelende soundsculptuur worden een dertigtal verschillende bellen random in- en uitgeschakeld.</p>"
+summary = "<a href='/logoscollectie/1972/bellenorgel'><img src='/logoscollectie/img/Bellenorgel/Bellenorgel-thumb.jpg'></a>Bij deze zelf spelende soundsculptuur worden een dertigtal verschillende bellen random in- en uitgeschakeld."
 +++
 
 

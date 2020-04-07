@@ -10,7 +10,7 @@ categories = ["akoestisch", "event"
 alfabetisch = ["O"
 ]
 menu = "main"
-summary = "<a href='/logoscollectie/1988/orgelmars'><img src='/logoscollectie/img/Orgelmars/Orgelmars-thumb.jpg'></a><p>Orgelmars is een event voor stoeten en optochten. Zeven bespelers hebben elk een paar pompschoenen aan de voeten en twee orgelpijpen op de rug. Ze lopen in een rij en elk in een verschillend staptempo. Dat tempo wordt aangegeven met behulp van slingers van een verschillende lengte.</p>"
+summary = "<a href='/logoscollectie/1988/orgelmars'><img src='/logoscollectie/img/Orgelmars/Orgelmars-thumb.jpg'></a>Orgelmars is een event voor stoeten en optochten. Zeven bespelers hebben elk een paar pompschoenen aan de voeten en twee orgelpijpen op de rug. Ze lopen in een rij en elk in een verschillend staptempo. Dat tempo wordt aangegeven met behulp van slingers van een verschillende lengte."
 +++
 
 

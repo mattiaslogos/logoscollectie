@@ -11,7 +11,7 @@ categories = ["elektroakoestisch"
 alfabetisch = ["D"
 ]
 menu = "main"
-summary = "<a href='/logoscollectie/1976/dudafoon'><img src='/logoscollectie/img/Dudafoon/Dudafoon-thumb.jpg'></a><p>Op een grote rode houtenbak zijn allerlei klankvoorwerpen bevestigd die met behulp van pick-ups en contactmicrofoons worden versterkt. Opvallend is het fietswiel waarvan de spaken bij het draaien worden versterkt als een toonwielorgel.</p>"
+summary = "<a href='/logoscollectie/1976/dudafoon'><img src='/logoscollectie/img/Dudafoon/Dudafoon-thumb.jpg'></a>Op een grote rode houtenbak zijn allerlei klankvoorwerpen bevestigd die met behulp van pick-ups en contactmicrofoons worden versterkt. Opvallend is het fietswiel waarvan de spaken bij het draaien worden versterkt als een toonwielorgel."
 +++
 
 # Dudafoon

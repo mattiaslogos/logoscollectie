@@ -11,7 +11,7 @@ categories = ["elektroakoestisch"
 alfabetisch = ["M"
 ]
 menu = "main"
-summary = "<a href='/logoscollectie/1971/monokord'><img src='/logoscollectie/img/Monokord1971/Monokord%20voorzijde-thumb.jpg'></a><p>Dit houten monochord met korte hals kan zowel met een magnetische pick-up als met de twee drukmicrofoontjes onder de brug worden versterkt.</p>"
+summary = "<a href='/logoscollectie/1971/monokord'><img src='/logoscollectie/img/Monokord1971/Monokord%20voorzijde-thumb.jpg'></a>Dit houten monochord met korte hals kan zowel met een magnetische pick-up als met de twee drukmicrofoontjes onder de brug worden versterkt."
 +++
 
 

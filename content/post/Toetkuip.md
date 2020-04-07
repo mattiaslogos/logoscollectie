@@ -10,7 +10,7 @@ categories = ["klanksculptuur", "akoestisch", "event"
 alfabetisch = ["T"
 ]
 menu = "main"
-summary = "<a href='/logoscollectie/1987/toetkuip'><img src='/logoscollectie/img/Toetkuip/Toetkuip%20en%20GWR%20in%20Lille.jpg'></a><p>Toetkuip is een geluidssculptuur die in een optocht aan het publiek wordt gepresenteerd. De bespeler die plaatsneemt op het driewielig rijtuig, bedient 24 verschillend gestemde persluchtclaxons die met hun paviljoen onder de waterlijn van een gevulde badkuip zijn geplaatst. Het klotsen en golven van het water zorgen mee voor het bizarre (en met momenten oorverdovende) klankresultaat.</p>"
+summary = "<a href='/logoscollectie/1987/toetkuip'><img src='/logoscollectie/img/Toetkuip/Toetkuip%20en%20GWR%20in%20Lille.jpg'></a>Toetkuip is een geluidssculptuur die in een optocht aan het publiek wordt gepresenteerd. De bespeler die plaatsneemt op het driewielig rijtuig, bedient 24 verschillend gestemde persluchtclaxons die met hun paviljoen onder de waterlijn van een gevulde badkuip zijn geplaatst. Het klotsen en golven van het water zorgen mee voor het bizarre (en met momenten oorverdovende) klankresultaat."
 +++
 
 # Toetkuip

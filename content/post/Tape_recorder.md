@@ -13,7 +13,7 @@ categories = [
 alfabetisch = ["T", "R"
 ]
 menu = "main"
-summary = "<p>Raes bouwde als tiener zijn eerste taperecorder zelf.</p>"
+summary = "Raes bouwde als tiener zijn eerste taperecorder zelf."
 +++
 
 # Tape recorder

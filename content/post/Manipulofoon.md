@@ -13,7 +13,7 @@ categories = [
 alfabetisch = ["M"
 ]
 menu = "main"
-summary = "<a href='/logoscollectie/1982/manipulofoon'><img src='/logoscollectie/img/Manipulofoon1982/Manipulofoon1-thumb.jpg'></a><p>Met de Manipulofoon kunnen klanken van vooraf opgenomen stukken magneetband handmatig worden gemanipuleerd.</p>"
+summary = "<a href='/logoscollectie/1982/manipulofoon'><img src='/logoscollectie/img/Manipulofoon1982/Manipulofoon1-thumb.jpg'></a>Met de Manipulofoon kunnen klanken van vooraf opgenomen stukken magneetband handmatig worden gemanipuleerd."
 +++
 
 # Manipulofoon

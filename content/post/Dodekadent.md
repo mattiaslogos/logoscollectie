@@ -14,7 +14,7 @@ categories = [ "elektronisch"
 alfabetisch = ["D"
 ]
 menu = "main"
-summary = "<a href='/logoscollectie/1971/dodekadent'><img src='/logoscollectie/img/Dodekadent/Dodekadent%20met%20module%20vooraanzicht-thumb.jpg'></a><p>De Dodekadent is een quadrofone twaalfstemmige oscillatorbank. De parameters van elke oscillator kunnen precies worden ingesteld.</p>"
+summary = "<a href='/logoscollectie/1971/dodekadent'><img src='/logoscollectie/img/Dodekadent/Dodekadent%20met%20module%20vooraanzicht-thumb.jpg'></a>De Dodekadent is een quadrofone twaalfstemmige oscillatorbank. De parameters van elke oscillator kunnen precies worden ingesteld."
 +++
 
 # Dodekadent

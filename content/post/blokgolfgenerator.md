@@ -10,7 +10,7 @@ categories = [ "elektronisch"
 alfabetisch = ["B"
 ]
 menu = "main"
-summary = "<a href='/logoscollectie/1970/blokgolfgenerator'><img src='/logoscollectie/img/Blokgolfgenerator/Blokgolfgenerator%20bovenkant-thumb.jpg'></a><p>Deze monofone synthesizer wekt een bloggolfvormig geluidsignaal op. Met drie drukknoppen worden de ingestelde frequenties hoorbaar gemaakt. Het instrument bevat ook een tremolomodule.</p>"
+summary = "<a href='/logoscollectie/1970/blokgolfgenerator'><img src='/logoscollectie/img/Blokgolfgenerator/Blokgolfgenerator%20bovenkant-thumb.jpg'></a>Deze monofone synthesizer wekt een bloggolfvormig geluidsignaal op. Met drie drukknoppen worden de ingestelde frequenties hoorbaar gemaakt. Het instrument bevat ook een tremolomodule."
 +++
 
 # Blokgolfgenerator

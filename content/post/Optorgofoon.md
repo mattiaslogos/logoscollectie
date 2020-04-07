@@ -11,7 +11,7 @@ categories = [ "elektronisch"
 alfabetisch = ["O"
 ]
 menu = "main"
-summary = "<a href='/logoscollectie/1974/optorgofoon'><img src='/logoscollectie/img/Optorgofoon/Optorgofoon%20voorzijde-thumb.jpg'></a><p>Optorgofoon is gebouwd in een oude houten fichebak op een printplaat die bedoeld was voor het bouwen van een elektronisch orgel. Twaalf lichtweerstanden bepalen elk de toonhoogte van een dubbel-T-oscillator. Het instrument heeft een ingebouwde geluidsversterking met luidspreker. Met een magneet kan de vibratiemodule worden ingeschakeld.</p>"
+summary = "<a href='/logoscollectie/1974/optorgofoon'><img src='/logoscollectie/img/Optorgofoon/Optorgofoon%20voorzijde-thumb.jpg'></a>Optorgofoon is gebouwd in een oude houten fichebak op een printplaat die bedoeld was voor het bouwen van een elektronisch orgel. Twaalf lichtweerstanden bepalen elk de toonhoogte van een dubbel-T-oscillator. Het instrument heeft een ingebouwde geluidsversterking met luidspreker. Met een magneet kan de vibratiemodule worden ingeschakeld."
 +++
 
 # Optorgofoon

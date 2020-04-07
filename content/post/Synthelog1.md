@@ -11,7 +11,7 @@ categories = [
 alfabetisch = ["S"
 ]
 menu = "main"
-summary = "<a href='/logoscollectie/1979/synthelog1'><img src='/logoscollectie/img/Synthelog1/Synthelog%201%20open%20bovenkant-thumb.jpg'></a><p>Synthelog 1 is de eerst geborene uit de synthelog familie, een reeks synthesizers met de chip SN76477 in de hoofdrol.</p>"
+summary = "<a href='/logoscollectie/1979/synthelog1'><img src='/logoscollectie/img/Synthelog1/Synthelog%201%20open%20bovenkant-thumb.jpg'></a>Synthelog 1 is de eerst geborene uit de synthelog familie, een reeks synthesizers met de chip SN76477 in de hoofdrol."
 +++
 
 # Synthelog 1

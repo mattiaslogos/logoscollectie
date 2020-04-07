@@ -18,7 +18,7 @@ categories = [
 alfabetisch = ["M"
 ]
 menu = "main"
-summary = "<p>De metalen snaar van dit Monochord werd versterkt met een magnetische pick-up. Met een beweegbaar luidsprekertje kon de bespeler spelen met feedback.</p>"
+summary = "De metalen snaar van dit Monochord werd versterkt met een magnetische pick-up. Met een beweegbaar luidsprekertje kon de bespeler spelen met feedback."
 +++
 
 # Monokord

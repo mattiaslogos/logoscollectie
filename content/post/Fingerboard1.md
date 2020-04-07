@@ -18,7 +18,7 @@ categories = [
 alfabetisch = ["F"
 ]
 menu = "main"
-summary = "<a href='/logoscollectie/1975/fingerboard1'><img src='/logoscollectie/img/Fingerboard1/Fingerboard1-thumb.jpg'></a><p>De veren, snaren en lamellen van deze fingerbox werden met de handen bespeeld.</p>"
+summary = "<a href='/logoscollectie/1975/fingerboard1'><img src='/logoscollectie/img/Fingerboard1/Fingerboard1-thumb.jpg'></a>De veren, snaren en lamellen van deze fingerbox werden met de handen bespeeld."
 +++
 
 # Fingerboard 1

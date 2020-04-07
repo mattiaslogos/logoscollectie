@@ -12,7 +12,7 @@ categories = [ "elektronisch", "elektroakoestisch"
 alfabetisch = ["F"
 ]
 menu = "main"
-summary = "<a href='/logoscollectie/1983/fingerbox'><img src='/logoscollectie/img/Fingerbox/Fingerbox-thumb.jpg'></a><p>In deze synthesizer worden elektroakoestische en elektronische klankopwekking gecombineerd. Raes maakt onder andere gebruik van de omkeerbaarheid van elektroakoestische principes. Zo worden luidsprekers en frequentiemeters gebruikt als klankopwekkers. Het uitgangssignaal van dit instrument is stereofonisch. </p>"
+summary = "<a href='/logoscollectie/1983/fingerbox'><img src='/logoscollectie/img/Fingerbox/Fingerbox-thumb.jpg'></a>In deze synthesizer worden elektroakoestische en elektronische klankopwekking gecombineerd. Raes maakt onder andere gebruik van de omkeerbaarheid van elektroakoestische principes. Zo worden luidsprekers en frequentiemeters gebruikt als klankopwekkers. Het uitgangssignaal van dit instrument is stereofonisch. "
 +++
 
 

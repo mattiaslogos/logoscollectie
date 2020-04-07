@@ -25,7 +25,7 @@ categories = [
 alfabetisch = ["H"
 ]
 menu = "main"
-summary = "<a href='/logoscollectie/1988/hex'><img src='/logoscollectie/img/HEX/Hex_algemeen/HEX-thumb.jpg'></a><p>Bij HEX worden acht elektroakoestische modules die allen gebouwd zijn op of rond een printplaat, interactief aangestuurd met een computer. Bijna alle klanken zijn afkomstig van kleine fysisch trillende objecten die worden versterkt. </p><p>HEX bestaat als concerto met viool en als klanksculptuur. Van beide gedaantes bestaan verschillende versies. HEX is een sleutelwerk binnen het werk van muziekmaker Godfried-Willem Raes omdat hij elektronische middelen gebruikt om (kleine) fysische objecten interactief aan het trillen te brengen. Raes brengt met andere woorden eerder beproefde instrumentenbouw-technieken samen en knipoogt tegelijkertijd naar het toekomstige Logos Robotorkest.</p>"
+summary = "<a href='/logoscollectie/1988/hex'><img src='/logoscollectie/img/HEX/Hex_algemeen/HEX-thumb.jpg'></a>Bij HEX worden acht elektroakoestische modules die allen gebouwd zijn op of rond een printplaat, interactief aangestuurd met een computer. Bijna alle klanken zijn afkomstig van kleine fysisch trillende objecten die worden versterkt.</p><p>HEX bestaat als concerto met viool en als klanksculptuur. Van beide gedaantes bestaan verschillende versies. HEX is een sleutelwerk binnen het werk van muziekmaker Godfried-Willem Raes omdat hij elektronische middelen gebruikt om (kleine) fysische objecten interactief aan het trillen te brengen. Raes brengt met andere woorden eerder beproefde instrumentenbouw-technieken samen en knipoogt tegelijkertijd naar het toekomstige Logos Robotorkest."
 +++
 
 # HEX

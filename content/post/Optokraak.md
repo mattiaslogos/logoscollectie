@@ -11,7 +11,7 @@ categories = [ "elektronisch"
 alfabetisch = ["O"
 ]
 menu = "main"
-summary = "<a href='/logoscollectie/1975/optokraak'><img src='/logoscollectie/img/Optokraak/Optokraak%20vooraanzicht-thumb.jpg'></a><p>De klank van dit gedeeltelijk ontmantelde instrument was onder andere afhankelijk van de lichtintensiteit in zijn omgeving. </p>"
+summary = "<a href='/logoscollectie/1975/optokraak'><img src='/logoscollectie/img/Optokraak/Optokraak%20vooraanzicht-thumb.jpg'></a>De klank van dit gedeeltelijk ontmantelde instrument was onder andere afhankelijk van de lichtintensiteit in zijn omgeving. "
 +++
 
 

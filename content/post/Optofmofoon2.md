@@ -11,7 +11,7 @@ categories = [ "elektronisch"
 alfabetisch = ["O"
 ]
 menu = "main"
-summary = "<a href='/logoscollectie/1988/optofmofoon2'><img src='/logoscollectie/img/Optofmofoon_II/Optofmofoon%20II%20bovenzijde-thumb.jpg'></a><p>Optofmofoon II is een eenvoudige synthesizer die gebouwd is voor muzikaal vormingswerk met kinderen. Zijn naam verraadt het gebruik van licht en FM-modulatie. Door aan de potentiometers te draaien en de lichtinval op de lichtweerstanden te beïnvloeden, wordt optofmofoon II intuïtief bespeeld. Onder de vier rechtopstaande pvc-buizen is telkens een luidspreker gemonteerd die elke een verschillend geluidssignaal hoorbaar maken (quadrofonie).</p>"
+summary = "<a href='/logoscollectie/1988/optofmofoon2'><img src='/logoscollectie/img/Optofmofoon_II/Optofmofoon%20II%20bovenzijde-thumb.jpg'></a>Optofmofoon II is een eenvoudige synthesizer die gebouwd is voor muzikaal vormingswerk met kinderen. Zijn naam verraadt het gebruik van licht en FM-modulatie. Door aan de potentiometers te draaien en de lichtinval op de lichtweerstanden te beïnvloeden, wordt optofmofoon II intuïtief bespeeld. Onder de vier rechtopstaande pvc-buizen is telkens een luidspreker gemonteerd die elke een verschillend geluidssignaal hoorbaar maken (quadrofonie)."
 +++
 
 # Optofmofoon II

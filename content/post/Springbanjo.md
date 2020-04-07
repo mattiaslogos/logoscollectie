@@ -11,7 +11,7 @@ categories = ["elektroakoestisch"
 alfabetisch = ["S"
 ]
 menu = "main"
-summary = "<a href='/logoscollectie/1977/springbanjo'><img src='/logoscollectie/img/Springbanjo/Springbanjo%20voorzijde-thumb.jpg'></a><p>Het natuurvel van deze houten banjo versterkt één metalen veer. De trillingen van de veer worden ook door een pick-up opgepikt. Deze is op de nek tussen de toets en kast gemonteerd en met een signaalkabel verbonden. </p>"
+summary = "<a href='/logoscollectie/1977/springbanjo'><img src='/logoscollectie/img/Springbanjo/Springbanjo%20voorzijde-thumb.jpg'></a>Het natuurvel van deze houten banjo versterkt één metalen veer. De trillingen van de veer worden ook door een pick-up opgepikt. Deze is op de nek tussen de toets en kast gemonteerd en met een signaalkabel verbonden. "
 +++
 
 # Springbanjo

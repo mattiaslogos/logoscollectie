@@ -16,7 +16,7 @@ categories = [
 alfabetisch = ["B"
 ]
 menu = "main"
-summary = "<a href='/logoscollectie/1975/beltotem'><img src='/logoscollectie/img/Beltotem/Beltotem_voorzijde-thumb.jpg'></a><p>Beltotem wordt bespeeld door het publiek. Door in een micro te fluisteren, te praten of te schreeuwen, worden de bellen aan- en uitgeschakeld.</p>"
+summary = "<a href='/logoscollectie/1975/beltotem'><img src='/logoscollectie/img/Beltotem/Beltotem_voorzijde-thumb.jpg'></a>Beltotem wordt bespeeld door het publiek. Door in een micro te fluisteren, te praten of te schreeuwen, worden de bellen aan- en uitgeschakeld."
 +++
 
 

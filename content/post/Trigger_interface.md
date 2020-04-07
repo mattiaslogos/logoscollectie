@@ -11,7 +11,7 @@ categories = [ "elektronisch"
 alfabetisch = ["T", "I"
 ]
 menu = "main"
-summary = "<a href='/logoscollectie/1983/trigger_interface'><img src='/logoscollectie/img/Trigger_interface/Trigger%20interface%20bovenkant-thumb.jpg'></a><p>Met deze interface kunnen analoge klanken omgezet worden in triggersignalen om zo spanningsgestuurde modules van synthesizers aan te sturen.</p>"
+summary = "<a href='/logoscollectie/1983/trigger_interface'><img src='/logoscollectie/img/Trigger_interface/Trigger%20interface%20bovenkant-thumb.jpg'></a>Met deze interface kunnen analoge klanken omgezet worden in triggersignalen om zo spanningsgestuurde modules van synthesizers aan te sturen."
 +++
 
 # Trigger interface

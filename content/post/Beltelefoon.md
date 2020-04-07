@@ -16,7 +16,7 @@ categories = [
 alfabetisch = ["B"
 ]
 menu = "main"
-summary = "<a href='/logoscollectie/1975/beltelefoon'><img src='/logoscollectie/img/Beltelefoon/Beltelefoon%20voorzijde-thumb.jpg'></a><p>Beltelefoon is een soundsculptuur die door het publiek bespeeld wordt als een muzikale gokmachine.</p>"
+summary = "<a href='/logoscollectie/1975/beltelefoon'><img src='/logoscollectie/img/Beltelefoon/Beltelefoon%20voorzijde-thumb.jpg'></a>Beltelefoon is een soundsculptuur die door het publiek bespeeld wordt als een muzikale gokmachine."
 +++
 
 

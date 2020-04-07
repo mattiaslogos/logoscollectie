@@ -10,7 +10,7 @@ categories = ["elektroakoestisch"
 alfabetisch = ["M"
 ]
 menu = "main"
-summary = "<a href='/logoscollectie/1974/monokord1974'><img src='/logoscollectie/img/Monokord1974/Monokord%20voorzijde-thumb.jpg'></a><p>Dit monochord heeft een mensuur van 80 cm. Onder de brug is een drukmicrofoon geplaatst die met een signaalkabel is verbonden.</p>"
+summary = "<a href='/logoscollectie/1974/monokord1974'><img src='/logoscollectie/img/Monokord1974/Monokord%20voorzijde-thumb.jpg'></a>Dit monochord heeft een mensuur van 80 cm. Onder de brug is een drukmicrofoon geplaatst die met een signaalkabel is verbonden."
 +++
 
 

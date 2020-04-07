@@ -10,7 +10,7 @@ categories = ["elektroakoestisch", "event"
 alfabetisch = ["S"
 ]
 menu = "main"
-summary = "<a href='/logoscollectie/1986/soundtracker2'><img src='/logoscollectie/img/Soundtracker_II/Soundtracker%20II%20zijde1-thumb.jpg'></a><p>Soundtracker 2 is de opvolger van soundtracker I. Beiden werden voor de uitvoering van het project klankspoor ontworpen en vervullen dezelfde functie, namelijk het opnemen, afspelen, uitzenden en achterlaten van omgevingsgeluiden op een traject door de stad. Soundtracker 2 biedt meer confort aan de wandelende bespeler. Het zware toestel is namelijk voorzien van een wieltje en moet dus niet meer als een schoudertas worden gedragen.</p>"
+summary = "<a href='/logoscollectie/1986/soundtracker2'><img src='/logoscollectie/img/Soundtracker_II/Soundtracker%20II%20zijde1-thumb.jpg'></a>Soundtracker 2 is de opvolger van soundtracker I. Beiden werden voor de uitvoering van het project klankspoor ontworpen en vervullen dezelfde functie, namelijk het opnemen, afspelen, uitzenden en achterlaten van omgevingsgeluiden op een traject door de stad. Soundtracker 2 biedt meer confort aan de wandelende bespeler. Het zware toestel is namelijk voorzien van een wieltje en moet dus niet meer als een schoudertas worden gedragen."
 +++
 
 

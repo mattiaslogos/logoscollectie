@@ -11,7 +11,7 @@ categories = ["elektroakoestisch"
 alfabetisch = ["D", "H"
 ]
 menu = "main"
-summary = "<a href='/logoscollectie/1974/duchamp_harp'><img src='/logoscollectie/img/DuchampHarp/Duchamp%20Harp%20voorkant-thumb.jpg'></a><p>Dit instrument ziet er uit als de sculptuur “Bicycle Wheel” van Marcel Duchamp uit 1952. Toch is het een muziekinstrument. Het fietswiel wordt namelijk met een contactmicrofoon versterkt en bespeeld met tandenborstels, vorken, speelkaarten, strijkstokken, vibrators en breinaalden. </p>"
+summary = "<a href='/logoscollectie/1974/duchamp_harp'><img src='/logoscollectie/img/DuchampHarp/Duchamp%20Harp%20voorkant-thumb.jpg'></a>Dit instrument ziet er uit als de sculptuur “Bicycle Wheel” van Marcel Duchamp uit 1952. Toch is het een muziekinstrument. Het fietswiel wordt namelijk met een contactmicrofoon versterkt en bespeeld met tandenborstels, vorken, speelkaarten, strijkstokken, vibrators en breinaalden. "
 +++
 
 
@@ -20,7 +20,7 @@ summary = "<a href='/logoscollectie/1974/duchamp_harp'><img src='/logoscollectie
 ![alt text][afb1]
 [afb1]: /logoscollectie/img/DuchampHarp/Duchamp%20Harp%20voorkant-thumb.jpg "Duchamp harp"
 
-**Collectie **
+**Collectie**
 Stichting Logos
 
 **Titel**

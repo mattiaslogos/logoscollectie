@@ -12,7 +12,7 @@ categories = [ "elektronisch"
 alfabetisch = ["D"
 ]
 menu = "main"
-summary = "<a href='/logoscollectie/1974/diodecompressor'><img src='/logoscollectie/img/Diode_compressor/Diode_compressor_bovenzijde-thumb.jpg'></a><p>Deze geluidscompressor heeft zijn klankkarakteristieken te danken aan de gebruikte germaniumdiodes.</p>"
+summary = "<a href='/logoscollectie/1974/diodecompressor'><img src='/logoscollectie/img/Diode_compressor/Diode_compressor_bovenzijde-thumb.jpg'></a>Deze geluidscompressor heeft zijn klankkarakteristieken te danken aan de gebruikte germaniumdiodes."
 +++
 
 # Diode compressor

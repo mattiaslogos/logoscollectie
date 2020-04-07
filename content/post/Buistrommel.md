@@ -13,7 +13,7 @@ categories = [
 alfabetisch = ["B"
 ]
 menu = "main"
-summary = "<a href='/logoscollectie/1980/buistrommel'><img src='/logoscollectie/img/Buistrommel/Buistrommel-thumb.jpg'></a><p>De buistrommel is een slaginstrument gemaakt van vindmaterialen.</p>"
+summary = "<a href='/logoscollectie/1980/buistrommel'><img src='/logoscollectie/img/Buistrommel/Buistrommel-thumb.jpg'></a>De buistrommel is een slaginstrument gemaakt van vindmaterialen."
 +++
 
 

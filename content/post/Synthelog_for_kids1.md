@@ -11,7 +11,7 @@ categories = [ "elektronisch"
 alfabetisch = ["S"
 ]
 menu = "main"
-summary = "<a href='/logoscollectie/1984/synthelog_for_kids1'><img src='/logoscollectie/img/Synthelog_for_kids1/Synthelog%20for%20kids%201%20bovenkant-thumb.jpg'></a><p>Deze synthelog is specifiek gebouwd voor vormingswerk. Kinderen kunnen met de schakelaars en potmeters intuïtief op zoek gaan naar interessante klanken en tonen.</p>"
+summary = "<a href='/logoscollectie/1984/synthelog_for_kids1'><img src='/logoscollectie/img/Synthelog_for_kids1/Synthelog%20for%20kids%201%20bovenkant-thumb.jpg'></a>Deze synthelog is specifiek gebouwd voor vormingswerk. Kinderen kunnen met de schakelaars en potmeters intuïtief op zoek gaan naar interessante klanken en tonen."
 +++
 
 # Synthelog for kids 1

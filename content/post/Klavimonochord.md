@@ -11,7 +11,7 @@ categories = ["elektroakoestisch"
 alfabetisch = ["K"
 ]
 menu = "main"
-summary = "<a href='/logoscollectie/1970/klavimonochord'><img src='/logoscollectie/img/Klavimonochord/Klavimonokord%20vooraanzicht1-thumb.jpg'></a><p>Voor dit instrument werd het klavier van een afgedankte buffetpiano gerecupereerd. Een deel van de voormalige pianomechaniek wordt gebruikt om één pianosnaar als een microtonaal klinkend klavichord te bespelen. De klank van de snaar wordt met pick-ups op vier verschillende plaatsen opgepikt waardoor ook een meerstemmigheid klankbeeld tot de mogelijkheden behoort.</p>"
+summary = "<a href='/logoscollectie/1970/klavimonochord'><img src='/logoscollectie/img/Klavimonochord/Klavimonokord%20vooraanzicht1-thumb.jpg'></a>Voor dit instrument werd het klavier van een afgedankte buffetpiano gerecupereerd. Een deel van de voormalige pianomechaniek wordt gebruikt om één pianosnaar als een microtonaal klinkend klavichord te bespelen. De klank van de snaar wordt met pick-ups op vier verschillende plaatsen opgepikt waardoor ook een meerstemmigheid klankbeeld tot de mogelijkheden behoort."
 +++
 
 # Klavimonochord

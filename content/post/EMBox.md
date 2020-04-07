@@ -11,7 +11,7 @@ categories = ["elektroakoestisch"
 alfabetisch = ["E"
 ]
 menu = "main"
-summary = "<a href='/logoscollectie/1973/embox'><img src='/logoscollectie/img/EMBox/EMBox%20bovenaanzicht-thumb.jpg'></a><p>Aan het ijzeren oog en van het isntrument worden snaren, veren, staven en andere voorwerpen gehangen die door de ingebouwde magnetische pick-up kunnen worden versterkt. De ingebouwde voorversterker wordt met een 9-volt batterijtje gevoed.</p>"
+summary = "<a href='/logoscollectie/1973/embox'><img src='/logoscollectie/img/EMBox/EMBox%20bovenaanzicht-thumb.jpg'></a>Aan het ijzeren oog van het instrument worden snaren, veren, staven en andere voorwerpen gehangen die door de ingebouwde magnetische pick-up kunnen worden versterkt. De ingebouwde voorversterker wordt met een 9-volt batterijtje gevoed."
 +++
 
 

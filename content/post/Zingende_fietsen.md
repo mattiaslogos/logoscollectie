@@ -13,7 +13,7 @@ categories = ["elektronisch", "event"
 alfabetisch = ["Z", "F"
 ]
 menu = "main"
-summary = "<a href='/logoscollectie/1980/zingende_fietsen'><img src='/logoscollectie/img/Zingende_fietsen/zingendefiets-thumb.jpg'></a><p>Zingende fietsen is de tweede symfonie van Godfried-Willem Raes. Het is een compositie die opgevoerd wordt door minimum twaalf bespelers in de openbare ruimte (op straat). De fiets van elke bespeler wordt tot een muziekinstrument omgebouwd. </p>"
+summary = "<a href='/logoscollectie/1980/zingende_fietsen'><img src='/logoscollectie/img/Zingende_fietsen/zingendefiets-thumb.jpg'></a>Zingende fietsen is de tweede symfonie van Godfried-Willem Raes. Het is een compositie die opgevoerd wordt door minimum twaalf bespelers in de openbare ruimte (op straat). De fiets van elke bespeler wordt tot een muziekinstrument omgebouwd. "
 +++
 
 

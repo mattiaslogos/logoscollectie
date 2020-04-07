@@ -14,7 +14,7 @@ categories = [
 alfabetisch = ["E", "D"
 ]
 menu = "main"
-summary = "<p><a href='/logoscollectie/1988/elektronische_drumkit'><img src='/logoscollectie/img/Elektronische_drumkit/gwr_elektronische_drumkit-thumb.jpg'></a>Met de elektronische drumkit kunnen analoge drumklanken afkomstig van gyrator-schakelingen digitaal worden aangestuurd.</p>"
+summary = "<a href='/logoscollectie/1988/elektronische_drumkit'><img src='/logoscollectie/img/Elektronische_drumkit/gwr_elektronische_drumkit-thumb.jpg'></a>Met de elektronische drumkit kunnen analoge drumklanken afkomstig van gyrator-schakelingen digitaal worden aangestuurd."
 +++
 
 # Elektronische drumkit

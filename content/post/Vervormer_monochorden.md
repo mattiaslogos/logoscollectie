@@ -12,7 +12,7 @@ categories = [ "elektronisch"
 alfabetisch = ["V", "M"
 ]
 menu = "main"
-summary = "<p>Met dit geluidseffect werd de klank van monochorden gemanipuleerd.</p>"
+summary = "Met dit geluidseffect werd de klank van monochorden gemanipuleerd."
 +++
 
 # Vervormer voor monochorden

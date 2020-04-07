@@ -10,7 +10,7 @@ categories = ["elektroakoestisch"
 alfabetisch = ["S"
 ]
 menu = "main"
-summary = "<a href='/logoscollectie/1982/springdriver'><img src='/logoscollectie/img/Springdriver_(timeframes)/Springdriver-thumb.jpg'></a><p>De springdriver met bijhorende drivers en receivers werd gebruikt in de compositie “Timeframes”. Met externe klanken worden via drivers lange veren aan het trillen gebracht. Met pick-ups worden die trillingen terug opgepikt en via boxen hoorbaar gemaakt. Het is daarenboven mogelijk om met de opgepikte klank terug de veren aan te sturen, waardoor een feedback-loop in gang gezet wordt.</p>"
+summary = "<a href='/logoscollectie/1982/springdriver'><img src='/logoscollectie/img/Springdriver_(timeframes)/Springdriver-thumb.jpg'></a>De springdriver met bijhorende drivers en receivers werd gebruikt in de compositie “Timeframes”. Met externe klanken worden via drivers lange veren aan het trillen gebracht. Met pick-ups worden die trillingen terug opgepikt en via boxen hoorbaar gemaakt. Het is daarenboven mogelijk om met de opgepikte klank terug de veren aan te sturen, waardoor een feedback-loop in gang gezet wordt."
 +++
 
 # Springdriver (Timeframes)

@@ -14,7 +14,7 @@ categories = [
 alfabetisch = ["Z"
 ]
 menu = "main"
-summary = "<a href='/logoscollectie/1973/zingende_zaag'><img src='/logoscollectie/img/Zingende_zaag/ZingendeZaag1-thumb.jpg'></a><p>Deze zingende zaag, gemaakt van veerstaal, werd met een strijkstok bespeeld.</p>"
+summary = "<a href='/logoscollectie/1973/zingende_zaag'><img src='/logoscollectie/img/Zingende_zaag/ZingendeZaag1-thumb.jpg'></a>Deze zingende zaag, gemaakt van veerstaal, werd met een strijkstok bespeeld."
 +++
 
 # Zingende zaag

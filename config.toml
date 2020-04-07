@@ -1,6 +1,6 @@
 baseURL = "https://www.logosfoundation.org/logoscollectie"
 languageCode = "en-us"
-title = "Catalogus"
+title = "Logos erfgoedcollectie"
 googleAnalytics = "UA-143256397-1"
 theme = "jeff"
 [permalinks]

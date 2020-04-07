@@ -13,7 +13,7 @@ categories = [ "elektroakoestisch"
 alfabetisch = ["C"
 ]
 menu = "main"
-summary = "<a href='/logoscollectie/1984/cassettemanipulofoon'><img src='/logoscollectie/img/Cassettemanipulofoon/Cassettemanipulofoon.jpg'></a><p>De klank van al dan niet in real time opgenomen geluid op de magneetband van dit instrument, kan door het draaien aan twee hendeltjes gemanipuleerd worden. </p>"
+summary = "<a href='/logoscollectie/1984/cassettemanipulofoon'><img src='/logoscollectie/img/Cassettemanipulofoon/Cassettemanipulofoon.jpg'></a>De klank van al dan niet in real time opgenomen geluid op de magneetband van dit instrument, kan door het draaien aan twee hendeltjes gemanipuleerd worden."
 +++
 
 

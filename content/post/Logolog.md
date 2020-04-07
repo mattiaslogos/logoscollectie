@@ -11,7 +11,7 @@ categories = ["digitaal"
 alfabetisch = ["L"
 ]
 menu = "main"
-summary = "<a href='/logoscollectie/1984/logolog'><img src='/logoscollectie/img/Logolog/Logolog%20bovenaanzicht-thumb.jpg'></a><p>Logolog is een spreekmachine die zowel manueel als via een seriële poort van een computer kan worden aangestuurd.</p>"
+summary = "<a href='/logoscollectie/1984/logolog'><img src='/logoscollectie/img/Logolog/Logolog%20bovenaanzicht-thumb.jpg'></a>Logolog is een spreekmachine die zowel manueel als via een seriële poort van een computer kan worden aangestuurd."
 +++
 
 # Logolog
