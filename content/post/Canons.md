@@ -14,7 +14,7 @@ categories = [
 alfabetisch = ["C"
 ]
 menu = "main"
-summary = "<a href='/logoscollectie/1980/canons'><img src='/logoscollectie/img/Canons/Canons_01-thumb.jpg'></a><p>Canons is een slaginstrument. Explosieven worden in een resonator tot ontploffing gebracht.</p>"
+summary = "<a href='/logoscollectie/1980/canons'><img src='/logoscollectie/img/Canons/Canons_01-thumb.jpg'></a>Canons is een slaginstrument. Explosieven worden in een resonator tot ontploffing gebracht."
 +++
 
 

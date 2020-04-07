@@ -14,7 +14,7 @@ categories = [
 alfabetisch = ["A", "D"
 ]
 menu = "main"
-summary = "<p>De automatische dirigent werd gebruikt om muzikanten te helpen bij het spelen van complexe ritmes en tempiverhoudingen.</p>"
+summary = "De automatische dirigent werd gebruikt om muzikanten te helpen bij het spelen van complexe ritmes en tempiverhoudingen."
 +++
 
 # Automatische dirigent

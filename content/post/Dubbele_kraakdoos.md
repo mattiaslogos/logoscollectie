@@ -10,7 +10,7 @@ categories = [ "elektronisch"
 alfabetisch = ["D", "K"
 ]
 menu = "main"
-summary = "<a href='/logoscollectie/1976/dubbele_kraakdoos'><img src='/logoscollectie/img/Dubbele_Kraakdoos/Dubbele%20kraakdoos%20bovenkant-thumb.jpg'></a><p>Dit instrument bestaat eigenlijk uit twee apart functionerende kraakdozen. Door intuïtief de verschillende geleidende aanraakpunten met de vingers te verbinden, worden er verschillende elektronische klanken worden opgewekt. Dit instrument uit 1976 werd in 2019 grondig herzien.</p>"
+summary = "<a href='/logoscollectie/1976/dubbele_kraakdoos'><img src='/logoscollectie/img/Dubbele_Kraakdoos/Dubbele%20kraakdoos%20bovenkant-thumb.jpg'></a>Dit instrument bestaat eigenlijk uit twee apart functionerende kraakdozen. Door intuïtief de verschillende geleidende aanraakpunten met de vingers te verbinden, worden er verschillende elektronische klanken worden opgewekt. Dit instrument uit 1976 werd in 2019 grondig herzien."
 +++
 
 

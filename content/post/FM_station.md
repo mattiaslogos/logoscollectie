@@ -13,7 +13,7 @@ categories = [
 alfabetisch = ["F", "S"
 ]
 menu = "main"
-summary = "<p>Raes bouwde als tiener een FM-zender die stond beschreven in een jongerentijdschrift “Jongens en elektronica”.</p>"
+summary = "Raes bouwde als tiener een FM-zender die stond beschreven in een jongerentijdschrift “Jongens en elektronica”."
 +++
 
 # FM-station

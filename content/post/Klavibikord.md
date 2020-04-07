@@ -14,7 +14,7 @@ categories = ["elektroakoestisch"
 alfabetisch = ["K"
 ]
 menu = "main"
-summary = "<a href='/logoscollectie/1983/klavibikord'><img src='/logoscollectie/img/Klavibikord/Klavibikord-thumb.jpg'></a><p>Klavibichord is in wezen een gebonden klavichord. De toetsen van een voormalig bontempi orgeltje doen dienst als tangenten. De snaar wordt verdeeld in niet-traditionele verhoudingen waardoor ongebruikelijke harmonieën en melodieën hoorbaar kunnen worden gemaakt. De twee snaren worden met vier pick-ups versterkt. Met vier schuifpotmeters bepaalt de bespeler het klankbeeld.</p>"
+summary = "<a href='/logoscollectie/1983/klavibikord'><img src='/logoscollectie/img/Klavibikord/Klavibikord-thumb.jpg'></a>Klavibichord is in wezen een gebonden klavichord. De toetsen van een voormalig bontempi orgeltje doen dienst als tangenten. De snaar wordt verdeeld in niet-traditionele verhoudingen waardoor ongebruikelijke harmonieën en melodieën hoorbaar kunnen worden gemaakt. De twee snaren worden met vier pick-ups versterkt. Met vier schuifpotmeters bepaalt de bespeler het klankbeeld."
 +++
 
 # Klavibikord

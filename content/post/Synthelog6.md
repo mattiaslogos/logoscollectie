@@ -11,7 +11,7 @@ categories = [ "elektronisch"
 alfabetisch = ["S"
 ]
 menu = "main"
-summary = "<a href='/logoscollectie/1984/synthelog6'><img src='/logoscollectie/img/Synthelog6/Synthelog%206%20voorkant-thumb.jpg'></a><p>Synthelog 6 is de eerste synthelog die gebouwd is ronde de SN94281 (identiek aan de SN76495), de compacte en eenvoudigere broer van de daarvoor gebruikte SN76477.</p>"
+summary = "<a href='/logoscollectie/1984/synthelog6'><img src='/logoscollectie/img/Synthelog6/Synthelog%206%20voorkant-thumb.jpg'></a>Synthelog 6 is de eerste synthelog die gebouwd is ronde de SN94281 (identiek aan de SN76495), de compacte en eenvoudigere broer van de daarvoor gebruikte SN76477."
 +++
 
 # Synthelog 6

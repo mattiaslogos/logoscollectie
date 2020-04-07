@@ -10,7 +10,7 @@ categories = ["elektroakoestisch", "klanksculptuur"
 alfabetisch = ["T", "F"
 ]
 menu = "main"
-summary = "<a href='/logoscollectie/1989/talkingflames'><img src='/logoscollectie/img/Talking_Flames/Talking%20Flames-thumb.jpg'></a><p>Talking Flames zijn twee identieke plasmaluidspreker die gebruikt worden als geluidssculptuur of in performances. De werking van het instrument gaat verder op de zingende boog van William Duddell, een fysicus uit de tweede helft van de 19de eeuw. Een geluidssignaal wordt gemodificeerd en door de vlammetjes in geluidsgolven omgezet.</p>"
+summary = "<a href='/logoscollectie/1989/talkingflames'><img src='/logoscollectie/img/Talking_Flames/Talking%20Flames-thumb.jpg'></a>Talking Flames zijn twee identieke plasmaluidspreker die gebruikt worden als geluidssculptuur of in performances. De werking van het instrument gaat verder op de zingende boog van William Duddell, een fysicus uit de tweede helft van de 19de eeuw. Een geluidssignaal wordt gemodificeerd en door de vlammetjes in geluidsgolven omgezet."
 +++
 
 # Talking Flames

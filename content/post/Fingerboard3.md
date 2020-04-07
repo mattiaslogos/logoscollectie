@@ -10,7 +10,7 @@ categories = ["elektroakoestisch"
 alfabetisch = ["F"
 ]
 menu = "main"
-summary = "<a href='/logoscollectie/1975/fingerboard3'><img src='/logoscollectie/img/Fingerboard3/Fingerboard3%20bovenkant-thumb.jpg'></a><p>De veren en staven van deze fingerbox worden met de handen bespeeld. Met de grote bakelieten schakelaar zet je de voorversterker van drukmicrofoon die onder het bovenblad is bevestigd, aan.</p>"
+summary = "<a href='/logoscollectie/1975/fingerboard3'><img src='/logoscollectie/img/Fingerboard3/Fingerboard3%20bovenkant-thumb.jpg'></a>De veren en staven van deze fingerbox worden met de handen bespeeld. Met de grote bakelieten schakelaar zet je de voorversterker van drukmicrofoon die onder het bovenblad is bevestigd, aan."
 +++
 
 

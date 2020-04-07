@@ -10,7 +10,7 @@ categories = [ "elektronisch"
 alfabetisch = ["S"
 ]
 menu = "main"
-summary = "<p>Voor Synthelog 4, die zoals de voorgaande versies van dit type synthesizer gebouwd is rond de chip SN76477, ontwerpt Raes in oktober 1982 een volledig nieuwe print.</p>"
+summary = "Voor Synthelog 4, die zoals de voorgaande versies van dit type synthesizer gebouwd is rond de chip SN76477, ontwerpt Raes in oktober 1982 een volledig nieuwe print."
 +++
 
 # Synthelog 4

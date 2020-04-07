@@ -12,7 +12,7 @@ categories = ["akoestisch"
 alfabetisch = ["F", "R"
 ]
 menu = "main"
-summary = "<a href='/logoscollectie/1974/fork_resonators'><img src='/logoscollectie/img/ForkResonators/Fork%20resonators%20met%20stokken-thumb.jpg'></a><p>Deze vorkresonatoren zijn de prototypes van later gebouwde en verkochte exemplaren. Dit gestemd percussie-instrument wordt bespeeld met met vilt beklede hamers.</p>"
+summary = "<a href='/logoscollectie/1974/fork_resonators'><img src='/logoscollectie/img/ForkResonators/Fork%20resonators%20met%20stokken-thumb.jpg'></a>Deze vorkresonatoren zijn de prototypes van later gebouwde en verkochte exemplaren. Dit gestemd percussie-instrument wordt bespeeld met met vilt beklede hamers."
 +++
 
 # Fork resonators (prototypes)

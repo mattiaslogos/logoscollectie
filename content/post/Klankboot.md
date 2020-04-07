@@ -11,7 +11,7 @@ categories = ["klanksculptuur", "akoestisch", "event"
 alfabetisch = ["K"
 ]
 menu = "main"
-summary = "<a href='/logoscollectie/1987/klankboot'><img src='/logoscollectie/img/Klankboot/Klankboot-thumb.jpg'></a><p>Klankboot wordt op rivieren, kanalen, vijvers of meren aan het (toevallige) publiek gepresenteerd. 34 presluchtclaxons worden als reactiemotor van een geprepareerd bootje gebruikt. De klank van dit project wordt medebepaald door het op en neer gaan van het bootje en/of de waterlijn.</p>"
+summary = "<a href='/logoscollectie/1987/klankboot'><img src='/logoscollectie/img/Klankboot/Klankboot-thumb.jpg'></a>Klankboot wordt op rivieren, kanalen, vijvers of meren aan het (toevallige) publiek gepresenteerd. 34 presluchtclaxons worden als reactiemotor van een geprepareerd bootje gebruikt. De klank van dit project wordt medebepaald door het op en neer gaan van het bootje en/of de waterlijn."
 +++
 
 # Klankboot

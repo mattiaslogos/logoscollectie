@@ -13,7 +13,7 @@ categories = [
 alfabetisch = ["B"
 ]
 menu = "main"
-summary = "<a href='/logoscollectie/1968/blikkenbusofoon/'><img src='/logoscollectie/img/Blikkenbusofoon/Blikkenbusofoon-thumb.jpg '></a><p>De blikkenbusofoon is een slaginstrument. 21 metalen bussen zijn op verschillende toonhoogtes gestemd.</p>"
+summary = "<a href='/logoscollectie/1968/blikkenbusofoon/'><img src='/logoscollectie/img/Blikkenbusofoon/Blikkenbusofoon-thumb.jpg'></a>De blikkenbusofoon is een slaginstrument. 21 metalen bussen zijn op verschillende toonhoogtes gestemd."
 +++
 
 

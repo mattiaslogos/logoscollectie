@@ -11,7 +11,7 @@ categories = [
 alfabetisch = [ "I", "H"
 ]
 menu = "main"
-summary = "<a href='/logoscollectie/1985/invisible_instrument'><img src='/logoscollectie/img/Invisible_Instrument/Holosound%20installatie%20in%20De%20Brakke%20Grond%201986%20(2)-thumb.jpg'></a><p>Het Invisible Instrument zet bewegingen van de bespeler om in klank. Het maakt hiervoor gebruik van ultrasone geluidsgolven.</p>"
+summary = "<a href='/logoscollectie/1985/invisible_instrument'><img src='/logoscollectie/img/Invisible_Instrument/Holosound%20installatie%20in%20De%20Brakke%20Grond%201986%20(2)-thumb.jpg'></a>Het Invisible Instrument zet bewegingen van de bespeler om in klank. Het maakt hiervoor gebruik van ultrasone geluidsgolven."
 +++
 
 # Invisible Instrument (Holosound)

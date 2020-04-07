@@ -11,7 +11,7 @@ categories = [ "elektronisch"
 alfabetisch = ["S"
 ]
 menu = "main"
-summary = "<a href='/logoscollectie/1983/synthelog5'><img src='/logoscollectie/img/Synthelog5/Synthelog%205%20bovenkant-thumb.jpg'></a><p>Synthelog 5 is het prototype van een reeks mini-synthelogs. Naast gewone schakelaars worden er C-pins, lichtweerstanden, en aanraakvlakken gebruikt om de verschillende modules te sturen.</p>"
+summary = "<a href='/logoscollectie/1983/synthelog5'><img src='/logoscollectie/img/Synthelog5/Synthelog%205%20bovenkant-thumb.jpg'></a>Synthelog 5 is het prototype van een reeks mini-synthelogs. Naast gewone schakelaars worden er C-pins, lichtweerstanden, en aanraakvlakken gebruikt om de verschillende modules te sturen."
 +++
 
 # Synthelog 5

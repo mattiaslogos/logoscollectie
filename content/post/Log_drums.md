@@ -11,7 +11,7 @@ categories = ["akoestisch"
 alfabetisch = ["L", "D"
 ]
 menu = "main"
-summary = "<a href='/logoscollectie/1973/log_drums'><img src='/logoscollectie/img/LogDrums/Log%20Drums-thumb.jpg'></a><p>Raes bouwde deze drie bij elkaar horende spleettrommels uit massief sequoia.  </p>"
+summary = "<a href='/logoscollectie/1973/log_drums'><img src='/logoscollectie/img/LogDrums/Log%20Drums-thumb.jpg'></a>Raes bouwde deze drie bij elkaar horende spleettrommels uit massief sequoia.  "
 +++
 
 

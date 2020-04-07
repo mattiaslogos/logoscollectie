@@ -13,7 +13,7 @@ categories = ["elektroakoestisch"
 alfabetisch = ["K"
 ]
 menu = "main"
-summary = "<a href='/logoscollectie/1969/klopdoos'><img src='/logoscollectie/img/Klopdoos/Klopdoos%20bovenkant-thumb.jpg'></a><p>Onder het massief houten bovenblad van dit percussie-instrument bevindt zich een moving coil contactmicrofoon. Op die manier kan je de klopdoos ook versterken of gebruiken voor het opwekken van triggersignalen in composities met live-electronics.</p>"
+summary = "<a href='/logoscollectie/1969/klopdoos'><img src='/logoscollectie/img/Klopdoos/Klopdoos%20bovenkant-thumb.jpg'></a>Onder het massief houten bovenblad van dit percussie-instrument bevindt zich een moving coil contactmicrofoon. Op die manier kan je de klopdoos ook versterken of gebruiken voor het opwekken van triggersignalen in composities met live-electronics."
 +++
 
 # Knockbox/Klopdoos

@@ -13,7 +13,7 @@ categories = [ "elektronisch"
 alfabetisch = ["R"
 ]
 menu = "main"
-summary = "<a href='/logoscollectie/1980/ringmodulator1980'><img src='/logoscollectie/img/Ringmodulator1980/Ringmodulator_binnenkant-thumb.jpg'></a><p></p>"
+summary = "<a href='/logoscollectie/1980/ringmodulator1980'><img src='/logoscollectie/img/Ringmodulator1980/Ringmodulator_binnenkant-thumb.jpg'></a>"
 +++
 
 # Ring modulator

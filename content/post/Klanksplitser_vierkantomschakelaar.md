@@ -10,7 +10,7 @@ categories = [
 alfabetisch = ["K", "V"
 ]
 menu = "main"
-summary = "<p>Via dit apparaat konden geluidssignalen die op de ingangen zijn aangesloten naar verschillende uitgangen worden geleid. </p>"
+summary = "Via dit apparaat konden geluidssignalen die op de ingangen zijn aangesloten naar verschillende uitgangen worden geleid. "
 +++
 
 # Klanksplitser en vierkanaalsomschakelaar

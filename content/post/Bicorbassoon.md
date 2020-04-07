@@ -13,7 +13,7 @@ categories = [
 alfabetisch = ["B"
 ]
 menu = "main"
-summary = "<a href='/logoscollectie/1975/bicorbassoon'><img src='/logoscollectie/img/Bicorbassoon/Bicorbassoon-thumb.jpg '></a><p>De Bicorbassoon is een blaasinstrument. De bespeler kan wisselen tussen twee verschillende mondstukken.</p>"
+summary = "<a href='/logoscollectie/1975/bicorbassoon'><img src='/logoscollectie/img/Bicorbassoon/Bicorbassoon-thumb.jpg'></a>De Bicorbassoon is een blaasinstrument. De bespeler kan wisselen tussen twee verschillende mondstukken."
 +++
 
 

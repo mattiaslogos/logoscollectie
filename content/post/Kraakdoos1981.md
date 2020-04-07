@@ -14,7 +14,7 @@ categories = [ "elektronisch"
 alfabetisch = ["K"
 ]
 menu = "main"
-summary = "<a href='/logoscollectie/1981/kraakdoos1981'><img src='/logoscollectie/img/Kraakdoos1981/Kraakdoos%20bovenkant-thumb.jpg'></a><p>Deze kraakdoos is ontworpen op een ge-etste printplaat die oorspronkelijk voor een radio-ontvanger met buizen was bedoeld. Door intuïtief de verschillende geleidende aanraakpunten met de vingers te verbinden kunnen de meest uiteenlopende elektronische klanken aan het instrument worden ontfutseld.</p>"
+summary = "<a href='/logoscollectie/1981/kraakdoos1981'><img src='/logoscollectie/img/Kraakdoos1981/Kraakdoos%20bovenkant-thumb.jpg'></a>Deze kraakdoos is ontworpen op een ge-etste printplaat die oorspronkelijk voor een radio-ontvanger met buizen was bedoeld. Door intuïtief de verschillende geleidende aanraakpunten met de vingers te verbinden kunnen de meest uiteenlopende elektronische klanken aan het instrument worden ontfutseld."
 +++
 
 

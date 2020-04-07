@@ -10,7 +10,7 @@ categories = [ "elektronisch"
 alfabetisch = ["T"
 ]
 menu = "main"
-summary = "<a href='/logoscollectie/1972/tabtone_organ_synth'><img src='/logoscollectie/img/Tab-tone_organ_synth/Tab-tone%20organ%20synth%20bovenzijde-thumb.jpg'></a><p>Deze synthesizer bevat twee modules die klank opwekken, namelijk de tab-tone module (met dubbel-T oscillatoren) en een monofoon orgeltje. Deze modules kunnen al dan niet in combinatie met een extern signaal naar de ingebouwde ringmodulator worden gestuurd.</p>"
+summary = "<a href='/logoscollectie/1972/tabtone_organ_synth'><img src='/logoscollectie/img/Tab-tone_organ_synth/Tab-tone%20organ%20synth%20bovenzijde-thumb.jpg'></a>Deze synthesizer bevat twee modules die klank opwekken, namelijk de tab-tone module (met dubbel-T oscillatoren) en een monofoon orgeltje. Deze modules kunnen al dan niet in combinatie met een extern signaal naar de ingebouwde ringmodulator worden gestuurd."
 +++
 
 

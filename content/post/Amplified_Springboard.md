@@ -12,7 +12,7 @@ categories = ["elektroakoestisch"
 alfabetisch = ["A", "S"
 ]
 menu = "main"
-summary = "<a href='/logoscollectie/1982/amplified_springboard'><img src='/logoscollectie/img/Amplified_Springboard/Amplified%20Springboard%20voorkant-thumb.jpg'></a><p>Een magnetische pick-up versterkt de twee verschillende veren die met de handen bespeeld worden. Het resultaat hiervan is door de ingebouwde versterker en luidspreker onmiddellijk hoorbaar.</p>"
+summary = "<a href='/logoscollectie/1982/amplified_springboard'><img src='/logoscollectie/img/Amplified_Springboard/Amplified%20Springboard%20voorkant-thumb.jpg'></a>Een magnetische pick-up versterkt de twee verschillende veren die met de handen bespeeld worden. Het resultaat hiervan is door de ingebouwde versterker en luidspreker onmiddellijk hoorbaar."
 +++
 
 # Amplified springboard

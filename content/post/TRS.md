@@ -11,7 +11,7 @@ categories = [ "elektronisch"
 alfabetisch = ["T"
 ]
 menu = "main"
-summary = "<a href='/logoscollectie/1975/trs'><img src='/logoscollectie/img/TRS/TRS%20voorkant.jpg'></a><p>TRS staat voor “Transfornational Regenrative Synthesiser”. De verschillende modules van de synthesizer transformeren en regenereren een met drukmicrofoon versterkte viool. Alle gegenereerde klanken zijn met andere woorden afhankelijk van de input van de muzikant.</p>"
+summary = "<a href='/logoscollectie/1975/trs'><img src='/logoscollectie/img/TRS/TRS%20voorkant.jpg'></a>TRS staat voor “Transfornational Regenrative Synthesiser”. De verschillende modules van de synthesizer transformeren en regenereren een met drukmicrofoon versterkte viool. Alle gegenereerde klanken zijn met andere woorden afhankelijk van de input van de muzikant."
 +++
 
 # TRS

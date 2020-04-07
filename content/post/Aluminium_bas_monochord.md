@@ -17,7 +17,7 @@ categories = [
 alfabetisch = ["A", "B", "M"
 ]
 menu = "main"
-summary = "<p>Een snaar van een basgitaar wordt versterkt met een magnetische pick-up.</p>"
+summary = "Een snaar van een basgitaar wordt versterkt met een magnetische pick-up."
 +++
 
 # Aluminium bas monochord

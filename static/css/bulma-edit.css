@@ -9735,12 +9735,14 @@ label.panel-block:hover {
 }
 
 .medewerkinglogo {
-	width: 20%;
+	width: 13%;
 	float: none;
 	clear:both;
-	margin: 16px;
 	max-width: 20%;
+	min-width: 100px;
 	height: auto;
+	margin-left: 2%;
+	margin-right: 2%;
 }
 
 .medewerkinglogo2 {

@@ -11,7 +11,7 @@ categories = [ "elektronisch"
 alfabetisch = ["S"
 ]
 menu = "main"
-summary = "<a href='/logoscollectie/1981/synthelog_81_keyboard'><img src='/logoscollectie/img/Synthelog_81_keyboard/Synthelog%2081%20keyboard%20bovenkant-thumb.jpg'></a><p>Met deze universele interface kunnen de verschillende synthelogs en de TRS zowel manuaal els met een sequencer van stuurspanning voorzien worden.</p>"
+summary = "<a href='/logoscollectie/1981/synthelog_81_keyboard'><img src='/logoscollectie/img/Synthelog_81_keyboard/Synthelog%2081%20keyboard%20bovenkant-thumb.jpg'></a>Met deze universele interface kunnen de verschillende synthelogs en de TRS zowel manuaal els met een sequencer van stuurspanning voorzien worden."
 +++
 
 # Synthelog 81 keyboard

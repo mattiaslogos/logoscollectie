@@ -10,7 +10,7 @@ categories = ["elektroakoestisch", "event"
 alfabetisch = ["S"
 ]
 menu = "main"
-summary = "<a href='/logoscollectie/1982/soundtracker1'><img src='/logoscollectie/img/Soundtracker_I/Soundtracker%20I%20voorzijde-thumb.jpg'></a><p>Deze machine werd specifiek gebouwd voor het poëtische straatproject "Klankspoor". De klank van een traject door de stad wordt er letterlijk op een magneetband achtergelaten. Op het tempo van de wandelende bespeler wordt een grote spoel met magneetband afgerold. De omgevingsgeluiden worden op dat tempo op de magneetband opgenomen en onmiddellijk terug afgespeeld en uitgezonden op de FM-band.</p>"
+summary = "<a href='/logoscollectie/1982/soundtracker1'><img src='/logoscollectie/img/Soundtracker_I/Soundtracker%20I%20voorzijde-thumb.jpg'></a>Deze machine werd specifiek gebouwd voor het poëtische straatproject 'Klankspoor'. De klank van een traject door de stad wordt er letterlijk op een magneetband achtergelaten. Op het tempo van de wandelende bespeler wordt een grote spoel met magneetband afgerold. De omgevingsgeluiden worden op dat tempo op de magneetband opgenomen en onmiddellijk terug afgespeeld en uitgezonden op de FM-band."
 +++
 
 

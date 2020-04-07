@@ -18,7 +18,7 @@ categories = [
 alfabetisch = ["F"
 ]
 menu = "main"
-summary = "<a href='/logoscollectie/1975/fingerboard2'><img src='/logoscollectie/img/Fingerboard2/Fingerboard2-thumb.jpg'></a><p>Snaren, veren en metalen klankobjecten worden bij dit fingerboard met een magnetische pick-up versterkt.</p>"
+summary = "<a href='/logoscollectie/1975/fingerboard2'><img src='/logoscollectie/img/Fingerboard2/Fingerboard2-thumb.jpg'></a>Snaren, veren en metalen klankobjecten worden bij dit fingerboard met een magnetische pick-up versterkt."
 +++
 
 

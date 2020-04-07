@@ -11,7 +11,7 @@ categories = [ "elektronisch"
 alfabetisch = ["O"
 ]
 menu = "main"
-summary = "<a href='/logoscollectie/1988/optofmofoon5'><img src='/logoscollectie/img/Optofmofoon_V/Optofmofoon%20V%20bovenaanzicht-thumb.jpg'></a><p>De naam van deze synthesizer verraadt het gebruik van licht en FM-modulatie. Het geluid wordt hoorbaar gemaakt door vier kleine luidsprekers die op de printplaat zijn gesoldeerd.</p>"
+summary = "<a href='/logoscollectie/1988/optofmofoon5'><img src='/logoscollectie/img/Optofmofoon_V/Optofmofoon%20V%20bovenaanzicht-thumb.jpg'></a>De naam van deze synthesizer verraadt het gebruik van licht en FM-modulatie. Het geluid wordt hoorbaar gemaakt door vier kleine luidsprekers die op de printplaat zijn gesoldeerd."
 +++
 
 

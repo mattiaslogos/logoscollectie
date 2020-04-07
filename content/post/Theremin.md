@@ -14,7 +14,7 @@ categories = [ "elektronisch"
 alfabetisch = ["T"
 ]
 menu = "main"
-summary = "<p>Raes bouwde zijn eerste theremin in 1968.</p>"
+summary = "Raes bouwde zijn eerste theremin in 1968."
 +++
 
 # Theremin
