@@ -56,7 +56,7 @@ Raes bouwde in zijn eerste theremin in 1968. Hij gebruikte hiervoor soortgelijke
 Verloren
 
 #### Historiek van het instrument
-Deze Theremin is de eerste van de vele Theremins die Raes tijdens de volgende jaren bouwde, kopieerde en verbouwde. Een moeilijk te documenteren geschiedenis ...
+Deze Theremin is de eerste van de vele Theremins die Raes tijdens de volgende jaren bouwde, kopieerde en verbouwde. Een moeilijk te documenteren geschiedenis. Wordt vervolgd...
 
 #### Problematieken
 /

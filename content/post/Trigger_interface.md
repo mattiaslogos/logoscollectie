@@ -38,7 +38,7 @@ H x B x L: 7 x 14,5 x 8
 532.2
 
 **Inventarisnummer**
-LOGOS 80.
+LOGOS 1983.12
 
 #### Beschrijving van het instrument
 Trigger interface is een instrument dat wordt gebruikt om reële klanken in stuurspanningen om te zetten om op die manier VCO’s en andere spanningsgestuurde modules aan te sturen.
@@ -48,7 +48,7 @@ Het signaal van de drukmicrofoon wordt met een opamp (TL084) versterkt. Vanaf ee
 
 Als we de vier parkervijsjes los maken kunnen we het doosje openen. We zien dan twee identieke schakelingen op de ge-etste pcb, één voor elk kanaal. De chip TL084 zorgt voor de voorversterking, de chip 74221 zorgt voor de one-shot. U vindt het elektrisch schema in de bijlage. 
 
-Raes baseerde zich voor het bouwen van dit apparaat op de schakeling met PCB zoals beschreven in het artikel “drum-interface” uit elektuur van maart 1983 (zie scan trigger interface).   
+Raes baseerde zich voor het bouwen van dit apparaat op de schakeling met pcb zoals beschreven in het artikel “drum-interface” uit elektuur van maart 1983 (zie scan trigger interface).   
 
 #### Speelwijze, repertoire en inzet in producties
 Deze trigger interface werd onde andere gebruikt om de synthezisers van de synthelog-faminie en de TRS aan te sturen.  

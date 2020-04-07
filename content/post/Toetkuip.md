@@ -10,7 +10,7 @@ categories = ["klanksculptuur", "akoestisch", "event"
 alfabetisch = ["T"
 ]
 menu = "main"
-summary = "<a href='/logoscollectie/1987/toetkuip'><img src='/logoscollectie/img/Toetkuip/Toetkuip%20en%20GWR%20in%20Lille.jpg'></a><p>Toetkuip is een geluidssculptuur die in een optocht aan het publiek wordt gepresenteerd. De bespeler die plaatsneemt op het driewielig rijtuig, bedient 24 verschillend gestemde persluchtclaxons die met hun paviljoen onder de waterlijn van een gevulde badkuip zijn geplaatst. Het klotsen en golven van het water zorgen mee voor het  bizarre en met momenten oorverdovende klankresultaat.</p>"
+summary = "<a href='/logoscollectie/1987/toetkuip'><img src='/logoscollectie/img/Toetkuip/Toetkuip%20en%20GWR%20in%20Lille.jpg'></a><p>Toetkuip is een geluidssculptuur die in een optocht aan het publiek wordt gepresenteerd. De bespeler die plaatsneemt op het driewielig rijtuig, bedient 24 verschillend gestemde persluchtclaxons die met hun paviljoen onder de waterlijn van een gevulde badkuip zijn geplaatst. Het klotsen en golven van het water zorgen mee voor het bizarre (en met momenten oorverdovende) klankresultaat.</p>"
 +++
 
 # Toetkuip
@@ -37,7 +37,7 @@ H x B x L: 150 x 110 x 350
 Categorie 6 of 424
 
 **Inventarisnummer**
-LOGOS 87.01
+LOGOS 1987.01
 
 #### Beschrijving van het instrument
 De klanksculptuur Toetkuip is een driehoekig rijtuig met drie wielen waarop een gegalvaniseerde wastobbe is gemonteerd. De klank wordt voortgebracht door 24 verschillend gestemde persluchtclaxons die zich met hun paviljoen net onder de waterlijn van de met water gevulde wastobbe bevinden. Toetkuip wordt bespeeld door vier personen. Vooraan zit de bestuurder op het houten stoeltje. Met de voeten bedient deze het voetstuur en met de handrem kan hij/zij toetkuip desgewenst ook afremmen. De bespeler zit op het stoeltje (of zadel) achteraan het rijtuig en bedient de 13 momentschakelaars op het bedieningspaneel  die bepalen welke claxons spelen. Rechts en links op het bedieningspaneel zien we een volt- en een ampèremeter (niet aangesloten). Het gevaarte wordt door twee personen aan de duwrail voortgeduwd terwijl ze (zoals bij een autopet) met één voet op de treeplank staan. Het bewegen en klotsen van het water (aard van de weg, bochtenwerk, waterpeil in de kuip,…) bepaalt in grote mate mee de klank van de klanksculptuur.   
@@ -46,7 +46,7 @@ Onder de stoel van de bespeler zien we de compressor en het compressievat die de
 
 #### Speelwijze, repertoire en inzet in producties
 Deze klanksculptuur wordt gebruikt in stoeten in de openbare ruimte. De bediening van de claxons is tijdens de jaren gewijzigd (zie historiek van het instrument).  
-Toetkuip kwam voor de eerste keer buiten op de openingsstoet van de Gentse Feesten in 1987.
+Toetkuip kwam voor de eerste keer buiten op de openingsstoet van de Gentse Feesten in 1987. Op de tocht moet steeds reserve water worden meegenomen om de was tobbe indien nodig te kunnen bijvullen.
 
 #### Opbouw van het instrument/installatie
 De opgeladen accu moet worden aangesloten. De wastobbe moet met water worden gevuld. Met de sleutel op het bedieningspaneel wordt toetkuip ingeschakeld. Voor de vier bespelers is gehoorbescherming aangewezen.
