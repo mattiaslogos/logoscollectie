@@ -28,7 +28,7 @@ Talking Flames
 Gebouwd door Godfried-Willem Raes te Gent 
 
 **Datering**
-1981 (eerste experimenten) – 1989 (eerste presentatie)
+1989 
 
 **Afmetingen**
 H x B x L: 27 x 12 x 30
@@ -37,12 +37,12 @@ H x B x L: 27 x 12 x 30
 546
 
 **Inventarisnummer**
-LOGOS 89.01
+LOGOS 1989.01
 
 #### Beschrijving van het instrument
 Talking Flames uit 1989 zijn twee identieke plasmaluidspreker die gebouwd werden door Godfried-Willem Raes. De werking van het instrument gaat verder op de zingende boog van William Duddell, een fysicus uit de tweede helft van de 19de eeuw. 
 
-De plasmaluidsprekers staan telkens gemonteerd op een kunststof plaat. In het midden van de plaat is een gat geboord om de luidspreker op een statief te kunnen monteren. Aan de ene kant zie je de blokvormige voeding (Siemens sitop power flexi). Aan de andere kant staat de PCB verticaal gemonteerd. Daarop zijn de kloelvinnen voor de transistoren, de condensatoren en de hoogspanningstransfo met ferrietkern (gesloopt uit een oud tv-toestel) duidelijk zichtbaar. Bovenaan leiden twee pootjes die afkomstig zijn van een passer naar de puntelektroden waartussen het plasma wij werking van de luidspreker ontstaat.
+De plasmaluidsprekers staan telkens gemonteerd op een kunststof plaat. In het midden van de plaat is een gat geboord om de luidspreker op een statief te kunnen monteren. Aan de ene kant zie je de blokvormige voeding (Siemens sitop power flexi). Aan de andere kant staat de pcb verticaal gemonteerd. Daarop zijn de kloelvinnen voor de transistoren, de condensatoren en de hoogspanningstransfo met ferrietkern (gesloopt uit een oud tv-toestel) duidelijk zichtbaar. Bovenaan leiden twee pootjes die afkomstig zijn van een passer naar de puntelektroden waartussen het plasma wij werking van de luidspreker ontstaat.
 
 Via een elektronische schakeling word tussen de puntelektroden een vlamboog opgewekt die met een geluidssignaal wordt gemoduleerd. Het plasma (of de vlamboog) maakt het betreffende signaal op die manier hoorbaar. De lucht rond het plasma wordt namelijk aan een snel wisselend tempo verhit. Omdat warme lucht uitzet ontstaat er een drukgolf die wij als geluid waarnemen.  
 
@@ -50,7 +50,6 @@ Via een elektronische schakeling word tussen de puntelektroden een vlamboog opge
 Talking Flames werd zowel als installatie als in een concertcontext gepresenteerd. Daarvoor werden teksten uit AutoAuthor, een kunstwerk van Moniek Darge, gebruikt. Deze werden in real time met een microfoon ingesproken (performance) of de opgenomen tekst werd afgespeeld met een cassettespeler.  
 
 Naar aanleiding van het Prometheusfestival in december 2015 in de Bijloke te Gent (coproductie met Stichting Logos) schreef Catharina Smets een nieuwe tekst en nam deze op. Ze voegde er subtiele soundscape-geluiden aan de tekst toe.    
-
 
 Talking Flames werd onder andere gepresenteerd op:
 
@@ -86,6 +85,7 @@ De plasmaluidspreker is geen uitvinding van Raes. Zijn vele experimenten met het
 “De “originaliteit” van de uitwerking van dit ontwerp is gelegen in het feit dat het een welhaast directe omzetting mogelijk maakt van digitale audio in trillende lucht. Hiertoe wordt de digitale muziekinformatie omgezet in een serieel pulsbreedte gemoduleerd signaal, met een klokfrequentie die minstens tweemaal de hoogste weer te geven frequentie dient te bedragen. De door ons opgebouwde prototypes werken op frequenties tussen 38kHz en 200kHz.”
 
 #### Problematieken
+/
 
 #### Media
 ##### Afbeeldingen
