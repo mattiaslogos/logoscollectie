@@ -30,14 +30,16 @@ Gebouwd door Godfried-Willem Raes te Gent
 1972
 
 **Afmetingen**
+Niet gekend
 
 **Classificatie**
 533.12
 
 **Inventarisnummer**
+LOGOS 1972.04
 
 #### Beschrijving van het instrument
-De vervormer voor monochorden is een geluidseffect dat in een klein bakje huist. Op de voorzijde stond de aan- en uitschakelaar en twee potentiometers om de parameters van de vervorming (distortie en extra versterking hoge tonen) in te stellen. Op de achterzijde was de in- en uitgang (vrouwelijk mono-jack 6,3mm) van het effect en de aansluiting voor de voeding. U vindt het elektrisch schema in de bijlage.
+De vervormer voor monochorden is een geluidseffect dat in een klein bakje huist. Op de voorzijde stond de aan- en uitschakelaar en twee potentiometers om de parameters van de vervorming (distortie en extra versterking hoge tonen) in te stellen. Op de achterzijde was de in- en uitgang (vrouwelijk mono-jack 6,3 cm) van het effect en de aansluiting voor de voeding. U vindt het elektrisch schema in de bijlage.
 
 #### Speelwijze, repertoire en inzet in producties
 /
