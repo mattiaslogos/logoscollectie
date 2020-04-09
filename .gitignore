@@ -1,5 +1,5 @@
 public/
-static/video/
-static/audio/
+static/catalogus/video/
+static/catalogus/audio/
 *.db
-static/pdf/
+static/catalogus/pdf/

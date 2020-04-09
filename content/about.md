@@ -63,7 +63,3 @@ Deze projectwebsite is een “work in progress”. Voor opmerkingen, bedenkingen
               Parent</a>
 </p>
 </details>
-
-
-
-<script type="text/javascript" src="../js/accordion.js"></script>

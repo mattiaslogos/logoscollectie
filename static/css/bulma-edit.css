@@ -9735,27 +9735,19 @@ label.panel-block:hover {
 }
 
 .medewerkinglogo {
-	width: 13%;
+	width: 12%;
 	float: none;
 	clear:both;
 	max-width: 20%;
 	min-width: 100px;
+	vertical-align: middle;
 	height: auto;
 	margin-left: 2%;
 	margin-right: 2%;
 }
 
-.medewerkinglogo2 {
-	width: 15%;
-	float: none;
-	clear:both;
-	margin: 15px;
-	max-width: 15%;
-	height: auto;
-}
-
 .accordion { 
-  /*wordt niet meer gebruikt, nu:summary en details*/
+/*voor balken in about; geen accordion meer, maar styles blijven*/
   background-color: #eee;
   color: #444;
   cursor: pointer;

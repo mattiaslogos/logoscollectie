@@ -2,17 +2,17 @@ baseURL = "https://www.logosfoundation.org/logoscollectie"
 languageCode = "en-us"
 title = "Catalogus van de logoscollectie"
 googleAnalytics = "UA-143256397-1"
+name = "Logoscollectie"
+description = "Catalogus van de muziekinstrumenten uit de logoscollectie"
 theme = "jeff"
+license = "MIT"
+licenselink = "https://github.com/Tazeg/hugo-blog-jeffprod/blob/master/LICENSE"
+
 [permalinks]
-    post = "/:year/:filename"
+    catalogus = "catalogus/:year/:filename"
 
 [taxonomies]
     tag = "tags"
     date = "dates"
 	categorie = "categories"
     alfabet = "alfabetisch"
-	
-author = "Logos Foundation"
-copyright = "Copyright © 2019-2020 Logos Foundation"
-canonifyurls = true
-paginate = 3
