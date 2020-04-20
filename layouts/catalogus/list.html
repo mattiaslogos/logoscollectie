@@ -1,5 +1,5 @@
 {{ define "main" }}
-{{ $paginator := .Paginate (where .Site.RegularPages "Section" "catalogus").ByPublishDate }}
+{{ $paginator := .Paginate (where .Site.RegularPages "Section" "catalogus").ByTitle }}
 
 
 <div class="columns">
