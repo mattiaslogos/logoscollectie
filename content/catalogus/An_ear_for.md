@@ -58,7 +58,8 @@ Deze interfaces werden gebruikt in stukken voor viool en klarinet met live-elect
 De interface moet worden gevoed met 5 Volt en verbonden worden met een printerpoort. De microfoon van het betreffende instrument moet op de ingang worden aangesloten. 
 
 #### Inscripties
-*Op beide interfaces:* 
+*Op beide interfaces:*
+
 - RAES 89
 - +5
 - S
@@ -80,7 +81,7 @@ Niet getest
 /
 
 #### Problematieken
-Seriële printerpoorten zijn in onbruik geraakt en niet meer aanwezig op moderne computers. 
+Parallelle printerpoorten zijn in onbruik geraakt en niet meer aanwezig op moderne computers. 
 
 #### Media
 ##### Afbeeldingen

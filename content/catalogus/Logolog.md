@@ -11,7 +11,7 @@ categories = ["digitaal"
 alfabetisch = ["L"
 ]
 menu = "main"
-summary = "<a href='/logoscollectie/catalogus/1984/logolog'><img src='/logoscollectie/catalogus/img/Logolog/Logolog%20bovenaanzicht-thumb.jpg'></a>Logolog is een spreekmachine die zowel manueel als via een seriële poort van een computer kan worden aangestuurd."
+summary = "<a href='/logoscollectie/catalogus/1984/logolog'><img src='/logoscollectie/catalogus/img/Logolog/Logolog%20bovenaanzicht-thumb.jpg'></a>Logolog is een spreekmachine die zowel manueel als via een parallelle poort van een computer kan worden aangestuurd."
 +++
 
 # Logolog
@@ -45,10 +45,10 @@ Logolog is gebouwd in een doorzichtige plastieken doos. In de doos zien we twee 
 
 De chip SPO256 waar rond deze spreekmachine is gebouwd bevat klanken (allofonen) die met commando’s (bytes) kunnen worden opgeroepen. Door deze klanken na elkaar op te roepen kunnen (nietszeggende) woorden en zinnen kunnen worden samengebracht.
 
-Logoslog kan zowel manueel als met een computer worden aangestuurd. De bespeler kan met de combinatie van de 8 rode knoppen een byte induwen en deze met de groene knop doorsturen. De overeenkomstige klank (zie datasheet) wordt door de speaker hoorbaar gemaakt. Op de zijkant onder de momentschakelaars zien we een seriële poort waarop een computer kan worden aangesloten. Door het schrijven van een programma kunnen ook op die manier commando’s aan de chip worden gegeven. Naast een opamp (rc4558) zien we op de bovenste pcb een chip met 16 pootjes (dac). Dit is de convertor om het digitaal signaal in een analoog geluidssignaal om te zetten. Op de onderste pcb zien we het 28-polig voetje voor de SPO256, het 16-polige voetje voor een logische chip, de 386 opamp voor de versterking, de trimpotmeter voor de volumeregeling en de 5 volt spanningsregelaar.  
+Logoslog kan zowel manueel als met een computer worden aangestuurd. De bespeler kan met de combinatie van de 8 rode knoppen een byte induwen en deze met de groene knop doorsturen. De overeenkomstige klank (zie datasheet) wordt door de speaker hoorbaar gemaakt. Op de zijkant onder de momentschakelaars zien we een parallelle poort waarop een computer kan worden aangesloten. Door het schrijven van een programma kunnen ook op die manier commando’s aan de chip worden gegeven. Naast een opamp (rc4558) zien we op de bovenste pcb een chip met 16 pootjes (dac). Dit is de convertor om het digitaal signaal in een analoog geluidssignaal om te zetten. Op de onderste pcb zien we het 28-polig voetje voor de SPO256, het 16-polige voetje voor een logische chip, de 386 opamp voor de versterking, de trimpotmeter voor de volumeregeling en de 5 volt spanningsregelaar.  
 
 #### Speelwijze, repertoire en inzet in producties
-Logolog kan zowel manueel (met de knoppen) als via de seriële poort met een computer worden aangestuurd.
+Logolog kan zowel manueel (met de knoppen) als via de parallelle poort met een computer worden aangestuurd.
 
 #### Opbouw van het instrument/installatie
 /

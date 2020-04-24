@@ -48,7 +48,7 @@ In de vier hoeken van Optofmofoon V vijn zowel naar onder als boven toe afstands
 Er zijn verschillende versies van de Optofmofoon. Ze werden ontworpen voor Jeugd en Muziek die vormingswerk met kinderen organiseerden. Het is de bedoeling om het instrument intuïtief te bespelen. Door potentiometers te bedienen en de lichtinval op de lichtweerstanden te veranderen gaat de bespeler op zoek naar interessante geluiden en onderzoekt hij al luisterend wat de knoppen met het geluid doen. Er zijn bewust geen handleidingen, partituren en op opschriften opgenomen.
 
 #### Opbouw van het instrument/installatie
-Niet van torpassing
+Niet van toepassing
 
 #### Inscripties
 - Raes 
