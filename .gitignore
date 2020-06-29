@@ -3,3 +3,5 @@ static/catalogus/video/
 static/catalogus/audio/
 *.db
 static/catalogus/pdf/
+static/catalogus/img/
+
