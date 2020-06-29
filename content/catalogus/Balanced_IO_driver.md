@@ -12,7 +12,7 @@ categories = [
 alfabetisch = ["B", "I", "D"
 ]
 menu = "main"
-summary = "Met de balanced I/O driver wordt een symmetrisch (of gebalanceerd) audiosignaal omgezet naar een asymmetrisch (of ongebalanceerd) signaal waarna het bijvoorbeeld door een geluidseffect (voorbeeld een galmveer) kan worden gestuurd. Het (asymmetrische) output-signaal van het geluidseffect wordt vervolgens door de I/O driver terug in een symmetrisch signaal omgezet. "
+summary = "Met de balanced I/O driver wordt een symmetrisch (of gebalanceerd) audiosignaal omgezet naar een asymmetrisch (of ongebalanceerd) signaal waarna het bijvoorbeeld door een geluidseffect (voorbeeld een galmveer) kan worden gestuurd. Het (asymmetrische) output-signaal van het geluidseffect wordt vervolgens door de I/O driver terug in een symmetrisch signaal omgezet."
 +++
 
 # Balanced I/O driver
