@@ -60,3 +60,8 @@ De automatische dirigent werd afgebroken. Bij gebrek aan financiële middelen we
 
 #### Problematieken
 /
+
+#### Media
+##### Afbeeldingen
+{{< load-photoswipe >}}
+{{< gallery dir="/catalogus/img/Automatische_dirigent" />}}
