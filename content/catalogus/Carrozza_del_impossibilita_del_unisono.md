@@ -23,7 +23,7 @@ summary = "Carrozza del impossibilita del unisono is een audio-art project gemaa
 # Carrozza del impossibilita del Unisono
 
 ![Carrozza][afb1]
-[afb1]: /logoscollectie/catalogus/img/Carrozza_impossibilita_unisono/Carrozza vooraanzicht-thumb.jpg "Carrozza del impossibilita del Unisono"
+[afb1]: /logoscollectie/catalogus/img/Carrozza_impossibilita_unisono/Carrozza%20vooraanzicht-thumb.jpg "Carrozza del impossibilita del Unisono"
 
 **Collectie**
 Stichting Logos
