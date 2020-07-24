@@ -9,7 +9,7 @@ tags = [
 date = "1985-01-01"
 dates = "1985"
 categories = [
-    "elektro-akoestisch",
+    "elektroakoestisch",
     "event",
     "klanksculptuur"
 ]
@@ -46,7 +46,7 @@ Categorie 6
 LOGOS
 
 #### Beschrijving van het instrument
-Deze klankinstallatie moet geïnstalleerd worden vlakbij een tramhalte. Een klein stukje van de rails van de tram moet worden vrijgemaakt. Dit kan door een kasseisteel te verwijderen. Opzij van de rail wordt een drukmicrofoon gemonteerd. Een kabeltje loopt tussen de kasseistenen naar de haltepaal. Op de haltepaal is een versterkertje met ingebouwde speaker of hoornluidspreker gemonteerd. Het versterkertje (20 W) wordt gevoed met een accu. Er wordt voor gezorgd dat de elektrische installatie volledig is afgeschermd tegen regen en vandalisme.
+Deze klankinstallatie moet geïnstalleerd worden vlakbij een tramhalte. Een klein stukje van de rails van de tram moet worden vrijgemaakt. Dit kan door een kasseisteen te verwijderen. Opzij van de rail wordt een drukmicrofoon gemonteerd. Een kabeltje loopt tussen de kasseistenen naar de haltepaal. Op de haltepaal is een versterkertje met ingebouwde speaker of hoornluidspreker gemonteerd. Het versterkertje (20 W) wordt gevoed met een accu. Er wordt voor gezorgd dat de elektrische installatie volledig is afgeschermd tegen regen en vandalisme.
 
 Met deze installatie wil Raes het akoestische bewustzijn aanscherpen. De toevallige passanten of tramreizigers zullen het geluid van de tram anders beleven en ervaren. Bovendien zal de tram op voorhand (of vroeger dan normaal) hoorbaar zijn. Raes knipoogt hier naar het gebruik in de Far-West waarbij het oor tegen de grond of de rails wordt gelegd om respectievelijk paarden of treinen te horen naderen. 
 
@@ -85,3 +85,7 @@ Bij de installatie van Halte op het LEF-festival te Gent in 1987 kreeg Raes -hoe
 </audio>
 <a href="/logoscollectie/catalogus/audio/Halte/Halte-proefopname.wav"><i class="fa fa-download" aria-hidden="true"></i>
 download</a>
+
+##### Video
+<iframe width="100%" max-width="560" height="315" src="https://www.youtube.com/embed/XuIfSaV2KE4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+

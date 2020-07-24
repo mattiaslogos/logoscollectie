@@ -235,3 +235,7 @@ Ingewikkelde maar boeiende geschiedenis van versies, verbeteringen en veranderin
 
 [Uitleg Holosound (uittreksel doctoraat Raes)](/logoscollectie/catalogus/pdf/Invisible_Instrument/Uitleg%20Holosound%20(uittreksel%20doctoraat%20Raes).pdf)
 
+##### Video
+<iframe width="100%" max-width="560" height="315" src="https://www.youtube.com/embed/MnVmV0UZUBg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+

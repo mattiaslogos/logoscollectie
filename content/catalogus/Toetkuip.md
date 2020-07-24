@@ -84,3 +84,7 @@ In 2005 werd toetkuip herzien. De verschillende kleine compressors werden vervan
 <a href="/logoscollectie/catalogus/audio/Toetkuip/toetkuip.wav"><i class="fa fa-download" aria-hidden="true"></i>
 download</a>
 </audio>
+
+##### Video
+<iframe width="100%" max-width="560" height="315" src="https://www.youtube.com/embed/Esim7-uoXwE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+

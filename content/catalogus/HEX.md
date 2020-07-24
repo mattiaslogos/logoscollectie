@@ -217,6 +217,9 @@ In onbruik geraakte poorten, software en besturingssystemen.
 
 [Schets partituur HEX (versie 0889)](/logoscollectie/catalogus/pdf/HEX/Schets%20partituur%20HEX%20(versie%200889).pdf)
 
+##### Video
+<iframe width="100%" max-width="560" height="315" src="https://www.youtube.com/embed/PIv-B8ALs0M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 ##### audio-bestanden
 Godfried-Willem Raes: "HEX" (excerpt), 1988 (04:59)
@@ -237,3 +240,5 @@ HEX(1988)
 </audio>
 <a href="/logoscollectie/catalogus/audio/HEX/CR890-2.wav"><i class="fa fa-download" aria-hidden="true"></i>
 download</a>
+
+
