@@ -22,7 +22,7 @@ summary = "<a href='/logoscollectie/catalogus/1975/beltotem'><img src='/logoscol
 
 # Beltotem
 
-![Beltotem][afb1]
+![alt text][afb1]
 [afb1]: /logoscollectie/catalogus/img/Beltotem/Beltotem_voorzijde-thumb.jpg "Beltotem voorzijde"
 
 **Collectie**
@@ -80,6 +80,6 @@ Beltotem vormt samen met Beltelefoon en Bellenorgel de Bellentriptiek.
 {{< gallery dir="/catalogus/img/Beltotem" />}}
 
 ##### pdf-bestanden
-[Beltotem scan] (/logoscollectie/catalogus/pdf/Beltotem/Scan%20beltotem.pdf)
+[Beltotem scan](/logoscollectie/catalogus/pdf/Beltotem/Scan%20beltotem.pdf)
 
 

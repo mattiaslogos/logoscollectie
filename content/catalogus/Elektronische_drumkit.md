@@ -19,7 +19,7 @@ summary = "<a href='/logoscollectie/catalogus/1988/elektronische_drumkit'><img s
 
 # Elektronische drumkit
 
-![Elektronische drumkit][afb1]
+![alt text][afb1]
 [afb1]: /logoscollectie/catalogus/img/Elektronische_drumkit/gwr_elektronische_drumkit-thumb.jpg "Elektronische drumkit"
 
 **Collectie**

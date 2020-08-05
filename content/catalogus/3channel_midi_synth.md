@@ -19,7 +19,7 @@ summary = "<a href='/logoscollectie/catalogus/2016/3channel_midi_synth'><img src
 
 # 3-channel midisynth
 
-![3ChannelMidisynth][afb1]
+![alt text][afb1]
 [afb1]: /logoscollectie/catalogus/img/3Channel_Midisynth/midisynth-thumb.jpg "3 Channel Midisynth"
 
 **Collectie**

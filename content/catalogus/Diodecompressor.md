@@ -17,7 +17,7 @@ summary = "<a href='/logoscollectie/catalogus/1974/diodecompressor'><img src='/l
 
 # Diode compressor
 
-![Diode compressor][afb1]
+![alt text][afb1]
 [afb1]: /logoscollectie/catalogus/img/Diode_compressor/Diode_compressor_bovenzijde-thumb.jpg "Diode compressor"
 
 **Collectie**

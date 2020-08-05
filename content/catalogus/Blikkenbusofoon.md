@@ -19,7 +19,7 @@ summary = "<a href='/logoscollectie/catalogus/1968/blikkenbusofoon/'><img src='/
 
 # Blikkenbusofoon
 
-![Blikkenbusofoon][afb1]
+![alt text][afb1]
 [afb1]: /logoscollectie/catalogus/img/Blikkenbusofoon/Blikkenbusofoon-thumb.jpg "Blikkenbusofoon"
 
 **Collectie**

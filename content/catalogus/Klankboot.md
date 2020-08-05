@@ -16,7 +16,7 @@ summary = "<a href='/logoscollectie/catalogus/1987/klankboot'><img src='/logosco
 
 # Klankboot
 
-![Klankboot][afb1]
+![alt text][afb1]
 [afb1]: /logoscollectie/catalogus/img/Klankboot/Klankboot-thumb.jpg "Klankboot"
 
 **Collectie**

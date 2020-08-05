@@ -62,8 +62,7 @@ In werkende staat
 Oorspronkelijk werden de instrumenten met losse contactmicrofoons versterkt. De vaste contactmicrofoon met een voorversterker (die in 2002 werd ge-etst en ontworpen) is in 2019 door Raes gemonteerd.    
 
 #### Problematieken
-
-
+/
 
 #### Media
 ##### Afbeeldingen

@@ -17,7 +17,7 @@ summary = "<a href='/logoscollectie/catalogus/1982/amplified_springboard'><img s
 
 # Amplified springboard
 
-![Amplified Springboard][afb1]
+![alt text][afb1]
 [afb1]: /logoscollectie/catalogus/img/Amplified_Springboard/Amplified%20Springboard%20voorkant-thumb.jpg "Amplified Springboard"
 
 **Collectie**

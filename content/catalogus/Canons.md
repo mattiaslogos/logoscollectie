@@ -20,7 +20,7 @@ summary = "<a href='/logoscollectie/catalogus/1980/canons'><img src='/logoscolle
 
 # Canons
 
-![Canons][afb1]
+![alt text][afb1]
 [afb1]: /logoscollectie/catalogus/img/Canons/Canons_01-thumb.jpg "Canons"
 
 **Collectie**

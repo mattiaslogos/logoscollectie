@@ -15,12 +15,12 @@ categories = [
 alfabetisch = ["A"
 ]
 menu = "main"
-summary = "<a href='/logoscollectie/catalogus/2007/axe3'><img src='/logoscollectie/catalogus/img/Axe3/Axe3-thumb.jpg'></a>Axe3 is een interface met twee acceleratiesensoren. Deze zijn elk met een kabel met de midimodule verbonden. Zowel de info over de acceleratie in twee assen als de tilt-informatie (de hoek ten opzichte van een horizontaal oppervlak), wordt in midi omgezet en naar een computer of rechtstreeks naar een midi-instrument gestuurd.
+summary = "<a href='/logoscollectie/catalogus/2007/axe3'><img src='/logoscollectie/catalogus/img/Axe3/Axe3-thumb.jpg'></a>Axe3 is een interface met twee acceleratiesensoren. Deze zijn elk met een kabel met de midimodule verbonden. Zowel de info over de acceleratie in twee assen als de tilt-informatie (de hoek ten opzichte van een horizontaal oppervlak), wordt in midi omgezet en naar een computer of rechtstreeks naar een midi-instrument gestuurd."
 +++
 
 # Axe3
 
-![Axe3][afb1]
+![alt text][afb1]
 [afb1]: /logoscollectie/catalogus/img/Axe3/Axe3-thumb.jpg "Axe3"
 
 **Collectie**
@@ -35,16 +35,12 @@ Gebouwd door Godfried-Willem Raes te Gent
 **Datering**
 2007
 
-**Afmetingen**
-*Module:*
-
+**Afmetingen**<br>
+*Module:*<br>
 H x B x L: 4 cm x 11 cm x 18 cm
 
-
-*Sensoren zonder kabel:*
-
+*Sensoren zonder kabel:*<br>
 H x B x L: 2 cm x 3 cm x 6 cm
-
 
 **Classificatie**
 Categorie 55

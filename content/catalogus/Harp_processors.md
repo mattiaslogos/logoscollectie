@@ -16,7 +16,7 @@ summary = "<a href='/logoscollectie/catalogus/1980/harp_processors'><img src='/l
 
 # Harp processor
 
-![Harp processor][afb1]
+![alt text][afb1]
 [afb1]: /logoscollectie/catalogus/img/Harp_processor/Harp%20processor%20(tekening)-thumb.png "Harp processor"
 
 **Collectie**

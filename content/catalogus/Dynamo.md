@@ -9,18 +9,18 @@ tags = [
 date = "1998-01-01"
 dates = "1998"
 categories = [
-    "elektro-akoestisch",
+    "elektroakoestisch",
     "event"
 ]
 alfabetisch = ["D"
 ]
 menu = "main"
-summary = "Dynamo is een compositie van Raes waarbij de gitarist zelf de stroom voor de versterking van zijn elektrische gitaar moet opwekken. Dit doet hij door op een hometrainer te fietsen. Het instrument Dynamo bestaat uit de installatie die nodig is om dit te realiseren."
+summary = "<a href='/logoscollectie/catalogus/1998/dynamo'><img src='/logoscollectie/catalogus/img/Dynamo/Dynamo_vooraanzicht-thumb.jpg'></a>Dynamo is een compositie van Raes waarbij de gitarist zelf de stroom voor de versterking van zijn elektrische gitaar moet opwekken. Dit doet hij door op een hometrainer te fietsen. Het instrument Dynamo bestaat uit de installatie die nodig is om dit te realiseren."
 +++
 
 # Dynamo
 
-![Dynamo][afb1]
+![alt text][afb1]
 [afb1]: /logoscollectie/catalogus/img/Dynamo/Dynamo_vooraanzicht-thumb.jpg "Dynamo"
 
 **Collectie**
@@ -45,7 +45,7 @@ Categorie 6 of accessoire
 LOGOS
 
 #### Beschrijving van het instrument
-De machine die nodig is om het stuk dynamo uit te voeren bestaat uit een tot stroomgenerator omgebouwde hometrainer. Van een tweedehandse witte hometrainer met voorwielaandrijving werd het weerstandsmechanisme verwijderd. Tegen de onderkant van het vliegwiel werd de as van een generator geplaatst. Op die manier kan de generator, die we van het voorwiel zien als we op de fiets zitten, al trappend worden aangedreven. Links van het voorwiel zien we een metalen bakje waarin de PCB’s met de nodige elektronica. De elektrische schema´s van de voorversterker, de versterker en de generator vind je samen met meer technische info in de bijlage. Aan de smalle rechtopstaande kant van het metalen kistje zien we de vrouwelijke monojack waarin de gitaar moet worden geplugd. De signaalkabel met een mannelijke monojack die via twee soldeerpunten het metalen kistje verlaat, moet in een speaker worden geplugd.
+De machine die nodig is om het stuk dynamo uit te voeren bestaat uit een tot stroomgenerator omgebouwde hometrainer. Van een tweedehandse witte hometrainer met voorwielaandrijving werd het weerstandsmechanisme verwijderd. Tegen de onderkant van het vliegwiel werd de as van een generator geplaatst. Op die manier kan de generator, die we van het voorwiel zien als we op de fiets zitten, al trappend worden aangedreven. Links van het voorwiel zien we een metalen bakje waarin de PCB’s met de nodige elektronica. De elektrische schema´s van de voorversterker, de versterker en de generator vind je samen met meer technische info in de bijlage. Aan de smalle rechtopstaande kant van het metalen kistje zien we de vrouwelijke monojack waarin de gitaar moet worden geplugd. De signaalkabel met een mannelijke monojack die via twee soldeerpunten het metalen kistje verlaat, moet in een speaker worden geplugd. 
 
 #### Speelwijze, repertoire en inzet in producties
 Deze compositie is in wezen politiek muziektheater met een ecologische knipoog. Met dit stuk wil Raes zijn afkeer ten opzichte van commerciële muziek en de elektrische gitaar uiten.
@@ -86,13 +86,13 @@ Dynamo werd als compositie geconcipieerd in 1977. Het stuk kende een sluimerend 
 <audio controls>
 <source src="/logoscollectie/catalogus/audio/Dynamo/dynamo.wav" type="audio/wav">
 <source src="/logoscollectie/catalogus/audio/Dynamo/dynamo.wav" type="audio/x-wav">
-</audio>
+</audio><br>
 <a href="/logoscollectie/catalogus/audio/Dynamo/dynamo.wav"><i class="fa fa-download" aria-hidden="true"></i>
 download</a>
 
 ##### Video
 <video controls width="100%" height="315" >
-  <source src="/logoscollectie/catalogus/video/Dynamo/Mattias_test.mp4" type="video" /mp4">
+  <source src="/logoscollectie/catalogus/video/Dynamo/Mattias.mp4" type="video" /mp4">
 Your browser does not support the video tag.
 </video> 
 

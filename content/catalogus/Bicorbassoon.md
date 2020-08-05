@@ -19,7 +19,7 @@ summary = "<a href='/logoscollectie/catalogus/1975/bicorbassoon'><img src='/logo
 
 # Bicorbassoon
 
-![Bicorbassoon][afb1]
+![alt text][afb1]
 [afb1]: /logoscollectie/catalogus/img/Bicorbassoon/Bicorbassoon-thumb.jpg "Bicorbassoon"
 
 **Collectie**

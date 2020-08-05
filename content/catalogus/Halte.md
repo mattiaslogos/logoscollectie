@@ -16,12 +16,12 @@ categories = [
 alfabetisch = ["H"
 ]
 menu = "main"
-summary = "Halte is een klankinstallatie waarbij het geluid van een tramrail met behulp van een drukmicrofoon wordt versterkt. Met twee hoornluidsprekers wordt het klankresultaat in de openbare ruimte hoorbaar gemaakt."
+summary = "<a href='/logoscollectie/catalogus/1985/halte'><img src='/logoscollectie/catalogus/img/Halte/halte_voorkant-thumb.jpg'></a>Halte is een klankinstallatie waarbij het geluid van een tramrail met behulp van een drukmicrofoon wordt versterkt. Met twee hoornluidsprekers wordt het klankresultaat in de openbare ruimte hoorbaar gemaakt."
 +++
 
 # Halte
 
-![Halte][afb1]
+![alt text][afb1]
 [afb1]: /logoscollectie/catalogus/img/Halte/halte_voorkant-thumb.jpg "Halte"
 
 **Collectie**

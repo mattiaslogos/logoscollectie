@@ -19,7 +19,7 @@ summary = "<a href='/logoscollectie/catalogus/1971/dodekadent'><img src='/logosc
 
 # Dodekadent
 
-![Dodekadent][afb1]
+![alt text][afb1]
 [afb1]: /logoscollectie/catalogus/img/Dodekadent/Dodekadent%20met%20module%20vooraanzicht-thumb.jpg "Dodekadent"
 
 **Collectie**
@@ -104,4 +104,4 @@ Krakende potmeters door de leeftijd en defecte condensatoren.
 {{< gallery dir="/catalogus/img/Dodekadent" />}}
 
 ##### pdf-bestanden
-[Dodekadent] (/logoscollectie/catalogus/pdf/Dodekadent/Dodekadent%20scan.pdf)
+[Dodekadent](/logoscollectie/catalogus/pdf/Dodekadent/Dodekadent%20scan.pdf)

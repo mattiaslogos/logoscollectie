@@ -19,7 +19,7 @@ summary = "<a href='/logoscollectie/catalogus/1980/multiperson_horn'><img src='/
 
 # Multiperson-horn
 
-![Multiperson horn][afb1]
+![alt text][afb1]
 [afb1]: /logoscollectie/catalogus/img/Multiperson_horn/Multiperson_horn-thumb.jpg "Multiperson horn"
 
 **Collectie**

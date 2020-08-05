@@ -20,26 +20,27 @@ summary = "<a href='/logoscollectie/catalogus/2003/axe2'><img src='/logoscollect
 
 # Axe2
 
-![Axe2][afb1]
+![alt text][afb1]
 [afb1]: /logoscollectie/catalogus/img/Axe2/Axe2-thumb.jpg "Axe2"
 
 **Collectie**
 Stichting Logos
 
 **Titel**
-3-channel midisynth
+Axe2
 
 **Productie**
 Gebouwd door Godfried-Willem Raes te Gent
 
 **Datering**
-2016
+2003
 
 **Afmetingen**
-H x B x L: 2,5 cm x 10 cm x 16 cm
+Sensoren zonder kabel:
+H x B x L: 1.5 cm x 5 cm x 8 cm
 
 **Classificatie**
-Categorie 541
+Categorie 55
 
 **Inventarisnummer**
 LOGOS

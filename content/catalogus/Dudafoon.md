@@ -16,7 +16,7 @@ summary = "<a href='/logoscollectie/catalogus/1976/dudafoon'><img src='/logoscol
 
 # Dudafoon
 
-![Dudafoon][afb1]
+![alt text][afb1]
 [afb1]: /logoscollectie/catalogus/img/Dudafoon/Dudafoon-thumb.jpg "Dudafoon"
 
 **Collectie**
@@ -85,7 +85,7 @@ Brom en ruis. Magnetische pick-ups hebben heel wat van hun magnetisme verloren.
 <audio controls>
 <source src="/logoscollectie/catalogus/audio/Dudafoon/Dudafoon_LP7002B.4.wav" type="audio/wav">
 <source src="/logoscollectie/catalogus/audio/Dudafoon/Dudafoon_LP7002B.4.wav" type="audio/x-wav">
-</audio>
+</audio><br>
 <a href="/logoscollectie/catalogus/audio/Dudafoon/Dudafoon_LP7002B.4.wav"><i class="fa fa-download" aria-hidden="true"></i>
 download</a>
 
@@ -94,6 +94,6 @@ download</a>
 <audio controls>
 <source src="/logoscollectie/catalogus/audio/Dudafoon/Junks_IV_CR3.2.wav" type="audio/wav">
 <source src="/logoscollectie/catalogus/audio/Dudafoon/Junks_IV_CR3.2.wav" type="audio/x-wav">
-</audio>
+</audio><br>
 <a href="/logoscollectie/catalogus/audio/Dudafoon/Junks_IV_CR3.2.wav"><i class="fa fa-download" aria-hidden="true"></i>
 download</a>

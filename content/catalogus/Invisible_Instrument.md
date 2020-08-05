@@ -16,7 +16,7 @@ summary = "<a href='/logoscollectie/catalogus/1985/invisible_instrument'><img sr
 
 # Invisible Instrument (Holosound)
 
-![Invisible Instrument][afb1]
+![alt text][afb1]
 [afb1]: /logoscollectie/catalogus/img/Invisible_Instrument/Holosound%20installatie%20in%20De%20Brakke%20Grond%201986%20(2)-thumb.jpg "Invisible Instrument"
 
 **Collectie**

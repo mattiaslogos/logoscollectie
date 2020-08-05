@@ -16,7 +16,7 @@ summary = "<a href='/logoscollectie/catalogus/1970/klavimonochord'><img src='/lo
 
 # Klavimonochord
 
-![Klavimonochord][afb1]
+![alt text][afb1]
 [afb1]: /logoscollectie/catalogus/img/Klavimonochord/Klavimonokord%20vooraanzicht1-thumb.jpg "Klavimonochord"
 
 **Collectie**

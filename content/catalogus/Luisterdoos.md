@@ -20,7 +20,6 @@ summary = "In de Luisterdoos, die gebouwd is in een sigarenkistje, zit een conta
 
 # Luisterdoos
 
-
 **Collectie**
 Stichting Logos
 

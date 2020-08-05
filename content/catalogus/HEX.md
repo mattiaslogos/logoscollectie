@@ -30,7 +30,7 @@ summary = "<a href='/logoscollectie/catalogus/1988/hex'><img src='/logoscollecti
 
 # HEX
 
-![HEX][afb1]
+![alt text][afb1]
 [afb1]: /logoscollectie/catalogus/img/HEX/Hex_algemeen/HEX-thumb.jpg "HEX"
 
 **Collectie**

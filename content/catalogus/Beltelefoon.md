@@ -22,7 +22,7 @@ summary = "<a href='/logoscollectie/catalogus/1975/beltelefoon'><img src='/logos
 
 # Beltelefoon
 
-![Beltelefoon][afb1]
+![alt text][afb1]
 [afb1]: /logoscollectie/catalogus/img/Beltelefoon/Beltelefoon%20voorzijde-thumb.jpg "Beltelefoon voorzijde"
 
 **Collectie**

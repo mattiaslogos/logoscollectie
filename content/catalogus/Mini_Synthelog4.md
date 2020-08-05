@@ -15,7 +15,7 @@ summary = "<a href='/logoscollectie/catalogus/1983/mini_synthelog4'><img src='/l
 
 # Mini synthelog 4
 
-![Mini synthelog 4][afb1]
+![alt text][afb1]
 [afb1]: /logoscollectie/catalogus/img/MiniSynthelog4/MiniSynthelog4-thumb.jpg "Mini synthelog 4"
 
 **Collectie**

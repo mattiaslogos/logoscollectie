@@ -24,7 +24,7 @@ summary = "<a href='/logoscollectie/catalogus/1975/fingerboard2'><img src='/logo
 
 # Fingerboard 2
 
-![Fingerboard 2][afb1]
+![alt text][afb1]
 [afb1]: /logoscollectie/catalogus/img/Fingerboard2/Fingerboard2-thumb.jpg "Fingerboard 2"
 
 **Collectie** 

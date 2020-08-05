@@ -23,7 +23,7 @@ summary = "<a href='/logoscollectie/catalogus/1972/bellenorgel'><img src='/logos
 
 # Bellenorgel
 
-![Bellenorgel][afb1]
+![alt text][afb1]
 [afb1]: /logoscollectie/catalogus/img/Bellenorgel/Bellenorgel-thumb.jpg "Bellenorgel voorzijde"
 
 **Collectie**
@@ -84,18 +84,18 @@ Bellenorgel vormt samen met Beltotem en Beltelefoon een triptiek.
 {{< gallery dir="/catalogus/img/Bellenorgel" />}}
 
 ##### pdf-bestanden
-[Bellenorgel] (/logoscollectie/catalogus/pdf/Bellenorgel/Scan%20Bellenorgel.pdf)
-
-##### Video
-<iframe width="100%" max-width="560" height="315" src="https://www.youtube.com/embed/OObtIDI0NLE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[Bellenorgel](/logoscollectie/catalogus/pdf/Bellenorgel/Scan%20Bellenorgel.pdf)
 
 ##### Audio
 <audio controls>
 <source src="/logoscollectie/catalogus/audio/Bellenorgel/Bellenorgel-fragment.wav" type="audio/wav">
 <source src="/logoscollectie/catalogus/audio/Bellenorgel/Bellenorgel-fragment.wav" type="audio/x-wav">
-</audio>
+</audio><br>
 <a href="/logoscollectie/catalogus/audio/Bellenorgel/Bellenorgel-fragment.wav"><i class="fa fa-download" aria-hidden="true"></i>
 download</a>
+
+##### Video
+<iframe width="100%" max-width="560" height="315" src="https://www.youtube.com/embed/OObtIDI0NLE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 

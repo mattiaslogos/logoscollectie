@@ -19,7 +19,7 @@ summary = "<a href='/logoscollectie/catalogus/1975/brass_percussion'><img src='/
 
 # Brass percussion
 
-![Brass percussion][afb1]
+![alt text][afb1]
 [afb1]: /logoscollectie/catalogus/img/Brass_percussion/Brass_percussion-thumb.jpg "Brass percussion"
 
 **Collectie**

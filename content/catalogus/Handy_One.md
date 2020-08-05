@@ -9,18 +9,18 @@ tags = [
 date = "2007-01-01"
 dates = "2007"
 categories = [
-    "elektro-akoestisch",
+    "elektroakoestisch",
     "digitaal"
 ]
 alfabetisch = ["H", "O"
 ]
 menu = "main"
-summary = "Handy one is een interface om een midi-device aan te sturen. Dit gebeurt met behulp van acht druksensoren en twee schakelaars die met de vingers worden bediend."
+summary = "<a href='/logoscollectie/catalogus/2007/handy_one'><img src='/logoscollectie/catalogus/img/Handy_One/Handy_one_bovenkant-thumb.jpg'></a>Handy one is een interface om een midi-device aan te sturen. Dit gebeurt met behulp van acht druksensoren en twee schakelaars die met de vingers worden bediend."
 +++
 
 # Handy one
 
-![Handy one][afb1]
+![alt text][afb1]
 [afb1]: /logoscollectie/catalogus/img/Handy_One/Handy_one_bovenkant-thumb.jpg "Handy one"
 
 **Collectie**
