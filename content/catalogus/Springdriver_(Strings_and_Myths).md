@@ -11,13 +11,13 @@ categories = ["elektroakoestisch", "digitaal"
 alfabetisch = ["S"
 ]
 menu = "main"
-summary = "<a href='/logoscollectie/catalogus/1986/springdriver_(strings_and_myths)'><img src='/logoscollectie/catalogus/img/Springdriver_(Strings_and_Myths)/20200617_0027-thumb.jpg'></a>Deze springdriver werd gebruikt voor de compositie Strings and Myths van Godfried-Willem Raes. Het instrument bestaat uit een drivermodule die op de receivermodule kan worden geklikt. Afhankelijk van de computergestuurde commando’s worden de snaren van de receiverunit door de elektromagneten van de driverunit aangetrokken en afgestoten. De trilling van de snaren worden met contactmicrofoons versterkt."
+summary = "<a href='/logoscollectie/catalogus/1986/springdriver_strings_and_myths'><img src='/logoscollectie/catalogus/img/Springdriver_(Strings_and_myths)/20200617_0027-thumb.jpg'></a>Deze springdriver werd gebruikt voor de compositie Strings and Myths van Godfried-Willem Raes. Het instrument bestaat uit een drivermodule die op de receivermodule kan worden geklikt. Afhankelijk van de computergestuurde commando’s worden de snaren van de receiverunit door de elektromagneten van de driverunit aangetrokken en afgestoten. De trilling van de snaren worden met contactmicrofoons versterkt."
 +++
 
 # Springdriver (Strings and Myths)
 
 ![alt text][afb1]
-[afb1]: /logoscollectie/catalogus/img/Springdriver_(Strings_and_Myths)/20200617_0027-thumb.jpg "Springdriver (Strings and Myths)"
+[afb1]: /logoscollectie/catalogus/img/Springdriver_(Strings_and_myths)/20200617_0027-thumb.jpg "Springdriver (Strings and Myths)"
 
 **Collectie**
 Stichting Logos
