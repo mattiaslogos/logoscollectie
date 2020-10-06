@@ -11,7 +11,7 @@ categories = ["elektroakoestisch", "elektrisch", "digitaal"
 alfabetisch = ["I", "S", "R"
 ]
 menu = "main"
-summary = "<a href='/logoscollectie/catalogus/2001/invisible_instrument_(slow_sham_rising)'><img src='/logoscollectie/catalogus/img/Invisible_Instrument_(Slow_sham_rising)/Slow_sham-thumb.jpg'></a>De door Raes ontwikkelde technologie van het Invisible Instrument die hij gebruikte in Holosound, A Book of Moves en Songbook, ligt ook aan de basis van de compositie Slow Sham Rising. Dit is een solostuk voor viool en elektronica waarvoor hij nieuwe hardware bouwde. Op het principe zoals het gebruikt werd in de vorige stukken, wordt hier gevarieerd. De draaggolf wordt namelijk bepaald door de klank van de viool (frequentiemodulatie) waarop ook de zender gemonteerd is."
+summary = "<a href='/logoscollectie/catalogus/2001/invisible_instrument_slow_sham_rising'><img src='/logoscollectie/catalogus/img/Invisible_Instrument_(Slow_sham_rising)/Slow_sham-thumb.jpg'></a>De door Raes ontwikkelde technologie van het Invisible Instrument die hij gebruikte in Holosound, A Book of Moves en Songbook, ligt ook aan de basis van de compositie Slow Sham Rising. Dit is een solostuk voor viool en elektronica waarvoor hij nieuwe hardware bouwde. Op het principe zoals het gebruikt werd in de vorige stukken, wordt hier gevarieerd. De draaggolf wordt namelijk bepaald door de klank van de viool (frequentiemodulatie) waarop ook de zender gemonteerd is."
 +++
 
 # Invisible instrument (Slow Sham Rising)

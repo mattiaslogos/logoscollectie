@@ -11,7 +11,7 @@ categories = [
 alfabetisch = [ "I", "B", "S"
 ]
 menu = "main"
-summary = "<a href='/logoscollectie/catalogus/1992/invisible_instrument_(bom-songbook)'><img src='/logoscollectie/catalogus/img/Invisible_Instrument_(BOM-Songbook)/Book_of_moves-thumb.jpg'></a>Na de productie Holosound waarin Raes zijn Invisible Instrument gebruikte, componeerde hij A Book of Moves (1992) en Songbook (1997). Ook bij deze producties wordt dat Invisible Instrument op basis van sonar-technologie gebruikt. Voor deze twee producties bouwde Raes in 1992 nieuwe hardware. De zender en drie ontvangers worden er verbonden met een demodulator die met een computer is verbonden."
+summary = "<a href='/logoscollectie/catalogus/1992/invisible_instrument_bom-songbook'><img src='/logoscollectie/catalogus/img/Invisible_Instrument_(BOM-Songbook)/Book_of_moves-thumb.jpg'></a>Na de productie Holosound waarin Raes zijn Invisible Instrument gebruikte, componeerde hij A Book of Moves (1992) en Songbook (1997). Ook bij deze producties wordt dat Invisible Instrument op basis van sonar-technologie gebruikt. Voor deze twee producties bouwde Raes in 1992 nieuwe hardware. De zender en drie ontvangers worden er verbonden met een demodulator die met een computer is verbonden."
 +++
 
 # Invisible instrument (BOM en Songbook)
