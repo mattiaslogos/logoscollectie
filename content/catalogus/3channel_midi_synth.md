@@ -11,7 +11,7 @@ dates = "2016"
 categories = [
     "digitaal"
 ]
-alfabetisch = [ "#", "C", "M"
+alfabetisch = [ "C", "M"
 ]
 menu = "main"
 summary = "<a href='/logoscollectie/catalogus/2016/3channel_midi_synth'><img src='/logoscollectie/catalogus/img/3Channel_Midisynth/midisynth-thumb.jpg'></a>Zoals de naam van de 3-channel midisynth reeds aangeeft, is dit device een synthesizer die aangestuurd wordt met het midi-protocol. Er kunnen drie verschillende audiosignalen (of kanalen) mee worden gegenereerd."
