@@ -2,7 +2,7 @@
 title = "Quadrada"
 description = ""
 tags = [
-"interface", "bewegingsdetectie", "radar", "centronics/printerpoort"
+"interface", "bewegingsdetectie", "radar", "printerpoort/centronics"
 ]
 date = "2003-01-01"
 dates = "2003"

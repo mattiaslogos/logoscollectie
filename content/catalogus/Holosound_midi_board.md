@@ -1,7 +1,7 @@
 ﻿+++
 title = "Holosound midi board"
 description = ""
-tags = [ "bewegingsdetectie", "interface", "midi", "centronics/printerpoort"
+tags = [ "bewegingsdetectie", "interface", "midi", "printerpoort/centronics"
 ]
 date = "1988-01-01"
 dates = "1988"
