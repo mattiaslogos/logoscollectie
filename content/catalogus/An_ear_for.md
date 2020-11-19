@@ -1,7 +1,7 @@
 +++
 title = "An ear for ..."
 description = ""
-tags = [ "interface" , "printerpoort"
+tags = [ "interface" , "printerpoort/centronics"
 ]
 date = "1989-01-01"
 dates = "1989"
