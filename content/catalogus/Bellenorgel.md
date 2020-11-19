@@ -71,7 +71,7 @@ Het instrument wordt ingeschakeld door de stroomkabel in de voedingsconnector te
 In werkende staat. 
 
 #### Historiek van het instrument
-In 1986 werd achteraan in de rechterbovenhoek een nieuwe klok geïnstalleerd. Het elektrisch schema ervan vind u in de bijlage (zie scan). De oorspronkelijke grote bel werd vervangen door twee nieuwere exemplaren. Daarnaast werden er gaandeweg een membraantoeter, een 220 V-bel en een deurbel aan toegevoegd. Dit zien we als we de foto van 1978 en de foto van 2019 met elkaar vergelijken. Wanneer dit precies gebeurde is niet duidelijk.
+In 1986 werd achteraan in de rechterbovenhoek een nieuwe klok geïnstalleerd. Het elektrisch schema ervan vindt u in de bijlage (zie scan). De oorspronkelijke grote bel werd vervangen door twee nieuwere exemplaren. Daarnaast werden er gaandeweg een membraantoeter, een 220 V-bel en een deurbel aan toegevoegd. Dit zien we als we de foto van 1978 en de foto van 2019 met elkaar vergelijken. Wanneer dit precies gebeurde is niet duidelijk.
 Godfried-Willem Raes plaatst met deze robot alarmerende en bevelende belsignalen in een nieuwe context. Hij schrijft over deze esthetiek  uitgebreid in de hoestekst die bij de reeds genoemde lp hoort. 
 Bellenorgel vormt samen met Beltotem en Beltelefoon een triptiek. 
 

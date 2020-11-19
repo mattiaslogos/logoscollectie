@@ -66,22 +66,27 @@ De zender en ontvangers worden in de hoeken van een denkbeeldige tetraëder gepl
 
 #### Inscripties
 *Op ontvanger:*
+
 - Dripper parmesan blend Oil & Vinigar
 - X
 - Y
 
 *Op zender*
+
 - Z
 
 *Op de wide band receiver:*
+
 - G-W. Raes 
 - ii2001
 - WIDE BAND RECEIVER 
 
 *Op de demodulator:*
+
 - ii2000
 
 *Op het FM-board*
+
 - ii FM-board
 
 #### Staat van het instrument

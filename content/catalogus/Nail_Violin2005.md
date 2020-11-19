@@ -12,7 +12,7 @@ categories = [
 alfabetisch = ["N", "V"
 ]
 menu = "main"
-summary = "De acht metalen staafjes van deze nagelviool moeten met een strijkstok worden bespeeld. "
+summary = "<a href='/logoscollectie/catalogus/2005/nail_violin'><img src='/logoscollectie/catalogus/img/Nail_Violin/Nail_Violin1-thumb.jpg'></a>De acht metalen staafjes van deze nagelviool moeten met een strijkstok worden bespeeld. "
 +++
 
 # Nail Violin

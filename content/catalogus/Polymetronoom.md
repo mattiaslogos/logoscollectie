@@ -29,7 +29,7 @@ Polymetronoom
 Gebouwd door Godfried-Willem Raes te Gent
 
 **Datering**
-1994/2012
+1994 / 2012
 
 **Afmetingen**<br>
 *8 Metronoommodules:*<br>

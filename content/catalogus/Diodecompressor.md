@@ -43,7 +43,7 @@ LOGOS 1974.03
 
 #### Beschrijving van het instrument
 Deze audio compressor is ondergebracht in een tabaksblik van het merk Knockbrack. Aan de lange zijkant zien we twee vrouwelijke monojacks (TS). Dit zijn de ingang (IN) en de uitgang (UIT) van de compressor. Centraal zien we een 5-polige DIN connector (POWER). Dit is de aansluiting voor de 15 Volt dual supply voeding. De pin-out vind je in de bijlage.
-Als we het deksel openen zien de ge-etste PCB. Dit is een nieuwe versie uit 2019 (zoals u in het deksel en op de print kan lezen) van de originele schakeling met geranium diodes AA119. U vind de schakeling en het ontwerp van de PCB in de bijlage.
+Als we het deksel openen zien de ge-etste PCB. Dit is een nieuwe versie uit 2019 (zoals u in het deksel en op de print kan lezen) van de originele schakeling met geranium diodes AA119. U vindt de schakeling en het ontwerp van de PCB in de bijlage.
 
 #### Speelwijze, repertoire en inzet in producties
 Deze compressor werd vaak gebruikt in combinatie met ringmodulatoren.

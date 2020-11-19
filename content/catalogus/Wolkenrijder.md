@@ -83,10 +83,8 @@ De rubberen riemen die de wielen aandreven werden gaandeweg vervangen door touwe
 {{< gallery dir="/catalogus/img/Wolkenrijder" />}}
 
 ##### Video
- <video controls width="100%" height="315" >
-  <source src="/logoscollectie/catalogus/video/Wolkenrijder/wolkenrijder-crop.mp4" type="video" /mp4">
-Your browser does not support the video tag.
-</video> 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cXRGI0AKz-E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 ##### Audio
 Sincs:

@@ -10,7 +10,7 @@ categories = [ "elektronisch"
 alfabetisch = ["O"
 ]
 menu = "main"
-summary = "<a href='/logoscollectie/catalogus/1996/opstoson'><img src='/logoscollectie/catalogus/img/Optoson/Optoson4-thumb.jpg'></a>Optoson 1 tot en met 4 zijn een soort van camera’s die werden gebouwd voor de productie Mach ’96 om de bewegingseigenschappen van stoommachines in geluid om te zetten. De compositie werd gecreëerd voor het Festival van Vlaanderen te Leuven in 1996."
+summary = "<a href='/logoscollectie/catalogus/1996/optoson'><img src='/logoscollectie/catalogus/img/Optoson/Optoson4-thumb.jpg'></a>Optoson 1 tot en met 4 zijn een soort van camera’s die werden gebouwd voor de productie Mach ’96 om de bewegingseigenschappen van stoommachines in geluid om te zetten. De compositie werd gecreëerd voor het Festival van Vlaanderen te Leuven in 1996."
 +++
 
 
