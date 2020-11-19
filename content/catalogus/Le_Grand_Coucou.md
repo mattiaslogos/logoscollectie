@@ -74,7 +74,5 @@ Le Grand Coucou werd in 1998 omgebouwd (zie beschrijving).
 {{< gallery dir="/catalogus/img/Le_Grand_Coucou" />}}
 
 ##### Video
-<video controls width="100%" height="315" >
-  <source src="/logoscollectie/catalogus/video/Le_Grand_Coucou/Mattias%20coucou.mp4" type="video" /mp4">
-Your browser does not support the video tag.
-</video> 
+<iframe width="45%" height="315" src="https://www.youtube.com/embed/go92Bm6KB6k" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+

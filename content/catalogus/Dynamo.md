@@ -91,8 +91,7 @@ Dynamo werd als compositie geconcipieerd in 1977. Het stuk kende een sluimerend 
 download</a>
 
 ##### Video
-<video controls width="100%" height="315" >
-  <source src="/logoscollectie/catalogus/video/Dynamo/Mattias.mp4" type="video" /mp4">
-Your browser does not support the video tag.
-</video> 
+<iframe width="45%" height="315" src="https://www.youtube.com/embed/H73MCP_63us" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 
